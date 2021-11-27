@@ -7,14 +7,48 @@ image: '/images/pages/books.jpg'
 #### 2021
 
 <table>
-    <caption><h1>学生信息表</h1></caption>
+    <caption></caption>
     <tr>
-　　　　　<th>姓名</th>
-         <th>年龄</th>
+　　　　　<th>书名</th>
+         <th>作者</th>
+         <th>读完日期</th>
+         <th>豆瓣评分</th>
+         <th>推荐指数</th>
 　　</tr>
 　　<tr>
-　　　　　<td>张大勇</td>
-　　　　　<td>22岁</td>
+　　　　　<td>微尘</td>
+　　　　　<td>陈年喜</td>
+　　　　　<td>2021-11-24</td>
+　　　　　<td>8.7</td>
+　　　　　<td>✧✧✧✧✧</td>
+　　</tr>
+　　<tr>
+　　　　　<td>生活蒙太奇</td>
+　　　　　<td>天然</td>
+　　　　　<td>2021-11-16</td>
+　　　　　<td>8.9</td>
+　　　　　<td>✧✧✧✧</td>
+　　</tr>
+　　<tr>
+　　　　　<td>生活蒙太奇</td>
+　　　　　<td>天然</td>
+　　　　　<td>2021-11-16</td>
+　　　　　<td>8.9</td>
+　　　　　<td>✧✧✧✧</td>
+　　</tr>
+　　<tr>
+　　　　　<td>生活蒙太奇</td>
+　　　　　<td>天然</td>
+　　　　　<td>2021-11-16</td>
+　　　　　<td>8.9</td>
+　　　　　<td>✧✧✧✧</td>
+　　</tr>
+　　<tr>
+　　　　　<td>生活蒙太奇</td>
+　　　　　<td>天然</td>
+　　　　　<td>2021-11-16</td>
+　　　　　<td>8.9</td>
+　　　　　<td>✧✧✧✧</td>
 　　</tr>
 </table>
 
