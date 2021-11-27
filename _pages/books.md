@@ -6,7 +6,6 @@ image: '/images/pages/books.jpg'
 
 #### 2021
 <table style="width:100%; height:100%; margin: 0 auto; text-align:center;border-top:1px solid;border-bottom:1px solid;">
-    <caption></caption>
     <thead style="border-bottom:1px solid;">
         <tr>
     　      <th>书名</th>
