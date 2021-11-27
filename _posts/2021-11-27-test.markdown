@@ -1,9 +1,0 @@
----
-layout: post
-title: 测试中文
-tags: [frontpage, jekyll, blog]
-image: '/images/posts/8.jpg'
----
-
-
-这是第一次成功

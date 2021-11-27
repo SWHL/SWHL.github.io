@@ -7,7 +7,6 @@
 
 # Site settings
 title:       过往拾忆
-email:       'liekkaskono@163.com'
 description: '当站在当前节点时，回头望去都是过往。'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
