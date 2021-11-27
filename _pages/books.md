@@ -1,13 +1,14 @@
 ---
 layout: page
-title: 书籍
+
 ---
+#### 2021
 
 <table style="width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
     <thead>
-		<tr>
+		<!-- <tr>
 			<th colspan="5" style="text-align:left;font-size:22px;">2021</th>
-		</tr>
+		</tr> -->
         <tr style="border-bottom:1px solid; border-top:1px solid;">
     　       <th>书名</th>
              <th>作者</th>
