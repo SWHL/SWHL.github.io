@@ -4,7 +4,7 @@ title: 书籍
 image: '/images/pages/books.jpg'
 ---
 
-<p style="margin: 0 auto;">2021</p>
+<p style="margin-bottom:-10px;font-size:30px">2021</p>
 
 <table style="width:100%; height:100%; margin: 0 auto; text-align:center;border-top:1px solid;border-bottom:1px solid;">
     <thead style="border-bottom:1px solid;">
