@@ -1,6 +1,6 @@
 ---
 layout: page
-images: "./images/pages/books.jpg"
+image: "./images/pages/books.jpg"
 ---
 <table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
     <thead>
