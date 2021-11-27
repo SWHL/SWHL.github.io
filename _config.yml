@@ -8,7 +8,7 @@
 # Site settings
 title:       过往拾忆
 description: '当站在当前节点时，回头望去都是过往。'
-baseurl:     'http://mp.weixin.qq.com/profile?src=3&timestamp=1638017887&ver=1&signature=ijXLEiNm4xA58SBcwtUNV0pI6Hkm*R50VyPKE*SlcvQ-h87J7UPyliFE7saUmfW66v7WV0B56HT0xdRCAD*i7Q==' # The subpath of your site, e.g. /blog
+baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
 
 markdown:  kramdown
