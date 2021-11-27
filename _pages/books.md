@@ -4,12 +4,12 @@ title: 书籍
 image: '/images/pages/books.jpg'
 ---
 
-<table style="width:100%; height:100%; margin: 0 auto; text-align:center;border-top:1px solid;border-bottom:1px solid;">
-    <thead style="border-bottom:1px solid;">
+<table style="width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
+    <thead>
 		<tr>
-			<th colspan="5">2021</th>
+			<th colspan="5" style="text-align:left;font-size:22px;">2021</th>
 		</tr>
-        <tr>
+        <tr style="border-bottom:1px solid; border-top:1px solid;">
     　       <th>书名</th>
              <th>作者</th>
              <th>读完日期</th>
