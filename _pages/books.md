@@ -4,13 +4,14 @@ title: 书籍
 image: '/images/pages/books.jpg'
 ---
 
-<p style="margin-bottom:-10px;font-size:30px">2021</p>
-
 <table style="width:100%; height:100%; margin: 0 auto; text-align:center;border-top:1px solid;border-bottom:1px solid;">
     <thead style="border-bottom:1px solid;">
+		<tr>
+			<th colspan="5">2021</th>
+		</tr>
         <tr>
-    　      <th>书名</th>
-            <th>作者</th>
+    　       <th>书名</th>
+             <th>作者</th>
              <th>读完日期</th>
              <th>豆瓣评分</th>
              <th>推荐指数</th>
