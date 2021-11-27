@@ -5,7 +5,7 @@ image: '/images/pages/books.jpg'
 ---
 
 #### 2021
-<table style="width:100%; height:100%; margin: 0 auto; text-align:center">
+<table style="width:100%; height:100%; margin: 0 auto; text-align:center" frame="hsides" rules="rows">
     <caption></caption>
     <thead>
         <tr>
