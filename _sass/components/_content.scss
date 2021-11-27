@@ -4,7 +4,7 @@
 
 .c-content {
   a:not(.c-btn) {
-    text-decoration: underline;
+    text-decoration: none;
     text-decoration-skip: ink;
 
     @include attention() {
