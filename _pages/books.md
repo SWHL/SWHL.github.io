@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 书籍
-image: '/images/pages/books.jg'
+image: '/images/pages/books.jpg'
 ---
 
 #### 2021
