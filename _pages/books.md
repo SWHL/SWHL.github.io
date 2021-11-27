@@ -1,12 +1,11 @@
 ---
 layout: page
+title: 书籍
+image: '/images/pages/books.jpg'
 ---
 
 <table style="width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
     <thead>
-		<tr>
-			<th colspan="5" style="text-align:center;font-size:30px;">书籍</th>
-		</tr>
 		<tr>
 			<th colspan="5" style="text-align:left;font-size:22px;">2021</th>
 		</tr>
