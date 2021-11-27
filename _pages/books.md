@@ -5,14 +5,13 @@ image: "./images/pages/books.jpg"
 <table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
     <thead>
 		<tr>
-			<th colspan="5" style="text-align:left;font-size:22px;">2021</th>
+			<th colspan="4" style="text-align:left;font-size:22px;">2021</th>
 		</tr>
         <tr style="border-bottom:1px solid; border-top:1px solid;">
     　       <th>书名</th>
              <th>作者</th>
              <th>读完日期</th>
              <th>豆瓣评分</th>
-             <th>推荐指数</th>
         </tr>
 　　</thead>
     <tbody>
@@ -21,49 +20,138 @@ image: "./images/pages/books.jpg"
 	　　　　　<td>陈年喜</td>
 	　　　　　<td>2021-11-24</td>
 	　　　　　<td>8.7</td>
-	　　　　　<td>✧✧✧✧✧</td>
 	　　</tr>
 	　　<tr>
 	　　　　　<td>生活蒙太奇</td>
 	　　　　　<td>天然</td>
 	　　　　　<td>2021-11-16</td>
 	　　　　　<td>8.9</td>
-	　　　　　<td>✧✧✧✧</td>
 	　　</tr>
 	　　<tr>
 	　　　　　<td>斗贼</td>
 	　　　　　<td>常书欣</td>
 	　　　　　<td>2021-07-19</td>
 	　　　　　<td>8.9</td>
-	　　　　　<td>✧✧✧✧</td>
 	　　</tr>
 	　　<tr>
 	　　　　　<td>爱因斯坦密件</td>
 	　　　　　<td>王晋康</td>
 	　　　　　<td>2021-11-11</td>
 	　　　　　<td>8.9</td>
-	　　　　　<td>✧✧✧✧</td>
 	　　</tr>
 	　　<tr>
 	　　　　　<td>追杀K星人</td>
 	　　　　　<td>王晋康</td>
 	　　　　　<td>2021-11-03</td>
 	　　　　　<td>8.9</td>
-	　　　　　<td>✧✧✧✧</td>
 	　　</tr>
 	　　<tr>
 	　　　　　<td>命运链</td>
 	　　　　　<td>王晋康</td>
 	　　　　　<td>2021-10-16</td>
 	　　　　　<td>8.9</td>
-	　　　　　<td>✧✧✧✧</td>
 	　　</tr>
 	　　<tr>
 	　　　　　<td>转生的巨人</td>
 	　　　　　<td>王晋康</td>
 	　　　　　<td>2021-10-10</td>
 	　　　　　<td>8.9</td>
-	　　　　　<td>✧✧✧✧</td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td>新安魂曲</td>
+	　　　　　<td>王晋康</td>
+	　　　　　<td>2021-10-7</td>
+	　　　　　<td>8.9</td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td>少年歌行</td>
+	　　　　　<td>周木楠</td>
+	　　　　　<td>2020-12-24</td>
+	　　　　　<td>7.3</td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td>幸福的勇气</td>
+	　　　　　<td>岸见一郎|古贺史健</td>
+	　　　　　<td>2021-09-29</td>
+	　　　　　<td>8.3</td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td>被讨厌的勇气</td>
+	　　　　　<td>岸见一郎|古贺史健</td>
+	　　　　　<td>2021-08-12</td>
+	　　　　　<td>8.6</td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td>漫画科普：比知识有趣的冷知识</td>
+	　　　　　<td>锄见</td>
+	　　　　　<td>2021-08-10</td>
+	　　　　　<td>7.1</td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td>花小烙漫画：原来科普知识这么有趣 </td>
+	　　　　　<td>花小烙</td>
+	　　　　　<td>2021-07-10</td>
+	　　　　　<td>7.6</td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td>我的生活不可能那么坏</td>
+	　　　　　<td>河尻圭吾</td>
+	　　　　　<td>2021-09-04</td>
+	　　　　　<td>8.3</td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td>黄昏的男孩</td>
+	　　　　　<td>余华</td>
+	　　　　　<td>2021-02-07</td>
+	　　　　　<td>8.2</td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td>刺杀骑士团长</td>
+	　　　　　<td>村上春树</td>
+	　　　　　<td>2021-09-03</td>
+	　　　　　<td>7.5</td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td>云去云来</td>
+	　　　　　<td>林青霞</td>
+	　　　　　<td>2021-07-20</td>
+	　　　　　<td>6.5</td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td>我在等风，也在等你</td>
+	　　　　　<td>白凝</td>
+	　　　　　<td>2021-07-12</td>
+	　　　　　<td>6.1</td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td>消失的13级台阶</td>
+	　　　　　<td>高野和明</td>
+	　　　　　<td>2021-07-07</td>
+	　　　　　<td>8.7</td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td>高情商聊天术</td>
+	　　　　　<td>张超</td>
+	　　　　　<td>2021-07-06</td>
+	　　　　　<td>7.3</td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td>一读就上瘾的中国史</td>
+	　　　　　<td>温伯陵</td>
+	　　　　　<td>2021-06-29</td>
+	　　　　　<td>6.8</td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td>美国众神</td>
+	　　　　　<td>尼尔·盖曼</td>
+	　　　　　<td>2021-06-12</td>
+	　　　　　<td>7.7</td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="https://book.douban.com/subject/35200726/" target="_blank">跑步治愈</a></td>
+	　　　　　<td>张展晖</td>
+	　　　　　<td>2021-06-01</td>
+	　　　　　<td>7.6</td>
 	　　</tr>
 	</tbody>
 </table>
