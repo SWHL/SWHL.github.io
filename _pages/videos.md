@@ -28,10 +28,10 @@ image: "./images/pages/videos.jpg"
 	　　　　　<td>8.2</td>
 	　　</tr>
 	　　<tr>
-	　　　　　<td><a href="https://movie.douban.com/subject/35051512/" target="_blank"></a></td>
-	　　　　　<td>我和我的家乡</td>
+	　　　　　<td><a href="https://movie.douban.com/subject/35051512/" target="_blank">我和我的家乡</a></td>
 	　　　　　<td>宁浩 / 徐峥 / 陈思诚 / 闫非 / 彭大魔 / 邓超 / 俞白眉</td>
 	　　　　　<td>剧情 / 喜剧</td>
+	　　　　　<td>7.1</td>
 	　　</tr>
 	　　<tr>
 	　　　　　<td><a href="" target="_blank"></a></td>
