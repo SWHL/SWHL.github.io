@@ -9,7 +9,7 @@
 title:       过往拾忆
 description: '当站在当前节点时，回头望去都是过往。'
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
+url:         '' # The base hostname & protocol for your site
 
 markdown:  kramdown
 permalink: pretty
