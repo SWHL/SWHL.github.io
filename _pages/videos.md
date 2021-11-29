@@ -14,6 +14,11 @@ image: "./images/pages/videos.jpg"
         </tr>
 　　</thead>
     <tbody>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/26761935/" target="_blank">孤单又灿烂的神：鬼怪</a></td>
+	　　　　　<td>剧情</td>
+	　　　　　<td>8.8</td>
+	　　</tr>
 	　　<tr>
 	　　　　　<td><a href="https://book.douban.com/subject/35585201/" target="_blank">沙丘</a></td>
 	　　　　　<td>剧情 / 科幻 / 冒险</td>
@@ -129,20 +134,110 @@ image: "./images/pages/videos.jpg"
 	　　　　　<td></td>
 	　　　　　<td></td>
 	　　</tr>
+	</tbody>
+</table>
+
+<table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
+    <thead>
 		<tr>
-	　　　　　<td><a href="" target="_blank"></a></td>
-	　　　　　<td></td>
-	　　　　　<td></td>
+			<th colspan="4" style="text-align:left;font-size:22px;">2020年</th>
+		</tr>
+        <tr style="border-bottom:1px solid; border-top:1px solid;">
+    　       <th>片名</th>
+             <th>类型</th>
+             <th>豆瓣评分</th>
+        </tr>
+　　</thead>
+    <tbody>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/30128916/" target="_blank">夺冠</a></td>
+	　　　　　<td>剧情 / 运动</td>
+	　　　　　<td>7.2</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/27060077/" target="_blank">绿皮书</a></td>
+	　　　　　<td>剧情 / 喜剧 / 音乐 / 传记</td>
+	　　　　　<td>8.9</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/1652592/" target="_blank">阿里塔：战斗天使</a></td>
+	　　　　　<td>动作 / 科幻 / 冒险</td>
+	　　　　　<td>7.5</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/30269016/" target="_blank">半个喜剧</a></td>
+	　　　　　<td>喜剧 / 爱情</td>
+	　　　　　<td>7.3</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/30482645/" target="_blank">数码宝贝:最后的进化</a></td>
+	　　　　　<td>动画 / 冒险</td>
+	　　　　　<td>7.3</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/30327897/" target="_blank">漫长的告别</a></td>
+	　　　　　<td>剧情 / 家庭</td>
+	　　　　　<td>7.7</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/27150283/" target="_blank">狼嚎</a></td>
+	　　　　　<td>动作 / 科幻 / 惊悚 / 冒险</td>
+	　　　　　<td>7.2</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/6538866/" target="_blank">极速车王</a></td>
+	　　　　　<td>剧情 / 传记 / 运动</td>
+	　　　　　<td>8.5</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/30462527/" target="_blank">基督圣体</a></td>
+	　　　　　<td>剧情</td>
+	　　　　　<td>7.7</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/26709258/" target="_blank">罗小黑战记</a></td>
+	　　　　　<td>动作 / 动画 / 奇幻</td>
+	　　　　　<td>8.1</td>
 	　　</tr>
 		<tr>
 	　　　　　<td><a href="" target="_blank"></a></td>
 	　　　　　<td></td>
 	　　　　　<td></td>
 	　　</tr>
+	</tbody>
+</table>
+
+<table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
+    <thead>
 		<tr>
-	　　　　　<td><a href="" target="_blank"></a></td>
-	　　　　　<td></td>
-	　　　　　<td></td>
+			<th colspan="4" style="text-align:left;font-size:22px;">之前</th>
+		</tr>
+        <tr style="border-bottom:1px solid; border-top:1px solid;">
+    　       <th>片名</th>
+             <th>类型</th>
+             <th>豆瓣评分</th>
+        </tr>
+　　</thead>
+    <tbody>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/1292001/" target="_blank">海上钢琴师</a></td>
+	　　　　　<td>剧情 / 音乐</td>
+	　　　　　<td>9.3</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/2124724/" target="_blank">不能说的秘密</a></td>
+	　　　　　<td>爱情 / 音乐 / 奇幻</td>
+	　　　　　<td>8.0</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/1292052/" target="_blank">肖申克的救赎</a></td>
+	　　　　　<td>剧情 / 犯罪</td>
+	　　　　　<td>9.7</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/27010768/" target="_blank">寄生虫</a></td>
+	　　　　　<td>剧情 / 喜剧</td>
+	　　　　　<td>8.8</td>
 	　　</tr>
 	</tbody>
 </table>
