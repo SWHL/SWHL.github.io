@@ -91,7 +91,7 @@ image: "./images/pages/videos.jpg"
 	　　</tr>
 		<tr>
 	　　　　　<td><a href="https://movie.douban.com/subject/30318116/" target="_blank">利刃出鞘</a></td>
-	　　　　　<td>情 / 喜剧 / 悬疑 / 犯罪</td>
+	　　　　　<td>剧情 / 喜剧 / 悬疑 / 犯罪</td>
 	　　　　　<td>8.1</td>
 	　　</tr>
 		　　<tr>
