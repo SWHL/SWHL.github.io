@@ -137,6 +137,7 @@ image: "./images/pages/videos.jpg"
 	</tbody>
 </table>
 
+<br/>
 <table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
     <thead>
 		<tr>
@@ -207,6 +208,7 @@ image: "./images/pages/videos.jpg"
 	</tbody>
 </table>
 
+<br/>
 <table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
     <thead>
 		<tr>
