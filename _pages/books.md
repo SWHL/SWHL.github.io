@@ -155,3 +155,200 @@ image: "./images/pages/books.jpg"
 	　　</tr>
 	</tbody>
 </table>
+
+<br/>
+<table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
+    <thead>
+		<tr>
+			<th colspan="4" style="text-align:left;font-size:22px;">2020年</th>
+		</tr>
+        <tr style="border-bottom:1px solid; border-top:1px solid;">
+    　       <th>书名</th>
+             <th>作者</th>
+             <th>读完日期</th>
+             <th>豆瓣评分</th>
+        </tr>
+　　</thead>
+    <tbody>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">云边有个小卖部</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">我的二本学生</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">你可以帮我挠挠背吗？</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">无梦之境</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">遇见未知的自己</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">玉米</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">一起来粉碎朋友圈养生谣言</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">半小时预防常见病</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">过简单而有品质的生活</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">大涨见识的杂学知识</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">好好生活，慢慢相遇</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">说出来你可能不信</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">沃兹传：与苹果一起疯狂</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">硅谷之火：个人计算机的诞生与衰落（第3版）</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">燃烧</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">天谴者</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">法医秦明第6季:偷窥者</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">知乎日历2020：有问题的日历</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">法医秦明第5季:幸存者</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">清道夫</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">法医秦明:第十一根手指</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">法医秦明：无声的证词</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">斯通纳</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">天年</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">巨大的拥抱</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">半小时漫画中国史</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">愿所有的相遇，都恰逢其时</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">灯下尘</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">故事的开始</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	　　<tr>
+	　　　　　<td><a href="" target="_blank">与你重逢</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+	</tbody>
+</table>

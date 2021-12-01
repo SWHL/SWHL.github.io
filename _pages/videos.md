@@ -130,6 +130,16 @@ image: "./images/pages/videos.jpg"
 	　　　　　<td>9.3</td>
 	　　</tr>
 		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/26302614/" target="_blank">请回答1988</a></td>
+	　　　　　<td>剧情 / 喜剧 / 爱情</td>
+	　　　　　<td>9.7</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/30402296/" target="_blank">天气之子</a></td>
+	　　　　　<td>爱情 / 动画 / 奇幻</td>
+	　　　　　<td>7.1</td>
+	　　</tr>
+		<tr>
 	　　　　　<td><a href="" target="_blank"></a></td>
 	　　　　　<td></td>
 	　　　　　<td></td>
@@ -201,6 +211,11 @@ image: "./images/pages/videos.jpg"
 	　　　　　<td>8.1</td>
 	　　</tr>
 		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/26683290/" target="_blank">你的名字</a></td>
+	　　　　　<td>剧情 / 爱情 / 动画</td>
+	　　　　　<td>8.5</td>
+	　　</tr>
+		<tr>
 	　　　　　<td><a href="" target="_blank"></a></td>
 	　　　　　<td></td>
 	　　　　　<td></td>
@@ -240,6 +255,51 @@ image: "./images/pages/videos.jpg"
 	　　　　　<td><a href="https://movie.douban.com/subject/27010768/" target="_blank">寄生虫</a></td>
 	　　　　　<td>剧情 / 喜剧</td>
 	　　　　　<td>8.8</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/7064681/" target="_blank">狼的孩子雨和雪</a></td>
+	　　　　　<td>剧情 / 动画 / 家庭 / 奇幻</td>
+	　　　　　<td>8.7</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/30152451/" target="_blank">厉害了，我的国</a></td>
+	　　　　　<td>纪录片</td>
+	　　　　　<td>8.5</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/2043546/" target="_blank">秒速5厘米</a></td>
+	　　　　　<td>剧情 / 爱情 / 动画</td>
+	　　　　　<td>8.3</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/26280710/" target="_blank">怪物之子</a></td>
+	　　　　　<td>动作 / 动画 / 奇幻 / 冒险</td>
+	　　　　　<td>7.8</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/1297052/" target="_blank">侧耳倾听</a></td>
+	　　　　　<td>剧情 / 爱情 / 动画</td>
+	　　　　　<td>8.9</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/1291583/" target="_blank">天空之城</a></td>
+	　　　　　<td>动画 / 奇幻 / 冒险</td>
+	　　　　　<td>9.1</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/1291585/" target="_blank">风之谷</a></td>
+	　　　　　<td>动画 / 奇幻 / 冒险</td>
+	　　　　　<td>8.9</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/1291560/" target="_blank">龙猫</a></td>
+	　　　　　<td>动画 / 奇幻 / 冒险</td>
+	　　　　　<td>9.2</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank"></a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
 	　　</tr>
 	</tbody>
 </table>
