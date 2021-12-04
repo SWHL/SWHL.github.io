@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
 		<tr>
+	　　　　　<td><a href="" target="_blank">长津湖</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
 	　　　　　<td><a href="https://movie.douban.com/subject/26761935/" target="_blank">孤单又灿烂的神：鬼怪</a></td>
 	　　　　　<td>剧情</td>
 	　　　　　<td>8.8</td>
@@ -140,6 +145,21 @@ image: "./images/pages/videos.jpg"
 	　　　　　<td>7.1</td>
 	　　</tr>
 		<tr>
+	　　　　　<td><a href="" target="_blank">你好，疯子</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank">你好，李焕英</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank">我们与恶的距离</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
 	　　　　　<td><a href="" target="_blank"></a></td>
 	　　　　　<td></td>
 	　　　　　<td></td>
@@ -214,6 +234,16 @@ image: "./images/pages/videos.jpg"
 	　　　　　<td><a href="https://movie.douban.com/subject/26683290/" target="_blank">你的名字</a></td>
 	　　　　　<td>剧情 / 爱情 / 动画</td>
 	　　　　　<td>8.5</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank"></a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank"></a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
 	　　</tr>
 		<tr>
 	　　　　　<td><a href="" target="_blank"></a></td>
@@ -340,6 +370,96 @@ image: "./images/pages/videos.jpg"
 	　　　　　<td><a href="https://movie.douban.com/subject/6037429/" target="_blank">纸牌屋</a></td>
 	　　　　　<td>剧情</td>
 	　　　　　<td>9.3</td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank">追凶者也</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank">无名之辈</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank">小偷家族</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank">三块广告牌</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank">战狼</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank">战狼2</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank">触不可及</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank">怦然心动</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank">三个傻子</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank">头号玩家</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank">美丽的心灵</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr> 
+		<tr>
+	　　　　　<td><a href="" target="_blank">黑客帝国</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank">言叶之庭</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank">白娘子传奇</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank">大圣归来</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank">无敌破坏王2</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank">地球最后的夜晚</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
+	　　</tr>
+		<tr>
+	　　　　　<td><a href="" target="_blank">夏目友人帐</a></td>
+	　　　　　<td></td>
+	　　　　　<td></td>
 	　　</tr>
 		<tr>
 	　　　　　<td><a href="" target="_blank"></a></td>
