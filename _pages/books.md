@@ -184,7 +184,7 @@ image: "./images/pages/books.jpg"
 	　　</tr>
 	　　<tr>
 	　　　　　<td><a href="https://book.douban.com/subject/33420644/" target="_blank">你可以帮我挠挠背吗？</a></td>
-	　　　　　<td>乔里·约翰 / [美] 莉兹·克里莫</td>
+	　　　　　<td>乔里·约翰</td>
 	　　　　　<td>2020-12-01</td>
 	　　　　　<td>6.4</td>
 	　　</tr>
@@ -214,7 +214,7 @@ image: "./images/pages/books.jpg"
 	　　</tr>
 	　　<tr>
 	　　　　　<td><a href="https://book.douban.com/subject/35200639/" target="_blank">半小时预防常见病</a></td>
-	　　　　　<td>陈磊·半小时漫画团队</td>
+	　　　　　<td>陈磊</td>
 	　　　　　<td>2020-09-29</td>
 	　　　　　<td>6.6</td>
 	　　</tr>
@@ -226,7 +226,7 @@ image: "./images/pages/books.jpg"
 	　　</tr>
 	　　<tr>
 	　　　　　<td><a href="https://book.douban.com/subject/30820746/" target="_blank">大涨见识的杂学知识</a></td>
-	　　　　　<td>蒲公英 / 于富荣</td>
+	　　　　　<td>蒲公英</td>
 	　　　　　<td>2020-09-27</td>
 	　　　　　<td>5.7</td>
 	　　</tr>
@@ -244,13 +244,13 @@ image: "./images/pages/books.jpg"
 	　　</tr>
 	　　<tr>
 	　　　　　<td><a href="https://book.douban.com/subject/21966356/" target="_blank">沃兹传：与苹果一起疯狂</a></td>
-	　　　　　<td>[美] 史蒂夫·沃兹尼亚克 / [美] 吉娜·史密斯</td>
+	　　　　　<td>史蒂夫·沃兹尼亚克</td>
 	　　　　　<td>2020-09-08</td>
 	　　　　　<td>8.2</td>
 	　　</tr>
 	　　<tr>
 	　　　　　<td><a href="https://book.douban.com/subject/34875818/" target="_blank">硅谷之火：个人计算机的诞生与衰落</a></td>
-	　　　　　<td>迈克尔·斯韦因 / 保罗·弗赖伯格</td>
+	　　　　　<td>迈克尔·斯韦因</td>
 	　　　　　<td>2020-08-31</td>
 	　　　　　<td>7.8</td>
 	　　</tr>
@@ -304,7 +304,7 @@ image: "./images/pages/books.jpg"
 	　　</tr>
 	　　<tr>
 	　　　　　<td><a href="https://book.douban.com/subject/26425831/" target="_blank">斯通纳</a></td>
-	　　　　　<td>[美] 约翰·威廉斯 / 杨向荣</td>
+	　　　　　<td>约翰·威廉斯</td>
 	　　　　　<td>2020-06-21</td>
 	　　　　　<td>8.8</td>
 	　　</tr>
@@ -316,7 +316,7 @@ image: "./images/pages/books.jpg"
 	　　</tr>
 	　　<tr>
 	　　　　　<td><a href="https://book.douban.com/subject/34953939/" target="_blank">巨大的拥抱</a></td>
-	　　　　　<td>[日]物久保 / 赵婉宁</td>
+	　　　　　<td>物久保</td>
 	　　　　　<td>2020-05-30</td>
 	　　　　　<td>8.1</td>
 	　　</tr>
@@ -346,7 +346,7 @@ image: "./images/pages/books.jpg"
 	　　</tr>
 	　　<tr>
 	　　　　　<td><a href="https://book.douban.com/subject/26971527/" target="_blank">与你重逢</a></td>
-	　　　　　<td>[法] 马克·李维</td>
+	　　　　　<td>马克·李维</td>
 	　　　　　<td>2020-01-03</td>
 	　　　　　<td>7.2</td>
 	　　</tr>
