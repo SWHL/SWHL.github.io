@@ -579,3 +579,223 @@ image: "./images/pages/books.jpg"
     　　</tr>
     </tbody>
 </table>
+
+<table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
+    <thead>
+        <tr>
+            <th colspan="4" style="text-align:left;font-size:22px;">2018年</th>
+        </tr>
+        <tr style="border-bottom:1px solid; border-top:1px solid;">
+    　       <th>书名</th>
+             <th>作者</th>
+             <th>读完日期</th>
+             <th>豆瓣评分</th>
+        </tr>
+　　</thead>
+    <tbody>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">三体(全集)</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">一禅小和尚</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">你今天真好看</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">杨绛传</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">老九门</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">追风筝的人</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">甘地自传</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">感谢自己的不完美</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">首届世界华语悬疑大赛优秀作品选集</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">达芬奇</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">Mo现代推理馆</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">我有故事，你有酒吗？</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">乖，摸摸头</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">黑色皮革手册</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">我可以咬一口吗？</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">皮囊</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">心理罪(全集)</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">普京传:硬汉普京和他的权力世界</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">世界很大，幸好有你</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">从你的全世界路过</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">蒲公英王朝:七王之战</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">假面饭店</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">我有一杯酒，可以慰风尘</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">你只是看起来很努力</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">芳华</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">摆渡人2:重返荒原</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">神奇知识大百科</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">边城</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">摆渡人</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">白鹿原</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">湖畔</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">圣女的救济</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">解忧杂货店</a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank"></a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    </tbody>
+</table>
