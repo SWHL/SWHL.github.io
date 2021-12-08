@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
 		<tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/30174085/" target="_blank">怒火重案</a></td>
+	　　　　　<td>动作 / 犯罪</td>
+	　　　　　<td>7.2</td>
+	　　</tr>
+		<tr>
 	　　　　　<td><a href="https://movie.douban.com/subject/25845392/" target="_blank">长津湖</a></td>
 	　　　　　<td>剧情 / 历史 / 战争</td>
 	　　　　　<td>7.4</td>
