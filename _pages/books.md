@@ -791,11 +791,5 @@ image: "./images/pages/books.jpg"
     　　　　　<td></td>
     　　　　　<td>8.5</td>
     　　</tr>
-    　　<tr>
-    　　　　　<td><a href="" target="_blank"></a></td>
-    　　　　　<td></td>
-    　　　　　<td></td>
-    　　　　　<td></td>
-    　　</tr>
     </tbody>
 </table>
