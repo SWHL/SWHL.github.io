@@ -14,7 +14,12 @@ image: "./images/pages/videos.jpg"
         </tr>
 　　</thead>
     <tbody>
-		<tr>
+	    <tr>
+	　　　　　<td><a href="https://movie.douban.com/subject/32659890/" target="_blank">我和我的祖国</a></td>
+	　　　　　<td>剧情</td>
+	　　　　　<td>6.0</td>
+	　　</tr>
+	    <tr>
 	　　　　　<td><a href="https://movie.douban.com/subject/35068653/" target="_blank">误杀2</a></td>
 	　　　　　<td>剧情 / 犯罪</td>
 	　　　　　<td>6.0</td>
