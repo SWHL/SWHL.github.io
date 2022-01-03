@@ -5,6 +5,26 @@ image: "./images/pages/videos.jpg"
 <table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
     <thead>
         <tr>
+            <th colspan="4" style="text-align:left;font-size:22px;">2022年</th>
+        </tr>
+        <tr style="border-bottom:1px solid; border-top:1px solid;">
+    　       <th>片名</th>
+             <th>类型</th>
+             <th>豆瓣评分</th>
+        </tr>
+　　</thead>
+    <tbody>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/32659890/" target="_blank">黑客帝国：矩阵重启</a></td>
+    　　　　　<td>动作 / 科幻</td>
+    　　　　　<td>5.7</td>
+    　　</tr>
+    </tbody>
+</table>
+
+<table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
+    <thead>
+        <tr>
             <th colspan="4" style="text-align:left;font-size:22px;">2021年</th>
         </tr>
         <tr style="border-bottom:1px solid; border-top:1px solid;">
