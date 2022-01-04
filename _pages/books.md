@@ -5,6 +5,28 @@ image: "./images/pages/books.jpg"
 <table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
     <thead>
         <tr>
+            <th colspan="4" style="text-align:left;font-size:22px;">2022年</th>
+        </tr>
+        <tr style="border-bottom:1px solid; border-top:1px solid;">
+    　       <th>书名</th>
+             <th>作者</th>
+             <th>读完日期</th>
+             <th>豆瓣评分</th>
+        </tr>
+　　</thead>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/35573635/" target="_blank">漫画百年党史•开天辟地</a></td>
+    　　　　　<td>陈磊</td>
+    　　　　　<td>2021-01-01</td>
+    　　　　　<td>8.0</td>
+    　　</tr>
+    </tbody>
+</table>
+
+<br/>
+<table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
+    <thead>
+        <tr>
             <th colspan="4" style="text-align:left;font-size:22px;">2021年</th>
         </tr>
         <tr style="border-bottom:1px solid; border-top:1px solid;">

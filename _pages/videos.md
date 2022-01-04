@@ -19,6 +19,11 @@ image: "./images/pages/videos.jpg"
     　　　　　<td>动作 / 科幻</td>
     　　　　　<td>5.7</td>
     　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35441797/" target="_blank">新年快乐 해피뉴이어</a></td>
+    　　　　　<td>剧情 / 爱情</td>
+    　　　　　<td>6.2</td>
+    　　</tr>
     </tbody>
 </table>
 
