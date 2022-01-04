@@ -15,6 +15,12 @@ image: "./images/pages/books.jpg"
         </tr>
 　　</thead>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/35272711/" target="_blank">反骗案中案</a></td>
+    　　　　　<td>常书欣</td>
+    　　　　　<td>2021-01-01</td>
+    　　　　　<td>7.5</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/35573635/" target="_blank">漫画百年党史•开天辟地</a></td>
     　　　　　<td>陈磊</td>
     　　　　　<td>2021-01-01</td>
