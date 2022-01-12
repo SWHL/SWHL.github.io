@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/33440205/" target="_blank">你当像鸟飞往你的山</a></td>
+    　　　　　<td>塔拉·韦斯特弗</td>
+    　　　　　<td>2021-01-11</td>
+    　　　　　<td>8.7</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/35272711/" target="_blank">反骗案中案</a></td>
     　　　　　<td>常书欣</td>
     　　　　　<td>2021-01-01</td>
