@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1302425/" target="_blank">喜剧之王</a></td>
+    　　　　　<td>喜剧 / 剧情 / 爱情</td>
+    　　　　　<td>8.8</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1329936/" target="_blank">大内密探零零发</a></td>
     　　　　　<td>喜剧 / 动作 / 爱情 / 古装</td>
     　　　　　<td>7.9</td>
