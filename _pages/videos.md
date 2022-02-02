@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35294995/" target="_blank">我和我的父辈</a></td>
+    　　　　　<td>剧情</td>
+    　　　　　<td>6.6</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1302425/" target="_blank">喜剧之王</a></td>
     　　　　　<td>喜剧 / 剧情 / 爱情</td>
     　　　　　<td>8.8</td>
