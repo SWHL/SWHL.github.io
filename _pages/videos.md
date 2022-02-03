@@ -15,6 +15,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35376457" target="_blank">爱情神话</a></td>
+    　　　　　<td>剧情 / 喜剧 / 爱情</td>
+    　　　　　<td>8.2</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1300282/" target="_blank">异次元骇客</a></td>
+    　　　　　<td>科幻 / 悬疑 / 惊悚</td>
+    　　　　　<td>8.4</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35294995/" target="_blank">我和我的父辈</a></td>
     　　　　　<td>剧情</td>
     　　　　　<td>6.6</td>
