@@ -15,6 +15,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/34869362/" target="_blank">温暖的抱抱</a></td>
+    　　　　　<td>喜剧</td>
+    　　　　　<td>5.2</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35444998/" target="_blank">李茂扮太子</a></td>
+    　　　　　<td>喜剧 / 古装</td>
+    　　　　　<td>4.3</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35376457" target="_blank">爱情神话</a></td>
     　　　　　<td>剧情 / 喜剧 / 爱情</td>
     　　　　　<td>8.2</td>
