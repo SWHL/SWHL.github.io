@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1292720/" target="_blank">阿甘正传 Forrest Gump</a></td>
+    　　　　　<td>剧情 / 爱情</td>
+    　　　　　<td>9.5</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/26683723/" target="_blank">后来的我们</a></td>
     　　　　　<td>剧情 / 爱情</td>
     　　　　　<td>5.9</td>
