@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://m.douban.com/book/subject/35553469/" target="_blank">在你们离开以前</a></td>
+    　　　　　<td>毕啸南</td>
+    　　　　　<td>2022-02-17</td>
+    　　　　　<td>7.7</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/33440205/" target="_blank">你当像鸟飞往你的山</a></td>
     　　　　　<td>塔拉·韦斯特弗</td>
     　　　　　<td>2021-01-11</td>
