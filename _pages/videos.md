@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35422807/" target="_blank">扬名立万</a></td>
+    　　　　　<td>剧情 / 喜剧 / 悬疑</td>
+    　　　　　<td>7.4</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1292274/" target="_blank">幸福终点站 The Terminal</a></td>
     　　　　　<td>喜剧 / 剧情 / 爱情</td>
     　　　　　<td>8.8</td>
