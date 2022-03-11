@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/35296874/" target="_blank">风雨里做个大人，阳光下做个小孩</a></td>
+    　　　　　<td>一禅小和尚</td>
+    　　　　　<td>2022-03-10</td>
+    　　　　　<td>8.3</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://m.douban.com/book/subject/35553469/" target="_blank">在你们离开以前</a></td>
     　　　　　<td>毕啸南</td>
     　　　　　<td>2022-02-17</td>
