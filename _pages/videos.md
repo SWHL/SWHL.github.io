@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/5153254/" target="_blank">爱你，罗茜 Love, Rosie</a></td>
+    　　　　　<td>喜剧 / 爱情</td>
+    　　　　　<td>7.5</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1292401/" target="_blank">真爱至上 Love Actually</a></td>
     　　　　　<td>喜剧 / 剧情 / 爱情</td>
     　　　　　<td>8.6</td>
