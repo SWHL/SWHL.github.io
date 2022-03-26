@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1291546/" target="_blank">霸王别姬</a></td>
+    　　　　　<td>剧情 / 爱情 / 同性</td>
+    　　　　　<td>9.6</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1300945/" target="_blank">云中漫步 A Walk in the Clouds</a></td>
     　　　　　<td>剧情 / 爱情</td>
     　　　　　<td>7.8</td>
