@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1760622/" target="_blank">香水 Perfume: The Story of a Murderer</a></td>
+    　　　　　<td>剧情 / 犯罪 / 奇幻</td>
+    　　　　　<td>8.5</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1291546/" target="_blank">霸王别姬</a></td>
     　　　　　<td>剧情 / 爱情 / 同性</td>
     　　　　　<td>9.6</td>
