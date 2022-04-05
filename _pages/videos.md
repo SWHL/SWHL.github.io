@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/20276229/" target="_blank">007：无暇赴死 No Time to Die</a></td>
+    　　　　　<td>动作 / 惊悚 / 冒险</td>
+    　　　　　<td>6.6</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1760622/" target="_blank">香水 Perfume: The Story of a Murderer</a></td>
     　　　　　<td>剧情 / 犯罪 / 奇幻</td>
     　　　　　<td>8.5</td>
