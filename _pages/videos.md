@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35613853/" target="_blank">长津湖之水门桥</a></td>
+    　　　　　<td>剧情 / 历史 / 战争</td>
+    　　　　　<td>7.2</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35505100/" target="_blank">这个杀手不太冷静</a></td>
     　　　　　<td>喜剧</td>
     　　　　　<td>6.2</td>
