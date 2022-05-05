@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1291828/" target="_blank">天堂电影院 Nuovo Cinema Paradiso</a></td>
+    　　　　　<td>剧情 / 爱情</td>
+    　　　　　<td>9.2</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35613853/" target="_blank">长津湖之水门桥</a></td>
     　　　　　<td>剧情 / 历史 / 战争</td>
     　　　　　<td>7.2</td>
