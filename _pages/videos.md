@@ -15,6 +15,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35200310/" target="_blank">爱，死亡和机器人(1-3季)</a></td>
+    　　　　　<td>喜剧 / 科幻 / 动画 / 奇幻 / 恐怖</td>
+    　　　　　<td>-</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35200310/" target="_blank">金属霸主 Metal Lords</a></td>
+    　　　　　<td>喜剧 / 音乐</td>
+    　　　　　<td>7.0</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1291828/" target="_blank">天堂电影院 Nuovo Cinema Paradiso</a></td>
     　　　　　<td>剧情 / 爱情</td>
     　　　　　<td>9.2</td>
@@ -30,7 +40,7 @@ image: "./images/pages/videos.jpg"
     　　　　　<td>6.2</td>
     　　</tr>
         <tr>
-    　　　　　<td><a href="https://search.douban.com/movie/subject_search?search_text=%E9%BB%91%E9%95%9C&cat=1002" target="_blank">黑镜</a></td>
+    　　　　　<td><a href="https://search.douban.com/movie/subject_search?search_text=%E9%BB%91%E9%95%9C&cat=1002" target="_blank">黑镜（1-5季）</a></td>
     　　　　　<td>剧情 / 科幻 / 惊悚</td>
     　　　　　<td>-</td>
     　　</tr>
