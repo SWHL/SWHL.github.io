@@ -15,6 +15,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35874097/" target="_blank">西部世界</a></td>
+    　　　　　<td>科幻</td>
+    　　　　　<td>8.9</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35874097/" target="_blank">网络炼狱：揭发N号房</a></td>
+    　　　　　<td>纪录片</td>
+    　　　　　<td>7.9</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35200310/" target="_blank">爱，死亡和机器人(1-3季)</a></td>
     　　　　　<td>喜剧 / 科幻 / 动画 / 奇幻 / 恐怖</td>
     　　　　　<td>-</td>
