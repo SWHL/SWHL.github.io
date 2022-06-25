@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1291999/" target="_blank">重庆森林</a></td>
+    　　　　　<td>剧情 / 爱情</td>
+    　　　　　<td>8.8</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/4191644/" target="_blank">一天 One Day</a></td>
     　　　　　<td>剧情 / 爱情</td>
     　　　　　<td>7.9</td>
