@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/4191644/" target="_blank">一天 One Day</a></td>
+    　　　　　<td>剧情 / 爱情</td>
+    　　　　　<td>7.9</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/25934014/" target="_blank">爱乐之城 La La Land</a></td>
     　　　　　<td>剧情 / 爱情 / 歌舞</td>
     　　　　　<td>8.4</td>
