@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1815638/" target="_blank">录取通知 Accepted</a></td>
+    　　　　　<td>喜剧</td>
+    　　　　　<td>7.6</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/4305436/" target="_blank">志明与春娇</a></td>
     　　　　　<td>剧情 / 喜剧 / 爱情</td>
     　　　　　<td>7.9</td>
