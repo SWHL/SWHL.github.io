@@ -15,6 +15,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/30345887/" target="_blank">热血 뜨거운 피</a></td>
+    　　　　　<td>动作</td>
+    　　　　　<td>6.3</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/30211998/" target="_blank">绅士们 The Gentlemen</a></td>
+    　　　　　<td>喜剧 / 动作 / 犯罪</td>
+    　　　　　<td>8.3</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1815638/" target="_blank">录取通知 Accepted</a></td>
     　　　　　<td>喜剧</td>
     　　　　　<td>7.6</td>
