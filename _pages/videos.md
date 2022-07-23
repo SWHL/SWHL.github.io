@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/25986180/" target="_blank">釜山行 부산행</a></td>
+    　　　　　<td>动作 / 惊悚 / 灾难</td>
+    　　　　　<td>8.6</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/30345887/" target="_blank">热血 뜨거운 피</a></td>
     　　　　　<td>动作</td>
     　　　　　<td>6.3</td>
