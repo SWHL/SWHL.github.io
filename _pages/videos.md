@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1301753/" target="_blank">狮子王 The Lion King (1994)</a></td>
+    　　　　　<td>动画 / 冒险 / 歌舞</td>
+    　　　　　<td>9.1</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/10453723/" target="_blank">人类清除计划 The Purge</a></td>
     　　　　　<td>科幻 / 惊悚 / 犯罪</td>
     　　　　　<td>6.0</td>
