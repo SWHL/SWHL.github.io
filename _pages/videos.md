@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35073886/" target="_blank">分手的决心 헤어질 결심</a></td>
+    　　　　　<td>剧情 / 犯罪 / 悬疑 </td>
+    　　　　　<td>7.7</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1301753/" target="_blank">狮子王 The Lion King (1994)</a></td>
     　　　　　<td>动画 / 冒险 / 歌舞</td>
     　　　　　<td>9.1</td>
