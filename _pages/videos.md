@@ -399,11 +399,6 @@ image: "./images/pages/videos.jpg"
     　　　　　<td>剧情</td>
     　　　　　<td>9.4</td>
     　　</tr>
-        <tr>
-    　　　　　<td><a href="" target="_blank"></a></td>
-    　　　　　<td></td>
-    　　　　　<td></td>
-    　　</tr>
     </tbody>
 </table>
 
@@ -474,21 +469,6 @@ image: "./images/pages/videos.jpg"
     　　　　　<td><a href="https://movie.douban.com/subject/26683290/" target="_blank">你的名字</a></td>
     　　　　　<td>剧情 / 爱情 / 动画</td>
     　　　　　<td>8.5</td>
-    　　</tr>
-        <tr>
-    　　　　　<td><a href="" target="_blank"></a></td>
-    　　　　　<td></td>
-    　　　　　<td></td>
-    　　</tr>
-        <tr>
-    　　　　　<td><a href="" target="_blank"></a></td>
-    　　　　　<td></td>
-    　　　　　<td></td>
-    　　</tr>
-        <tr>
-    　　　　　<td><a href="" target="_blank"></a></td>
-    　　　　　<td></td>
-    　　　　　<td></td>
     　　</tr>
     </tbody>
 </table>
@@ -710,11 +690,6 @@ image: "./images/pages/videos.jpg"
     　　　　　<td><a href="https://movie.douban.com/subject/5300054/" target="_blank">波西米亚狂想曲 Bohemian Rhapsody</a></td>
     　　　　　<td>剧情 / 同性 / 音乐 / 传记</td>
     　　　　　<td>8.7</td>
-    　　</tr>
-        <tr>
-    　　　　　<td><a href="" target="_blank"></a></td>
-    　　　　　<td></td>
-    　　　　　<td></td>
     　　</tr>
     </tbody>
 </table>
