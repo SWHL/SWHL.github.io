@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/3397503/" target="_blank">未知死亡 Ghajini</a></td>
+    　　　　　<td>剧情 / 动作 / 爱情 / 悬疑 / 惊悚</td>
+    　　　　　<td>8.2</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35073886/" target="_blank">分手的决心 헤어질 결심</a></td>
     　　　　　<td>剧情 / 犯罪 / 悬疑 </td>
     　　　　　<td>7.7</td>
