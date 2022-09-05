@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/24404677/" target="_blank">超体 Lucy</a></td>
+    　　　　　<td>动作 / 科幻</td>
+    　　　　　<td>7.4</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35280912/" target="_blank">首尔大作战 서울대작전</a></td>
     　　　　　<td>剧情 / 喜剧 / 动作 / 犯罪</td>
     　　　　　<td>5.3</td>
