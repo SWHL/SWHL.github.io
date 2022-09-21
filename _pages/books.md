@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/6021440/" target="_blank">黑客与画家</a></td>
+    　　　　　<td> [美] Paul Graham</td>
+    　　　　　<td>2022-09-21</td>
+    　　　　　<td>8.7</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/30377678/" target="_blank">曾国藩传</a></td>
     　　　　　<td>张宏杰</td>
     　　　　　<td>2022-08-11</td>
