@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/30346218/" target="_blank">态度</a></td>
+    　　　　　<td>吴军</td>
+    　　　　　<td>2022-10-15</td>
+    　　　　　<td>8.2</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/6021440/" target="_blank">黑客与画家</a></td>
     　　　　　<td> [美] Paul Graham</td>
     　　　　　<td>2022-09-21</td>
