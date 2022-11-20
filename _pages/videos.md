@@ -15,6 +15,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1308843/” target="_blank">我，机器人 I, Robot</a></td>
+    　　　　　<td>动作 / 科幻 / 悬疑 / 惊悚</td>
+    　　　　　<td>8.2</td>
+    　　</tr>
+       <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/25864085/” target="_blank">火星救援 The Martian</a></td>
     　　　　　<td>剧情 / 科幻 / 冒险</td>
     　　　　　<td>8.5</td>
