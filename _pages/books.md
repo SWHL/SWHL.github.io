@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/33474750/“ target="_blank">浪潮之巅（第四版）</a></td>
+    　　　　　<td>吴军</td>
+    　　　　　<td>2022-12-03</td>
+    　　　　　<td>9.1</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/35649968/ target="_blank">少年白马醉春风</a></td>
     　　　　　<td>周木楠</td>
     　　　　　<td>2022-10-15</td>
