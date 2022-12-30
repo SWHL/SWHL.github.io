@@ -17,13 +17,13 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
-    　　　　　<td><a href="https://book.douban.com/subject/33474750/“ target="_blank">浪潮之巅（第四版）</a></td>
+    　　　　　<td><a href="https://book.douban.com/subject/33474750/" target="_blank">浪潮之巅（第四版）</a></td>
     　　　　　<td>吴军</td>
     　　　　　<td>2022-12-03</td>
     　　　　　<td>9.1</td>
     　　</tr>
     　　<tr>
-    　　　　　<td><a href="https://book.douban.com/subject/35649968/ target="_blank">少年白马醉春风</a></td>
+    　　　　　<td><a href="https://book.douban.com/subject/35649968/" target="_blank">少年白马醉春风</a></td>
     　　　　　<td>周木楠</td>
     　　　　　<td>2022-10-15</td>
     　　　　　<td>8.0</td>
@@ -602,7 +602,7 @@ image: "./images/pages/books.jpg"
     　　　　　<td>6.3</td>
     　　</tr>
     　　<tr>
-    　　　　　<td><a href="https://book.douban.com/subject/25809269/" target="_blank">目送:龙应台“人生三书”之三</a></td>
+    　　　　　<td><a href="https://book.douban.com/subject/25809269/" target="_blank">目送:龙应台"人生三书”之三</a></td>
     　　　　　<td>龙应台</td>
     　　　　　<td>2019-05-28</td>
     　　　　　<td>8.4</td>
