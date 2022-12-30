@@ -15,7 +15,7 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
-    　　　　　<td><a href="https://movie.douban.com/subject/1303173/“ target="_blank">甲方乙方</a></td>
+    　　　　　<td><a href="https://movie.douban.com/subject/1303173/" target="_blank">甲方乙方</a></td>
     　　　　　<td>喜剧</td>
     　　　　　<td>8.4</td>
     　　</tr>
