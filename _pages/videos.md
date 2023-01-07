@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35284253/" target="_blank">青春变形记 Turning Red</a></td>
+    　　　　　<td>喜剧 / 动画 / 奇幻 / 冒险</td>
+    　　　　　<td>8.2</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1550450/" target="_blank">空中杀阵 Les chevaliers du ciel</a></td>
+    　　　　　<td>冒险 / 动作</td>
+    　　　　　<td>7.0</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1421278/" target="_blank">面子 Saving Face</a></td>
     　　　　　<td>剧情 / 喜剧 / 爱情 / 同性</td>
     　　　　　<td>8.8</td>
