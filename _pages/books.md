@@ -6,6 +6,35 @@ image: "./images/pages/books.jpg"
 <table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
     <thead>
         <tr>
+            <th colspan="4" style="text-align:left;font-size:22px;">2023年</th>
+        </tr>
+        <tr style="border-bottom:1px solid; border-top:1px solid;">
+    　       <th>书名</th>
+             <th>作者</th>
+             <th>读完日期</th>
+             <th>豆瓣评分</th>
+        </tr>
+　　</thead>
+    <tbody>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/35304871/" target="_blank">历史的面孔</a></td>
+    　　　　　<td>徐涛</td>
+    　　　　　<td>2023-02-04</td>
+    　　　　　<td>7.7</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/35723705/" target="_blank">Python工匠</a></td>
+    　　　　　<td>朱雷（@piglei）</td>
+    　　　　　<td>2023-01-07</td>
+    　　　　　<td>9.2</td>
+    　　</tr>
+    </tbody>
+</table>
+
+
+<table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
+    <thead>
+        <tr>
             <th colspan="4" style="text-align:left;font-size:22px;">2022年</th>
         </tr>
         <tr style="border-bottom:1px solid; border-top:1px solid;">

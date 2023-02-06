@@ -16,6 +16,21 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35267208/" target="_blank">流浪地球2</a></td>
+    　　　　　<td>科幻 / 冒险 / 灾难</td>
+    　　　　　<td>8.2</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/30391228/" target="_blank">了不起的老爸</a></td>
+    　　　　　<td>剧情 / 喜剧 / 家庭 / 运动</td>
+    　　　　　<td>6.5</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1293172/" target="_blank">末代皇帝 The Last Emperor (1987)</a></td>
+    　　　　　<td>剧情 / 传记 / 历史</td>
+    　　　　　<td>9.3</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35284253/" target="_blank">青春变形记 Turning Red</a></td>
     　　　　　<td>喜剧 / 动画 / 奇幻 / 冒险</td>
     　　　　　<td>8.2</td>
