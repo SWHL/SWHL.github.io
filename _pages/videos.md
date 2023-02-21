@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1294371/" target="_blank">摩登时代 Modern Times</a></td>
+    　　　　　<td>剧情 / 喜剧 / 爱情</td>
+    　　　　　<td>9.3</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1291818/" target="_blank">饮食男女</a></td>
+    　　　　　<td>剧情 / 家庭</td>
+    　　　　　<td>9.2</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35267208/" target="_blank">流浪地球2</a></td>
     　　　　　<td>科幻 / 冒险 / 灾难</td>
     　　　　　<td>8.2</td>
