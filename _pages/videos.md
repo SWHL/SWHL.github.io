@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/26861685/" target="_blank">红海行动</a></td>
+    　　　　　<td>动作 / 战争</td>
+    　　　　　<td>8.2</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35732660/" target="_blank">Tinder诈骗王 The Tinder Swindler</a></td>
     　　　　　<td>纪录片 / 犯罪</td>
     　　　　　<td>8.2</td>

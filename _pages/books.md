@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/35288960/" target="_blank">心灵奇旅 Soul</a></td>
+    　　　　　<td>皮克斯/迪士尼</td>
+    　　　　　<td>2023-03-04</td>
+    　　　　　<td>8.1</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/35304871/" target="_blank">历史的面孔</a></td>
     　　　　　<td>徐涛</td>
     　　　　　<td>2023-02-04</td>
