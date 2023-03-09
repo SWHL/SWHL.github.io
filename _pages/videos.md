@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1307856/" target="_blank">背靠背，脸对脸（1994）</a></td>
+    　　　　　<td>剧情</td>
+    　　　　　<td>9.5</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/26861685/" target="_blank">红海行动</a></td>
     　　　　　<td>动作 / 战争</td>
     　　　　　<td>8.2</td>
