@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1292679/" target="_blank">春光乍泄 春光乍洩 (1997)</a></td>
+    　　　　　<td>剧情 / 爱情 / 同性</td>
+    　　　　　<td>9.0</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1307856/" target="_blank">背靠背，脸对脸（1994）</a></td>
     　　　　　<td>剧情</td>
     　　　　　<td>9.5</td>
