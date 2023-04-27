@@ -16,6 +16,26 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/25868125/" target="_blank">穿靴子的猫2 Puss in Boots: The Last Wish</a></td>
+    　　　　　<td>喜剧 / 爱情 / 动画 / 悬疑 / 歌舞 / 奇幻 / 冒险</td>
+    　　　　　<td>8.1</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/2028585/" target="_blank">穿靴子的猫 Puss in Boots</a></td>
+    　　　　　<td>喜剧 / 动画 / 家庭 / 奇幻 / 冒险</td>
+    　　　　　<td>7.6</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35543544/" target="_blank">王牌大保镖</a></td>
+    　　　　　<td>喜剧</td>
+    　　　　　<td>暂无评分</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/4811774/" target="_blank">阿凡达：水之道 Avatar: The Way of Water</a></td>
+    　　　　　<td>动作 / 科幻 / 冒险</td>
+    　　　　　<td>7.9</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1300555/" target="_blank">回到未来 Back to the Future 三部曲</a></td>
     　　　　　<td>喜剧 / 科幻 / 冒险</td>
     　　　　　<td>8.7</td>
