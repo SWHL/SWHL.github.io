@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/2245679/" target="_blank">西游记后传 (2000)</a></td>
+    　　　　　<td>剧情 / 动作 / 奇幻</td>
+    　　　　　<td>8.0</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/25868125/" target="_blank">穿靴子的猫2 Puss in Boots: The Last Wish</a></td>
     　　　　　<td>喜剧 / 爱情 / 动画 / 悬疑 / 歌舞 / 奇幻 / 冒险</td>
     　　　　　<td>8.1</td>
