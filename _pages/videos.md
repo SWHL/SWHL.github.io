@@ -16,6 +16,21 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/30198955/" target="_blank">边缘世界 第一季 The Peripheral Season 1</a></td>
+    　　　　　<td>剧情 / 科幻 / 惊悚</td>
+    　　　　　<td>7.4</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/30400539/" target="_blank">罪人 The Guilty </a></td>
+    　　　　　<td>剧情 / 惊悚 / 犯罪</td>
+    　　　　　<td>6.5</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/10571509/" target="_blank">如父如子 そして父になる</a></td>
+    　　　　　<td>剧情 / 家庭</td>
+    　　　　　<td>8.7</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/2245679/" target="_blank">西游记后传 (2000)</a></td>
     　　　　　<td>剧情 / 动作 / 奇幻</td>
     　　　　　<td>8.0</td>

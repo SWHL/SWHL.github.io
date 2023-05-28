@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/27001144/" target="_blank">十三层空间</a></td>
+    　　　　　<td>[美] 丹尼尔·加卢耶 / 丹尼尔·F·加卢耶</td>
+    　　　　　<td>2023-05-27</td>
+    　　　　　<td>8.9</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/35288960/" target="_blank">心灵奇旅 Soul</a></td>
     　　　　　<td>皮克斯/迪士尼</td>
     　　　　　<td>2023-03-04</td>
