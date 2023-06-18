@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35447469/" target="_blank">短暂的偷情纪实 Chronique d'une liaison passagère</a></td>
+    　　　　　<td>爱情</td>
+    　　　　　<td>7.5</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/20452350/" target="_blank">9号秘事 第一季 Inside No. 9 Season 1</a></td>
+    　　　　　<td>喜剧 / 悬疑 / 恐怖</td>
+    　　　　　<td>9.1</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/30198955/" target="_blank">边缘世界 第一季 The Peripheral Season 1</a></td>
     　　　　　<td>剧情 / 科幻 / 惊悚</td>
     　　　　　<td>7.4</td>
