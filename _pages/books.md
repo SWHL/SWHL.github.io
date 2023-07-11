@@ -17,6 +17,36 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/35627156/" target="_blank">拆掉思维里的墙</a></td>
+    　　　　　<td>古典</td>
+    　　　　　<td>2023-07-08</td>
+    　　　　　<td>7.4</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/27056409/" target="_blank">深度工作</a></td>
+    　　　　　<td>[美] 卡尔·纽波特</td>
+    　　　　　<td>2023-07-05</td>
+    　　　　　<td>7.8</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/26590999/" target="_blank"></a></td>
+    　　　　　<td>何夕</td>
+    　　　　　<td>2023-06-26</td>
+    　　　　　<td>7.6</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/27028961/" target="_blank">黑客横行</a></td>
+    　　　　　<td>-</td>
+    　　　　　<td>2023-06-07</td>
+    　　　　　<td>7.6</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/26437740/" target="_blank">梦之海</a></td>
+    　　　　　<td>刘慈欣</td>
+    　　　　　<td>2023-05-31</td>
+    　　　　　<td>8.4</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/27001144/" target="_blank">十三层空间</a></td>
     　　　　　<td>[美] 丹尼尔·加卢耶 / 丹尼尔·F·加卢耶</td>
     　　　　　<td>2023-05-27</td>

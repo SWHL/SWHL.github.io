@@ -16,6 +16,31 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/26333560/" target="_blank">疾速追杀2 John Wick: Chapter 2 </a></td>
+    　　　　　<td>动作 / 惊悚 / 犯罪</td>
+    　　　　　<td>7.8</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/25798131/" target="_blank">疾速追杀 John Wick</a></td>
+    　　　　　<td>动作 / 惊悚 / 犯罪</td>
+    　　　　　<td>7.8</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35056376/" target="_blank">惊天营救2 Extraction 2</a></td>
+    　　　　　<td>动作 / 惊悚</td>
+    　　　　　<td>7.5</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/30314127/" target="_blank">惊天营救 Extraction</a></td>
+    　　　　　<td>动作 / 惊悚 / 犯罪</td>
+    　　　　　<td>7.2</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35660795/" target="_blank">消失的她</a></td>
+    　　　　　<td>悬疑 / 犯罪</td>
+    　　　　　<td>6.4</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35447469/" target="_blank">短暂的偷情纪实 Chronique d'une liaison passagère</a></td>
     　　　　　<td>爱情</td>
     　　　　　<td>7.5</td>
