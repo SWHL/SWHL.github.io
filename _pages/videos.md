@@ -16,6 +16,21 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35360684/" target="_blank">新神榜：杨戬</a></td>
+    　　　　　<td>动作 / 动画 / 奇幻 / 冒险</td>
+    　　　　　<td>7.0</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/33455421/" target="_blank">疾速追杀4 John Wick: Chapter 4</a></td>
+    　　　　　<td>动作 / 惊悚 / 犯罪</td>
+    　　　　　<td>7.3</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/26909790/" target="_blank">疾速追杀3 John Wick: Chapter 3 - Parabellum</a></td>
+    　　　　　<td>动作 / 惊悚 / 犯罪</td>
+    　　　　　<td>7.9</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/26333560/" target="_blank">疾速追杀2 John Wick: Chapter 2 </a></td>
     　　　　　<td>动作 / 惊悚 / 犯罪</td>
     　　　　　<td>7.8</td>
