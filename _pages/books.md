@@ -29,7 +29,7 @@ image: "./images/pages/books.jpg"
     　　　　　<td>7.8</td>
     　　</tr>
     　　<tr>
-    　　　　　<td><a href="https://book.douban.com/subject/26590999/" target="_blank"></a></td>
+    　　　　　<td><a href="https://book.douban.com/subject/26590999/" target="_blank">伤心者</a></td>
     　　　　　<td>何夕</td>
     　　　　　<td>2023-06-26</td>
     　　　　　<td>7.6</td>
