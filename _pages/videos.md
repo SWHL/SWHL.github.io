@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36200307/" target="_blank">斯坦·李 Stan Lee</a></td>
+    　　　　　<td>纪录片 / 传记</td>
+    　　　　　<td>7.9</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35360684/" target="_blank">新神榜：杨戬</a></td>
     　　　　　<td>动作 / 动画 / 奇幻 / 冒险</td>
     　　　　　<td>7.0</td>
