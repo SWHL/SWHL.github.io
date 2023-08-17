@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/5919553/" target="_blank">我是特种兵</a></td>
+    　　　　　<td>剧情 / 战争</td>
+    　　　　　<td>8.4</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35656754/" target="_blank">母性</a></td>
     　　　　　<td>剧情 / 悬疑</td>
     　　　　　<td>6.2</td>
