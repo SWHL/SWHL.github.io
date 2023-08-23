@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35371261/" target="_blank">铃芽之旅 すずめの戸締まり</a></td>
+    　　　　　<td>爱情 / 动画 / 奇幻</td>
+    　　　　　<td>7.3</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/5919553/" target="_blank">我是特种兵</a></td>
     　　　　　<td>剧情 / 战争</td>
     　　　　　<td>8.4</td>
