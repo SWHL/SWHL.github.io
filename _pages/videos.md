@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/26897885/" target="_blank">芬奇 Finch</a></td>
+    　　　　　<td>剧情 / 科幻</td>
+    　　　　　<td>8.4</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35371261/" target="_blank">铃芽之旅 すずめの戸締まり</a></td>
     　　　　　<td>爱情 / 动画 / 奇幻</td>
     　　　　　<td>7.3</td>
