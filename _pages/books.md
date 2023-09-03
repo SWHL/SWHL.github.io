@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/6976077/" target="_blank">国家命运</a></td>
+    　　　　　<td>陶纯，陈怀国</td>
+    　　　　　<td>2023-09-01</td>
+    　　　　　<td>7.7</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/1041482/" target="_blank">万历十五年</a></td>
     　　　　　<td>黄仁宇</td>
     　　　　　<td>2023-08-17</td>

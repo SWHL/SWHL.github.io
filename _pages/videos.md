@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/26649682/" target="_blank">深海</a></td>
+    　　　　　<td>动画 / 奇幻</td>
+    　　　　　<td>7.2</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/26593587/" target="_blank">天才少女 Gifted</a></td>
+    　　　　　<td>剧情 / 家庭</td>
+    　　　　　<td>8.3</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/26897885/" target="_blank">芬奇 Finch</a></td>
     　　　　　<td>剧情 / 科幻</td>
     　　　　　<td>8.4</td>
