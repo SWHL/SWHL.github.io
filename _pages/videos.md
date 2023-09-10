@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/34882958/" target="_blank">巨齿鲨2：深渊 Meg 2: The Trench</a></td>
+    　　　　　<td>动作 / 科幻 / 冒险</td>
+    　　　　　<td>5.2</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35228789/" target="_blank">超能一家人</a></td>
+    　　　　　<td>喜剧 / 家庭 / 奇幻</td>
+    　　　　　<td>3.6</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/26649682/" target="_blank">深海</a></td>
     　　　　　<td>动画 / 奇幻</td>
     　　　　　<td>7.2</td>
