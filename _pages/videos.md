@@ -16,6 +16,31 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/34963356/" target="_blank">过往人生 Past Lives</a></td>
+    　　　　　<td>剧情 / 爱情</td>
+    　　　　　<td>7.7</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35267224/" target="_blank">孤注一掷</a></td>
+    　　　　　<td>剧情 / 犯罪</td>
+    　　　　　<td>6.9</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1296736/" target="_blank">钢琴家 The Pianist</a></td>
+    　　　　　<td>剧情 / 音乐 / 传记 / 战争</td>
+    　　　　　<td>9.3</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35765480/" target="_blank">八角笼中</a></td>
+    　　　　　<td>剧情 / 动作</td>
+    　　　　　<td>7.3</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/11532844/" target="_blank">初见倾心 Love at First Sight</a></td>
+    　　　　　<td>剧情 / 爱情</td>
+    　　　　　<td>6.7</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/34882958/" target="_blank">巨齿鲨2：深渊 Meg 2: The Trench</a></td>
     　　　　　<td>动作 / 科幻 / 冒险</td>
     　　　　　<td>5.2</td>

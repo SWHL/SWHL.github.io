@@ -17,6 +17,36 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/26639614/" target="_blank">阿Q正传</a></td>
+    　　　　　<td>鲁迅</td>
+    　　　　　<td>2023-10-06</td>
+    　　　　　<td>9.3</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/30475757/" target="_blank">圣母</a></td>
+    　　　　　<td>[日] 秋吉理香子</td>
+    　　　　　<td>2023-10-01</td>
+    　　　　　<td>8.1</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/36511561/" target="_blank">明天又要上班了</a></td>
+    　　　　　<td>[英] 卡丽娜·马格加</td>
+    　　　　　<td>2023-09-02</td>
+    　　　　　<td>6.2</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/35899899/" target="_blank">时间不是挤出来的，是安排出来的</a></td>
+    　　　　　<td>[英] 阿什莉·惠兰斯</td>
+    　　　　　<td>2023-09-12</td>
+    　　　　　<td>7.1</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">深渊：职业警察书写的刑侦悬疑力作</a></td>
+    　　　　　<td>深蓝</td>
+    　　　　　<td>2023-09-10</td>
+    　　　　　<td>-</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/6976077/" target="_blank">国家命运</a></td>
     　　　　　<td>陶纯，陈怀国</td>
     　　　　　<td>2023-09-01</td>
