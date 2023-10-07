@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/10604086/" target="_blank">封神第一部：朝歌风云</a></td>
+    　　　　　<td>动作 / 战争 / 奇幻 / 古装</td>
+    　　　　　<td>7.9</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/34963356/" target="_blank">过往人生 Past Lives</a></td>
     　　　　　<td>剧情 / 爱情</td>
     　　　　　<td>7.7</td>
