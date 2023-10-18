@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/36328704/" target="_blank">太白金星有点烦</a></td>
+    　　　　　<td>马伯庸</td>
+    　　　　　<td>2023-10-14</td>
+    　　　　　<td>9.0</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/26639614/" target="_blank">阿Q正传</a></td>
     　　　　　<td>鲁迅</td>
     　　　　　<td>2023-10-06</td>

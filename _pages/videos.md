@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/26393561/" target="_blank">小萝莉的猴神大叔 Bajrangi Bhaijaan</a></td>
+    　　　　　<td>剧情 / 喜剧 / 动作</td>
+    　　　　　<td>8.4</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/10604086/" target="_blank">封神第一部：朝歌风云</a></td>
     　　　　　<td>动作 / 战争 / 奇幻 / 古装</td>
     　　　　　<td>7.9</td>
