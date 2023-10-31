@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/35764764/" target="_blank">蝇王</a></td>
+    　　　　　<td>[英] 威廉·戈尔丁</td>
+    　　　　　<td>2023-10-30</td>
+    　　　　　<td>8.1</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/36328704/" target="_blank">太白金星有点烦</a></td>
     　　　　　<td>马伯庸</td>
     　　　　　<td>2023-10-14</td>
