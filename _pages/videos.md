@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/30454682/" target="_blank">自由之声 Sound of Freedom</a></td>
+    　　　　　<td>动作 / 传记 / 犯罪</td>
+    　　　　　<td>7.8</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35672437/" target="_blank">燃冬</a></td>
     　　　　　<td>剧情 / 爱情</td>
     　　　　　<td>5.7</td>

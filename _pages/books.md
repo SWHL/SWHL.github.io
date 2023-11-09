@@ -17,6 +17,18 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/26666259/" target="_blank">包法利夫人</a></td>
+    　　　　　<td>[法] 福楼拜</td>
+    　　　　　<td>2023-11-06</td>
+    　　　　　<td>9.0</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank">红蜘蛛1：致命女人案件实录</a></td>
+    　　　　　<td>李祉伟 马显明</td>
+    　　　　　<td>2023-10-20</td>
+    　　　　　<td>-</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/35764764/" target="_blank">蝇王</a></td>
     　　　　　<td>[英] 威廉·戈尔丁</td>
     　　　　　<td>2023-10-30</td>
