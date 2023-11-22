@@ -17,6 +17,18 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/36336313/" target="_blank">深度关系</a></td>
+    　　　　　<td>大卫·布拉德福德</td>
+    　　　　　<td>2023-11-22</td>
+    　　　　　<td>8.5</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/34857264/" target="_blank">缉凶</a></td>
+    　　　　　<td>刘星辰</td>
+    　　　　　<td>2023-11-21</td>
+    　　　　　<td>7.1</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/26666259/" target="_blank">包法利夫人</a></td>
     　　　　　<td>[法] 福楼拜</td>
     　　　　　<td>2023-11-06</td>

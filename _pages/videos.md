@@ -16,6 +16,26 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1292867/" target="_blank">快餐车</a></td>
+    　　　　　<td>喜剧 / 动作</td>
+    　　　　　<td>7.9</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1295547/" target="_blank">一个好人</a></td>
+    　　　　　<td>喜剧 / 动作 / 犯罪</td>
+    　　　　　<td>7.3</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1300303/" target="_blank">我是谁</a></td>
+    　　　　　<td>喜剧 / 动作 / 科幻 / 冒险</td>
+    　　　　　<td>7.8</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1295064/" target="_blank">城市猎人</a></td>
+    　　　　　<td>喜剧 / 动作 / 爱情</td>
+    　　　　　<td>7.8</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/30454682/" target="_blank">自由之声 Sound of Freedom</a></td>
     　　　　　<td>动作 / 传记 / 犯罪</td>
     　　　　　<td>7.8</td>
