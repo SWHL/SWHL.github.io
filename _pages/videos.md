@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/34436452/" target="_blank">第八个嫌疑人</a></td>
+    　　　　　<td>剧情 / 犯罪</td>
+    　　　　　<td>6.1</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1292867/" target="_blank">快餐车</a></td>
     　　　　　<td>喜剧 / 动作</td>
     　　　　　<td>7.9</td>
