@@ -17,7 +17,7 @@ image: "./images/pages/videos.jpg"
     <tbody>
         <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35355164/" target="_blank">最后的真相</a></td>
-    　　　　　<td剧情 / 悬疑 / 犯罪</td>
+    　　　　　<td>剧情 / 悬疑 / 犯罪</td>
     　　　　　<td>5.9</td>
     　　 </tr>
         <tr>
