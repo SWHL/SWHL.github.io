@@ -17,6 +17,24 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/34973519/" target="_blank">涂乐</a></td>
+    　　　　　<td>姜末</td>
+    　　　　　<td>2023-11-28</td>
+    　　　　　<td>6.9</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/36523637/" target="_blank">每个人都了不起</a></td>
+    　　　　　<td>梁永安</td>
+    　　　　　<td>2023-11-28</td>
+    　　　　　<td>7.6</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/3123067/" target="_blank">超新星紀元</a></td>
+    　　　　　<td>刘慈欣</td>
+    　　　　　<td>2023-11-28</td>
+    　　　　　<td>8.5</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/36336313/" target="_blank">深度关系</a></td>
     　　　　　<td>大卫·布拉德福德</td>
     　　　　　<td>2023-11-22</td>
