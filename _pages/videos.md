@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/2998451/" target="_blank">杀手 The Killer</a></td>
+    　　　　　<td>剧情 / 动作 / 悬疑 / 惊悚 / 犯罪 / 冒险</td>
+    　　　　　<td>6.6</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35355164/" target="_blank">最后的真相</a></td>
     　　　　　<td>剧情 / 悬疑 / 犯罪</td>
     　　　　　<td>5.9</td>
