@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35392725/" target="_blank">学爸</a></td>
+    　　　　　<td>剧情 / 喜剧</td>
+    　　　　　<td>6.0</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/2998451/" target="_blank">杀手 The Killer</a></td>
     　　　　　<td>剧情 / 动作 / 悬疑 / 惊悚 / 犯罪 / 冒险</td>
     　　　　　<td>6.6</td>
