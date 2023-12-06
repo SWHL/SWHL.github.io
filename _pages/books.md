@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/35796233/" target="_blank">在工作中，看到中国</a></td>
+    　　　　　<td>网易人间</td>
+    　　　　　<td>2023-12-06</td>
+    　　　　　<td>8.2</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/34973519/" target="_blank">涂乐</a></td>
     　　　　　<td>姜末</td>
     　　　　　<td>2023-11-28</td>
