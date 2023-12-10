@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35853358/" target="_blank">偶滴神啊2 OMG 2</a></td>
+    　　　　　<td>剧情 / 喜剧</td>
+    　　　　　<td>7.3</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35392725/" target="_blank">学爸</a></td>
     　　　　　<td>剧情 / 喜剧</td>
     　　　　　<td>6.0</td>
