@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35342570/" target="_blank">指甲 Fingernails</a></td>
+    　　　　　<td>剧情 / 科幻</td>
+    　　　　　<td>5.6</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35358443/" target="_blank">前任4：英年早婚</a></td>
     　　　　　<td>喜剧 / 爱情</td>
     　　　　　<td>5.7</td>
