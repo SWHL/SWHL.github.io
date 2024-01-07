@@ -6,6 +6,32 @@ image: "./images/pages/videos.jpg"
 <table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
     <thead>
         <tr>
+            <th colspan="4" style="text-align:left;font-size:22px;">2024年</th>
+        </tr>
+        <tr style="border-bottom:1px solid; border-top:1px solid;">
+    　       <th>片名</th>
+             <th>类型</th>
+             <th>豆瓣评分</th>
+        </tr>
+　　</thead>
+    <tbody>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35453476/" target="_blank">AI创世者 The Creator</a></td>
+    　　　　　<td>剧情 / 动作 / 科幻 / 惊悚</td>
+    　　　　　<td>6.1</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/30176790/" target="_blank">梅艳芳</a></td>
+    　　　　　<td>剧情 / 音乐 / 传记</td>
+    　　　　　<td>6.8</td>
+    　　 </tr>
+    </tbody>
+</table>
+
+
+<table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
+    <thead>
+        <tr>
             <th colspan="4" style="text-align:left;font-size:22px;">2023年</th>
         </tr>
         <tr style="border-bottom:1px solid; border-top:1px solid;">
@@ -348,7 +374,6 @@ image: "./images/pages/videos.jpg"
             <th>类型</th>
             <th>豆瓣评分</th>
         </tr>
-        　　
     </thead>
     <tbody>
         <tr>
@@ -943,6 +968,7 @@ image: "./images/pages/videos.jpg"
 </table>
 
 <br/>
+
 <table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
     <thead>
         <tr>

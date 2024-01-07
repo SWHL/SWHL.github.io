@@ -6,6 +6,29 @@ image: "./images/pages/books.jpg"
 <table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
     <thead>
         <tr>
+            <th colspan="4" style="text-align:left;font-size:22px;">2024年</th>
+        </tr>
+        <tr style="border-bottom:1px solid; border-top:1px solid;">
+    　       <th>书名</th>
+             <th>作者</th>
+             <th>读完日期</th>
+             <th>豆瓣评分</th>
+        </tr>
+　　</thead>
+    <tbody>
+    　　<tr>
+    　　　　　<td><a href="" target="_blank"></a></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　　　　<td></td>
+    　　</tr>
+    </tbody>
+</table>
+
+
+<table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
+    <thead>
+        <tr>
             <th colspan="4" style="text-align:left;font-size:22px;">2023年</th>
         </tr>
         <tr style="border-bottom:1px solid; border-top:1px solid;">
