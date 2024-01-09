@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36066128/" target="_blank">画江湖之天罡</a></td>
+    　　　　　<td>动作 / 动画 / 武侠</td>
+    　　　　　<td>8.0</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35453476/" target="_blank">AI创世者 The Creator</a></td>
     　　　　　<td>剧情 / 动作 / 科幻 / 惊悚</td>
     　　　　　<td>6.1</td>
