@@ -17,10 +17,10 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
-    　　　　　<td><a href="" target="_blank"></a></td>
-    　　　　　<td></td>
-    　　　　　<td></td>
-    　　　　　<td></td>
+    　　　　　<td><a href="" target="_blank">无用且恶心的人体趣味冷知识</a></td>
+    　　　　　<td>[英] 弗朗西斯·古德</td>
+    　　　　　<td>2024-01-21</td>
+    　　　　　<td>-</td>
     　　</tr>
     </tbody>
 </table>

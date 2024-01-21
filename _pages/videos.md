@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35725869/?from=showing" target="_blank">年会不能停</a></td>
+    　　　　　<td>剧情 / 喜剧</td>
+    　　　　　<td>8.2</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35296312/" target="_blank">兄弟，请注意</a></td>
+    　　　　　<td>喜剧</td>
+    　　　　　<td>5.3</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/36066128/" target="_blank">画江湖之天罡</a></td>
     　　　　　<td>动作 / 动画 / 武侠</td>
     　　　　　<td>8.0</td>
