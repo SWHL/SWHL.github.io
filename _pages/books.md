@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="" target="_blank">红蜘蛛II：致命女人案件实录</a></td>
+    　　　　　<td>李祉伟</td>
+    　　　　　<td>2024-02-16</td>
+    　　　　　<td>-</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="" target="_blank">无用且恶心的人体趣味冷知识</a></td>
     　　　　　<td>[英] 弗朗西斯·古德</td>
     　　　　　<td>2024-01-21</td>

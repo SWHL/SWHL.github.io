@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/34670706/" target="_blank">来都来了</a></td>
+    　　　　　<td>喜剧</td>
+    　　　　　<td>-</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35579652/" target="_blank">养蜂人</a></td>
     　　　　　<td>动作 / 惊悚</td>
     　　　　　<td>6.1</td>
