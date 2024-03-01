@@ -17,6 +17,30 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/26807576/" target="_blank">赡养人类</a></td>
+    　　　　　<td>刘慈欣</td>
+    　　　　　<td>2024-03-01</td>
+    　　　　　<td>8.6</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/26923390/" target="_blank">长夜难明</a></td>
+    　　　　　<td>紫金陈</td>
+    　　　　　<td>2024-03-01</td>
+    　　　　　<td>8.6</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/25955474/" target="_blank">坏小孩</a></td>
+    　　　　　<td>紫金陈</td>
+    　　　　　<td>2024-03-01</td>
+    　　　　　<td>7.3</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/25799686/" target="_blank">无证之罪</a></td>
+    　　　　　<td>紫金陈</td>
+    　　　　　<td>2024-03-01</td>
+    　　　　　<td>7.2</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="" target="_blank">红蜘蛛II：致命女人案件实录</a></td>
     　　　　　<td>李祉伟</td>
     　　　　　<td>2024-02-16</td>
