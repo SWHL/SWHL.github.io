@@ -16,6 +16,21 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35288743/" target="_blank">勿言推理</a></td>
+    　　　　　<td>悬疑</td>
+    　　　　　<td>8.4</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/27140017/" target="_blank">非自然死亡</a></td>
+    　　　　　<td>剧情 / 悬疑</td>
+    　　　　　<td>9.5</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1293088/" target="_blank">小鬼当家</a></td>
+    　　　　　<td>喜剧 / 家庭 / 犯罪</td>
+    　　　　　<td>8.4</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/34670706/" target="_blank">来都来了</a></td>
     　　　　　<td>喜剧</td>
     　　　　　<td>-</td>

@@ -17,6 +17,18 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/36068004/" target="_blank">看见情绪价值</a></td>
+    　　　　　<td>苏菲雅 / 姚彦宇</td>
+    　　　　　<td>2024-03-05</td>
+    　　　　　<td>7.4</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/36068004/" target="_blank">为什么和你说话这么累</a></td>
+    　　　　　<td> [韩] 朴宰莲</td>
+    　　　　　<td>2024-03-05</td>
+    　　　　　<td>7.5</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/26807576/" target="_blank">赡养人类</a></td>
     　　　　　<td>刘慈欣</td>
     　　　　　<td>2024-03-01</td>
