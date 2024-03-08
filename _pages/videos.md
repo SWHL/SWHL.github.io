@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36710901/" target="_blank">飞来横财</a></td>
+    　　　　　<td>喜剧</td>
+    　　　　　<td>4.3</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35288743/" target="_blank">勿言推理</a></td>
     　　　　　<td>悬疑</td>
     　　　　　<td>8.4</td>
