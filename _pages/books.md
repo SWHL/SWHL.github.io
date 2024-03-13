@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/36480672/" target="_blank">长夜难明 : 双星</a></td>
+    　　　　　<td>紫金陈</td>
+    　　　　　<td>2024-03-13</td>
+    　　　　　<td>7.0</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/36068004/" target="_blank">看见情绪价值</a></td>
     　　　　　<td>苏菲雅 / 姚彦宇</td>
     　　　　　<td>2024-03-05</td>
