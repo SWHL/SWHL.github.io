@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1309193/" target="_blank">变相怪杰2：面具之子</a></td>
+    　　　　　<td>喜剧 / 奇幻</td>
+    　　　　　<td>6.1</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1297570/" target="_blank">变相怪杰</a></td>
+    　　　　　<td>喜剧 / 奇幻</td>
+    　　　　　<td>8.0</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/25752261/" target="_blank">女间谍</a></td>
     　　　　　<td>喜剧 / 动作 / 犯罪</td>
     　　　　　<td>7.5</td>
