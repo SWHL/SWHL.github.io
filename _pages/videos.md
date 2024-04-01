@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1292064/" target="_blank">楚门的世界</a></td>
+    　　　　　<td>剧情 / 科幻</td>
+    　　　　　<td>9.4</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1781126/" target="_blank">十二宫</a></td>
+    　　　　　<td>剧情 / 悬疑 / 惊悚 / 传记 / 犯罪</td>
+    　　　　　<td>7.5</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1309193/" target="_blank">变相怪杰2：面具之子</a></td>
     　　　　　<td>喜剧 / 奇幻</td>
     　　　　　<td>6.1</td>
