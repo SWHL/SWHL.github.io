@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/26884892/" target="_blank">大病</a></td>
+    　　　　　<td>喜剧 / 爱情</td>
+    　　　　　<td>7.5</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1292064/" target="_blank">楚门的世界</a></td>
     　　　　　<td>剧情 / 科幻</td>
     　　　　　<td>9.4</td>
