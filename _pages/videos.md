@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1292224/" target="_blank">飞越疯人院</a></td>
+    　　　　　<td>剧情</td>
+    　　　　　<td>9.1</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/26884892/" target="_blank">大病</a></td>
     　　　　　<td>喜剧 / 爱情</td>
     　　　　　<td>7.5</td>
