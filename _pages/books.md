@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/35922870/" target="_blank">软能力</a></td>
+    　　　　　<td>吴军</td>
+    　　　　　<td>2024-04-23</td>
+    　　　　　<td>7.7</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/36480672/" target="_blank">长夜难明 : 双星</a></td>
     　　　　　<td>紫金陈</td>
     　　　　　<td>2024-03-13</td>
