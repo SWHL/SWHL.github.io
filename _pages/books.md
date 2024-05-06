@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/35367114/" target="_blank">亲密关系管理</a></td>
+    　　　　　<td>陈历杰</td>
+    　　　　　<td>2024-05-06</td>
+    　　　　　<td>6.6</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/35922870/" target="_blank">软能力</a></td>
     　　　　　<td>吴军</td>
     　　　　　<td>2024-04-23</td>

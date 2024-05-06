@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36369452/" target="_blank">飞驰人生2</a></td>
+    　　　　　<td>剧情 / 喜剧 / 运动</td>
+    　　　　　<td>7.7</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36035676/" target="_blank">长安三万里</a></td>
+    　　　　　<td>动画 / 历史</td>
+    　　　　　<td>8.3</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/27191431/" target="_blank">过春天</a></td>
     　　　　　<td>剧情</td>
     　　　　　<td>7.7</td>
