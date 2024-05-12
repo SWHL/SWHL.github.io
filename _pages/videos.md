@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35914398/" target="_blank">哥斯拉-1.0</a></td>
+    　　　　　<td>剧情 / 科幻 / 灾难</td>
+    　　　　　<td>6.6</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36081094/" target="_blank">热辣滚烫</a></td>
+    　　　　　<td>剧情 / 喜剧</td>
+    　　　　　<td>7.7</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/36369452/" target="_blank">飞驰人生2</a></td>
     　　　　　<td>剧情 / 喜剧 / 运动</td>
     　　　　　<td>7.7</td>
