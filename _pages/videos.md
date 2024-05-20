@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36151692/" target="_blank">周处除三害</a></td>
+    　　　　　<td>动作 / 犯罪</td>
+    　　　　　<td>8.1</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35453251/" target="_blank">哥斯拉大战金刚2：帝国崛起</a></td>
+    　　　　　<td>动作 / 科幻 / 冒险</td>
+    　　　　　<td>6.7</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35914398/" target="_blank">哥斯拉-1.0</a></td>
     　　　　　<td>剧情 / 科幻 / 灾难</td>
     　　　　　<td>6.6</td>
