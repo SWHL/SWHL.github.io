@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/35723705/" target="_blank">Python工匠</a></td>
+    　　　　　<td>朱雷（@piglei）</td>
+    　　　　　<td>2024-05-30</td>
+    　　　　　<td>9.1</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/35367114/" target="_blank">亲密关系管理</a></td>
     　　　　　<td>陈历杰</td>
     　　　　　<td>2024-05-06</td>
