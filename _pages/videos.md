@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/26905717/" target="_blank">人类清除计划4</a></td>
+    　　　　　<td>科幻 / 惊悚 / 犯罪</td>
+    　　　　　<td>5.7</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35575567/" target="_blank">沙丘2</a></td>
     　　　　　<td>剧情 / 动作 / 科幻 / 冒险</td>
     　　　　　<td>8.2</td>
