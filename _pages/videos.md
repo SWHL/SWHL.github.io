@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/26101255/" target="_blank">人类清除计划3</a></td>
+    　　　　　<td>科幻 / 惊悚 / 犯罪</td>
+    　　　　　<td>6.3</td>
+    　　 </tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/33446014/" target="_blank">人类清除计划5</a></td>
+    　　　　　<td>科幻 / 惊悚 / 犯罪</td>
+    　　　　　<td>6.0</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/10453723/" target="_blank">人类清除计划</a></td>
     　　　　　<td>科幻 / 惊悚 / 犯罪</td>
     　　　　　<td>6.0</td>
