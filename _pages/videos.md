@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/21937438/" target="_blank">蒙太奇</a></td>
+    　　　　　<td>剧情 / 惊悚 / 犯罪</td>
+    　　　　　<td>8.2</td>
+    　　 </tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/26101255/" target="_blank">人类清除计划3</a></td>
     　　　　　<td>科幻 / 惊悚 / 犯罪</td>
     　　　　　<td>6.3</td>
