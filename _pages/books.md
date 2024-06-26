@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/1170539/" target="_blank">带上她的眼睛</a></td>
+    　　　　　<td>刘慈欣</td>
+    　　　　　<td>2024-06-26</td>
+    　　　　　<td>8.6</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/35723705/" target="_blank">Python工匠</a></td>
     　　　　　<td>朱雷（@piglei）</td>
     　　　　　<td>2024-05-30</td>
