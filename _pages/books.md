@@ -17,6 +17,24 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://weread.qq.com/web/bookDetail/67f321b0813ab8a15g011b9c" target="_blank">重案检察官</a></td>
+    　　　　　<td>左权</td>
+    　　　　　<td>2024-08-02</td>
+    　　　　　<td>-</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://weread.qq.com/web/bookDetail/e4a32960813ab89c3g01927f" target="_blank">毛骗局中局：贪便宜背后的高端骗局</a></td>
+    　　　　　<td>周述</td>
+    　　　　　<td>2024-07-29</td>
+    　　　　　<td>-</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://weread.qq.com/web/bookDetail/ac132cd071a2727bac1b359" target="_blank">山</a></td>
+    　　　　　<td>刘慈欣</td>
+    　　　　　<td>2024-07-23</td>
+    　　　　　<td>神作</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/1170539/" target="_blank">带上她的眼睛</a></td>
     　　　　　<td>刘慈欣</td>
     　　　　　<td>2024-06-26</td>
@@ -96,7 +114,6 @@ image: "./images/pages/books.jpg"
     　　</tr>
     </tbody>
 </table>
-
 
 <table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
     <thead>
@@ -269,7 +286,6 @@ image: "./images/pages/books.jpg"
     　　</tr>
     </tbody>
 </table>
-
 
 <table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
     <thead>
