@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/33456512/" target="_blank">涉过愤怒的海</a></td>
+    　　　　　<td>剧情 / 悬疑 / 犯罪</td>
+    　　　　　<td>7.2</td>
+    　　</tr>
+       <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35377036/" target="_blank">渔业阴谋</a></td>
+    　　　　　<td>纪录片</td>
+    　　　　　<td>8.4</td>
+    　　</tr>
+       <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/26586556/" target="_blank">绝地战警：生死与共</a></td>
     　　　　　<td>喜剧 / 动作 / 犯罪</td>
     　　　　　<td>6.2</td>
