@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://yd.qq.com/web/bookDetail/461322d0725668eb461bb79" target="_blank">高智商犯罪1：设局</a></td>
+    　　　　　<td>紫金陈</td>
+    　　　　　<td>2024-08-11</td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://weread.qq.com/web/bookDetail/67f321b0813ab8a15g011b9c" target="_blank">重案检察官</a></td>
     　　　　　<td>左权</td>
     　　　　　<td>2024-08-02</td>
