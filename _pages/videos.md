@@ -15,6 +15,16 @@ image: "./images/pages/videos.jpg"
         </tr>
 　　</thead>
     <tbody>
+      <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36774001/" target="_blank">逆行人生</a></td>
+    　　　　　<td>剧情</td>
+    　　　　　<td>6.8</td>
+    　　</tr>
+       <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/33456512/" target="_blank">涉过愤怒的海</a></td>
+    　　　　　<td>剧情 / 悬疑 / 犯罪</td>
+    　　　　　<td>7.2</td>
+    　　</tr>
        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1305164/" target="_blank">甜蜜蜜</a></td>
     　　　　　<td>剧情 / 爱情</td>
