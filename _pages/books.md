@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://yd.qq.com/web/reader/d3e320b0813ab926bg0166ea" target="_blank">你被骗了，快跑</a></td>
+    　　　　　<td>全民故事计划主编</td>
+    　　　　　<td>2024-09-09</td>
+    　　　　　<td></td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://yd.qq.com/web/bookDetail/461322d0725668eb461bb79" target="_blank">高智商犯罪1：设局</a></td>
     　　　　　<td>紫金陈</td>
     　　　　　<td>2024-08-11</td>
