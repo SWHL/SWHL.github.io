@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
       <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/34996971/" target="_blank">寂静之地：入侵日</a></td>
+    　　　　　<td>剧情 / 科幻 / 惊悚 / 恐怖</td>
+    　　　　　<td>5.5</td>
+    　</tr>
+      <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35240117/" target="_blank">草木人间</a></td>
     　　　　　<td>剧情</td>
     　　　　　<td>6.1</td>
