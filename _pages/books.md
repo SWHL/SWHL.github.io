@@ -12,10 +12,22 @@ image: "./images/pages/books.jpg"
     　       <th>书名</th>
              <th>作者</th>
              <th>读完日期</th>
-             <th>豆瓣评分</th>
+             <th>豆瓣评分/微信读书推荐值</th>
         </tr>
 　　</thead>
     <tbody>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/25881855/" target="_blank">大教堂与集市</a></td>
+    　　　　　<td>[美] Eric S. Raymond</td>
+    　　　　　<td>2024-09-30</td>
+    　　　　　<td>8.4</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://weread.qq.com/web/reader/58232070813ab8ecfg013b93#outline" target="_blank">差点就发财了</a></td>
+    　　　　　<td>全民故事计划主编</td>
+    　　　　　<td>2024-09-29</td>
+    　　　　　<td>值得一读</td>
+    　　</tr>
     　　<tr>
     　　　　　<td><a href="https://yd.qq.com/web/reader/d3e320b0813ab926bg0166ea" target="_blank">你被骗了，快跑</a></td>
     　　　　　<td>全民故事计划主编</td>
