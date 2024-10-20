@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
       <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35629810/" target="_blank">双狼</a></td>
+    　　　　　<td>惊悚 / 犯罪</td>
+    　　　　　<td>6.4</td>
+    　</tr>
+      <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36653918/" target="_blank">抓娃娃</a></td>
+    　　　　　<td>喜剧</td>
+    　　　　　<td>7.2</td>
+    　</tr>
+      <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/34444321/" target="_blank">特种突袭之逆战</a></td>
     　　　　　<td>剧情</td>
     　　　　　<td>-</td>
