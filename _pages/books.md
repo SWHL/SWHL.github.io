@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/36956882/" target="_blank">手机断舍离</a></td>
+    　　　　　<td>[美] 凯瑟琳·普赖斯（Catherine Price）</td>
+    　　　　　<td>2024-10-21</td>
+    　　　　　<td>6.6</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/25881855/" target="_blank">大教堂与集市</a></td>
     　　　　　<td>[美] Eric S. Raymond</td>
     　　　　　<td>2024-09-30</td>
