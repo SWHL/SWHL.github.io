@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/36636224/" target="_blank">打造第二大脑</a></td>
+    　　　　　<td> [美]蒂亚戈•福特</td>
+    　　　　　<td>2024-10-29</td>
+    　　　　　<td>8.0</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/36956882/" target="_blank">手机断舍离</a></td>
     　　　　　<td>[美] 凯瑟琳·普赖斯（Catherine Price）</td>
     　　　　　<td>2024-10-21</td>
