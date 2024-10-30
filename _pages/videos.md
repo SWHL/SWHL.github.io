@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
       <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36463483/" target="_blank">白蛇：浮生</a></td>
+    　　　　　<td>喜剧 / 爱情 / 动画 / 奇幻</td>
+    　　　　　<td>7.0</td>
+    　</tr>
+      <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/26957900/" target="_blank">死侍与金刚狼</a></td>
     　　　　　<td>喜剧 / 动作 / 科幻</td>
     　　　　　<td>7.0</td>
