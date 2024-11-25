@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
       <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36847744/" target="_blank">逆鳞</a></td>
+    　　　　　<td>剧情 / 犯罪</td>
+    　　　　　<td>4.8</td>
+    　</tr>
+      <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/36402098/" target="_blank">机密行动</a></td>
     　　　　　<td>动作 / 惊悚</td>
     　　　　　<td>4.2</td>
