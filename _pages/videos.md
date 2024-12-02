@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
       <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/5322596/" target="_blank">超脱</a></td>
+    　　　　　<td>剧情</td>
+    　　　　　<td>9.0</td>
+    　</tr>
+      <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/36847744/" target="_blank">逆鳞</a></td>
     　　　　　<td>剧情 / 犯罪</td>
     　　　　　<td>4.8</td>
