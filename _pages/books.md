@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/36530548/" target="_blank">宝贵的人生建议</a></td>
+    　　　　　<td>[美] 凯文·凯利</td>
+    　　　　　<td>2024-12-25</td>
+    　　　　　<td>7.7</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/4262114/" target="_blank">女人这东西</a></td>
     　　　　　<td>渡边淳一</td>
     　　　　　<td>2024-11-15</td>
