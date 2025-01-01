@@ -6,6 +6,28 @@ image: "./images/pages/videos.jpg"
 <table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
     <thead>
         <tr>
+            <th colspan="4" style="text-align:left;font-size:22px;">2025年</th>
+        </tr>
+        <tr style="border-bottom:1px solid; border-top:1px solid;">
+    　       <th>片名</th>
+             <th>类型</th>
+             <th>豆瓣评分</th>
+        </tr>
+　　</thead>
+    <tbody>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35948807/" target="_blank">秘密会议</a></td>
+    　　　　　<td>剧情 / 悬疑 / 惊悚</td>
+    　　　　　<td>7.3</td>
+    　　</tr>
+    </tbody>
+</table>
+
+<br/>
+
+<table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
+    <thead>
+        <tr>
             <th colspan="4" style="text-align:left;font-size:22px;">2024年</th>
         </tr>
         <tr style="border-bottom:1px solid; border-top:1px solid;">
