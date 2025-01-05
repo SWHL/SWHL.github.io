@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36441385/" target="_blank">熊猫计划</a></td>
+    　　　　　<td>喜剧 / 动作</td>
+    　　　　　<td>5.8</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35948807/" target="_blank">秘密会议</a></td>
     　　　　　<td>剧情 / 悬疑 / 惊悚</td>
     　　　　　<td>7.3</td>
