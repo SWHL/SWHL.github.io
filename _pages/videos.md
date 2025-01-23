@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1293182/" target="_blank">十二怒汉</a></td>
+    　　　　　<td>剧情</td>
+    　　　　　<td>9.4</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35558659/" target="_blank">暗夜情报员 第一季</a></td>
+    　　　　　<td>剧情 / 动作 / 惊悚</td>
+    　　　　　<td>7.6</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/37171913/" target="_blank">老炮敢死队</a></td>
     　　　　　<td>剧情 / 喜剧 / 动作</td>
     　　　　　<td>-</td>
