@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/34780991/?from=showing" target="_blank">哪吒之魔童闹海</a></td>
+    　　　　　<td>剧情 / 喜剧 / 动画 / 奇幻</td>
+    　　　　　<td>8.5</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36620952/" target="_blank">火锅艺术家</a></td>
+    　　　　　<td>喜剧</td>
+    　　　　　<td>6.5</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1303173/" target="_blank">甲方乙方</a></td>
     　　　　　<td>喜剧</td>
     　　　　　<td>8.4</td>
