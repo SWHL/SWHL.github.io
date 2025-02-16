@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35371629/" target="_blank">维和防暴队</a></td>
+    　　　　　<td>剧情 / 动作</td>
+    　　　　　<td>5.3</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/3279080/" target="_blank">敢死队</a></td>
+    　　　　　<td>动作 / 惊悚 / 冒险</td>
+    　　　　　<td>7.0</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/36401937/" target="_blank">误判</a></td>
     　　　　　<td>剧情 / 动作 / 犯罪</td>
     　　　　　<td>7.0</td>
