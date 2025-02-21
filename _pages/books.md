@@ -6,6 +6,40 @@ image: "./images/pages/books.jpg"
 <table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
     <thead>
         <tr>
+            <th colspan="4" style="text-align:left;font-size:22px;">2025年</th>
+        </tr>
+        <tr style="border-bottom:1px solid; border-top:1px solid;">
+    　       <th>书名</th>
+             <th>作者</th>
+             <th>读完日期</th>
+             <th>豆瓣评分/微信读书推荐值</th>
+        </tr>
+　　</thead>
+    <tbody>
+    　　<tr>
+    　　　　　<td><a href="https://weread.qq.com/web/reader/9d232470813ab986bg012b5d" target="_blank">变态犯罪：电影背后反人性的真实案件</a></td>
+    　　　　　<td>8年纪毕业生</td>
+    　　　　　<td>2025-02-21</td>
+    　　　　　<td>-</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/27046286/" target="_blank">Git团队协作</a></td>
+    　　　　　<td> [加] Emma Jane Hogbin Westby</td>
+    　　　　　<td>2025-01-12</td>
+    　　　　　<td>6.8</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/36457109/" target="_blank">程序员的README</a></td>
+    　　　　　<td>[美] 克里斯·里科米尼 / [美] 德米特里·里亚博伊</td>
+    　　　　　<td>2025-02-01</td>
+    　　　　　<td>8.6</td>
+    　　</tr>
+    </tbody>
+</table>
+
+<table style="line-height:32px;width:100%; height:100%; margin: 0 auto;text-align:center;border-bottom:1px solid;">
+    <thead>
+        <tr>
             <th colspan="4" style="text-align:left;font-size:22px;">2024年</th>
         </tr>
         <tr style="border-bottom:1px solid; border-top:1px solid;">
