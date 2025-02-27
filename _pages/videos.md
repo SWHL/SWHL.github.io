@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/6040982/" target="_blank">敢死队2</a></td>
+    　　　　　<td>动作 / 冒险</td>
+    　　　　　<td>7.0</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/26926321/" target="_blank">缝纫机乐队</a></td>
+    　　　　　<td>喜剧 / 音乐</td>
+    　　　　　<td>6.6</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35371629/" target="_blank">维和防暴队</a></td>
     　　　　　<td>剧情 / 动作</td>
     　　　　　<td>5.3</td>
