@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/30388206/" target="_blank">粗野派</a></td>
+    　　　　　<td>剧情 / 传记</td>
+    　　　　　<td>7.2</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/6040982/" target="_blank">敢死队2</a></td>
     　　　　　<td>动作 / 冒险</td>
     　　　　　<td>7.0</td>
