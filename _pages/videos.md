@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/25662329/" target="_blank">疯狂动物城</a></td>
+    　　　　　<td>喜剧 / 动画 / 冒险</td>
+    　　　　　<td>9.2</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/5319835/" target="_blank">101次求婚</a></td>
     　　　　　<td>爱情</td>
     　　　　　<td>5.7</td>
