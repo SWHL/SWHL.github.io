@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/26877943/" target="_blank">金瓶梅</a></td>
+    　　　　　<td>兰陵笑笑生</td>
+    　　　　　<td>2025-03-25</td>
+    　　　　　<td>9.5</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://weread.qq.com/web/reader/9d232470813ab986bg012b5d" target="_blank">变态犯罪：电影背后反人性的真实案件</a></td>
     　　　　　<td>8年纪毕业生</td>
     　　　　　<td>2025-02-21</td>
