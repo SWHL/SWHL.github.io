@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://weread.qq.com/web/reader/a0c323c0813ab9c32g0177c0#outline?noScroll=1" target="_blank">外卖骑手,困在系统里</a></td>
+    　　　　　<td>《人物》</td>
+    　　　　　<td>2025-03-27</td>
+    　　　　　<td>92.1%</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/26877943/" target="_blank">金瓶梅</a></td>
     　　　　　<td>兰陵笑笑生</td>
     　　　　　<td>2025-03-25</td>
