@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1308857/" target="_blank">可可西里</a></td>
+    　　　　　<td>剧情 / 犯罪</td>
+    　　　　　<td>8.9</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1718150/" target="_blank">天龙八部 (2003)</a></td>
+    　　　　　<td>剧情 / 动作 / 武侠</td>
+    　　　　　<td>8.6</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/3075287/" target="_blank">源代码</a></td>
     　　　　　<td>科幻 / 悬疑 / 惊悚</td>
     　　　　　<td>8.6</td>
