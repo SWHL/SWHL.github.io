@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/2132473/" target="_blank">僵尸世界大战</a></td>
+    　　　　　<td>动作 / 科幻 / 恐怖</td>
+    　　　　　<td>7.7</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36653963/" target="_blank">黑镜 第七季</a></td>
+    　　　　　<td>剧情 / 科幻 / 悬疑 / 惊悚 / 犯罪</td>
+    　　　　　<td>8.7</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1308857/" target="_blank">可可西里</a></td>
     　　　　　<td>剧情 / 犯罪</td>
     　　　　　<td>8.9</td>
