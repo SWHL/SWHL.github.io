@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/26220717/" target="_blank">危机13小时</a></td>
+    　　　　　<td>剧情 / 动作 / 惊悚 / 战争</td>
+    　　　　　<td>7.8</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/2132473/" target="_blank">僵尸世界大战</a></td>
     　　　　　<td>动作 / 科幻 / 恐怖</td>
     　　　　　<td>7.7</td>
