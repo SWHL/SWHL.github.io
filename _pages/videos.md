@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1947549/" target="_blank">生死狙击</a></td>
+    　　　　　<td>剧情 / 动作 / 惊悚</td>
+    　　　　　<td>7.8</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/26220717/" target="_blank">危机13小时</a></td>
     　　　　　<td>剧情 / 动作 / 惊悚 / 战争</td>
     　　　　　<td>7.8</td>
