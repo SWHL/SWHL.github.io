@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36592094/" target="_blank">甜蜜之家：重生</a></td>
+    　　　　　<td>动作 / 科幻 / 悬疑 / 惊悚 / 恐怖</td>
+    　　　　　<td>3.7</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/1947549/" target="_blank">生死狙击</a></td>
     　　　　　<td>剧情 / 动作 / 惊悚</td>
     　　　　　<td>7.8</td>
