@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/1187523/" target="_blank">地狱门前</a></td>
+    　　　　　<td>乔云华</td>
+    　　　　　<td>2025-05-21</td>
+    　　　　　<td>7.3</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://weread.qq.com/web/reader/a0c323c0813ab9c32g0177c0#outline?noScroll=1" target="_blank">外卖骑手,困在系统里</a></td>
     　　　　　<td>《人物》</td>
     　　　　　<td>2025-03-27</td>
