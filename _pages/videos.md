@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/3578981/" target="_blank">叶问2：宗师传奇</a></td>
+    　　　　　<td>动作 / 传记 / 历史</td>
+    　　　　　<td>7.4</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35516034/" target="_blank">红色一号：冬日行动</a></td>
     　　　　　<td>喜剧 / 动作 / 悬疑 / 冒险</td>
     　　　　　<td>5.8</td>
