@@ -17,6 +17,18 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/27028517/" target="_blank">流畅的Python</a></td>
+    　　　　　<td> [巴西] Luciano Ramalho</td>
+    　　　　　<td>2025-05-27</td>
+    　　　　　<td>9.4</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/3815131/" target="_blank">一九八四</a></td>
+    　　　　　<td> [英国] 乔治·奥威尔</td>
+    　　　　　<td>2025-05-27</td>
+    　　　　　<td>9.5</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/1187523/" target="_blank">地狱门前</a></td>
     　　　　　<td>乔云华</td>
     　　　　　<td>2025-05-21</td>
