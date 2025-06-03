@@ -16,6 +16,16 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35815771/" target="_blank">误杀3</a></td>
+    　　　　　<td>剧情 / 悬疑 / 犯罪</td>
+    　　　　　<td>6.0</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/30143331/" target="_blank">红色通缉令</a></td>
+    　　　　　<td>喜剧 / 动作 / 惊悚 / 犯罪</td>
+    　　　　　<td>6.3</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/3578981/" target="_blank">叶问2：宗师传奇</a></td>
     　　　　　<td>动作 / 传记 / 历史</td>
     　　　　　<td>7.4</td>

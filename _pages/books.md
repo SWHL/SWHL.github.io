@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://book.douban.com/subject/20491078/" target="_blank">Python Cookbook</a></td>
+    　　　　　<td> David Beazley / Brian K·Jones</td>
+    　　　　　<td>2025-06-03</td>
+    　　　　　<td>9.2</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://book.douban.com/subject/27028517/" target="_blank">流畅的Python</a></td>
     　　　　　<td> [巴西] Luciano Ramalho</td>
     　　　　　<td>2025-05-27</td>
