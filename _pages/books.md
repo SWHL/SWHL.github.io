@@ -17,9 +17,15 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://www.weibo.com/ttarticle/p/show?id=2309404233756507518449" target="_blank">废物俱乐部：三和日结手记</a></td>
+    　　　　　<td>故事硬核</td>
+    　　　　　<td>2025-06-22</td>
+    　　　　　<td>-</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://www.douban.com/personage/27494617/" target="_blank">长安的荔枝</a></td>
     　　　　　<td>马伯庸</td>
-    　　　　　<td>2025-06-4</td>
+    　　　　　<td>2025-06-14</td>
     　　　　　<td>8.5</td>
     　　</tr>
     　　<tr>

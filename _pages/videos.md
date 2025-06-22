@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35954290/" target="_blank">少年歌行 海外仙山篇</a></td>
+    　　　　　<td>动画 / 武侠</td>
+    　　　　　<td>6.6</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/26885074/" target="_blank">叶问4</a></td>
     　　　　　<td>剧情 / 动作</td>
     　　　　　<td>6.4</td>
