@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
     　　<tr>
+    　　　　　<td><a href="https://weread.qq.com/web/bookDetail/457325d0813ab9c83g017355" target="_blank">马诺 代价（轻纪实）</a></td>
+    　　　　　<td>人物</td>
+    　　　　　<td>2025-06-24</td>
+    　　　　　<td>80.7%-</td>
+    　　</tr>
+    　　<tr>
     　　　　　<td><a href="https://www.weibo.com/ttarticle/p/show?id=2309404233756507518449" target="_blank">废物俱乐部：三和日结手记</a></td>
     　　　　　<td>故事硬核</td>
     　　　　　<td>2025-06-22</td>
