@@ -16,6 +16,31 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://www.imdb.com/title/tt1937390/" target="_blank">女性瘾者</a></td>
+    　　　　　<td>纪录片</td>
+    　　　　　<td>-</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1291584/" target="_blank">杀死比尔2</a></td>
+    　　　　　<td>动作 / 惊悚 / 犯罪</td>
+    　　　　　<td>8.1</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1291580/" target="_blank">杀死比尔</a></td>
+    　　　　　<td>动作 / 惊悚 / 犯罪</td>
+    　　　　　<td>8.4</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36597005/" target="_blank">少年歌行 血染天启篇</a></td>
+    　　　　　<td>动作 / 动画 / 武侠 / 古装</td>
+    　　　　　<td>-</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36597005/" target="_blank">少年歌行 血染天启篇</a></td>
+    　　　　　<td>动作 / 动画 / 武侠 / 古装</td>
+    　　　　　<td>-</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35954290/" target="_blank">少年歌行 海外仙山篇</a></td>
     　　　　　<td>动画 / 武侠</td>
     　　　　　<td>6.6</td>
