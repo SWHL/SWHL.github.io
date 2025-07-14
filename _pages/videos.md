@@ -16,6 +16,21 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/37170690/" target="_blank">坚守阵地</a></td>
+    　　　　　<td>动作 / 惊悚</td>
+    　　　　　<td>-</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/34807062/" target="_blank">疾速追杀：芭蕾杀姬</a></td>
+    　　　　　<td>动作 / 惊悚</td>
+    　　　　　<td>7.1</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/33414470/" target="_blank">水饺皇后</a></td>
+    　　　　　<td>剧情 / 传记</td>
+    　　　　　<td>6.4</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://www.imdb.com/title/tt1937390/" target="_blank">女性瘾者</a></td>
     　　　　　<td>纪录片</td>
     　　　　　<td>-</td>
