@@ -16,11 +16,35 @@ image: "./images/pages/books.jpg"
         </tr>
 　　</thead>
     <tbody>
+　      <tr>
+    　　　　　<td><a href="https://weread.qq.com/web/reader/22932040813ab99b8g010ff4#outline?noScroll=1" target="_blank">外卖员和保安的生死劫</a></td>
+    　　　　　<td>刘婷</td>
+    　　　　　<td>2025-07-10</td>
+    　　　　　<td>72.5%</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://weread.qq.com/web/reader/e9832960813ab9d69g015c8b#outline?noScroll=1" target="_blank">那些被PUA绑架的人生（轻纪实）</a></td>
+    　　　　　<td>《人物》杂志 罗婷</td>
+    　　　　　<td>2025-07-02</td>
+    　　　　　<td>70.9%</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://weread.qq.com/web/reader/ce532d70813ab9af4g014af3#outline?noScroll=1" target="_blank">县城媒婆：带找不到对象的男性跨省相亲</a></td>
+    　　　　　<td>谷雨实验室 周甜</td>
+    　　　　　<td>2025-06-30</td>
+    　　　　　<td>75.9%</td>
+    　　</tr>
+    　　<tr>
+    　　　　　<td><a href="https://read.douban.com/ebook/630328326/" target="_blank">非洲异闻录</a></td>
+    　　　　　<td>周异客</td>
+    　　　　　<td>2025-06-24</td>
+    　　　　　<td>-</td>
+    　　</tr>
     　　<tr>
     　　　　　<td><a href="https://weread.qq.com/web/bookDetail/457325d0813ab9c83g017355" target="_blank">马诺 代价（轻纪实）</a></td>
     　　　　　<td>人物</td>
     　　　　　<td>2025-06-24</td>
-    　　　　　<td>80.7%-</td>
+    　　　　　<td>80.7%</td>
     　　</tr>
     　　<tr>
     　　　　　<td><a href="https://www.weibo.com/ttarticle/p/show?id=2309404233756507518449" target="_blank">废物俱乐部：三和日结手记</a></td>
