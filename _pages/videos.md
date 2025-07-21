@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36827697/" target="_blank">砖墙谜攻</a></td>
+    　　　　　<td>剧情 / 科幻 / 悬疑 / 惊悚</td>
+    　　　　　<td>5.5</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/36170178/" target="_blank">国家元首</a></td>
     　　　　　<td>喜剧 / 动作 / 惊悚</td>
     　　　　　<td>6.7</td>

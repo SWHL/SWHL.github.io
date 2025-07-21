@@ -17,6 +17,30 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
 　      <tr>
+    　　　　　<td><a href="https://book.douban.com/subject/26628148/" target="_blank">朱雀堂</a></td>
+    　　　　　<td>鬼马星</td>
+    　　　　　<td>2025-07-21</td>
+    　　　　　<td>7.4</td>
+    　　</tr>
+　      <tr>
+    　　　　　<td><a href="https://weread.qq.com/web/bookDetail/d4232960813ab9c90g01357e" target="_blank">在夜场，不缺有故事的人</a></td>
+    　　　　　<td>栗子酱</td>
+    　　　　　<td>2025-07-21</td>
+    　　　　　<td>76%</td>
+    　　</tr>
+　      <tr>
+    　　　　　<td><a href="https://weread.qq.com/web/reader/22932040813ab99b8g010ff4#outline?noScroll=1" target="_blank">秀场直播女主播的“绝望劳动” （轻纪实）</a></td>
+    　　　　　<td>谷雨实验室 陈晓妍</td>
+    　　　　　<td>2025-07-20</td>
+    　　　　　<td>82.0%</td>
+    　　</tr>
+　      <tr>
+    　　　　　<td><a href="https://weread.qq.com/web/reader/22932040813ab99b8g010ff4#outline?noScroll=1" target="_blank">秀场直播女主播的“绝望劳动” （轻纪实）</a></td>
+    　　　　　<td>谷雨实验室 陈晓妍</td>
+    　　　　　<td>2025-07-20</td>
+    　　　　　<td>82.0%</td>
+    　　</tr>
+　      <tr>
     　　　　　<td><a href="https://weread.qq.com/web/reader/22932040813ab99b8g010ff4#outline?noScroll=1" target="_blank">外卖员和保安的生死劫</a></td>
     　　　　　<td>刘婷</td>
     　　　　　<td>2025-07-10</td>
