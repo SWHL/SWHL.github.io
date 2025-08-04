@@ -35,12 +35,6 @@ image: "./images/pages/books.jpg"
     　　　　　<td>82.0%</td>
     　　</tr>
 　      <tr>
-    　　　　　<td><a href="https://weread.qq.com/web/reader/22932040813ab99b8g010ff4#outline?noScroll=1" target="_blank">秀场直播女主播的“绝望劳动” （轻纪实）</a></td>
-    　　　　　<td>谷雨实验室 陈晓妍</td>
-    　　　　　<td>2025-07-20</td>
-    　　　　　<td>82.0%</td>
-    　　</tr>
-　      <tr>
     　　　　　<td><a href="https://weread.qq.com/web/reader/22932040813ab99b8g010ff4#outline?noScroll=1" target="_blank">外卖员和保安的生死劫</a></td>
     　　　　　<td>刘婷</td>
     　　　　　<td>2025-07-10</td>
@@ -1339,3 +1333,4 @@ image: "./images/pages/books.jpg"
     　　</tr>
     </tbody>
 </table>
+
