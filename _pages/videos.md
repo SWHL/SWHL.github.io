@@ -16,6 +16,26 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36522427/" target="_blank">奇遇</a></td>
+    　　　　　<td>喜剧</td>
+    　　　　　<td>-</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/1652592/" target="_blank">阿丽塔：战斗天使</a></td>
+    　　　　　<td>动作 / 科幻 / 冒险</td>
+    　　　　　<td>7.5</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/30337388/" target="_blank">失控玩家</a></td>
+    　　　　　<td>喜剧 / 动作 / 科幻</td>
+    　　　　　<td>7.5</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/3793023/" target="_blank">三傻大闹宝莱坞</a></td>
+    　　　　　<td>剧情 / 喜剧 / 爱情 / 歌舞</td>
+    　　　　　<td>9.2</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/36469477/" target="_blank">时间之子</a></td>
     　　　　　<td>爱情 / 动画 / 奇幻 / 冒险</td>
     　　　　　<td>6.3</td>
@@ -1578,7 +1598,7 @@ image: "./images/pages/videos.jpg"
     　　　　　<td>8.9</td>
     　　</tr>
         <tr>
-    　　　　　<td><a href="https://movie.douban.com/subject/1652592/" target="_blank">阿里塔：战斗天使</a></td>
+    　　　　　<td><a href="https://movie.douban.com/subject/1652592/" target="_blank">阿丽塔：战斗天使</a></td>
     　　　　　<td>动作 / 科幻 / 冒险</td>
     　　　　　<td>7.5</td>
     　　</tr>
