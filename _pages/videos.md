@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/27077476/" target="_blank">会计刺客2</a></td>
+    　　　　　<td>剧情 / 动作 / 悬疑 / 惊悚 / 犯罪</td>
+    　　　　　<td>6.0</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/35211511/" target="_blank">我谈的那场恋爱</a></td>
     　　　　　<td>剧情 / 喜剧 / 爱情</td>
     　　　　　<td>7.2</td>
@@ -1880,6 +1885,7 @@ image: "./images/pages/videos.jpg"
     　　</tr>
     </tbody>
 </table>
+
 
 
 
