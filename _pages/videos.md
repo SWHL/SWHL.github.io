@@ -16,6 +16,21 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/35211511/" target="_blank">我谈的那场恋爱</a></td>
+    　　　　　<td>剧情 / 喜剧 / 爱情</td>
+    　　　　　<td>7.2</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/4920389/" target="_blank">头号玩家</a></td>
+    　　　　　<td>动作 / 科幻 / 冒险</td>
+    　　　　　<td>8.7</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/10512661/" target="_blank">银翼杀手2049</a></td>
+    　　　　　<td>剧情 / 动作 / 科幻 / 悬疑 / 惊悚</td>
+    　　　　　<td>8.3</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/36522427/" target="_blank">奇遇</a></td>
     　　　　　<td>喜剧</td>
     　　　　　<td>-</td>
@@ -1865,5 +1880,6 @@ image: "./images/pages/videos.jpg"
     　　</tr>
     </tbody>
 </table>
+
 
 
