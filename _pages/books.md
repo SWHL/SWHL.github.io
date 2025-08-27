@@ -17,6 +17,18 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
 　      <tr>
+　　　　　<td><a href="https://weread.qq.com/web/reader/5da32ca0813ab8bc3g015a3c#outline?noScroll=1" target="_blank">为什么我们相信阴谋论</a></td>
+　　　　　<td>[西班牙]拉蒙·诺格拉斯</td>
+　　　　　<td>2025-08-26</td>
+　　　　　<td>75.9%</td>
+    　　</tr>
+　      <tr>
+　　　　　<td><a href="https://weread.qq.com/web/bookDetail/6d832b40813ab9a86g01102d" target="_blank">100个小众职业故事集</a></td>
+　　　　　<td>悄月白 筱宁 红袖添乱 张守广等</td>
+　　　　　<td>2025-08-26</td>
+　　　　　<td>72.6%</td>
+    　　</tr>
+　      <tr>
     　　　　　<td><a href="https://book.douban.com/subject/26628148/" target="_blank">朱雀堂</a></td>
     　　　　　<td>鬼马星</td>
     　　　　　<td>2025-07-21</td>
