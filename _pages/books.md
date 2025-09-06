@@ -17,6 +17,30 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
 　      <tr>
+　　　　　<td><a href="https://weread.qq.com/web/bookDetail/663323d0813ab9b91g013ca3" target="_blank">考公失败，在农村当“废物”（轻纪实）</a></td>
+　　　　　<td>知音真实故事李玉</td>
+　　　　　<td>2025-09-06</td>
+　　　　　<td>83.6%</td>
+    　　</tr>
+　      <tr>
+　　　　　<td><a href="https://weread.qq.com/web/bookDetail/9d032840813ab9b4ag0100cf" target="_blank">农村学生考上北大后</a></td>
+　　　　　<td>谷雨实验室</td>
+　　　　　<td>2025-09-06</td>
+　　　　　<td>75.4%</td>
+    　　</tr>
+　      <tr>
+　　　　　<td><a href="https://weread.qq.com/web/bookDetail/88332a70813ab9c22g016fd8" target="_blank">一群穷孩子的人生实验（轻纪实）</a></td>
+　　　　　<td>《人物》杂志林松果</td>
+　　　　　<td>2025-09-06</td>
+　　　　　<td>88.9%</td>
+    　　</tr>
+　      <tr>
+　　　　　<td><a href="https://weread.qq.com/web/bookDetail/f6232dc0813ab9cddg01883a" target="_blank">三和大神：第一逆袭仔红牛哥（轻故事）</a></td>
+　　　　　<td>黑暗森林</td>
+　　　　　<td>2025-09-06</td>
+　　　　　<td>71.4%</td>
+    　　</tr>
+　      <tr>
 　　　　　<td><a href="https://weread.qq.com/web/reader/5da32ca0813ab8bc3g015a3c#outline?noScroll=1" target="_blank">为什么我们相信阴谋论</a></td>
 　　　　　<td>[西班牙]拉蒙·诺格拉斯</td>
 　　　　　<td>2025-08-26</td>
