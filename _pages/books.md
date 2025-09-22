@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
 　      <tr>
+　　　　　<td><a href="https://weread.qq.com/web/reader/21932190813ab9be7g012e7f" target="_blank">除夕夜，我在看守所管教一群失足女（轻纪实）</a></td>
+　　　　　<td>闻音</td>
+　　　　　<td>2025-09-22</td>
+　　　　　<td>73.6%</td>
+    　　</tr>
+　      <tr>
 　　　　　<td><a href="https://weread.qq.com/web/bookDetail/663323d0813ab9b91g013ca3" target="_blank">考公失败，在农村当“废物”（轻纪实）</a></td>
 　　　　　<td>知音真实故事李玉</td>
 　　　　　<td>2025-09-06</td>
