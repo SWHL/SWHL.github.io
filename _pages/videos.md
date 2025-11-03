@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36448279/" target="_blank">罗小黑战记2</a></td>
+    　　　　　<td>动画 / 奇幻 / 冒险/td>
+    　　　　　<td>8.7</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/36445098/" target="_blank">还有明天</a></td>
     　　　　　<td>剧情 / 喜剧 / 历史</td>
     　　　　　<td>9.3</td>
@@ -1950,6 +1955,7 @@ image: "./images/pages/videos.jpg"
     　　</tr>
     </tbody>
 </table>
+
 
 
 
