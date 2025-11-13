@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
 　      <tr>
+　　　　　<td><a href="https://weread.qq.com/web/reader/21932190813ab9be7g012e7f" target="_blank">为房痴狂：16位房产经纪人口述实录</a></td>
+　　　　　<td>刘青松</td>
+　　　　　<td>2025-11-13</td>
+　　　　　<td>71.6%</td>
+    　　</tr>
+　      <tr>
 　　　　　<td><a href="https://weread.qq.com/web/reader/21932190813ab9be7g012e7f" target="_blank">除夕夜，我在看守所管教一群失足女（轻纪实）</a></td>
 　　　　　<td>闻音</td>
 　　　　　<td>2025-09-22</td>
