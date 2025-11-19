@@ -17,6 +17,18 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
 　      <tr>
+　　　　　<td><a href="https://weread.qq.com/web/reader/34a32540813ab95d9g0122f2" target="_blank">老无所依：买保健品换来的儿子</a></td>
+　　　　　<td>全民故事计划主编</td>
+　　　　　<td>2025-11-19</td>
+　　　　　<td>74.4%</td>
+    　　</tr>
+　      <tr>
+　　　　　<td><a href="https://book.douban.com/subject/36672955/" target="_blank">我看见的世界</a></td>
+　　　　　<td>李飞飞</td>
+　　　　　<td>2025-11-16</td>
+　　　　　<td>8.9</td>
+    　　</tr>
+　      <tr>
 　　　　　<td><a href="https://weread.qq.com/web/reader/21932190813ab9be7g012e7f" target="_blank">为房痴狂：16位房产经纪人口述实录</a></td>
 　　　　　<td>刘青松</td>
 　　　　　<td>2025-11-13</td>

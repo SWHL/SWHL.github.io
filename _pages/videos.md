@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/36833084/" target="_blank">玫瑰</a></td>
+    　　　　　<td>剧情 / 喜剧/td>
+    　　　　　<td>7.4</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/36402017/" target="_blank">毕正明的证明</a></td>
     　　　　　<td>剧情 / 犯罪/td>
     　　　　　<td>7.2</td>
