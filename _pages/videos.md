@@ -16,28 +16,33 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/11584016/" target="_blank">与神同行：罪与罚</a></td>
+    　　　　　<td>剧情 / 奇幻</td>
+    　　　　　<td>7.8</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/34442364/" target="_blank">暗黑 第三季</a></td>
-    　　　　　<td>科幻 / 悬疑/td>
+    　　　　　<td>科幻 / 悬疑</td>
     　　　　　<td>9.2</td>
     　　</tr>
         <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/5151891/" target="_blank">暂告安全</a></td>
-    　　　　　<td>动作 / 惊悚 / 犯罪/td>
+    　　　　　<td>动作 / 惊悚 / 犯罪</td>
     　　　　　<td>6.4</td>
     　　</tr>
         <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/36833084/" target="_blank">玫瑰</a></td>
-    　　　　　<td>剧情 / 喜剧/td>
+    　　　　　<td>剧情 / 喜剧<td>
     　　　　　<td>7.4</td>
     　　</tr>
         <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/36402017/" target="_blank">毕正明的证明</a></td>
-    　　　　　<td>剧情 / 犯罪/td>
+    　　　　　<td>剧情 / 犯罪<td>
     　　　　　<td>7.2</td>
     　　</tr>
         <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/36448279/" target="_blank">罗小黑战记2</a></td>
-    　　　　　<td>动画 / 奇幻 / 冒险/td>
+    　　　　　<td>动画 / 奇幻 / 冒险<td>
     　　　　　<td>8.7</td>
     　　</tr>
         <tr>

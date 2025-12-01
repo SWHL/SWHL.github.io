@@ -17,6 +17,18 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
 　      <tr>
+　　　　　<td><a href="https://weread.qq.com/web/bookDetail/231321e0813ab9e0cg011619" target="_blank">没钱的北漂年轻人，直接住进公司里</a></td>
+　　　　　<td>故事FM Michelle Jack 罗奇</td>
+　　　　　<td>2025-12-01</td>
+　　　　　<td>74.5%</td>
+    　　</tr>
+　      <tr>
+　　　　　<td><a href="https://weread.qq.com/web/bookDetail/a4f32f20813aba4adg01559a" target="_blank">52个偷拍的男人，和被他们伤害的女性</a></td>
+　　　　　<td>正面连接 洪蔚琳</td>
+　　　　　<td>2025-11-30</td>
+　　　　　<td>71.0%</td>
+    　　</tr>
+　      <tr>
 　　　　　<td><a href="https://weread.qq.com/web/reader/34a32540813ab95d9g0122f2" target="_blank">老无所依：买保健品换来的儿子</a></td>
 　　　　　<td>全民故事计划主编</td>
 　　　　　<td>2025-11-19</td>
