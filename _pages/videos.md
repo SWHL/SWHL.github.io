@@ -16,7 +16,12 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
-    　　　　　<td><a href="https://movie.douban.com/subject/11584016/" target="_blank">与神同行：罪与罚</a></td>
+    　　　　　<td><a href="https://movie.douban.com/subject/27003543/" target="_blank">与神同行2：因与缘</a></td>
+    　　　　　<td>动作 / 奇幻</td>
+    　　　　　<td>7.6</td>
+    　　</tr>
+        <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/11584016/" target="_blank">与神同行1：罪与罚</a></td>
     　　　　　<td>剧情 / 奇幻</td>
     　　　　　<td>7.8</td>
     　　</tr>

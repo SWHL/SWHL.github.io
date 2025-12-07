@@ -17,6 +17,12 @@ image: "./images/pages/books.jpg"
 　　</thead>
     <tbody>
 　      <tr>
+　　　　　<td><a href="https://weread.qq.com/web/bookDetail/4d032360813aba518g013d9c" target="_blank">短剧时代：流量、成瘾与被瓦解的人</a></td>
+　　　　　<td>正面连接 洪蔚琳</td>
+　　　　　<td>2025-12-05</td>
+　　　　　<td>83.0%</td>
+    　　</tr>
+　      <tr>
 　　　　　<td><a href="https://weread.qq.com/web/bookDetail/231321e0813ab9e0cg011619" target="_blank">没钱的北漂年轻人，直接住进公司里</a></td>
 　　　　　<td>故事FM Michelle Jack 罗奇</td>
 　　　　　<td>2025-12-01</td>
