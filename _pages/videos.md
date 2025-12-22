@@ -16,6 +16,11 @@ image: "./images/pages/videos.jpg"
 　　</thead>
     <tbody>
         <tr>
+    　　　　　<td><a href="https://movie.douban.com/subject/20277433/" target="_blank">焦点</a></td>
+    　　　　　<td>剧情 / 喜剧 / 犯罪</td>
+    　　　　　<td>6.9</td>
+    　　</tr>
+        <tr>
     　　　　　<td><a href="https://movie.douban.com/subject/36779171/" target="_blank">偷天盗日</a></td>
     　　　　　<td>惊悚 / 犯罪</td>
     　　　　　<td>6.1</td>
