@@ -52,6 +52,11 @@ image: "./images/pages/videos.jpg"
             　　　　　<td>7.4</td>
             　　</tr>
         <tr>
+            　　　　　<td><a href="https://movie.douban.com/subject/7059671/" target="_blank">最佳出价</a></td>
+            　　　　　<td>剧情 / 爱情 / 悬疑</td>
+            　　　　　<td>8.4</td>
+            　　</tr>
+        <tr>
             　　　　　<td><a href="https://movie.douban.com/subject/36402017/" target="_blank">毕正明的证明</a></td>
             　　　　　<td>剧情 / 犯罪</td>
             　　　　　<td>7.2</td>
@@ -1992,6 +1997,7 @@ image: "./images/pages/videos.jpg"
     　　</tr>
     </tbody>
 </table>
+
 
 
 
