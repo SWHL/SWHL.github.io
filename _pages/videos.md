@@ -227,11 +227,6 @@ image: "./images/pages/videos.jpg"
             　　　　　<td>-</td>
             　　</tr>
         <tr>
-            　　　　　<td><a href="https://movie.douban.com/subject/36597005/" target="_blank">少年歌行 血染天启篇</a></td>
-            　　　　　<td>动作 / 动画 / 武侠 / 古装</td>
-            　　　　　<td>-</td>
-            　　</tr>
-        <tr>
             　　　　　<td><a href="https://movie.douban.com/subject/35954290/" target="_blank">少年歌行 海外仙山篇</a></td>
             　　　　　<td>动画 / 武侠</td>
             　　　　　<td>6.6</td>
@@ -1997,6 +1992,7 @@ image: "./images/pages/videos.jpg"
     　　</tr>
     </tbody>
 </table>
+
 
 
 
