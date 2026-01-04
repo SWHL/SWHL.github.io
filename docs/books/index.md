@@ -1,0 +1,6 @@
+---
+comments: false
+hide:
+  - toc
+---
+

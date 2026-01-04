@@ -25,14 +25,15 @@ extra_javascript = [
 # ===== 额外的 CSS 文件 =====
 extra_css = [
     "stylesheets/extra.css",          # 额外样式
-    "stylesheets/ziti.css",            # 字体样式
+    "stylesheets/font.css",            # 字体样式
     "https://unpkg.com/katex@0/dist/katex.min.css"
 ]
 
 # ===== 导航配置 [Navigation] =====
 nav = [
     { "主页" = "index.md" },
-    { "读过的书" = [
+    { "📚 读过的书" = [
+        { "引言" = "books/index.md" },
         { "2026" = "books/2026.md" },
         { "2025" = "books/2025.md" },
         { "2024" = "books/2024.md" },
@@ -43,7 +44,8 @@ nav = [
         { "2019" = "books/2019.md" },
         { "2018" = "books/2018.md" },
     ] },
-    { "看过的电影" = [
+    { "🎬 看过的电影" = [
+        { "引言" = "videos/index.md" },
         { "2026" = "videos/2026.md" },
         { "2025" = "videos/2025.md" },
         { "2024" = "videos/2024.md" },
@@ -99,7 +101,7 @@ features = [
 # 自动模式（跟随系统）
 [[project.theme.palette]]
 media = "(prefers-color-scheme)"
-toggle = { icon = "material/link", name = "关闭自动模式" }
+toggle = { icon = "lucide/sun-moon", name = "跟随系统" }
 
 # 日间模式
 [[project.theme.palette]]
@@ -107,7 +109,7 @@ media = "(prefers-color-scheme: light)"
 scheme = "default"                # 日间模式配色
 primary = "indigo"                # 主色调
 accent = "indigo"                 # 强调色
-toggle = { icon = "material/toggle-switch", name = "切换至夜间模式" }
+toggle = { icon = "lucide/sun", name = "切换至夜间模式" }
 
 # 夜间模式
 [[project.theme.palette]]
@@ -115,7 +117,7 @@ media = "(prefers-color-scheme: dark)"
 scheme = "slate"                  # 夜间模式配色
 primary = "indigo"                # 主色调
 accent = "indigo"                 # 强调色
-toggle = { icon = "material/toggle-switch-off-outline", name = "切换至日间模式" }
+toggle = { icon = "lucide/moon-star", name = "切换至日间模式" }
 
 # ===== 图标配置 =====
 [project.theme.icon]
