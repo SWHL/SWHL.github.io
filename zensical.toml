@@ -81,7 +81,7 @@ features = [
     "navigation.indexes",         # 章节索引页
     "navigation.instant",         # 即时导航
     "navigation.instant.prefetch",  # 预加载
-    "navigation.path"               # 面包屑导航
+    "navigation.path",               # 面包屑导航
 
     # 搜索相关
     "search.suggest",             # 搜索建议
