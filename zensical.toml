@@ -79,8 +79,9 @@ features = [
     "navigation.footer",          # 上一页/下一页导航
     "navigation.expand",          # 默认展开导航
     "navigation.indexes",         # 章节索引页
-    "navigation.instant",      # 即时导航
+    "navigation.instant",         # 即时导航
     "navigation.instant.prefetch",  # 预加载
+    "navigation.path"               # 面包屑导航
 
     # 搜索相关
     "search.suggest",             # 搜索建议
@@ -95,6 +96,9 @@ features = [
     "content.code.copy",          # 代码复制按钮
     "content.code.select",        # 代码选择功能
     "content.code.annotate",      # 代码注释功能
+
+    "content.action.edit",        # 编辑当前页
+    "content.action.view"         # 查看当前页源码
 ]
 
 # ===== 调色板配置 =====
