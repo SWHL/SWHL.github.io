@@ -38,3 +38,8 @@ img.img1, img.img2, img.img3 {
 #cusdis_thread > iframe {
   height: 50rem;
 }
+
+/*图像圆角*/
+img.img1 {
+  border-radius: 25px;
+}
