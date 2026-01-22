@@ -58,6 +58,10 @@ nav = [
     { "🥘 美食" = [
         {"写在前面" = "delicacy/index.md"},
         {"2026" = "delicacy/2026.md"}
+    ]},
+    { "💎 Obsidian" = [
+        {"写在前面" = "obsidian/index.md"},
+        {"自用插件汇总" = "obsidian/plugins.md"},
     ]}
 ]
 
