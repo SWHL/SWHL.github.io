@@ -1,12 +1,12 @@
 ---
 comments: true
+title: 写在前面
 hide:
   - toc
 ---
 
-
-![cover](../images/books.jpg){.img1}
-
 !!! note
 
     在书中邂逅另外一个世界。
+
+![cover](../images/books.jpg){.img1}
