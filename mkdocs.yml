@@ -152,7 +152,7 @@ nav:
   - 写作(Writing):
     - 工具:
       - Obsidian:
-        自用插件: writing/obsidian/plugins.md
+        - 自用插件: writing/obsidian/plugins.md
   - 日志(Log):
     - 读书:
        - 写在前面: log/books/index.md
