@@ -13,7 +13,7 @@ edit_uri: edit/main/docs
 
 theme:
   name: material
-  favicon: ./static/logo.svg
+  favicon: ./images/blog-solid-full.svg
   language: zh
   custom_dir: docs/overrides
   features:
@@ -57,7 +57,7 @@ theme:
         name: 暗黑主题
 
   icon:
-    logo: material/file-document-multiple
+    logo: fontawesome/solid-blog
     previous: fontawesome/solid/angle-left
     next: fontawesome/solid/angle-right
     repo: fontawesome/brands/github
