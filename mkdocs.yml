@@ -88,7 +88,7 @@ plugins:
   - git-committers:
       repository: SWHL/SWHL.github.io
       branch: main
-      token: !!python/object/apply:os.getenv ["MKDOCS_GIT_COMMITTERS_APIKEY"]
+      token: !!python/object/apply:os.getenv ["BLOG_MKDOCS_GIT_COMMITTERS_APIKEY"]
   - git-revision-date-localized:
       enable_creation_date: true
       timezone: Asia/Shanghai
