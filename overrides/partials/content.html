@@ -37,7 +37,7 @@
 <!-- Page content -->
 {{ page.content }}
 
-{% if page and not page.is_homepage %}
+{% if page.file.src_path != "index.md" %}
 <p class="rss-footer">
     <em>
         本文首发于 <a href="{{ config.site_url }}">swhl.github.io</a>，
