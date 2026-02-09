@@ -164,15 +164,15 @@ nav:
        - 2019: log/books/2019.md
        - 2018: log/books/2018.md
     - 电影:
-       - 写在前面: log/videos/index.md
-       - 2026: log/videos/2026.md
-       - 2025: log/videos/2025.md
-       - 2024: log/videos/2024.md
-       - 2023: log/videos/2023.md
-       - 2022: log/videos/2022.md
-       - 2021: log/videos/2021.md
-       - 2020: log/videos/2020.md
-       - old: log/videos/old.md
+       - 写在前面: log/movies/index.md
+       - 2026: log/movies/2026.md
+       - 2025: log/movies/2025.md
+       - 2024: log/movies/2024.md
+       - 2023: log/movies/2023.md
+       - 2022: log/movies/2022.md
+       - 2021: log/movies/2021.md
+       - 2020: log/movies/2020.md
+       - old: log/movies/old.md
     - 美食:
        - 写在前面: log/delicacy/index.md
        - 2026: log/delicacy/2026.md
