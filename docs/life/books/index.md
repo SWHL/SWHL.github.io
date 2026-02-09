@@ -9,4 +9,4 @@ hide:
 
     在书中邂逅另外一个世界。
 
-![cover](../images/books.jpg){.img1}
+![cover](../../images/books.jpg){.img1}

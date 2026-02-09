@@ -10,4 +10,4 @@ hide:
 
     唯美食与爱不可辜负。
 
-![foot](../images/food.jpg){.img1}
+![foot](../../images/food.jpg){.img1}

@@ -1,8 +1,8 @@
-site_name: SWHL WebBlog
+site_name: SWHL 个人站点
 site_url: https://swhl.github.io/
 site_author: SWHL
 site_description:
-  代码、书、食物与知识网络
+  用工程师思维过日子：代码、书、食物与知识网络
 
 repo_name: SWHL/SWHL.github.io
 repo_url: https://github.com/SWHL/SWHL.github.io
@@ -151,31 +151,31 @@ nav:
     - 工具:
       - Obsidian:
         - 自用插件: writing/obsidian/plugins.md
-  - 日志(Log):
-    - 读书:
-       - 写在前面: log/books/index.md
-       - 2026: log/books/2026.md
-       - 2025: log/books/2025.md
-       - 2024: log/books/2024.md
-       - 2023: log/books/2023.md
-       - 2022: log/books/2022.md
-       - 2021: log/books/2021.md
-       - 2020: log/books/2020.md
-       - 2019: log/books/2019.md
-       - 2018: log/books/2018.md
-    - 电影:
-       - 写在前面: log/movies/index.md
-       - 2026: log/movies/2026.md
-       - 2025: log/movies/2025.md
-       - 2024: log/movies/2024.md
-       - 2023: log/movies/2023.md
-       - 2022: log/movies/2022.md
-       - 2021: log/movies/2021.md
-       - 2020: log/movies/2020.md
-       - old: log/movies/old.md
-    - 美食:
-       - 写在前面: log/delicacy/index.md
-       - 2026: log/delicacy/2026.md
   - 项目 (Projects):
     - My RSS Tool: projects/my-rss-tool.md
+  - 生活(Life):
+    - 读书:
+       - 写在前面: life/books/index.md
+       - 2026: life/books/2026.md
+       - 2025: life/books/2025.md
+       - 2024: life/books/2024.md
+       - 2023: life/books/2023.md
+       - 2022: life/books/2022.md
+       - 2021: life/books/2021.md
+       - 2020: life/books/2020.md
+       - 2019: life/books/2019.md
+       - 2018: life/books/2018.md
+    - 电影:
+       - 写在前面: life/movies/index.md
+       - 2026: life/movies/2026.md
+       - 2025: life/movies/2025.md
+       - 2024: life/movies/2024.md
+       - 2023: life/movies/2023.md
+       - 2022: life/movies/2022.md
+       - 2021: life/movies/2021.md
+       - 2020: life/movies/2020.md
+       - old: life/movies/old.md
+    - 美食:
+       - 写在前面: life/delicacy/index.md
+       - 2026: life/delicacy/2026.md
   - 关于 (About): about.md
