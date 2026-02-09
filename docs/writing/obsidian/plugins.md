@@ -3,6 +3,8 @@ comments: true
 title: 自用插件汇总
 hide:
   - toc
+tags:
+  - obsidian
 ---
 
 !!! note

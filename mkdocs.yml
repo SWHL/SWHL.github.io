@@ -1,0 +1,174 @@
+site_name: SWHL WebBlog
+site_url: https://swhl.github.io/
+site_author: SWHL
+site_description:
+  代码、书、食物与知识网络
+
+repo_name: SWHL/SWHL.github.io
+repo_url: https://github.com/SWHL/SWHL.github.io
+
+copyright: Copyright &copy; 2026 Maintained by SWHL.
+
+edit_uri: edit/main/docs
+
+theme:
+  name: material
+  favicon: ./static/logo.svg
+  language: zh
+  custom_dir: docs/overrides
+  features:
+    - announce.dismiss
+    - content.tooltips
+    - content.code.copy
+    - content.tabs.link
+    - content.action.edit  # 显示编辑按钮
+    - content.action.view  # 显示查看源码按钮
+    - content.footnote.tooltips
+    - navigation.expand  # 默认打开所有的子节
+    - navigation.tabs # 顶级索引被作为tab
+    - navigation.tabs.sticky # tab始终可见
+    - navigation.top # 开启顶部导航栏
+    - navigation.tracking # 导航栏跟踪
+    - navigation.footer
+    - navigation.indexes
+    - search.highlight # 搜索高亮
+    - search.share # 搜索分享
+    - search.suggest # 搜索建议
+    - toc.follow # 目录跟踪-页面右侧的小目录
+
+  palette:
+    - media: "(prefers-color-scheme)" # 系统主题
+      toggle:
+        icon: material/theme-light-dark
+        name: 系统主题
+    - media: "(prefers-color-scheme: light)" # 亮色主题
+      scheme: default
+      primary: white
+      accent: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: 明亮主题
+    - media: "(prefers-color-scheme: dark)" # 暗色主题
+      scheme: slate
+      primary: black
+      accent: yellow
+      toggle:
+        icon: material/weather-night
+        name: 暗黑主题
+
+  icon:
+    logo: material/file-document-multiple
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+    repo: fontawesome/brands/github
+    edit: material/pencil
+    view: material/eye
+    tag:
+      default-tag: fontawesome/solid/tag
+      hardware-tag: fontawesome/solid/microchip
+      software-tag: fontawesome/solid/laptop-code
+
+plugins:
+  - tags
+  - blog:
+      archive: false
+      post_date_format: short
+      blog_toc: true
+      categories_toc: true
+      pagination: false
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - git-committers:
+      repository: RapidAI/RapidLayout
+      branch: main
+      token: !!python/object/apply:os.getenv ["MKDOCS_GIT_COMMITTERS_APIKEY"]
+  - git-revision-date-localized:
+      enable_creation_date: true
+      timezone: Asia/Shanghai
+      type: iso_datetime
+
+
+hooks:
+  - docs/hooks/expiry.py
+  - docs/hooks/change_copyright.py
+
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/font.css
+
+extra:
+  version:
+    provider: mike
+  expiry_days: 180
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - pymdownx.snippets
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - footnotes
+  - def_list
+  - md_in_html
+  - tables
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+        anchor_linenums: true
+        line_spans: __span
+        pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+
+nav:
+  - 首页: index.md
+  - 写作(Writing):
+    - 工具:
+      - Obsidian:
+        自用插件: writing/obsidian/plugins.md
+  - 日志(Log):
+    - 读书:
+       - 写在前面: log/books/index.md
+       - 2026: log/books/2026.md
+       - 2025: log/books/2025.md
+       - 2024: log/books/2024.md
+       - 2023: log/books/2023.md
+       - 2022: log/books/2022.md
+       - 2021: log/books/2021.md
+       - 2020: log/books/2020.md
+       - 2019: log/books/2019.md
+       - 2018: log/books/2018.md
+    - 电影:
+       - 写在前面: log/videos/index.md
+       - 2026: log/videos/2026.md
+       - 2025: log/videos/2025.md
+       - 2024: log/videos/2024.md
+       - 2023: log/videos/2023.md
+       - 2022: log/videos/2022.md
+       - 2021: log/videos/2021.md
+       - 2020: log/videos/2020.md
+       - old: log/videos/old.md
+    - 美食:
+       - 写在前面: log/delicacy/index.md
+       - 2026: log/delicacy/2026.md
+  - 项目 (Projects):
+    - My RSS Tool: projects/my-rss-tool.md
+  - 关于 (About): about.md
