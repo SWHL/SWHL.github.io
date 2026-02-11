@@ -148,6 +148,7 @@ markdown_extensions:
 nav:
   - 首页: index.md
   - 写作(Writing):
+    - 我是如何构建自己的信息流闭环的？: writing/how_do_i_curate_infomation_flow.md
     - 工具:
       - Obsidian:
         - 自用插件: writing/obsidian/plugins.md
