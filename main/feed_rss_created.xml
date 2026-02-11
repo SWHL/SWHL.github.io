@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Mon, 09 Feb 2026 11:25:21 -0000</pubDate>
-    <lastBuildDate>Mon, 09 Feb 2026 11:25:21 -0000</lastBuildDate>
+    <pubDate>Wed, 11 Feb 2026 03:05:38 -0000</pubDate>
+    <lastBuildDate>Wed, 11 Feb 2026 03:05:38 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,21 @@
     
 
     
+    
+    <item>
+      <title>我是如何构建自己的信息流闭环的？</title>
+      
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/writing/how_do_i_curate_infomation_flow/</link>
+      <pubDate>Wed, 11 Feb 2026 03:05:03 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/writing/how_do_i_curate_infomation_flow/</guid>
+      
+    </item>
     
     <item>
       <title>自用插件</title>
