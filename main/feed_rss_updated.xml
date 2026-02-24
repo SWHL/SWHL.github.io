@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 24 Feb 2026 00:30:53 -0000</pubDate>
-    <lastBuildDate>Tue, 24 Feb 2026 00:30:53 -0000</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2026 08:05:11 -0000</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2026 08:05:11 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -32,6 +32,122 @@
     
     
     <item>
+      <title>Blog</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Blog&lt;/h1&gt;</description>
+      <link>https://swhl.github.io/main/blog/</link>
+      <pubDate>Tue, 24 Feb 2026 08:05:12 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Index</title>
+      
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/life/</link>
+      <pubDate>Tue, 24 Feb 2026 08:04:39 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/life/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Index</title>
+      
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/projects/</link>
+      <pubDate>Tue, 24 Feb 2026 08:04:39 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/projects/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Index</title>
+      
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/writing/</link>
+      <pubDate>Tue, 24 Feb 2026 08:04:39 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/writing/</guid>
+      
+    </item>
+    
+    <item>
+      <title>2026</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;| 书名 | 作者 | 读完日期 | 豆瓣评分 / 微信读书推荐值 |
+|------|------|----------|---------------------------|
+|[没考上高中的孩子去哪了](https://weread.qq.com/web/reader/d3f325a0813ab9d48g...&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/life/books/2026/</link>
+      <pubDate>Tue, 24 Feb 2026 00:30:06 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/life/books/2026/</guid>
+      
+    </item>
+    
+    <item>
+      <title>2026</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;| 馆子 | 日期 |主要吃的|
+|------|------|------|
+|沙胆彪牛杂煲|2026-02-22|牛杂煲|
+|乐仁堂药膳|2026-02-08|牛肉汤|
+|闽南咸饭店|2026-01-18|咸饭|
+|四川泸州小吃|2026-01-10|炒肝|
+|沙胆彪牛杂煲|2026-01-01|牛杂煲|&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/life/delicacy/2026/</link>
+      <pubDate>Tue, 24 Feb 2026 00:30:06 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/life/delicacy/2026/</guid>
+      
+    </item>
+    
+    <item>
+      <title>2026</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;| 片名 | 类型 | 豆瓣评分 |
+|------|------|----------|
+|&lt;a href=&#34;https://movie.douban.com/subject/36620952/&#34;&gt;火锅艺术家&lt;/a&gt; | 喜剧 | 6.5 |
+|[上帝之手](https://movie.douban.com/subject/3513...&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/life/movies/2026/</link>
+      <pubDate>Tue, 24 Feb 2026 00:30:06 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/life/movies/2026/</guid>
+      
+    </item>
+    
+    <item>
       <title>我是如何构建自己的信息流闭环的？</title>
       
       
@@ -47,25 +163,219 @@
     </item>
     
     <item>
-      <title>自用插件</title>
+      <title>首页</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;这里是我记录 &lt;strong&gt;代码、思考、生活实验&lt;/strong&gt; 的地方。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📝 &lt;strong&gt;&lt;a href=&#34;./writing/&#34;&gt;写作&lt;/a&gt;&lt;/strong&gt;：技术复盘、工具链、AI 思考&lt;/li&gt;
+&lt;li&gt;📚 &lt;strong&gt;&lt;a href=&#34;./life/&#34;&gt;生活&lt;/a&gt;&lt;/strong&gt;：读过的书、看过的电影、吃过的美食&lt;/li&gt;
+&lt;li&gt;🛠️ &lt;strong&gt;&lt;a href=&#34;./projects/&#34;&gt;项目&lt;/a&gt;&lt;/strong&gt;：开源工具与实验&lt;/li&gt;
+&lt;li&gt;👋 **[关于我](./a...&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://swhl.github.io/main/</link>
+      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/</guid>
+      
+    </item>
+    
+    <item>
+      <title>写在前面</title>
       
       
       
       
       <description>&lt;p&gt;!!! note&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;插件不在于多，而在于满足自己需求。要能分清是想要，还是需要。
+&lt;pre&gt;&lt;code&gt;在书中邂逅另外一个世界。
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;在用插件&lt;/h3&gt;
-&lt;p&gt;| 插件名称 | 作用 |
-|------|------|
-|Better Export PDF|更好的导出笔记到PDF|
-|Clear Unused Images|清理笔记中没有用到的图像|
-|Cod...&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/writing/obsidian/plugins/</link>
-      <pubDate>Mon, 09 Feb 2026 09:02:49 +0000</pubDate>
+&lt;p&gt;&lt;img alt=&#34;cover&#34; src=&#34;../../images/books.jpg&#34;&gt;{.img1}&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/life/books/</link>
+      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/writing/obsidian/plugins/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/life/books/</guid>
+      
+    </item>
+    
+    <item>
+      <title>2018</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;| 书名 | 作者 | 读完日期 | 豆瓣评分 |
+|:------|:------|:----------|:----------|
+| &lt;a href=&#34;https://book.douban.com/subject/6518605/&#34;&gt;三体(全集)&lt;/a&gt; | 刘慈欣 | - | 9.4 |
+| [一禅小和尚](https://...&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/life/books/2018/</link>
+      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/life/books/2018/</guid>
+      
+    </item>
+    
+    <item>
+      <title>2019</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;| 书名 | 作者 | 读完日期 | 豆瓣评分 |
+|------|------|----------|----------|
+| &lt;a href=&#34;https://book.douban.com/subject/25982254/&#34;&gt;大萝卜和难挑的鳄梨&lt;/a&gt; | 村上春树 | 2019-04-16 | 8.1 |
+| [眼眶会红的...&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/life/books/2019/</link>
+      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/life/books/2019/</guid>
+      
+    </item>
+    
+    <item>
+      <title>2020</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;| 书名 | 作者 | 读完日期 | 豆瓣评分 |
+|------|------|----------|----------|
+| &lt;a href=&#34;https://book.douban.com/subject/30254298/&#34;&gt;云边有个小卖部&lt;/a&gt; | 张嘉佳 | 2020-06-15 | 7.5 |
+| [我的二本学生](...&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/life/books/2020/</link>
+      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/life/books/2020/</guid>
+      
+    </item>
+    
+    <item>
+      <title>2021</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;| 书名 | 作者 | 读完日期 | 豆瓣评分 |
+|------|------|----------|----------|
+| &lt;a href=&#34;https://book.douban.com/subject/35585201/&#34;&gt;微尘&lt;/a&gt; | 陈年喜 | 2021-11-24 | 8.7 |
+| [生活蒙太奇](https:...&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/life/books/2021/</link>
+      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/life/books/2021/</guid>
+      
+    </item>
+    
+    <item>
+      <title>2022</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;| 书名 | 作者 | 读完日期 | 豆瓣评分 |
+|------|------|----------|----------|
+| &lt;a href=&#34;https://book.douban.com/subject/33474750/&#34;&gt;浪潮之巅（第四版）&lt;/a&gt; | 吴军 | 2022-12-03 | 9.1 |
+| [少年白马醉春风...&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/life/books/2022/</link>
+      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/life/books/2022/</guid>
+      
+    </item>
+    
+    <item>
+      <title>2023</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;| 书名 | 作者 | 读完日期 | 豆瓣评分 |
+|------|------|----------|----------|
+| &lt;a href=&#34;https://book.douban.com/subject/35796233/&#34;&gt;在工作中，看到中国&lt;/a&gt; | 网易人间 | 2023-12-06 | 8.2 |
+| [涂乐](h...&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/life/books/2023/</link>
+      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/life/books/2023/</guid>
+      
+    </item>
+    
+    <item>
+      <title>2024</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;| 书名 | 作者 | 读完日期 | 豆瓣评分 / 微信读书推荐值 |
+|------|------|----------|---------------------------|
+| &lt;a href=&#34;https://book.douban.com/subject/36530548/&#34;&gt;宝贵的人生建议&lt;/a&gt; | [美] 凯文·凯利...&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/life/books/2024/</link>
+      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/life/books/2024/</guid>
+      
+    </item>
+    
+    <item>
+      <title>2025</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;| 书名 | 作者 | 读完日期 | 豆瓣评分 / 微信读书推荐值 |
+|------|------|----------|---------------------------|
+| [短剧时代：流量、成瘾与被瓦解的人](https://weread.qq.com/web/bookDetail/4d032360...&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/life/books/2025/</link>
+      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/life/books/2025/</guid>
+      
+    </item>
+    
+    <item>
+      <title>写在前面</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;!!! note&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;唯美食与爱不可辜负。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img alt=&#34;foot&#34; src=&#34;../../images/food.jpg&#34;&gt;{.img1}&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/life/delicacy/</link>
+      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/life/delicacy/</guid>
+      
+    </item>
+    
+    <item>
+      <title>写在前面</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;!!! note&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;光影变化间，遇见另一个世界。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img alt=&#34;cover&#34; src=&#34;../../images/videos.jpg&#34;&gt;{.img1}&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/life/movies/</link>
+      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/life/movies/</guid>
       
     </item>
     
