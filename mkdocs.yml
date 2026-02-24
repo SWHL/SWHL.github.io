@@ -70,7 +70,7 @@ theme:
 
 plugins:
   - rss:
-      match_path: "writing/.+\\.md$"
+      # match_path: "writing/.+\\.md$"
       date_from_meta:
         as_creation: date.created
         as_update: "git"
