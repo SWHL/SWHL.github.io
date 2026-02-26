@@ -2,122 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://swhl.github.io/main/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/about/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/blog/</loc>
-         <lastmod>2026-02-24</lastmod>
-    </url>
-    <url>
-         <loc>https://swhl.github.io/main/life/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/books/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/books/2018/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/books/2019/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/books/2020/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/books/2021/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/books/2022/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/books/2023/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/books/2024/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/books/2025/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/books/2026/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/delicacy/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/delicacy/2026/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/movies/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/movies/2020/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/movies/2021/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/movies/2022/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/movies/2023/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/movies/2024/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/movies/2025/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/movies/2026/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/life/movies/%E4%B9%8B%E5%89%8D/</loc>
-         <lastmod>2026-02-24</lastmod>
-    </url>
-    <url>
-         <loc>https://swhl.github.io/main/projects/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/projects/my-rss-tool/</loc>
-         <lastmod>2026-02-24</lastmod>
-    </url>
-    <url>
-         <loc>https://swhl.github.io/main/writing/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/writing/how_do_i_curate_infomation_flow/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
+    </url>
+    <url>
+         <loc>https://swhl.github.io/main/writing/pathlib/</loc>
+         <lastmod>2026-02-26</lastmod>
     </url>
     <url>
          <loc>https://swhl.github.io/main/writing/obsidian/plugins/</loc>
-         <lastmod>2026-02-24</lastmod>
+         <lastmod>2026-02-26</lastmod>
     </url>
 </urlset>

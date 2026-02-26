@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 24 Feb 2026 08:05:11 -0000</pubDate>
-    <lastBuildDate>Tue, 24 Feb 2026 08:05:11 -0000</lastBuildDate>
+    <pubDate>Thu, 26 Feb 2026 03:45:58 -0000</pubDate>
+    <lastBuildDate>Thu, 26 Feb 2026 03:45:58 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -39,7 +39,7 @@
       
       <description>&lt;h1&gt;Blog&lt;/h1&gt;</description>
       <link>https://swhl.github.io/main/blog/</link>
-      <pubDate>Tue, 24 Feb 2026 08:05:12 +0000</pubDate>
+      <pubDate>Thu, 26 Feb 2026 03:45:59 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/</guid>
@@ -47,47 +47,19 @@
     </item>
     
     <item>
-      <title>Index</title>
+      <title>pathlib库中那些容易被忽略的好用方法</title>
       
       
       
       
-      <description></description>
-      <link>https://swhl.github.io/main/life/</link>
-      <pubDate>Tue, 24 Feb 2026 08:04:39 +0000</pubDate>
+      <description>&lt;h3&gt;&lt;code&gt;read_text&lt;/code&gt;和&lt;code&gt;write_text&lt;/code&gt;读写文件&lt;/h3&gt;
+&lt;p&gt;这两个方法在Python 3.5+中支持。官方文档：&lt;a href=&#34;https://docs.python.org/3/library/pathlib.html#reading-and-writing-files&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;```python linen...&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/writing/pathlib/</link>
+      <pubDate>Thu, 26 Feb 2026 03:45:26 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/life/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Index</title>
-      
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/projects/</link>
-      <pubDate>Tue, 24 Feb 2026 08:04:39 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/projects/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Index</title>
-      
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/writing/</link>
-      <pubDate>Tue, 24 Feb 2026 08:04:39 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/writing/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/writing/pathlib/</guid>
       
     </item>
     
@@ -376,6 +348,42 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/life/movies/</guid>
+      
+    </item>
+    
+    <item>
+      <title>2020</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;| 片名 | 类型 | 豆瓣评分 |
+|------|------|----------|
+| &lt;a href=&#34;https://movie.douban.com/subject/30128916/&#34;&gt;夺冠&lt;/a&gt; | 剧情 / 运动 | 7.2 |
+| [绿皮书](https://movie.douban.com/subject/2...&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/life/movies/2020/</link>
+      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/life/movies/2020/</guid>
+      
+    </item>
+    
+    <item>
+      <title>2021</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;| 片名 | 类型 | 豆瓣评分 |
+|------|------|----------|
+| &lt;a href=&#34;https://movie.douban.com/subject/32659890/&#34;&gt;我和我的祖国&lt;/a&gt; | 剧情 | 7.6 |
+| [误杀2](https://movie.douban.com/subject/35...&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/life/movies/2021/</link>
+      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/life/movies/2021/</guid>
       
     </item>
     
