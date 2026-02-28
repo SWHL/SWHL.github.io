@@ -18,8 +18,8 @@
             "title": "Blog",
             "content_html": "<h1>Blog</h1>",
             "image": null,
-            "date_modified": "2026-02-28T04:58:37.502316+00:00",
-            "date_published": "2026-02-28T04:58:37.502313+00:00",
+            "date_modified": "2026-02-28T05:03:15.468927+00:00",
+            "date_published": "2026-02-28T05:03:15.468921+00:00",
             "authors": [],
             "tags": null
         },
@@ -27,9 +27,9 @@
             "id": "https://swhl.github.io/main/writing/coreml-vs-onnx-runtime-apple-silicon-benchmarks/",
             "url": "https://swhl.github.io/main/writing/coreml-vs-onnx-runtime-apple-silicon-benchmarks/",
             "title": "\u5728 macOS \u4e0a\u4f7f\u7528 CoreML \u52a0\u901f ONNX \u6a21\u578b\u63a8\u7406\uff1a\u5b8c\u5168\u6307\u5357",
-            "content_html": "<h2>\u524d\u8a00</h2>\n<p>\u4f5c\u4e3a\u6df1\u5ea6\u5b66\u4e60\u5de5\u7a0b\u5e08\uff0c\u6211\u4eec\u7ecf\u5e38\u9762\u4e34\u4e00\u4e2a\u95ee\u9898\uff1a\u5982\u4f55\u5728 Apple \u8bbe\u5907\u4e0a\u9ad8\u6548\u5730\u90e8\u7f72\u5df2\u6709\u7684 ONNX \u6a21\u578b\uff1f\u672c\u6587\u5c06\u6df1\u5165\u63a2\u8ba8\u4e24\u79cd\u4e3b\u8981\u65b9\u6848\uff0c\u5e76\u901a\u8fc7\u5b9e\u9645\u6d4b\u8bd5\u7ed9\u51fa\u8be6\u7ec6\u7684\u6027\u80fd\u548c\u7cbe\u5ea6\u5bf9\u6bd4\u3002</p>\n<h2>\u76ee\u5f55</h2>\n<ol>\n<li><a href=\"#\u80cc\u666f\">\u80cc\u666f\uff1a\u4e3a\u4ec0\u4e48\u8981\u7528 CoreML</a></li>\n<li>[\u65b9\u6848\u5bf9\u6bd4\uff1aONNX Runtime vs \u539f\u751f Co...</li>\n</ol>",
+            "content_html": "<h2>\u524d\u8a00</h2>\n<p>\u4f5c\u4e3a\u6df1\u5ea6\u5b66\u4e60\u5de5\u7a0b\u5e08\uff0c\u6211\u4eec\u7ecf\u5e38\u9762\u4e34\u4e00\u4e2a\u95ee\u9898\uff1a\u5982\u4f55\u5728 Apple \u8bbe\u5907\u4e0a\u9ad8\u6548\u5730\u90e8\u7f72\u5df2\u6709\u7684 ONNX \u6a21\u578b\uff1f\u672c\u6587\u5c06\u6df1\u5165\u63a2\u8ba8\u4e24\u79cd\u4e3b\u8981\u65b9\u6848\uff0c\u5e76\u901a\u8fc7\u5b9e\u9645\u6d4b\u8bd5\u7ed9\u51fa\u8be6\u7ec6\u7684\u6027\u80fd\u548c\u7cbe\u5ea6\u5bf9\u6bd4\u3002</p>\n<hr>\n<h2>\u80cc\u666f\uff1a\u4e3a\u4ec0\u4e48\u8981\u7528 CoreML</h2>\n<p>CoreML \u662f Apple \u7684\u673a\u5668\u5b66\u4e60\u6846\u67b6\uff0c\u9488\u5bf9 Apple \u82af\u7247\uff08\u7279\u522b\u662f...</p>",
             "image": null,
-            "date_modified": "2026-02-28T04:58:03+00:00",
+            "date_modified": "2026-02-28T05:02:44+00:00",
             "date_published": "2026-02-28T03:54:51+00:00",
             "authors": [],
             "tags": null

@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sat, 28 Feb 2026 04:58:36 -0000</pubDate>
-    <lastBuildDate>Sat, 28 Feb 2026 04:58:36 -0000</lastBuildDate>
+    <pubDate>Sat, 28 Feb 2026 05:03:14 -0000</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2026 05:03:14 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -39,7 +39,7 @@
       
       <description>&lt;h1&gt;Blog&lt;/h1&gt;</description>
       <link>https://swhl.github.io/main/blog/</link>
-      <pubDate>Sat, 28 Feb 2026 04:58:37 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 05:03:15 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL 个人站点</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/</guid>
@@ -54,11 +54,9 @@
       
       <description>&lt;h2&gt;前言&lt;/h2&gt;
 &lt;p&gt;作为深度学习工程师，我们经常面临一个问题：如何在 Apple 设备上高效地部署已有的 ONNX 模型？本文将深入探讨两种主要方案，并通过实际测试给出详细的性能和精度对比。&lt;/p&gt;
-&lt;h2&gt;目录&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;#背景&#34;&gt;背景：为什么要用 CoreML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[方案对比：ONNX Runtime vs 原生 Co...&lt;/li&gt;
-&lt;/ol&gt;</description>
+&lt;hr&gt;
+&lt;h2&gt;背景：为什么要用 CoreML&lt;/h2&gt;
+&lt;p&gt;CoreML 是 Apple 的机器学习框架，针对 Apple 芯片（特别是...&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/writing/coreml-vs-onnx-runtime-apple-silicon-benchmarks/</link>
       <pubDate>Sat, 28 Feb 2026 03:54:51 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL 个人站点</source>
