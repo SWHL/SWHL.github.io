@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 27 Feb 2026 01:20:47 -0000</pubDate>
-    <lastBuildDate>Fri, 27 Feb 2026 01:20:47 -0000</lastBuildDate>
+    <pubDate>Sat, 28 Feb 2026 03:55:25 -0000</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2026 03:55:25 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -39,10 +39,46 @@
       
       <description>&lt;h1&gt;Blog&lt;/h1&gt;</description>
       <link>https://swhl.github.io/main/blog/</link>
-      <pubDate>Fri, 27 Feb 2026 01:20:48 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 03:55:25 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/</guid>
+      
+    </item>
+    
+    <item>
+      <title>在 macOS 上使用 CoreML 加速 ONNX 模型推理：完全指南</title>
+      
+      
+      
+      
+      <description>&lt;h2&gt;前言&lt;/h2&gt;
+&lt;p&gt;作为深度学习工程师，我们经常面临一个问题：如何在 Apple 设备上高效地部署已有的 ONNX 模型？本文将深入探讨两种主要方案，并通过实际测试给出详细的性能和精度对比。&lt;/p&gt;
+&lt;h2&gt;目录&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;#背景&#34;&gt;背景：为什么要用 CoreML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[方案对比：ONNX Runtime vs 原生 Co...&lt;/li&gt;
+&lt;/ol&gt;</description>
+      <link>https://swhl.github.io/main/writing/coreml-vs-onnx-runtime-apple-silicon-benchmarks/</link>
+      <pubDate>Sat, 28 Feb 2026 03:54:51 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/writing/coreml-vs-onnx-runtime-apple-silicon-benchmarks/</guid>
+      
+    </item>
+    
+    <item>
+      <title>我是如何构建自己的信息流闭环的？</title>
+      
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/writing/how_do_i_curate_infomation_flow/</link>
+      <pubDate>Sat, 28 Feb 2026 03:54:51 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/writing/how_do_i_curate_infomation_flow/</guid>
       
     </item>
     
@@ -116,21 +152,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/life/movies/2026/</guid>
-      
-    </item>
-    
-    <item>
-      <title>我是如何构建自己的信息流闭环的？</title>
-      
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/writing/how_do_i_curate_infomation_flow/</link>
-      <pubDate>Wed, 11 Feb 2026 03:05:03 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/writing/how_do_i_curate_infomation_flow/</guid>
       
     </item>
     
@@ -366,24 +387,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/life/movies/2020/</guid>
-      
-    </item>
-    
-    <item>
-      <title>2021</title>
-      
-      
-      
-      
-      <description>&lt;p&gt;| 片名 | 类型 | 豆瓣评分 |
-|------|------|----------|
-| &lt;a href=&#34;https://movie.douban.com/subject/32659890/&#34;&gt;我和我的祖国&lt;/a&gt; | 剧情 | 7.6 |
-| [误杀2](https://movie.douban.com/subject/35...&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/life/movies/2021/</link>
-      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/life/movies/2021/</guid>
       
     </item>
     
