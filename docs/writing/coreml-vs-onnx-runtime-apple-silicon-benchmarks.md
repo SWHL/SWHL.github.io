@@ -637,7 +637,7 @@ print("结果:", output)
 
 所有测试代码已整理并添加详细注释：
 
-### 1. test_coreml.py - CoreML 可用性和性能测试
+### 1. [test_coreml.py](https://gist.github.com/SWHL/fd48ffee4b39ece6f8c418031915872f#file-test_coreml-py) - CoreML 可用性和性能测试
 
 测试 ONNX Runtime 的 CoreML Provider 是否可用，并对比 CoreML 和 CPU 的性能。
 
@@ -654,7 +654,7 @@ python test_coreml.py
 
 ---
 
-### 2. compare_coreml_methods.py - 两种方案完整对比
+### 2. [compare_coreml_methods.py](https://gist.github.com/SWHL/fd48ffee4b39ece6f8c418031915872f#file-compare_coreml_methods-py) - 两种方案完整对比
 
 对比 ONNX Runtime + CoreML Provider 和原生 CoreML 的性能和精度。
 
@@ -673,7 +673,7 @@ python compare_coreml_methods.py
 
 ---
 
-### 3. onnx_to_coreml_modern.py - ONNX 转换工具
+### 3. [onnx_to_coreml_modern.py](https://gist.github.com/SWHL/fd48ffee4b39ece6f8c418031915872f#file-onnx_to_coreml_modern-py) - ONNX 转换工具
 
 尝试将 ONNX 模型转换为 CoreML（会失败，用于演示当前限制）。
 
