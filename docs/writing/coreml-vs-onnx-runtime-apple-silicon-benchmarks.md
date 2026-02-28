@@ -1,7 +1,7 @@
 ---
 title: 在 macOS 上使用 CoreML 加速 ONNX 模型推理：完全指南
-hide:
-  - toc
+# hide:
+#   - toc
 tags:
   - ONNXRuntime
   - CoreML
@@ -11,14 +11,6 @@ comments: true
 ## 前言
 
 作为深度学习工程师，我们经常面临一个问题：如何在 Apple 设备上高效地部署已有的 ONNX 模型？本文将深入探讨两种主要方案，并通过实际测试给出详细的性能和精度对比。
-
-## 目录
-
-1. [背景：为什么要用 CoreML](#背景)
-2. [方案对比：ONNX Runtime vs 原生 CoreML](#方案对比)
-3. [性能测试：MobileNetV3 实战](#性能测试)
-4. [ONNX 转 CoreML：可行性分析](#转换方案)
-5. [最佳实践建议](#最佳实践)
 
 ---
 
