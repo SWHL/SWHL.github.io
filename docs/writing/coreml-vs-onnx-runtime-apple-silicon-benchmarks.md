@@ -3,8 +3,8 @@ title: 在 macOS 上使用 CoreML 加速 ONNX 模型推理：完全指南
 hide:
   - toc
 tags:
-  - info
-  - tool
+  - ONNXRuntime
+  - CoreML
 comments: true
 ---
 
