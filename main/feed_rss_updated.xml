@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sat, 28 Feb 2026 05:03:14 -0000</pubDate>
-    <lastBuildDate>Sat, 28 Feb 2026 05:03:14 -0000</lastBuildDate>
+    <pubDate>Sun, 01 Mar 2026 11:38:09 -0000</pubDate>
+    <lastBuildDate>Sun, 01 Mar 2026 11:38:09 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -39,10 +39,28 @@
       
       <description>&lt;h1&gt;Blog&lt;/h1&gt;</description>
       <link>https://swhl.github.io/main/blog/</link>
-      <pubDate>Sat, 28 Feb 2026 05:03:15 +0000</pubDate>
+      <pubDate>Sun, 01 Mar 2026 11:38:10 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/</guid>
+      
+    </item>
+    
+    <item>
+      <title>2026</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;| 片名 | 类型 | 豆瓣评分 |
+|------|------|----------|
+|&lt;a href=&#34;https://movie.douban.com/subject/30246476/&#34;&gt;创：战神&lt;/a&gt; | 动作 / 科幻 / 冒险 | 6.1 |
+|[火锅艺术家](https://movie.douban.com/su...&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/life/movies/2026/</link>
+      <pubDate>Sun, 01 Mar 2026 11:37:37 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/life/movies/2026/</guid>
       
     </item>
     
@@ -132,24 +150,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/life/delicacy/2026/</guid>
-      
-    </item>
-    
-    <item>
-      <title>2026</title>
-      
-      
-      
-      
-      <description>&lt;p&gt;| 片名 | 类型 | 豆瓣评分 |
-|------|------|----------|
-|&lt;a href=&#34;https://movie.douban.com/subject/36620952/&#34;&gt;火锅艺术家&lt;/a&gt; | 喜剧 | 6.5 |
-|[上帝之手](https://movie.douban.com/subject/3513...&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/life/movies/2026/</link>
-      <pubDate>Tue, 24 Feb 2026 00:30:06 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/life/movies/2026/</guid>
       
     </item>
     
