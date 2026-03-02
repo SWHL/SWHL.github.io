@@ -2,6 +2,7 @@
 comments: true
 hide:
   - toc
+  - navigation
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=Hey+there!+I'm+SWHL)](https://git.io/typing-svg)
