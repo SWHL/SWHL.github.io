@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sun, 01 Mar 2026 11:40:32 -0000</pubDate>
-    <lastBuildDate>Sun, 01 Mar 2026 11:40:32 -0000</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2026 02:47:55 -0000</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2026 02:47:55 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -39,10 +39,33 @@
       
       <description>&lt;h1&gt;Blog&lt;/h1&gt;</description>
       <link>https://swhl.github.io/main/blog/</link>
-      <pubDate>Sun, 01 Mar 2026 11:40:33 +0000</pubDate>
+      <pubDate>Mon, 02 Mar 2026 02:47:56 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Obsidian自用插件汇总</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;!!! note&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;插件不在于多，而在于满足自己需求。要能分清是想要，还是需要。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;在用插件&lt;/h3&gt;
+&lt;p&gt;| 插件名称 | 作用 |
+|------|------|
+|Image Toolkit| 图像查看工具 |
+|Better Export PDF|更好的导出笔记到PDF|
+|Clear Unused ...&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/writing/obsidian_plugins/</link>
+      <pubDate>Mon, 02 Mar 2026 02:47:15 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/writing/obsidian_plugins/</guid>
       
     </item>
     
@@ -365,24 +388,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/life/delicacy/</guid>
-      
-    </item>
-    
-    <item>
-      <title>写在前面</title>
-      
-      
-      
-      
-      <description>&lt;p&gt;!!! note&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;光影变化间，遇见另一个世界。
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img alt=&#34;cover&#34; src=&#34;../../images/videos.jpg&#34;&gt;{.img1}&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/life/movies/</link>
-      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/life/movies/</guid>
       
     </item>
     
