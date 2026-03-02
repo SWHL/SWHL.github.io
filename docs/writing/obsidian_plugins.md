@@ -1,10 +1,10 @@
 ---
-comments: true
-title: 自用插件汇总
+title: Obsidian自用插件汇总
 hide:
   - toc
 tags:
   - obsidian
+comments: true
 ---
 
 !!! note
@@ -15,6 +15,7 @@ tags:
 
 | 插件名称 | 作用 |
 |------|------|
+|Image Toolkit| 图像查看工具 |
 |Better Export PDF|更好的导出笔记到PDF|
 |Clear Unused Images|清理笔记中没有用到的图像|
 |Codeblock Completer|代码块输入```自动成对补全|
