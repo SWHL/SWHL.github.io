@@ -151,7 +151,7 @@ nav:
     - 在 macOS 上使用 CoreML 加速 ONNX 模型推理：完全指南: writing/coreml-vs-onnx-runtime-apple-silicon-benchmarks.md
     - pathlib库中那些容易被忽略的好用方法: writing/pathlib.md
     - 我是如何构建自己的信息流闭环的？: writing/how_do_i_curate_infomation_flow.md
-    - Obsidian自用插件: writing/obsidian/plugins.md
+    - Obsidian自用插件: writing/obsidian_plugins.md
   - 项目 (Projects):
     - My RSS Tool: projects/my-rss-tool.md
   - 生活(Life):
