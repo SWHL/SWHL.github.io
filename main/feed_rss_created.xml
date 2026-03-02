@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Mon, 02 Mar 2026 02:47:55 -0000</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2026 02:47:55 -0000</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2026 03:01:45 -0000</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2026 03:01:45 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -39,7 +39,7 @@
       
       <description>&lt;h1&gt;Blog&lt;/h1&gt;</description>
       <link>https://swhl.github.io/main/blog/</link>
-      <pubDate>Mon, 02 Mar 2026 02:47:56 +0000</pubDate>
+      <pubDate>Mon, 02 Mar 2026 03:01:46 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL 个人站点</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/</guid>
@@ -47,7 +47,7 @@
     </item>
     
     <item>
-      <title>Obsidian自用插件汇总</title>
+      <title>Obsidian自用插件</title>
       
       
       
