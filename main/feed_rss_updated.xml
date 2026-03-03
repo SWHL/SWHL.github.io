@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 03 Mar 2026 08:38:26 -0000</pubDate>
-    <lastBuildDate>Tue, 03 Mar 2026 08:38:26 -0000</lastBuildDate>
+    <pubDate>Tue, 03 Mar 2026 08:57:40 -0000</pubDate>
+    <lastBuildDate>Tue, 03 Mar 2026 08:57:40 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -39,7 +39,7 @@
       
       <description>&lt;h1&gt;python&lt;/h1&gt;</description>
       <link>https://swhl.github.io/main/blog/category/python/</link>
-      <pubDate>Tue, 03 Mar 2026 08:38:28 +0000</pubDate>
+      <pubDate>Tue, 03 Mar 2026 08:57:41 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/category/python/</guid>
@@ -54,10 +54,67 @@
       
       <description>&lt;h1&gt;Obsidian&lt;/h1&gt;</description>
       <link>https://swhl.github.io/main/blog/category/obsidian/</link>
-      <pubDate>Tue, 03 Mar 2026 08:38:28 +0000</pubDate>
+      <pubDate>Tue, 03 Mar 2026 08:57:41 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/category/obsidian/</guid>
+      
+    </item>
+    
+    <item>
+      <title>RSS工具</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;测试&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/blog/2026/03/03/rss%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Tue, 03 Mar 2026 08:44:54 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/rss%E5%B7%A5%E5%85%B7/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Obsidian自用插件汇总</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/2026/03/03/obsidian%E8%87%AA%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB/</link>
+      <pubDate>Tue, 03 Mar 2026 08:44:54 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/obsidian%E8%87%AA%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB/</guid>
+      
+    </item>
+    
+    <item>
+      <title>pathlib库中那些容易被忽略的好用方法</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/2026/03/01/pathlib-easy-to-overlook-but-useful-methods/</link>
+      <pubDate>Tue, 03 Mar 2026 08:44:54 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/01/pathlib-easy-to-overlook-but-useful-methods/</guid>
       
     </item>
     
@@ -119,25 +176,6 @@
     </item>
     
     <item>
-      <title>RSS工具</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;测试&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/03/rss%E5%B7%A5%E5%85%B7/</link>
-      <pubDate>Tue, 03 Mar 2026 08:33:37 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/rss%E5%B7%A5%E5%85%B7/</guid>
-      
-    </item>
-    
-    <item>
       <title>我开发的第一个 VSCode 插件</title>
       
       
@@ -153,54 +191,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Obsidian自用插件汇总</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;!!! note&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;插件不在于多，而在于满足自己需求。要能分清是想要，还是需要。
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;在用插件&lt;/h3&gt;
-&lt;p&gt;| 插件名称 | 作用 |
-|------|------|
-|Image Toolkit| 图像查看工具 |
-|Better Export PDF|更好的导出笔记到PDF|
-|Clear Unused ...&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/03/obsidian%E8%87%AA%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB/</link>
-      <pubDate>Tue, 03 Mar 2026 08:33:37 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/obsidian%E8%87%AA%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB/</guid>
-      
-    </item>
-    
-    <item>
-      <title>pathlib库中那些容易被忽略的好用方法</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;h3&gt;&lt;code&gt;read_text&lt;/code&gt;和&lt;code&gt;write_text&lt;/code&gt;读写文件&lt;/h3&gt;
-&lt;p&gt;这两个方法在Python 3.5+中支持。官方文档：&lt;a href=&#34;https://docs.python.org/3/library/pathlib.html#reading-and-writing-files&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;```python linen...&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/01/pathlib-easy-to-overlook-but-useful-methods/</link>
-      <pubDate>Tue, 03 Mar 2026 08:33:37 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/01/pathlib-easy-to-overlook-but-useful-methods/</guid>
       
     </item>
     
