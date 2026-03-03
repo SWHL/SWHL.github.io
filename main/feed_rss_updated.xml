@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 03 Mar 2026 08:57:40 -0000</pubDate>
-    <lastBuildDate>Tue, 03 Mar 2026 08:57:40 -0000</lastBuildDate>
+    <pubDate>Tue, 03 Mar 2026 09:12:58 -0000</pubDate>
+    <lastBuildDate>Tue, 03 Mar 2026 09:12:58 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -39,7 +39,7 @@
       
       <description>&lt;h1&gt;python&lt;/h1&gt;</description>
       <link>https://swhl.github.io/main/blog/category/python/</link>
-      <pubDate>Tue, 03 Mar 2026 08:57:41 +0000</pubDate>
+      <pubDate>Tue, 03 Mar 2026 09:12:59 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/category/python/</guid>
@@ -54,10 +54,48 @@
       
       <description>&lt;h1&gt;Obsidian&lt;/h1&gt;</description>
       <link>https://swhl.github.io/main/blog/category/obsidian/</link>
-      <pubDate>Tue, 03 Mar 2026 08:57:41 +0000</pubDate>
+      <pubDate>Tue, 03 Mar 2026 09:12:59 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/category/obsidian/</guid>
+      
+    </item>
+    
+    <item>
+      <title>在 macOS 上使用 CoreML 加速 ONNX 模型推理：完全指南</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/2026/03/01/accelerate-onnx-models-with-coreml-on-macos/</link>
+      <pubDate>Tue, 03 Mar 2026 09:12:20 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/01/accelerate-onnx-models-with-coreml-on-macos/</guid>
+      
+    </item>
+    
+    <item>
+      <title>我是如何构建自己的信息流闭环的？</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/2026/03/03/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B5%81%E9%97%AD%E7%8E%AF%E7%9A%84/</link>
+      <pubDate>Tue, 03 Mar 2026 09:12:20 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B5%81%E9%97%AD%E7%8E%AF%E7%9A%84/</guid>
       
     </item>
     
@@ -73,10 +111,29 @@
       
       <description>&lt;p&gt;测试&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/blog/2026/03/03/rss%E5%B7%A5%E5%85%B7/</link>
-      <pubDate>Tue, 03 Mar 2026 08:44:54 +0000</pubDate>
+      <pubDate>Tue, 03 Mar 2026 09:12:20 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/rss%E5%B7%A5%E5%85%B7/</guid>
+      
+    </item>
+    
+    <item>
+      <title>我开发的第一个 VSCode 插件</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/</link>
+      <pubDate>Tue, 03 Mar 2026 09:12:20 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/</guid>
       
     </item>
     
@@ -92,7 +149,7 @@
       
       <description></description>
       <link>https://swhl.github.io/main/blog/2026/03/03/obsidian%E8%87%AA%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB/</link>
-      <pubDate>Tue, 03 Mar 2026 08:44:54 +0000</pubDate>
+      <pubDate>Tue, 03 Mar 2026 09:12:20 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/obsidian%E8%87%AA%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB/</guid>
@@ -111,7 +168,7 @@
       
       <description></description>
       <link>https://swhl.github.io/main/blog/2026/03/01/pathlib-easy-to-overlook-but-useful-methods/</link>
-      <pubDate>Tue, 03 Mar 2026 08:44:54 +0000</pubDate>
+      <pubDate>Tue, 03 Mar 2026 09:12:20 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/01/pathlib-easy-to-overlook-but-useful-methods/</guid>
@@ -134,63 +191,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/</guid>
-      
-    </item>
-    
-    <item>
-      <title>在 macOS 上使用 CoreML 加速 ONNX 模型推理：完全指南</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/2026/03/01/accelerate-onnx-models-with-coreml-on-macos/</link>
-      <pubDate>Tue, 03 Mar 2026 08:33:37 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/01/accelerate-onnx-models-with-coreml-on-macos/</guid>
-      
-    </item>
-    
-    <item>
-      <title>我是如何构建自己的信息流闭环的？</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/2026/03/03/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B5%81%E9%97%AD%E7%8E%AF%E7%9A%84/</link>
-      <pubDate>Tue, 03 Mar 2026 08:33:37 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B5%81%E9%97%AD%E7%8E%AF%E7%9A%84/</guid>
-      
-    </item>
-    
-    <item>
-      <title>我开发的第一个 VSCode 插件</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/</link>
-      <pubDate>Tue, 03 Mar 2026 08:33:37 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/</guid>
       
     </item>
     
