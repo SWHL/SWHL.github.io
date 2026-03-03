@@ -1,11 +1,14 @@
 ---
 title: Obsidian自用插件汇总
+date: 2026-03-03
+authors: [SWHL]
+comments: true
+categories:
+  - Obsidian
 hide:
   - toc
-tags:
-  - obsidian
-comments: true
 ---
+
 
 !!! note
 

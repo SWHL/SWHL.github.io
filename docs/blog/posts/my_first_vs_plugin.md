@@ -1,9 +1,14 @@
 ---
 title: 我开发的第一个 VSCode 插件
+date: 2026-03-03
+authors: [SWHL]
+slug: my-first-vscode-extension
+comments: true
 hide:
   - toc
-comments: true
 ---
+
+<!-- more -->
 
 ### 引言
 

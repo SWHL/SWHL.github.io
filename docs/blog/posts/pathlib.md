@@ -1,8 +1,11 @@
 ---
 title: pathlib库中那些容易被忽略的好用方法
+date: 2026-03-01
+authors: [SWHL]
+slug: pathlib-easy-to-overlook-but-useful-methods
 hide:
   - toc
-tags:
+categories:
   - python
 comments: true
 ---
