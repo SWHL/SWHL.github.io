@@ -1,7 +1,8 @@
 ---
 title: 在 macOS 上使用 CoreML 加速 ONNX 模型推理：完全指南
 date: 2026-03-01
-authors: [SWHL]
+authors:
+  - SWHL
 slug: accelerate-onnx-models-with-coreml-on-macos
 comments: true
 tags:

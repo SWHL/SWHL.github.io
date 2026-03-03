@@ -1,7 +1,8 @@
 ---
 title: Obsidian自用插件汇总
 date: 2026-03-03
-authors: [SWHL]
+authors:
+  - SWHL
 comments: true
 categories:
   - Obsidian
