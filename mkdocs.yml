@@ -107,7 +107,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/SWHL
-    - icon: fontawesome/envelope
+    - icon: fontawesome/solid/envelope
       link: liekkaskono@163.com
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/_SWHL
