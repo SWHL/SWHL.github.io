@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Mon, 02 Mar 2026 03:02:23 -0000</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2026 03:02:23 -0000</lastBuildDate>
+    <pubDate>Tue, 03 Mar 2026 00:34:25 -0000</pubDate>
+    <lastBuildDate>Tue, 03 Mar 2026 00:34:25 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -39,10 +39,25 @@
       
       <description>&lt;h1&gt;Blog&lt;/h1&gt;</description>
       <link>https://swhl.github.io/main/blog/</link>
-      <pubDate>Mon, 02 Mar 2026 03:02:23 +0000</pubDate>
+      <pubDate>Tue, 03 Mar 2026 00:34:26 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL 个人站点</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/</guid>
+      
+    </item>
+    
+    <item>
+      <title>我开发的第一个 VSCode 插件</title>
+      
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/projects/my_first_vs_plugin/</link>
+      <pubDate>Tue, 03 Mar 2026 00:33:47 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/projects/my_first_vs_plugin/</guid>
       
     </item>
     
@@ -369,24 +384,6 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL 个人站点</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/life/movies/2020/</guid>
-      
-    </item>
-    
-    <item>
-      <title>2021</title>
-      
-      
-      
-      
-      <description>&lt;p&gt;| 片名 | 类型 | 豆瓣评分 |
-|------|------|----------|
-| &lt;a href=&#34;https://movie.douban.com/subject/32659890/&#34;&gt;我和我的祖国&lt;/a&gt; | 剧情 | 7.6 |
-| [误杀2](https://movie.douban.com/subject/35...&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/life/movies/2021/</link>
-      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL 个人站点</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/life/movies/2021/</guid>
       
     </item>
     

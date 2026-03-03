@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Mon, 02 Mar 2026 03:02:23 -0000</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2026 03:02:23 -0000</lastBuildDate>
+    <pubDate>Tue, 03 Mar 2026 00:34:25 -0000</pubDate>
+    <lastBuildDate>Tue, 03 Mar 2026 00:34:25 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -39,10 +39,40 @@
       
       <description>&lt;h1&gt;Blog&lt;/h1&gt;</description>
       <link>https://swhl.github.io/main/blog/</link>
-      <pubDate>Mon, 02 Mar 2026 03:02:23 +0000</pubDate>
+      <pubDate>Tue, 03 Mar 2026 00:34:26 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/</guid>
+      
+    </item>
+    
+    <item>
+      <title>My RSS Tool</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;测试&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/projects/my-rss-tool/</link>
+      <pubDate>Tue, 03 Mar 2026 00:33:47 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/projects/my-rss-tool/</guid>
+      
+    </item>
+    
+    <item>
+      <title>我开发的第一个 VSCode 插件</title>
+      
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/projects/my_first_vs_plugin/</link>
+      <pubDate>Tue, 03 Mar 2026 00:33:47 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/projects/my_first_vs_plugin/</guid>
       
     </item>
     
@@ -353,41 +383,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/life/books/2024/</guid>
-      
-    </item>
-    
-    <item>
-      <title>2025</title>
-      
-      
-      
-      
-      <description>&lt;p&gt;| 书名 | 作者 | 读完日期 | 豆瓣评分 / 微信读书推荐值 |
-|------|------|----------|---------------------------|
-| [短剧时代：流量、成瘾与被瓦解的人](https://weread.qq.com/web/bookDetail/4d032360...&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/life/books/2025/</link>
-      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/life/books/2025/</guid>
-      
-    </item>
-    
-    <item>
-      <title>写在前面</title>
-      
-      
-      
-      
-      <description>&lt;p&gt;!!! note&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;唯美食与爱不可辜负。
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img alt=&#34;foot&#34; src=&#34;../../images/food.jpg&#34;&gt;{.img1}&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/life/delicacy/</link>
-      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/life/delicacy/</guid>
       
     </item>
     
