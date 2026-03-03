@@ -117,7 +117,7 @@ extra:
       link: https://www.youtube.com/@SWHL-W
     - icon: fontawesome/brands/python
       link: https://pypi.org/user/SWHL/
-    - icon: fontawesome/brands/rss
+    - icon: fontawesome/solid/rss
       link: https://swhl.github.io/main/feed_rss_created.xml
   version:
     provider: mike
