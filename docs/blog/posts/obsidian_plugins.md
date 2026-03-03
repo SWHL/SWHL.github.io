@@ -9,6 +9,7 @@ hide:
   - toc
 ---
 
+<!-- more -->
 
 !!! note
 

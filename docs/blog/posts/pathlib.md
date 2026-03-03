@@ -10,6 +10,8 @@ categories:
 comments: true
 ---
 
+<!-- more -->
+
 ### `read_text`和`write_text`读写文件
 
 这两个方法在Python 3.5+中支持。官方文档：[link](https://docs.python.org/3/library/pathlib.html#reading-and-writing-files)
