@@ -5,11 +5,31 @@
          <lastmod>2026-03-03</lastmod>
     </url>
     <url>
-         <loc>https://swhl.github.io/main/about/</loc>
+         <loc>https://swhl.github.io/main/blog/</loc>
          <lastmod>2026-03-03</lastmod>
     </url>
     <url>
-         <loc>https://swhl.github.io/main/blog/</loc>
+         <loc>https://swhl.github.io/main/blog/2026/03/01/accelerate-onnx-models-with-coreml-on-macos/</loc>
+         <lastmod>2026-03-03</lastmod>
+    </url>
+    <url>
+         <loc>https://swhl.github.io/main/blog/2026/03/03/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B5%81%E9%97%AD%E7%8E%AF%E7%9A%84/</loc>
+         <lastmod>2026-03-03</lastmod>
+    </url>
+    <url>
+         <loc>https://swhl.github.io/main/blog/2026/03/03/rss%E5%B7%A5%E5%85%B7/</loc>
+         <lastmod>2026-03-03</lastmod>
+    </url>
+    <url>
+         <loc>https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/</loc>
+         <lastmod>2026-03-03</lastmod>
+    </url>
+    <url>
+         <loc>https://swhl.github.io/main/blog/2026/03/03/obsidian%E8%87%AA%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB/</loc>
+         <lastmod>2026-03-03</lastmod>
+    </url>
+    <url>
+         <loc>https://swhl.github.io/main/blog/2026/03/01/pathlib-easy-to-overlook-but-useful-methods/</loc>
          <lastmod>2026-03-03</lastmod>
     </url>
     <url>
@@ -97,27 +117,11 @@
          <lastmod>2026-03-03</lastmod>
     </url>
     <url>
-         <loc>https://swhl.github.io/main/projects/my-rss-tool/</loc>
+         <loc>https://swhl.github.io/main/blog/category/obsidian/</loc>
          <lastmod>2026-03-03</lastmod>
     </url>
     <url>
-         <loc>https://swhl.github.io/main/projects/my_first_vs_plugin/</loc>
-         <lastmod>2026-03-03</lastmod>
-    </url>
-    <url>
-         <loc>https://swhl.github.io/main/writing/coreml-vs-onnx-runtime-apple-silicon-benchmarks/</loc>
-         <lastmod>2026-03-03</lastmod>
-    </url>
-    <url>
-         <loc>https://swhl.github.io/main/writing/how_do_i_curate_infomation_flow/</loc>
-         <lastmod>2026-03-03</lastmod>
-    </url>
-    <url>
-         <loc>https://swhl.github.io/main/writing/obsidian_plugins/</loc>
-         <lastmod>2026-03-03</lastmod>
-    </url>
-    <url>
-         <loc>https://swhl.github.io/main/writing/pathlib/</loc>
+         <loc>https://swhl.github.io/main/blog/category/python/</loc>
          <lastmod>2026-03-03</lastmod>
     </url>
 </urlset>

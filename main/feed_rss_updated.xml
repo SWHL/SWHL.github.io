@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     
-    <title>SWHL 个人站点</title>
+    <title>SWHL</title>
     <description>用工程师思维过日子：代码、书、食物与知识网络</description>
     <link>https://swhl.github.io/main/</link>
     <atom:link href="https://swhl.github.io/main/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 03 Mar 2026 00:34:25 -0000</pubDate>
-    <lastBuildDate>Tue, 03 Mar 2026 00:34:25 -0000</lastBuildDate>
+    <pubDate>Tue, 03 Mar 2026 08:38:26 -0000</pubDate>
+    <lastBuildDate>Tue, 03 Mar 2026 08:38:26 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -24,7 +24,7 @@
     
     <image>
       <url>None</url>
-      <title>SWHL 个人站点</title>
+      <title>SWHL</title>
       <link>https://swhl.github.io/main/</link>
     </image>
     
@@ -32,32 +32,108 @@
     
     
     <item>
-      <title>Blog</title>
+      <title>python</title>
       
       
       
       
-      <description>&lt;h1&gt;Blog&lt;/h1&gt;</description>
-      <link>https://swhl.github.io/main/blog/</link>
-      <pubDate>Tue, 03 Mar 2026 00:34:26 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      <description>&lt;h1&gt;python&lt;/h1&gt;</description>
+      <link>https://swhl.github.io/main/blog/category/python/</link>
+      <pubDate>Tue, 03 Mar 2026 08:38:28 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/category/python/</guid>
       
     </item>
     
     <item>
-      <title>My RSS Tool</title>
+      <title>Obsidian</title>
       
+      
+      
+      
+      <description>&lt;h1&gt;Obsidian&lt;/h1&gt;</description>
+      <link>https://swhl.github.io/main/blog/category/obsidian/</link>
+      <pubDate>Tue, 03 Mar 2026 08:38:28 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/category/obsidian/</guid>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;&lt;a href=&#34;https://git.io/typing-svg&#34;&gt;&lt;img alt=&#34;Typing SVG&#34; src=&#34;https://readme-typing-svg.demolab.com?font=&amp;amp;pause=1000&amp;amp;width=435&amp;amp;lines=Hey+there!+I&#39;m+SWHL&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;🧑🏻‍💻 开源项目&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[Rap...&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://swhl.github.io/main/</link>
+      <pubDate>Tue, 03 Mar 2026 08:33:37 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/</guid>
+      
+    </item>
+    
+    <item>
+      <title>在 macOS 上使用 CoreML 加速 ONNX 模型推理：完全指南</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/2026/03/01/accelerate-onnx-models-with-coreml-on-macos/</link>
+      <pubDate>Tue, 03 Mar 2026 08:33:37 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/01/accelerate-onnx-models-with-coreml-on-macos/</guid>
+      
+    </item>
+    
+    <item>
+      <title>我是如何构建自己的信息流闭环的？</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/2026/03/03/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B5%81%E9%97%AD%E7%8E%AF%E7%9A%84/</link>
+      <pubDate>Tue, 03 Mar 2026 08:33:37 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B5%81%E9%97%AD%E7%8E%AF%E7%9A%84/</guid>
+      
+    </item>
+    
+    <item>
+      <title>RSS工具</title>
+      
+      
+        
+      <author>SWHL</author>
+        
       
       
       
       <description>&lt;p&gt;测试&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/projects/my-rss-tool/</link>
-      <pubDate>Tue, 03 Mar 2026 00:33:47 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      <link>https://swhl.github.io/main/blog/2026/03/03/rss%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Tue, 03 Mar 2026 08:33:37 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/projects/my-rss-tool/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/rss%E5%B7%A5%E5%85%B7/</guid>
       
     </item>
     
@@ -65,36 +141,28 @@
       <title>我开发的第一个 VSCode 插件</title>
       
       
+        
+      <author>SWHL</author>
+        
+      
       
       
       <description></description>
-      <link>https://swhl.github.io/main/projects/my_first_vs_plugin/</link>
-      <pubDate>Tue, 03 Mar 2026 00:33:47 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      <link>https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/</link>
+      <pubDate>Tue, 03 Mar 2026 08:33:37 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/projects/my_first_vs_plugin/</guid>
-      
-    </item>
-    
-    <item>
-      <title>关于 (About)</title>
-      
-      
-      
-      
-      <description>&lt;p&gt;&lt;a href=&#34;https://git.io/typing-svg&#34;&gt;&lt;img alt=&#34;Typing SVG&#34; src=&#34;https://readme-typing-svg.demolab.com?font=&amp;amp;pause=1000&amp;amp;width=435&amp;amp;lines=Hey+there!+I&#39;m+SWHL&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I like open source an...&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/about/</link>
-      <pubDate>Mon, 02 Mar 2026 03:01:51 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/about/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/</guid>
       
     </item>
     
     <item>
-      <title>Obsidian自用插件</title>
+      <title>Obsidian自用插件汇总</title>
       
+      
+        
+      <author>SWHL</author>
+        
       
       
       
@@ -107,11 +175,47 @@
 |Image Toolkit| 图像查看工具 |
 |Better Export PDF|更好的导出笔记到PDF|
 |Clear Unused ...&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/writing/obsidian_plugins/</link>
-      <pubDate>Mon, 02 Mar 2026 02:47:15 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      <link>https://swhl.github.io/main/blog/2026/03/03/obsidian%E8%87%AA%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB/</link>
+      <pubDate>Tue, 03 Mar 2026 08:33:37 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/writing/obsidian_plugins/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/obsidian%E8%87%AA%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB/</guid>
+      
+    </item>
+    
+    <item>
+      <title>pathlib库中那些容易被忽略的好用方法</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description>&lt;h3&gt;&lt;code&gt;read_text&lt;/code&gt;和&lt;code&gt;write_text&lt;/code&gt;读写文件&lt;/h3&gt;
+&lt;p&gt;这两个方法在Python 3.5+中支持。官方文档：&lt;a href=&#34;https://docs.python.org/3/library/pathlib.html#reading-and-writing-files&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;```python linen...&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/blog/2026/03/01/pathlib-easy-to-overlook-but-useful-methods/</link>
+      <pubDate>Tue, 03 Mar 2026 08:33:37 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/01/pathlib-easy-to-overlook-but-useful-methods/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Blog&lt;/h1&gt;</description>
+      <link>https://swhl.github.io/main/blog/</link>
+      <pubDate>Tue, 03 Mar 2026 08:21:45 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/</guid>
       
     </item>
     
@@ -127,60 +231,9 @@
 |[火锅艺术家](https://movie.douban.com/su...&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/life/movies/2026/</link>
       <pubDate>Sun, 01 Mar 2026 11:37:37 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/life/movies/2026/</guid>
-      
-    </item>
-    
-    <item>
-      <title>在 macOS 上使用 CoreML 加速 ONNX 模型推理：完全指南</title>
-      
-      
-      
-      
-      <description>&lt;h2&gt;前言&lt;/h2&gt;
-&lt;p&gt;作为深度学习工程师，我们经常面临一个问题：如何在 Apple 设备上高效地部署已有的 ONNX 模型？本文将深入探讨两种主要方案，并通过实际测试给出详细的性能和精度对比。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;背景：为什么要用 CoreML&lt;/h2&gt;
-&lt;p&gt;CoreML 是 Apple 的机器学习框架，针对 Apple 芯片（特别是...&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/writing/coreml-vs-onnx-runtime-apple-silicon-benchmarks/</link>
-      <pubDate>Sat, 28 Feb 2026 05:02:44 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/writing/coreml-vs-onnx-runtime-apple-silicon-benchmarks/</guid>
-      
-    </item>
-    
-    <item>
-      <title>我是如何构建自己的信息流闭环的？</title>
-      
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/writing/how_do_i_curate_infomation_flow/</link>
-      <pubDate>Sat, 28 Feb 2026 03:54:51 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/writing/how_do_i_curate_infomation_flow/</guid>
-      
-    </item>
-    
-    <item>
-      <title>pathlib库中那些容易被忽略的好用方法</title>
-      
-      
-      
-      
-      <description>&lt;h3&gt;&lt;code&gt;read_text&lt;/code&gt;和&lt;code&gt;write_text&lt;/code&gt;读写文件&lt;/h3&gt;
-&lt;p&gt;这两个方法在Python 3.5+中支持。官方文档：&lt;a href=&#34;https://docs.python.org/3/library/pathlib.html#reading-and-writing-files&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;```python linen...&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/writing/pathlib/</link>
-      <pubDate>Thu, 26 Feb 2026 03:45:26 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/writing/pathlib/</guid>
       
     </item>
     
@@ -195,7 +248,7 @@
 |[没考上高中的孩子去哪了](https://weread.qq.com/web/reader/d3f325a0813ab9d48g...&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/life/books/2026/</link>
       <pubDate>Tue, 24 Feb 2026 00:30:06 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/life/books/2026/</guid>
       
@@ -216,30 +269,9 @@
 |沙胆彪牛杂煲|2026-01-01|牛杂煲|&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/life/delicacy/2026/</link>
       <pubDate>Tue, 24 Feb 2026 00:30:06 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/life/delicacy/2026/</guid>
-      
-    </item>
-    
-    <item>
-      <title>首页</title>
-      
-      
-      
-      
-      <description>&lt;p&gt;这里是我记录 &lt;strong&gt;代码、思考、生活实验&lt;/strong&gt; 的地方。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;📝 &lt;strong&gt;&lt;a href=&#34;./writing/&#34;&gt;写作&lt;/a&gt;&lt;/strong&gt;：技术复盘、工具链、AI 思考&lt;/li&gt;
-&lt;li&gt;📚 &lt;strong&gt;&lt;a href=&#34;./life/&#34;&gt;生活&lt;/a&gt;&lt;/strong&gt;：读过的书、看过的电影、吃过的美食&lt;/li&gt;
-&lt;li&gt;🛠️ &lt;strong&gt;&lt;a href=&#34;./projects/&#34;&gt;项目&lt;/a&gt;&lt;/strong&gt;：开源工具与实验&lt;/li&gt;
-&lt;li&gt;👋 **[关于我](./a...&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <link>https://swhl.github.io/main/</link>
-      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/</guid>
       
     </item>
     
@@ -255,7 +287,7 @@
 &lt;p&gt;&lt;img alt=&#34;cover&#34; src=&#34;../../images/books.jpg&#34;&gt;{.img1}&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/life/books/</link>
       <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/life/books/</guid>
       
@@ -273,7 +305,7 @@
 | [一禅小和尚](https://...&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/life/books/2018/</link>
       <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/life/books/2018/</guid>
       
@@ -291,7 +323,7 @@
 | [眼眶会红的...&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/life/books/2019/</link>
       <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/life/books/2019/</guid>
       
@@ -309,7 +341,7 @@
 | [我的二本学生](...&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/life/books/2020/</link>
       <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/life/books/2020/</guid>
       
@@ -327,7 +359,7 @@
 | [生活蒙太奇](https:...&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/life/books/2021/</link>
       <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/life/books/2021/</guid>
       
@@ -345,7 +377,7 @@
 | [少年白马醉春风...&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/life/books/2022/</link>
       <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/life/books/2022/</guid>
       
@@ -363,26 +395,9 @@
 | [涂乐](h...&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/life/books/2023/</link>
       <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/life/books/2023/</guid>
-      
-    </item>
-    
-    <item>
-      <title>2024</title>
-      
-      
-      
-      
-      <description>&lt;p&gt;| 书名 | 作者 | 读完日期 | 豆瓣评分 / 微信读书推荐值 |
-|------|------|----------|---------------------------|
-| &lt;a href=&#34;https://book.douban.com/subject/36530548/&#34;&gt;宝贵的人生建议&lt;/a&gt; | [美] 凯文·凯利...&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/life/books/2024/</link>
-      <pubDate>Mon, 09 Feb 2026 10:30:31 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL 个人站点</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/life/books/2024/</guid>
       
     </item>
     
