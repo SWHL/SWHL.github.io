@@ -154,6 +154,7 @@ nav:
     - Obsidian自用插件: writing/obsidian_plugins.md
   - 项目 (Projects):
     - My RSS Tool: projects/my-rss-tool.md
+    - 我开发的第一个 VSCode 插件: projects/my_first_vs_plugin.md
   - 生活(Life):
     - 读书:
        - 写在前面: life/books/index.md
