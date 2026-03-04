@@ -18,8 +18,8 @@
             "title": "python",
             "content_html": "<h1>python</h1>",
             "image": null,
-            "date_modified": "2026-03-03T09:44:45.379412+00:00",
-            "date_published": "2026-03-03T09:44:45.379408+00:00",
+            "date_modified": "2026-03-04T02:42:09.769374+00:00",
+            "date_published": "2026-03-04T02:42:09.769369+00:00",
             "authors": [],
             "tags": null
         },
@@ -29,9 +29,50 @@
             "title": "Obsidian",
             "content_html": "<h1>Obsidian</h1>",
             "image": null,
-            "date_modified": "2026-03-03T09:44:45.373498+00:00",
-            "date_published": "2026-03-03T09:44:45.373493+00:00",
+            "date_modified": "2026-03-04T02:42:09.763495+00:00",
+            "date_published": "2026-03-04T02:42:09.763491+00:00",
             "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://swhl.github.io/main/blog/category/opensource/",
+            "url": "https://swhl.github.io/main/blog/category/opensource/",
+            "title": "OpenSource",
+            "content_html": "<h1>OpenSource</h1>",
+            "image": null,
+            "date_modified": "2026-03-04T02:42:09.757545+00:00",
+            "date_published": "2026-03-04T02:42:09.757541+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://swhl.github.io/main/blog/2026/03/04/%E5%85%B3%E4%BA%8E%E5%BC%80%E6%BA%90/",
+            "url": "https://swhl.github.io/main/blog/2026/03/04/%E5%85%B3%E4%BA%8E%E5%BC%80%E6%BA%90/",
+            "title": "\u5173\u4e8e\u5f00\u6e90",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-03-04T02:41:37+00:00",
+            "date_published": "2026-03-04T02:41:37+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://swhl.github.io/main/blog/2026/03/03/rss%E5%B7%A5%E5%85%B7/",
+            "url": "https://swhl.github.io/main/blog/2026/03/03/rss%E5%B7%A5%E5%85%B7/",
+            "title": "RSS\u5de5\u5177",
+            "content_html": "<p>\u6d4b\u8bd5</p>",
+            "image": null,
+            "date_modified": "2026-03-04T02:41:37+00:00",
+            "date_published": "2026-03-04T02:41:37+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
             "tags": null
         },
         {
@@ -65,21 +106,6 @@
             "url": "https://swhl.github.io/main/blog/2026/03/03/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B5%81%E9%97%AD%E7%8E%AF%E7%9A%84/",
             "title": "\u6211\u662f\u5982\u4f55\u6784\u5efa\u81ea\u5df1\u7684\u4fe1\u606f\u6d41\u95ed\u73af\u7684\uff1f",
             "content_html": "",
-            "image": null,
-            "date_modified": "2026-03-03T09:12:20+00:00",
-            "date_published": "2026-03-03T08:21:45+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/2026/03/03/rss%E5%B7%A5%E5%85%B7/",
-            "url": "https://swhl.github.io/main/blog/2026/03/03/rss%E5%B7%A5%E5%85%B7/",
-            "title": "RSS\u5de5\u5177",
-            "content_html": "<p>\u6d4b\u8bd5</p>",
             "image": null,
             "date_modified": "2026-03-03T09:12:20+00:00",
             "date_published": "2026-03-03T08:21:45+00:00",
@@ -228,28 +254,6 @@
             "url": "https://swhl.github.io/main/life/books/2025/",
             "title": 2025,
             "content_html": "<p>| \u4e66\u540d | \u4f5c\u8005 | \u8bfb\u5b8c\u65e5\u671f | \u8c46\u74e3\u8bc4\u5206 / \u5fae\u4fe1\u8bfb\u4e66\u63a8\u8350\u503c |\n|------|------|----------|---------------------------|\n| [\u77ed\u5267\u65f6\u4ee3\uff1a\u6d41\u91cf\u3001\u6210\u763e\u4e0e\u88ab\u74e6\u89e3\u7684\u4eba](https://weread.qq.com/web/bookDetail/4d032360...</p>",
-            "image": null,
-            "date_modified": "2026-02-09T10:30:31+00:00",
-            "date_published": "2026-02-09T10:30:31+00:00",
-            "authors": [],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/life/books/2026/",
-            "url": "https://swhl.github.io/main/life/books/2026/",
-            "title": 2026,
-            "content_html": "<p>| \u4e66\u540d | \u4f5c\u8005 | \u8bfb\u5b8c\u65e5\u671f | \u8c46\u74e3\u8bc4\u5206 / \u5fae\u4fe1\u8bfb\u4e66\u63a8\u8350\u503c |\n|------|------|----------|---------------------------|\n|[\u6ca1\u8003\u4e0a\u9ad8\u4e2d\u7684\u5b69\u5b50\u53bb\u54ea\u4e86](https://weread.qq.com/web/reader/d3f325a0813ab9d48g...</p>",
-            "image": null,
-            "date_modified": "2026-02-24T00:30:06+00:00",
-            "date_published": "2026-02-09T10:30:31+00:00",
-            "authors": [],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/life/delicacy/",
-            "url": "https://swhl.github.io/main/life/delicacy/",
-            "title": "\u5199\u5728\u524d\u9762",
-            "content_html": "<p>!!! note</p>\n<pre><code>\u552f\u7f8e\u98df\u4e0e\u7231\u4e0d\u53ef\u8f9c\u8d1f\u3002\n</code></pre>\n<p><img alt=\"foot\" src=\"../../images/food.jpg\">{.img1}</p>",
             "image": null,
             "date_modified": "2026-02-09T10:30:31+00:00",
             "date_published": "2026-02-09T10:30:31+00:00",
