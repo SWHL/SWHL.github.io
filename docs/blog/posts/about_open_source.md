@@ -10,6 +10,8 @@ hide:
   - toc
 ---
 
+开源随想
+
 <!-- more -->
 
 最近无意中发现了一个前端大佬 [Anthony Fu](https://antfu.me/) 写的一篇文章：[开源的心理建设](https://antfu.me/posts/mental-health-oss-zh)，读后深有同感。
