@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Wed, 04 Mar 2026 03:18:07 -0000</pubDate>
-    <lastBuildDate>Wed, 04 Mar 2026 03:18:07 -0000</lastBuildDate>
+    <pubDate>Thu, 05 Mar 2026 07:03:40 -0000</pubDate>
+    <lastBuildDate>Thu, 05 Mar 2026 07:03:40 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -39,7 +39,7 @@
       
       <description>&lt;h1&gt;python&lt;/h1&gt;</description>
       <link>https://swhl.github.io/main/blog/category/python/</link>
-      <pubDate>Wed, 04 Mar 2026 03:18:09 +0000</pubDate>
+      <pubDate>Thu, 05 Mar 2026 07:03:42 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/category/python/</guid>
@@ -54,7 +54,7 @@
       
       <description>&lt;h1&gt;Obsidian&lt;/h1&gt;</description>
       <link>https://swhl.github.io/main/blog/category/obsidian/</link>
-      <pubDate>Wed, 04 Mar 2026 03:18:09 +0000</pubDate>
+      <pubDate>Thu, 05 Mar 2026 07:03:42 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/category/obsidian/</guid>
@@ -69,10 +69,29 @@
       
       <description>&lt;h1&gt;OpenSource&lt;/h1&gt;</description>
       <link>https://swhl.github.io/main/blog/category/opensource/</link>
-      <pubDate>Wed, 04 Mar 2026 03:18:09 +0000</pubDate>
+      <pubDate>Thu, 05 Mar 2026 07:03:42 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/category/opensource/</guid>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      
+      
+      
+      
+      <description>&lt;p&gt;&lt;a href=&#34;https://git.io/typing-svg&#34;&gt;&lt;img alt=&#34;Typing SVG&#34; src=&#34;https://readme-typing-svg.demolab.com?font=&amp;amp;pause=1000&amp;amp;width=435&amp;amp;lines=Hey+there!+I&#39;m+SWHL&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;🧑🏻‍💻 开源项目&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[Pun...&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://swhl.github.io/main/</link>
+      <pubDate>Thu, 05 Mar 2026 07:03:03 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/</guid>
       
     </item>
     
@@ -206,25 +225,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/01/pathlib-easy-to-overlook-but-useful-methods/</guid>
-      
-    </item>
-    
-    <item>
-      <title>About</title>
-      
-      
-      
-      
-      <description>&lt;p&gt;&lt;a href=&#34;https://git.io/typing-svg&#34;&gt;&lt;img alt=&#34;Typing SVG&#34; src=&#34;https://readme-typing-svg.demolab.com?font=&amp;amp;pause=1000&amp;amp;width=435&amp;amp;lines=Hey+there!+I&#39;m+SWHL&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;🧑🏻‍💻 开源项目&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;[Rap...&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <link>https://swhl.github.io/main/</link>
-      <pubDate>Tue, 03 Mar 2026 08:33:37 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/</guid>
       
     </item>
     
