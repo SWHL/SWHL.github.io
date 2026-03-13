@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 13 Mar 2026 03:23:20 -0000</pubDate>
-    <lastBuildDate>Fri, 13 Mar 2026 03:23:20 -0000</lastBuildDate>
+    <pubDate>Fri, 13 Mar 2026 06:04:41 -0000</pubDate>
+    <lastBuildDate>Fri, 13 Mar 2026 06:04:41 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>我开发的第一个 VSCode 插件</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;记录借助 Cursor 工具开发第一个 VSCode 插件的过程&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/</link>
+      <pubDate>Fri, 13 Mar 2026 06:04:10 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/</guid>
+      
+    </item>
     
     <item>
       <title>常用的 macOS 软件推荐</title>
@@ -123,25 +142,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B5%81%E9%97%AD%E7%8E%AF%E7%9A%84/</guid>
-      
-    </item>
-    
-    <item>
-      <title>我开发的第一个 VSCode 插件</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/</link>
-      <pubDate>Tue, 03 Mar 2026 09:12:20 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/</guid>
       
     </item>
     

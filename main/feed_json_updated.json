@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/",
+            "url": "https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/",
+            "title": "\u6211\u5f00\u53d1\u7684\u7b2c\u4e00\u4e2a VSCode \u63d2\u4ef6",
+            "content_html": "<p>\u8bb0\u5f55\u501f\u52a9 Cursor \u5de5\u5177\u5f00\u53d1\u7b2c\u4e00\u4e2a VSCode \u63d2\u4ef6\u7684\u8fc7\u7a0b</p>",
+            "image": null,
+            "date_modified": "2026-03-13T06:04:10+00:00",
+            "date_published": "2026-03-03T08:21:45+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/2026/03/10/%E5%B8%B8%E7%94%A8%E7%9A%84-macos-%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/",
             "url": "https://swhl.github.io/main/blog/2026/03/10/%E5%B8%B8%E7%94%A8%E7%9A%84-macos-%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/",
             "title": "\u5e38\u7528\u7684 macOS \u8f6f\u4ef6\u63a8\u8350",
@@ -76,21 +91,6 @@
             "id": "https://swhl.github.io/main/blog/2026/03/03/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B5%81%E9%97%AD%E7%8E%AF%E7%9A%84/",
             "url": "https://swhl.github.io/main/blog/2026/03/03/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B5%81%E9%97%AD%E7%8E%AF%E7%9A%84/",
             "title": "\u6211\u662f\u5982\u4f55\u6784\u5efa\u81ea\u5df1\u7684\u4fe1\u606f\u6d41\u95ed\u73af\u7684\uff1f",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-03-03T09:12:20+00:00",
-            "date_published": "2026-03-03T08:21:45+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/",
-            "url": "https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/",
-            "title": "\u6211\u5f00\u53d1\u7684\u7b2c\u4e00\u4e2a VSCode \u63d2\u4ef6",
             "content_html": "",
             "image": null,
             "date_modified": "2026-03-03T09:12:20+00:00",
