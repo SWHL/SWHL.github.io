@@ -28,3 +28,10 @@ hide:
 这些工具间的关系如下图：
 
 ![alt text](../../images/how_do_i_curate_infomation_flow_image.png){.img1}
+
+其中，PinBox 支持移动端、网页版，因此只要登录账号即可同步获取信息。
+
+NetNewsWire 支持 iOS 端，不支持网页版。但是可以借助 Inoreader 来实现网页版同步信息。
+
+Flomo: 支持移动端、网页端和 PC 端。
+
