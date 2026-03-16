@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Mon, 16 Mar 2026 09:20:35 -0000</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2026 09:20:35 -0000</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 09:25:18 -0000</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 09:25:18 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -32,25 +32,6 @@
     
     
     <item>
-      <title>我开发的第一个 VSCode 插件</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;记录借助 Cursor 工具开发第一个 VSCode 插件的过程&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/</link>
-      <pubDate>Mon, 16 Mar 2026 09:19:59 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/</guid>
-      
-    </item>
-    
-    <item>
       <title>从 Alfred 转到 Raycast</title>
       
       
@@ -62,10 +43,29 @@
       
       <description>&lt;p&gt;记录从 Alfred 转到 Raycast 的过程。&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/blog/2026/03/13/from-alfred-to-raycast/</link>
-      <pubDate>Fri, 13 Mar 2026 09:43:31 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 09:24:43 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/13/from-alfred-to-raycast/</guid>
+      
+    </item>
+    
+    <item>
+      <title>我开发的第一个 VSCode 插件</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;记录借助 Cursor 工具开发第一个 VSCode 插件的过程&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/</link>
+      <pubDate>Mon, 16 Mar 2026 09:24:43 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/</guid>
       
     </item>
     
