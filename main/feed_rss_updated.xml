@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Mon, 16 Mar 2026 11:18:20 -0000</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2026 11:18:20 -0000</lastBuildDate>
+    <pubDate>Tue, 17 Mar 2026 02:36:54 -0000</pubDate>
+    <lastBuildDate>Tue, 17 Mar 2026 02:36:54 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -32,7 +32,7 @@
     
     
     <item>
-      <title>我是如何构建自己的信息流闭环的？</title>
+      <title>如何构建自己的信息流闭环的？</title>
       
       
         
@@ -42,11 +42,49 @@
       
       
       <description>&lt;p&gt;记录一下自己是如何处理每天海量的信息的。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/03/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B5%81%E9%97%AD%E7%8E%AF%E7%9A%84/</link>
-      <pubDate>Mon, 16 Mar 2026 11:17:48 +0000</pubDate>
+      <link>https://swhl.github.io/main/blog/2026/03/03/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B5%81%E9%97%AD%E7%8E%AF%E7%9A%84/</link>
+      <pubDate>Tue, 17 Mar 2026 02:36:17 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B5%81%E9%97%AD%E7%8E%AF%E7%9A%84/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B5%81%E9%97%AD%E7%8E%AF%E7%9A%84/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Obsidian自用插件汇总</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/2026/03/03/obsidian%E8%87%AA%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB/</link>
+      <pubDate>Tue, 17 Mar 2026 02:36:17 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/obsidian%E8%87%AA%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB/</guid>
+      
+    </item>
+    
+    <item>
+      <title>VS Code 自用插件汇总</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;记录日常使用到的 VSCode 插件&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/blog/2026/03/17/vs-code-%E8%87%AA%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB/</link>
+      <pubDate>Tue, 17 Mar 2026 02:36:17 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/17/vs-code-%E8%87%AA%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB/</guid>
       
     </item>
     
@@ -142,25 +180,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/01/accelerate-onnx-models-with-coreml-on-macos/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Obsidian自用插件汇总</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/2026/03/03/obsidian%E8%87%AA%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB/</link>
-      <pubDate>Tue, 03 Mar 2026 09:12:20 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/obsidian%E8%87%AA%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB/</guid>
       
     </item>
     
