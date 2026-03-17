@@ -16,7 +16,10 @@ categories:
 
 <!-- more -->
 
-![alt text](../../images/Alfred_vs_Raycast.png){.img1}
+<figure markdown="span">
+  ![alt text](../../images/Alfred_vs_Raycast.png){.img1}
+  <figcaption> 配图来自 Google Gemini</figcaption>
+</figure>
 
 自己一直在使用 Alfred 作为快捷启动工具，替代系统原有的 Spotlight。对于我而言，免费版的 Alfred 凑活够用了。
 
