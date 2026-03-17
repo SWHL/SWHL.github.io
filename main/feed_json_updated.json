@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/2026/03/17/teach-dont-tell/",
+            "url": "https://swhl.github.io/main/blog/2026/03/17/teach-dont-tell/",
+            "title": "\u6559\uff0c\u800c\u975e\u544a\u77e5",
+            "content_html": "<p>\u672c\u6587\u8ba8\u8bba\u7684\u662f\u6280\u672f\u6587\u6863\u5199\u4f5c\u2014\u2014\u66f4\u5177\u4f53\u5730\u8bf4\uff0c\u662f\u5173\u4e8e\u7f16\u7a0b\u8bed\u8a00\u548c\u5e93\u7684\u6587\u6863\u7f16\u5199\u3002</p>",
+            "image": null,
+            "date_modified": "2026-03-17T11:28:19+00:00",
+            "date_published": "2026-03-17T11:28:19+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/2026/03/13/from-alfred-to-raycast/",
             "url": "https://swhl.github.io/main/blog/2026/03/13/from-alfred-to-raycast/",
             "title": "\u4ece Alfred \u8f6c\u5230 Raycast",
