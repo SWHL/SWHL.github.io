@@ -13,6 +13,36 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/2026/03/13/from-alfred-to-raycast/",
+            "url": "https://swhl.github.io/main/blog/2026/03/13/from-alfred-to-raycast/",
+            "title": "\u4ece Alfred \u8f6c\u5230 Raycast",
+            "content_html": "<p>\u8bb0\u5f55\u4ece Alfred \u8f6c\u5230 Raycast \u7684\u8fc7\u7a0b\u3002</p>",
+            "image": null,
+            "date_modified": "2026-03-17T05:03:20+00:00",
+            "date_published": "2026-03-13T09:43:31+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://swhl.github.io/main/blog/2026/03/17/raycast-with-obsidian/",
+            "url": "https://swhl.github.io/main/blog/2026/03/17/raycast-with-obsidian/",
+            "title": "\u4f7f\u7528 Raycast \u5feb\u901f\u5728 Obsidian \u7b14\u8bb0\u4e2d\u641c\u7d22\u7b14\u8bb0",
+            "content_html": "<p>\u8bb0\u5f55\u5982\u4f55\u914d\u7f6e Raycast \u6765\u5feb\u901f\u5176\u7a97\u53e3\u4e2d\u641c\u7d22 Obsidian \u4e2d\u7684\u7b14\u8bb0\u3002</p>",
+            "image": null,
+            "date_modified": "2026-03-17T05:03:20+00:00",
+            "date_published": "2026-03-17T05:03:20+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/2026/03/03/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B5%81%E9%97%AD%E7%8E%AF%E7%9A%84/",
             "url": "https://swhl.github.io/main/blog/2026/03/03/%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BF%A1%E6%81%AF%E6%B5%81%E9%97%AD%E7%8E%AF%E7%9A%84/",
             "title": "\u5982\u4f55\u6784\u5efa\u81ea\u5df1\u7684\u4fe1\u606f\u6d41\u95ed\u73af\u7684\uff1f",
@@ -65,21 +95,6 @@
             "image": null,
             "date_modified": "2026-03-16T09:41:26+00:00",
             "date_published": "2026-03-03T08:21:45+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/2026/03/13/from-alfred-to-raycast/",
-            "url": "https://swhl.github.io/main/blog/2026/03/13/from-alfred-to-raycast/",
-            "title": "\u4ece Alfred \u8f6c\u5230 Raycast",
-            "content_html": "<p>\u8bb0\u5f55\u4ece Alfred \u8f6c\u5230 Raycast \u7684\u8fc7\u7a0b\u3002</p>",
-            "image": null,
-            "date_modified": "2026-03-16T09:24:43+00:00",
-            "date_published": "2026-03-13T09:43:31+00:00",
             "authors": [
                 {
                     "name": "SWHL"
