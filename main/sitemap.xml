@@ -5,6 +5,10 @@
          <lastmod>2026-03-20</lastmod>
     </url>
     <url>
+         <loc>https://swhl.github.io/main/tags/</loc>
+         <lastmod>2026-03-20</lastmod>
+    </url>
+    <url>
          <loc>https://swhl.github.io/main/blog/</loc>
          <lastmod>2026-03-20</lastmod>
     </url>
@@ -145,35 +149,11 @@
          <lastmod>2026-03-20</lastmod>
     </url>
     <url>
-         <loc>https://swhl.github.io/main/blog/category/software/</loc>
+         <loc>https://swhl.github.io/main/blog/category/%E5%B7%A5%E5%85%B7/</loc>
          <lastmod>2026-03-20</lastmod>
     </url>
     <url>
-         <loc>https://swhl.github.io/main/blog/category/raycast/</loc>
-         <lastmod>2026-03-20</lastmod>
-    </url>
-    <url>
-         <loc>https://swhl.github.io/main/blog/category/obsidian/</loc>
-         <lastmod>2026-03-20</lastmod>
-    </url>
-    <url>
-         <loc>https://swhl.github.io/main/blog/category/vscode/</loc>
-         <lastmod>2026-03-20</lastmod>
-    </url>
-    <url>
-         <loc>https://swhl.github.io/main/blog/category/translate/</loc>
-         <lastmod>2026-03-20</lastmod>
-    </url>
-    <url>
-         <loc>https://swhl.github.io/main/blog/category/%E5%86%99%E4%BD%9C/</loc>
-         <lastmod>2026-03-20</lastmod>
-    </url>
-    <url>
-         <loc>https://swhl.github.io/main/blog/category/alfred/</loc>
-         <lastmod>2026-03-20</lastmod>
-    </url>
-    <url>
-         <loc>https://swhl.github.io/main/blog/category/opensource/</loc>
+         <loc>https://swhl.github.io/main/blog/category/%E7%BF%BB%E8%AF%91/</loc>
          <lastmod>2026-03-20</lastmod>
     </url>
     <url>
@@ -181,11 +161,11 @@
          <lastmod>2026-03-20</lastmod>
     </url>
     <url>
-         <loc>https://swhl.github.io/main/blog/category/markdown/</loc>
+         <loc>https://swhl.github.io/main/blog/category/%E6%8E%A8%E7%90%86%E5%BC%95%E6%93%8E/</loc>
          <lastmod>2026-03-20</lastmod>
     </url>
     <url>
-         <loc>https://swhl.github.io/main/blog/category/python/</loc>
+         <loc>https://swhl.github.io/main/blog/category/%E7%BC%96%E7%A8%8B/</loc>
          <lastmod>2026-03-20</lastmod>
     </url>
 </urlset>
