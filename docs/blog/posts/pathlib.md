@@ -7,15 +7,17 @@ slug: pathlib-easy-to-overlook-but-useful-methods
 hide:
   - toc
 categories:
+  - 编程
+tags:
   - python
 comments: true
 ---
 
 <!-- more -->
 
-### `read_text`和`write_text`读写文件
+### `read_text` 和 `write_text` 读写文件
 
-这两个方法在Python 3.5+中支持。官方文档：[link](https://docs.python.org/3/library/pathlib.html#reading-and-writing-files)
+这两个方法在 Python 3.5+ 中支持。官方文档：[link](https://docs.python.org/3/library/pathlib.html#reading-and-writing-files)
 
 ```python linenums="1"
 >> p = Path('my_text_file')
@@ -46,7 +48,7 @@ PosixPath('tmp/4')
 
 ### 删除具体文件
 
-python 3.8+：添加了`missing_ok`参数
+python 3.8+：添加了 `missing_ok` 参数
 
 ```python linenums="1"
 >> path_txt = Path('1.txt')

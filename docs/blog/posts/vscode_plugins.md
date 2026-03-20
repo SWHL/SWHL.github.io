@@ -5,7 +5,9 @@ authors:
   - SWHL
 comments: true
 categories:
-  - VSCode
+  - 工具
+tags:
+ - VS Code
 hide:
   - toc
 ---

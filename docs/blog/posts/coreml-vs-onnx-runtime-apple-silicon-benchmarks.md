@@ -5,6 +5,8 @@ authors:
   - SWHL
 slug: accelerate-onnx-models-with-coreml-on-macos
 comments: true
+categories:
+  - 推理引擎
 tags:
   - ONNXRuntime
   - CoreML
@@ -174,7 +176,7 @@ python compare_coreml_methods.py
 
 - 🐌 在 ONNX Runtime 中，CoreML Provider 反而比 CPU 慢 30%
 - ✅ 但 CoreML 的延迟更稳定（标准差小 6 倍）
-- ⚠️ CPU 偶尔会出现极端延迟（最大 39.3ms）
+- ⚠️ CPU 偶尔会出现极端延迟（最大 39.3 ms）
 
 **原因分析：**
 
@@ -211,7 +213,7 @@ python compare_coreml_methods.py
 
 - 🚀 **原生 CoreML 推理速度快 20.6 倍**
 - 📦 模型体积减少 49%（9.71 MB → 4.95 MB）
-- ✅ 延迟更稳定（±0.040ms vs ±0.296ms）
+- ✅ 延迟更稳定（±0.040 ms vs ±0.296 ms）
 - ⚠️ 但加载时间稍慢（多 0.4 秒）
 
 **性能分布对比：**

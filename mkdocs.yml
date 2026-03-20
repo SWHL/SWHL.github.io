@@ -78,9 +78,10 @@ plugins:
       pretty_print: true
   - tags
   - blog:
+      blog_dir: blog
       archive: true
       archive_name: Archive
-      archive_date_format: yyyy
+      archive_date_format: yyyy/MM
       archive_url_format: "archive/{date}"
       post_date_format: short
       blog_toc: true
@@ -163,6 +164,11 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - admonition
+
+# Explicitly confirm there is awareness of files not in nav
+not_in_nav: |
+  /tags.md
+
 
 nav:
   - Blog:

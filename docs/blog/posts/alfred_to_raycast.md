@@ -5,11 +5,13 @@ authors:
   - SWHL
 slug: from-alfred-to-raycast
 comments: true
+categories:
+  - 工具
+tags:
+  - Alfred
+  - Raycast
 hide:
   - toc
-categories:
-  - Raycast
-  - Alfred
 ---
 
 记录从 Alfred 转到 Raycast 的过程。

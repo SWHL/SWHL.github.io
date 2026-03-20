@@ -7,7 +7,9 @@ authors:
   - SWHL
 comments: true
 categories:
-  - software
+  - 工具
+tags:
+  - macOS
 hide:
   - toc
 links:

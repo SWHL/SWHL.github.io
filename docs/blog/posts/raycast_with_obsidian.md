@@ -5,11 +5,13 @@ authors:
   - SWHL
 slug: raycast-with-obsidian
 comments: true
-hide:
-  - toc
 categories:
+  - 工具
+tags:
   - Raycast
   - Obsidian
+hide:
+  - toc
 links:
   - 从 Alfred 转到 Raycast: blog/posts/alfred_to_raycast.md
 ---

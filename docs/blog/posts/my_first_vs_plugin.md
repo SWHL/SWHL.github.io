@@ -5,11 +5,13 @@ authors:
   - SWHL
 slug: my-first-vscode-extension
 comments: true
+categories:
+  - 工具
+tags:
+  - VS Code
+  - markdown
 hide:
   - toc
-categories:
-  - VSCode
-  - markdown
 ---
 
 记录借助 Cursor 工具开发第一个 VSCode 插件的过程

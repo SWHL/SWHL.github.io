@@ -5,7 +5,9 @@ authors:
   - SWHL
 comments: true
 categories:
-  - Obsidian
+  - 工具
+tags:
+ - Obsidian
 hide:
   - toc
 ---

@@ -8,8 +8,7 @@ comments: true
 hide:
   - toc
 categories:
-  - Translate
-  - 写作
+  - 翻译
 ---
 
 本文讨论的是技术文档写作——更具体地说，是关于编程语言和库的文档编写。
@@ -21,7 +20,6 @@ categories:
 发布：2013 年 9 月 3 日
 
 原文：[Teach, Don't Tell](https://stevelosh.com/blog/2013/09/teach-dont-tell/)
-
 
 本文讨论的是技术文档写作——更具体地说，是关于编程语言和库的文档编写。
 
