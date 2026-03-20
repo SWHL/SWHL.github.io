@@ -10,6 +10,8 @@ categories:
   - software
 hide:
   - toc
+link:
+  - 常用的 macOS 软件推荐: blog/posts/macos_software.md
 ---
 
 推荐自己在 Windows 上常用的小软件
