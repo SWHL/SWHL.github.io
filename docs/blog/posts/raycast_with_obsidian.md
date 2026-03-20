@@ -10,7 +10,7 @@ hide:
 categories:
   - Raycast
   - Obsidian
-link:
+links:
   - 从 Alfred 转到 Raycast: blog/posts/alfred_to_raycast.md
 ---
 

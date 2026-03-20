@@ -6,11 +6,10 @@ authors:
   - SWHL
 comments: true
 categories:
-  - windows
   - software
 hide:
   - toc
-link:
+links:
   - 常用的 macOS 软件推荐: blog/posts/macos_software.md
 ---
 

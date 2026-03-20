@@ -78,11 +78,15 @@ plugins:
       pretty_print: true
   - tags
   - blog:
-      archive: false
+      archive: true
+      archive_name: Archive
+      archive_date_format: yyyy
+      archive_url_format: "archive/{date}"
       post_date_format: short
       blog_toc: true
-      categories_toc: true
       pagination: false
+      categories_toc: true
+      categories_name: Categories
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - git-committers:
