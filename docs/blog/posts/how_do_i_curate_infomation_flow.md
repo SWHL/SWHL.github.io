@@ -6,6 +6,7 @@ date:
 authors:
   - SWHL
 comments: true
+slug: how_do_i_curate_info_flow
 categories:
   - General
 hide:
