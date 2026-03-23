@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Mon, 23 Mar 2026 01:57:27 -0000</pubDate>
-    <lastBuildDate>Mon, 23 Mar 2026 01:57:27 -0000</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2026 02:08:24 -0000</pubDate>
+    <lastBuildDate>Mon, 23 Mar 2026 02:08:24 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -32,6 +32,25 @@
     
     
     <item>
+      <title>关于开源</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;开源随想&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/blog/2026/03/04/about-open-source/</link>
+      <pubDate>Mon, 23 Mar 2026 02:07:48 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/04/about-open-source/</guid>
+      
+    </item>
+    
+    <item>
       <title>如何构建自己的信息流闭环？</title>
       
       
@@ -42,11 +61,87 @@
       
       
       <description>&lt;p&gt;记录一下自己是如何处理每天海量的信息的。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/03/how_do_i_curate_info_flow/</link>
-      <pubDate>Mon, 23 Mar 2026 01:56:54 +0000</pubDate>
+      <link>https://swhl.github.io/main/blog/2026/03/03/how-to-build-your-own-closed-loop-information-flow/</link>
+      <pubDate>Mon, 23 Mar 2026 02:07:48 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/how_do_i_curate_info_flow/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/how-to-build-your-own-closed-loop-information-flow/</guid>
+      
+    </item>
+    
+    <item>
+      <title>常用的 macOS 软件推荐</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;推荐自己在 macOS 上常用的小软件&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/blog/2026/03/10/best-macos-apps/</link>
+      <pubDate>Mon, 23 Mar 2026 02:07:48 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/10/best-macos-apps/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Obsidian自用插件汇总</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/2026/03/03/my-obsidian-plugins/</link>
+      <pubDate>Mon, 23 Mar 2026 02:07:48 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/my-obsidian-plugins/</guid>
+      
+    </item>
+    
+    <item>
+      <title>VS Code 自用插件汇总</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;记录日常使用到的 VSCode 插件&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/blog/2026/03/17/my-vscode-plugins/</link>
+      <pubDate>Mon, 23 Mar 2026 02:07:48 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/17/my-vscode-plugins/</guid>
+      
+    </item>
+    
+    <item>
+      <title>常用的 Windows 软件推荐</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;推荐自己在 Windows 上常用的小软件&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/blog/2026/03/20/best-windows-apps/</link>
+      <pubDate>Mon, 23 Mar 2026 02:07:48 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/20/best-windows-apps/</guid>
       
     </item>
     
@@ -66,25 +161,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/21/20260316-20260321-weekly/</guid>
-      
-    </item>
-    
-    <item>
-      <title>关于开源</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;开源随想&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/04/%E5%85%B3%E4%BA%8E%E5%BC%80%E6%BA%90/</link>
-      <pubDate>Fri, 20 Mar 2026 03:54:09 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/04/%E5%85%B3%E4%BA%8E%E5%BC%80%E6%BA%90/</guid>
       
     </item>
     
@@ -127,25 +203,6 @@
     </item>
     
     <item>
-      <title>常用的 macOS 软件推荐</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;推荐自己在 macOS 上常用的小软件&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/10/%E5%B8%B8%E7%94%A8%E7%9A%84-macos-%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</link>
-      <pubDate>Fri, 20 Mar 2026 03:54:09 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/10/%E5%B8%B8%E7%94%A8%E7%9A%84-macos-%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</guid>
-      
-    </item>
-    
-    <item>
       <title>我开发的第一个 VSCode 插件</title>
       
       
@@ -161,25 +218,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Obsidian自用插件汇总</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/2026/03/03/obsidian%E8%87%AA%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB/</link>
-      <pubDate>Fri, 20 Mar 2026 03:54:09 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/obsidian%E8%87%AA%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB/</guid>
       
     </item>
     
@@ -218,44 +256,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/17/raycast-with-obsidian/</guid>
-      
-    </item>
-    
-    <item>
-      <title>VS Code 自用插件汇总</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;记录日常使用到的 VSCode 插件&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/17/vs-code-%E8%87%AA%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB/</link>
-      <pubDate>Fri, 20 Mar 2026 03:54:09 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/17/vs-code-%E8%87%AA%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%87%E6%80%BB/</guid>
-      
-    </item>
-    
-    <item>
-      <title>常用的 Windows 软件推荐</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;推荐自己在 Windows 上常用的小软件&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/20/%E5%B8%B8%E7%94%A8%E7%9A%84-windows-%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</link>
-      <pubDate>Fri, 20 Mar 2026 03:54:09 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/20/%E5%B8%B8%E7%94%A8%E7%9A%84-windows-%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</guid>
       
     </item>
     
