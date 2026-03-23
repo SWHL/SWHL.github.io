@@ -25,7 +25,7 @@ hide:
 
 我用到的工具有：
 
-![alt text](../../images/how_do_i_curate_infomation_flow_2026-03-23_09-36-45.jpg)
+![alt text](../../images/how_do_i_curate_infomation_flow_2026-03-23_09-36-45.jpg){.img1}
 
 其中，PinBox 支持移动端、网页版，因此只要登录账号即可同步获取信息。
 
