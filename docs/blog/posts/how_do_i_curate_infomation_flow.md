@@ -6,7 +6,7 @@ date:
 authors:
   - SWHL
 comments: true
-slug: how_do_i_curate_info_flow
+slug: how-to-build-your-own-closed-loop-information-flow
 categories:
   - General
 hide:

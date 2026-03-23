@@ -3,6 +3,7 @@ title: VS Code 自用插件汇总
 date: 2026-03-17
 authors:
   - SWHL
+slug: my-vscode-plugins
 comments: true
 categories:
   - 工具

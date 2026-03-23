@@ -5,6 +5,7 @@ date:
   updated: 2026-03-20
 authors:
   - SWHL
+slug: best-macos-apps
 comments: true
 categories:
   - 工具

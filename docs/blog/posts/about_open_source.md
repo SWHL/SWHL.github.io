@@ -3,13 +3,14 @@ title: 关于开源
 date: 2026-03-04
 authors:
   - SWHL
-comments: true
+slug: about-open-source
 categories:
   - General
 tags:
   - Open Source
 hide:
   - toc
+comments: true
 ---
 
 开源随想

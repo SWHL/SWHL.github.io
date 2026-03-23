@@ -4,6 +4,7 @@ date:
   created: 2026-03-20
 authors:
   - SWHL
+slug: best-windows-apps
 comments: true
 categories:
   - 工具
