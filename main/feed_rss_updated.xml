@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 24 Mar 2026 02:03:08 -0000</pubDate>
-    <lastBuildDate>Tue, 24 Mar 2026 02:03:08 -0000</lastBuildDate>
+    <pubDate>Wed, 01 Apr 2026 23:18:22 -0000</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2026 23:18:22 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,44 @@
     
 
     
+    
+    <item>
+      <title>20260323-20260328 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/2026/03/28/20260323-20260328-weekly/</link>
+      <pubDate>Wed, 01 Apr 2026 23:17:35 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/28/20260323-20260328-weekly/</guid>
+      
+    </item>
+    
+    <item>
+      <title>20260316-20260321 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/2026/03/21/20260316-20260321-weekly/</link>
+      <pubDate>Wed, 01 Apr 2026 23:17:35 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/21/20260316-20260321-weekly/</guid>
+      
+    </item>
     
     <item>
       <title>我使用的 RSS 工具链</title>
@@ -161,25 +199,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/20/best-windows-apps/</guid>
-      
-    </item>
-    
-    <item>
-      <title>20260316-20260321 周刊</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/2026/03/21/20260316-20260321-weekly/</link>
-      <pubDate>Mon, 23 Mar 2026 01:56:54 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/21/20260316-20260321-weekly/</guid>
       
     </item>
     

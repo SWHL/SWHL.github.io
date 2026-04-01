@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/2026/03/28/20260323-20260328-weekly/",
+            "url": "https://swhl.github.io/main/blog/2026/03/28/20260323-20260328-weekly/",
+            "title": "20260323-20260328 \u5468\u520a",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-04-01T23:17:35+00:00",
+            "date_published": "2026-03-28T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/2026/03/23/my-rss-tools/",
             "url": "https://swhl.github.io/main/blog/2026/03/23/my-rss-tools/",
             "title": "\u6211\u4f7f\u7528\u7684 RSS \u5de5\u5177\u94fe",
@@ -33,7 +48,7 @@
             "title": "20260316-20260321 \u5468\u520a",
             "content_html": "",
             "image": null,
-            "date_modified": "2026-03-23T01:56:54+00:00",
+            "date_modified": "2026-04-01T23:17:35+00:00",
             "date_published": "2026-03-21T00:00:00+00:00",
             "authors": [
                 {
