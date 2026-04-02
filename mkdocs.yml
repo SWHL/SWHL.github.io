@@ -77,6 +77,8 @@ plugins:
       length: 20
       pretty_print: true
   - tags
+  - meta:
+      meta_file: .meta.yml
   - blog:
       blog_dir: blog
       archive: true
