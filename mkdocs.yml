@@ -88,6 +88,17 @@ plugins:
       pagination: false
       categories_toc: true
       categories_name: Categories
+  - blog:
+      blog_dir: weekly
+      archive: true
+      archive_name: Archive
+      archive_date_format: yyyy/MM/ww
+      archive_url_format: "archive/{date}"
+      post_date_format: short
+      blog_toc: true
+      pagination: false
+      categories_toc: true
+      categories_name: Categories
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - git-committers:
@@ -98,6 +109,9 @@ plugins:
       enable_creation_date: true
       timezone: Asia/Shanghai
       type: iso_datetime
+  - redirects:
+      redirect_maps:
+        "blog/2026/03/28/20260323-20260328-weekly.md": "weekly/2026/03/28/20260316-20260321.md"
 
 
 hooks:
@@ -173,6 +187,8 @@ not_in_nav: |
 nav:
   - Blog:
     - blog/index.md
+  - Weekly:
+    - weekly/index.md
   - Life:
     - 读书:
        - 写在前面: life/books/index.md

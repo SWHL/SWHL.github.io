@@ -5,3 +5,4 @@ mkdocs-git-revision-date-localized-plugin
 mkdocs-git-committers-plugin-2
 mkdocs-rss-plugin
 mike
+mkdocs-redirects
