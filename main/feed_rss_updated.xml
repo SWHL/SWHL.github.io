@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Thu, 02 Apr 2026 00:20:13 -0000</pubDate>
-    <lastBuildDate>Thu, 02 Apr 2026 00:20:13 -0000</lastBuildDate>
+    <pubDate>Thu, 02 Apr 2026 00:30:02 -0000</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2026 00:30:02 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -42,11 +42,11 @@
       
       
       <description>&lt;p&gt;记录我所使用的 RSS 工具链&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/23/my-rss-tools/</link>
+      <link>https://swhl.github.io/main/blog/my-rss-tools/</link>
       <pubDate>Tue, 24 Mar 2026 02:02:24 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/23/my-rss-tools/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/my-rss-tools/</guid>
       
     </item>
     
@@ -61,11 +61,11 @@
       
       
       <description>&lt;p&gt;开源随想&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/04/about-open-source/</link>
+      <link>https://swhl.github.io/main/blog/about-open-source/</link>
       <pubDate>Mon, 23 Mar 2026 02:07:48 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/04/about-open-source/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/about-open-source/</guid>
       
     </item>
     
@@ -80,11 +80,11 @@
       
       
       <description>&lt;p&gt;记录一下自己是如何处理每天海量的信息的。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/03/how-to-build-your-own-closed-loop-information-flow/</link>
+      <link>https://swhl.github.io/main/blog/how-to-build-your-own-closed-loop-information-flow/</link>
       <pubDate>Mon, 23 Mar 2026 02:07:48 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/how-to-build-your-own-closed-loop-information-flow/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/how-to-build-your-own-closed-loop-information-flow/</guid>
       
     </item>
     
@@ -99,11 +99,11 @@
       
       
       <description>&lt;p&gt;推荐自己在 macOS 上常用的小软件&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/10/best-macos-apps/</link>
+      <link>https://swhl.github.io/main/blog/best-macos-apps/</link>
       <pubDate>Mon, 23 Mar 2026 02:07:48 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/10/best-macos-apps/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/best-macos-apps/</guid>
       
     </item>
     
@@ -118,11 +118,11 @@
       
       
       <description></description>
-      <link>https://swhl.github.io/main/blog/2026/03/03/my-obsidian-plugins/</link>
+      <link>https://swhl.github.io/main/blog/my-obsidian-plugins/</link>
       <pubDate>Mon, 23 Mar 2026 02:07:48 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/my-obsidian-plugins/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/my-obsidian-plugins/</guid>
       
     </item>
     
@@ -137,11 +137,11 @@
       
       
       <description>&lt;p&gt;记录日常使用到的 VSCode 插件&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/17/my-vscode-plugins/</link>
+      <link>https://swhl.github.io/main/blog/my-vscode-plugins/</link>
       <pubDate>Mon, 23 Mar 2026 02:07:48 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/17/my-vscode-plugins/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/my-vscode-plugins/</guid>
       
     </item>
     
@@ -156,11 +156,11 @@
       
       
       <description>&lt;p&gt;推荐自己在 Windows 上常用的小软件&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/20/best-windows-apps/</link>
+      <link>https://swhl.github.io/main/blog/best-windows-apps/</link>
       <pubDate>Mon, 23 Mar 2026 02:07:48 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/20/best-windows-apps/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/best-windows-apps/</guid>
       
     </item>
     
@@ -175,11 +175,11 @@
       
       
       <description>&lt;p&gt;记录从 Alfred 转到 Raycast 的过程。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/13/from-alfred-to-raycast/</link>
+      <link>https://swhl.github.io/main/blog/from-alfred-to-raycast/</link>
       <pubDate>Fri, 20 Mar 2026 03:54:09 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/13/from-alfred-to-raycast/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/from-alfred-to-raycast/</guid>
       
     </item>
     
@@ -194,11 +194,11 @@
       
       
       <description>&lt;p&gt;作为深度学习工程师，我们经常面临一个问题：如何在 Apple 设备上高效地部署已有的 ONNX 模型？本文将深入探讨两种主要方案，并通过实际测试给出详细的性能和精度对比。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/01/accelerate-onnx-models-with-coreml-on-macos/</link>
+      <link>https://swhl.github.io/main/blog/accelerate-onnx-models-with-coreml-on-macos/</link>
       <pubDate>Fri, 20 Mar 2026 03:54:09 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/01/accelerate-onnx-models-with-coreml-on-macos/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/accelerate-onnx-models-with-coreml-on-macos/</guid>
       
     </item>
     
@@ -213,11 +213,11 @@
       
       
       <description>&lt;p&gt;记录借助 Cursor 工具开发第一个 VSCode 插件的过程&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/</link>
+      <link>https://swhl.github.io/main/blog/my-first-vscode-extension/</link>
       <pubDate>Fri, 20 Mar 2026 03:54:09 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/03/my-first-vscode-extension/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/my-first-vscode-extension/</guid>
       
     </item>
     
@@ -232,11 +232,11 @@
       
       
       <description></description>
-      <link>https://swhl.github.io/main/blog/2026/03/01/pathlib-easy-to-overlook-but-useful-methods/</link>
+      <link>https://swhl.github.io/main/blog/pathlib-easy-to-overlook-but-useful-methods/</link>
       <pubDate>Fri, 20 Mar 2026 03:54:09 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/01/pathlib-easy-to-overlook-but-useful-methods/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/pathlib-easy-to-overlook-but-useful-methods/</guid>
       
     </item>
     
@@ -251,11 +251,11 @@
       
       
       <description>&lt;p&gt;记录如何配置 Raycast 来快速其窗口中搜索 Obsidian 中的笔记。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/17/raycast-with-obsidian/</link>
+      <link>https://swhl.github.io/main/blog/raycast-with-obsidian/</link>
       <pubDate>Fri, 20 Mar 2026 03:54:09 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/17/raycast-with-obsidian/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/raycast-with-obsidian/</guid>
       
     </item>
     
@@ -270,11 +270,11 @@
       
       
       <description>&lt;p&gt;本文讨论的是技术文档写作——更具体地说，是关于编程语言和库的文档编写。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/2026/03/17/teach-dont-tell/</link>
+      <link>https://swhl.github.io/main/blog/teach-dont-tell/</link>
       <pubDate>Fri, 20 Mar 2026 03:54:09 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/17/teach-dont-tell/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/teach-dont-tell/</guid>
       
     </item>
     
