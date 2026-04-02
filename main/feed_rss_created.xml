@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Wed, 01 Apr 2026 23:18:22 -0000</pubDate>
-    <lastBuildDate>Wed, 01 Apr 2026 23:18:22 -0000</lastBuildDate>
+    <pubDate>Thu, 02 Apr 2026 00:20:13 -0000</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2026 00:20:13 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -32,25 +32,6 @@
     
     
     <item>
-      <title>20260323-20260328 周刊</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/2026/03/28/20260323-20260328-weekly/</link>
-      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/28/20260323-20260328-weekly/</guid>
-      
-    </item>
-    
-    <item>
       <title>我使用的 RSS 工具链</title>
       
       
@@ -66,25 +47,6 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/23/my-rss-tools/</guid>
-      
-    </item>
-    
-    <item>
-      <title>20260316-20260321 周刊</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/2026/03/21/20260316-20260321-weekly/</link>
-      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/2026/03/21/20260316-20260321-weekly/</guid>
       
     </item>
     
