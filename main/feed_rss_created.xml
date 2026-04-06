@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sun, 05 Apr 2026 01:23:26 -0000</pubDate>
-    <lastBuildDate>Sun, 05 Apr 2026 01:23:26 -0000</lastBuildDate>
+    <pubDate>Mon, 06 Apr 2026 01:29:36 -0000</pubDate>
+    <lastBuildDate>Mon, 06 Apr 2026 01:29:36 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>如何使用Github作为博客图床？</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/how-to-setup-github-image-host/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/how-to-setup-github-image-host/</guid>
+      
+    </item>
     
     <item>
       <title>我使用的 RSS 工具链</title>

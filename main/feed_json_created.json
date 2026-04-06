@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/how-to-setup-github-image-host/",
+            "url": "https://swhl.github.io/main/blog/how-to-setup-github-image-host/",
+            "title": "\u5982\u4f55\u4f7f\u7528Github\u4f5c\u4e3a\u535a\u5ba2\u56fe\u5e8a\uff1f",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-04-06T01:28:55+00:00",
+            "date_published": "2026-04-05T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/my-rss-tools/",
             "url": "https://swhl.github.io/main/blog/my-rss-tools/",
             "title": "\u6211\u4f7f\u7528\u7684 RSS \u5de5\u5177\u94fe",
