@@ -19,7 +19,7 @@ hide:
 <!-- more -->
 
 <figure markdown="span">
-  ![alt text](../../images/Alfred_vs_Raycast.png){.img1}
+  ![alt text](../../images/Alfred_vs_Raycast.png)
   <figcaption> 配图来自 Google Gemini</figcaption>
 </figure>
 

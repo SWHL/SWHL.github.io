@@ -31,7 +31,7 @@ Step 1: VSCode 安装 PicGo 插件
 
 安装 PicGo 插件后，其他地方就不需要安装 PicGo 软件了。
 
-![2026-04-05_21-41-13](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-04-05_21-41-13.jpg){.img1}
+![2026-04-05_21-41-13](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-04-05_21-41-13.jpg)
 
 Step 2: 配置 PicGO
 
@@ -47,11 +47,11 @@ settings.json 中写法：
 
 这里需要配置一个 Token，来授予 PicGO 读写指定仓库的权限。
 
-![2026-04-06_07-54-11](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-04-06_07-54-11.jpg){.img1}
+![2026-04-06_07-54-11](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-04-06_07-54-11.jpg)
 
 只需要给选定的仓库读写权限即可，其余权限都不用给。
 
-![2026-04-06_07-56-05](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-04-06_07-56-05.jpg){.img1}
+![2026-04-06_07-56-05](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-04-06_07-56-05.jpg)
 
 Step 3：自动上传并返回对应图像 markdown url
 

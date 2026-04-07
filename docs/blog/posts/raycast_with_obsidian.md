@@ -21,7 +21,7 @@ links:
 <!-- more -->
 
 <figure markdown="span">
-  ![alt text](../../images/raycast_with_obsidian_image.png){.img1}
+  ![alt text](../../images/raycast_with_obsidian_image.png)
   <figcaption> 配图来自 Google Gemini</figcaption>
 </figure>
 
@@ -33,15 +33,15 @@ links:
 
 Step 1：Raycast 安装 Obsidian 插件：[Obsidian](https://www.raycast.com/marcjulian/obsidian)。
 
-![alt text](../../images/raycast_with_obsidian_2026-03-17_11-40-15.png){.img1}
+![alt text](../../images/raycast_with_obsidian_2026-03-17_11-40-15.png)
 
 Step 2: 按照下图来配置 Obsidian 插件。
 
-![alt text](../../images/raycast_with_obsidian_2026-03-17_11-41-12.png){.img1}
+![alt text](../../images/raycast_with_obsidian_2026-03-17_11-41-12.png)
 
 Step 3: 开始使用。
 
-![alt text](../../images/raycast_with_obsidian_2026-03-17_11-47-36.png){.img1}
+![alt text](../../images/raycast_with_obsidian_2026-03-17_11-47-36.png)
 
 ## 不足之处
 

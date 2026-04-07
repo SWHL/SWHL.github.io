@@ -48,7 +48,7 @@ hide:
 
 随后，我 fork 该项目到本地，用 Cursor 打开，开启 Plan 模式。
 
-![alt text](../../images/my_first_vs_plugin_2026-03-16_17-06-04.png){.img1}
+![alt text](../../images/my_first_vs_plugin_2026-03-16_17-06-04.png)
 
 接下来，就只需编写 Prompt 了——越详细越好。当然，这个过程并非一蹴而就。我在实际使用中不断发现新的潜在需求，逐步迭代完善。但最重要的是：**先做起来**。
 
@@ -60,7 +60,7 @@ hide:
 
 最终成品：[markdown-auto-space](https://github.com/SWHL/markdown-auto-space)
 
-![alt text](../../images/my_first_vs_plugin_2026-03-16_17-17-27.png){.img1}
+![alt text](../../images/my_first_vs_plugin_2026-03-16_17-17-27.png)
 
 主要特色：
 

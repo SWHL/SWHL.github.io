@@ -21,11 +21,11 @@ hide:
 
 前几段时间受 Andrej Karpathy 大佬启发，决定好好梳理一下自己每天处理信息流的整个流程。
 
-![alt text](../../images/my_rss_tool_image.jpg){.img1}
+![alt text](../../images/my_rss_tool_image.jpg)
 
 我用到的工具有：
 
-![alt text](../../images/how_do_i_curate_infomation_flow_2026-03-23_09-36-45.jpg){.img1}
+![alt text](../../images/how_do_i_curate_infomation_flow_2026-03-23_09-36-45.jpg)
 
 其中，PinBox 支持移动端、网页版，因此只要登录账号即可同步获取信息。
 
