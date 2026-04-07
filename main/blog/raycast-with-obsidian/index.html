@@ -2391,25 +2391,37 @@ You're not viewing the latest version.
   
 </div>
 
-      <!-- Site Visits 访客统计 -->
+      <!-- 百度统计（后台数据分析） -->
+      <script>
+        var _hmt = _hmt = _hmt || [];
+        (function () {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?d7b128630d4c9168ee28d4cb9be557b9";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(hm, s);
+        })();
+      </script>
+
+      <!-- 不蒜子（前台显示访问量） -->
       <style>
-      .site-visit-count {
-        padding: 0 12px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        font-size: 0.85rem;
-        color: var(--md-footer-fg-color--light);
-      }
+        .site-visit-count {
+          padding: 0 12px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          font-size: 0.85rem;
+        }
       </style>
-      <script async src="//finicounter.eu.org/finicounter.js"></script>
+      <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
       <div class="site-visit-count">
-        <span>本站访问量：</span><span id="finicount_views"></span>
+        本站总访问量：<span id="busuanzi_value_site_pv"></span> 次
+        &nbsp;&nbsp;|&nbsp;&nbsp;
+        访客数：<span id="busuanzi_value_site_uv"></span> 人
       </div>
 
       <!-- Social links -->
       
-        
+      
 <div class="md-social">
   
     
@@ -2490,6 +2502,7 @@ You're not viewing the latest version.
       
     </div>
   </div>
+
 </footer>
       
     </div>
