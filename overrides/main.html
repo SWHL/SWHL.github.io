@@ -10,3 +10,16 @@ You're not viewing the latest version.
     <strong>Click here to go to latest.</strong>
 </a>
 {% endblock %}
+
+{% block extrahead %}
+<script>
+    var _hmt = _hmt || [];
+    (function () {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d7b128630d4c9168ee28d4cb9be557b9";
+        hm.async = true;
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+{% endblock %}
