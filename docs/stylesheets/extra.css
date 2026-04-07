@@ -117,8 +117,21 @@
   overflow: hidden;
 }
 
+.md-typeset img {
+  border-radius: 1.25rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  /* 添加柔和阴影 */
+  transition: transform 0.2s;
+  /* 添加过渡动画 */
+}
+
+/* 可选：鼠标悬停时放大一点点 */
+.md-typeset img:hover {
+  transform: scale(1.02);
+}
+
 /*图像圆角*/
-img.img1 {
+/* img.img1 {
   border-radius: 25px;
 
-}
+} */
