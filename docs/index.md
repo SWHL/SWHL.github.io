@@ -5,7 +5,7 @@ hide:
   - navigation
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=Hey+there!+I'm+SWHL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=Hey+there!+I'm+SWHL)](https://git.io/typing-svg){.no-radius}
 
 ### 🧑🏻‍💻 开源项目 ([more](https://github.com/SWHL?tab=repositories))
 
