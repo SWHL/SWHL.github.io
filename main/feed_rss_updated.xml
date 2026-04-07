@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 07 Apr 2026 02:55:43 -0000</pubDate>
-    <lastBuildDate>Tue, 07 Apr 2026 02:55:43 -0000</lastBuildDate>
+    <pubDate>Tue, 07 Apr 2026 03:00:34 -0000</pubDate>
+    <lastBuildDate>Tue, 07 Apr 2026 03:00:34 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -32,6 +32,44 @@
     
     
     <item>
+      <title>从 Alfred 转到 Raycast</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;记录从 Alfred 转到 Raycast 的过程。&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/blog/from-alfred-to-raycast/</link>
+      <pubDate>Tue, 07 Apr 2026 02:59:56 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/from-alfred-to-raycast/</guid>
+      
+    </item>
+    
+    <item>
+      <title>如何构建自己的信息流闭环？</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;记录一下自己是如何处理每天海量的信息的。&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/blog/how-to-build-your-own-closed-loop-information-flow/</link>
+      <pubDate>Tue, 07 Apr 2026 02:59:56 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/how-to-build-your-own-closed-loop-information-flow/</guid>
+      
+    </item>
+    
+    <item>
       <title>如何使用Github作为博客图床？</title>
       
       
@@ -43,10 +81,48 @@
       
       <description></description>
       <link>https://swhl.github.io/main/blog/how-to-setup-github-image-host/</link>
-      <pubDate>Mon, 06 Apr 2026 01:28:55 +0000</pubDate>
+      <pubDate>Tue, 07 Apr 2026 02:59:56 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/how-to-setup-github-image-host/</guid>
+      
+    </item>
+    
+    <item>
+      <title>我开发的第一个 VSCode 插件</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;记录借助 Cursor 工具开发第一个 VSCode 插件的过程&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/blog/my-first-vscode-extension/</link>
+      <pubDate>Tue, 07 Apr 2026 02:59:56 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/my-first-vscode-extension/</guid>
+      
+    </item>
+    
+    <item>
+      <title>使用 Raycast 快速在 Obsidian 笔记中搜索笔记</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;记录如何配置 Raycast 来快速其窗口中搜索 Obsidian 中的笔记。&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/blog/raycast-with-obsidian/</link>
+      <pubDate>Tue, 07 Apr 2026 02:59:56 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/raycast-with-obsidian/</guid>
       
     </item>
     
@@ -85,25 +161,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/about-open-source/</guid>
-      
-    </item>
-    
-    <item>
-      <title>如何构建自己的信息流闭环？</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;记录一下自己是如何处理每天海量的信息的。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/how-to-build-your-own-closed-loop-information-flow/</link>
-      <pubDate>Mon, 23 Mar 2026 02:07:48 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/how-to-build-your-own-closed-loop-information-flow/</guid>
       
     </item>
     
@@ -184,25 +241,6 @@
     </item>
     
     <item>
-      <title>从 Alfred 转到 Raycast</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;记录从 Alfred 转到 Raycast 的过程。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/from-alfred-to-raycast/</link>
-      <pubDate>Fri, 20 Mar 2026 03:54:09 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/from-alfred-to-raycast/</guid>
-      
-    </item>
-    
-    <item>
       <title>在 macOS 上使用 CoreML 加速 ONNX 模型推理：完全指南</title>
       
       
@@ -222,25 +260,6 @@
     </item>
     
     <item>
-      <title>我开发的第一个 VSCode 插件</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;记录借助 Cursor 工具开发第一个 VSCode 插件的过程&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/my-first-vscode-extension/</link>
-      <pubDate>Fri, 20 Mar 2026 03:54:09 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/my-first-vscode-extension/</guid>
-      
-    </item>
-    
-    <item>
       <title>pathlib库中那些容易被忽略的好用方法</title>
       
       
@@ -256,25 +275,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/pathlib-easy-to-overlook-but-useful-methods/</guid>
-      
-    </item>
-    
-    <item>
-      <title>使用 Raycast 快速在 Obsidian 笔记中搜索笔记</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;记录如何配置 Raycast 来快速其窗口中搜索 Obsidian 中的笔记。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/raycast-with-obsidian/</link>
-      <pubDate>Fri, 20 Mar 2026 03:54:09 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/raycast-with-obsidian/</guid>
       
     </item>
     
