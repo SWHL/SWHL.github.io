@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/mkdocs-material-image-rounded-corners/",
+            "url": "https://swhl.github.io/main/blog/mkdocs-material-image-rounded-corners/",
+            "title": "\u5982\u4f55\u5728 mkdocs-material \u4e2d\u8bbe\u7f6e\u56fe\u50cf\u5706\u89d2\u663e\u793a\uff1f",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-04-08T09:27:59+00:00",
+            "date_published": "2026-04-08T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/how-to-setup-github-image-host/",
             "url": "https://swhl.github.io/main/blog/how-to-setup-github-image-host/",
             "title": "\u5982\u4f55\u4f7f\u7528Github\u4f5c\u4e3a\u535a\u5ba2\u56fe\u5e8a\uff1f",

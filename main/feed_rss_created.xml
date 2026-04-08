@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 07 Apr 2026 06:54:38 -0000</pubDate>
-    <lastBuildDate>Tue, 07 Apr 2026 06:54:38 -0000</lastBuildDate>
+    <pubDate>Wed, 08 Apr 2026 09:28:37 -0000</pubDate>
+    <lastBuildDate>Wed, 08 Apr 2026 09:28:37 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>如何在 mkdocs-material 中设置图像圆角显示？</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/mkdocs-material-image-rounded-corners/</link>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/mkdocs-material-image-rounded-corners/</guid>
+      
+    </item>
     
     <item>
       <title>如何使用Github作为博客图床？</title>
