@@ -6,6 +6,8 @@ authors:
   - SWHL
 slug: mkdocs-material-image-rounded-corners
 categories:
+  - 工具
+tags:
   - mkdocs-material
 hide:
   - toc
