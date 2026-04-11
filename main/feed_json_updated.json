@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/mkdocs-material-ask-ai-integration/",
+            "url": "https://swhl.github.io/main/blog/mkdocs-material-ask-ai-integration/",
+            "title": "MkDocs Material \u96c6\u6210 Ask AI \u6559\u7a0b",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-04-11T15:25:57+00:00",
+            "date_published": "2026-04-10T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/mkdocs-material-image-rounded-corners/",
             "url": "https://swhl.github.io/main/blog/mkdocs-material-image-rounded-corners/",
             "title": "\u5982\u4f55\u5728 mkdocs-material \u4e2d\u8bbe\u7f6e\u56fe\u50cf\u5706\u89d2\u663e\u793a\uff1f",
