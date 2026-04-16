@@ -52,8 +52,4 @@ TODO：补充教学视频
 
 `{cursor}`: 光标位置。可以通过这个变量来决定插入后，将光标放在哪里。后续 Raycast 应该会支持 Tab 键，类似 VSCode 中，通过 Tab 键，光标跳到指定的位置，那样会更加灵活。
 
-`{date format="yyyy-MM-dd" offset="+3M -5d"}`: 日期格式与偏移混合使用。
-
-## 使用小技巧
-
-1. 设置 Snippets 的 Keyword 时，前缀单词不用重叠，否则长的 keyword 不会被触发。
+`{date format="yyyy-MM-dd" offset="-5d"}`: 日期格式与偏移混合使用。当前日期往前移 5 天。
