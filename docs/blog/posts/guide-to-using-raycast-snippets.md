@@ -44,7 +44,15 @@ Snippet 单词意思为：代码片段，就是咱们日常常用的一些文本
 
 视频主要讲解怎么添加、查找和使用 Snippets，以及怎么导入导出 Snippets 到其他设备。
 
-TODO：补充教学视频
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe
+    src="https://player.bilibili.com/player.html?isOutside=true&aid=116415038364950&bvid=BV1BLdaBZEB6&cid=37561109520&p=1"
+    scrolling="no"
+    frameborder="0"
+    allowfullscreen="true"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
 ## 常用动态输入变量
 
