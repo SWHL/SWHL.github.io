@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Thu, 16 Apr 2026 12:10:50 -0000</pubDate>
-    <lastBuildDate>Thu, 16 Apr 2026 12:10:50 -0000</lastBuildDate>
+    <pubDate>Fri, 17 Apr 2026 00:13:05 -0000</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2026 00:13:05 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>使用 Raycast Snippets 指南</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/guide-to-using-raycast-snippets/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/guide-to-using-raycast-snippets/</guid>
+      
+    </item>
     
     <item>
       <title>MkDocs Material 集成 Ask AI 教程</title>

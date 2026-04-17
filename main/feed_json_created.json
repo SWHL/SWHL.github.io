@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/guide-to-using-raycast-snippets/",
+            "url": "https://swhl.github.io/main/blog/guide-to-using-raycast-snippets/",
+            "title": "\u4f7f\u7528 Raycast Snippets \u6307\u5357",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-04-17T00:12:22+00:00",
+            "date_published": "2026-04-14T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/mkdocs-material-ask-ai-integration/",
             "url": "https://swhl.github.io/main/blog/mkdocs-material-ask-ai-integration/",
             "title": "MkDocs Material \u96c6\u6210 Ask AI \u6559\u7a0b",
