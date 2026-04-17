@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/best-macos-apps/",
+            "url": "https://swhl.github.io/main/blog/best-macos-apps/",
+            "title": "\u5e38\u7528\u7684 macOS \u8f6f\u4ef6\u63a8\u8350",
+            "content_html": "<p>\u63a8\u8350\u81ea\u5df1\u5728 macOS \u4e0a\u5e38\u7528\u7684\u5c0f\u8f6f\u4ef6</p>",
+            "image": null,
+            "date_modified": "2026-04-17T02:22:36+00:00",
+            "date_published": "2026-03-10T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/guide-to-using-raycast-snippets/",
             "url": "https://swhl.github.io/main/blog/guide-to-using-raycast-snippets/",
             "title": "\u4f7f\u7528 Raycast Snippets \u6307\u5357",
@@ -155,21 +170,6 @@
             "image": null,
             "date_modified": "2026-03-23T02:07:48+00:00",
             "date_published": "2026-03-04T02:41:37+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/best-macos-apps/",
-            "url": "https://swhl.github.io/main/blog/best-macos-apps/",
-            "title": "\u5e38\u7528\u7684 macOS \u8f6f\u4ef6\u63a8\u8350",
-            "content_html": "<p>\u63a8\u8350\u81ea\u5df1\u5728 macOS \u4e0a\u5e38\u7528\u7684\u5c0f\u8f6f\u4ef6</p>",
-            "image": null,
-            "date_modified": "2026-03-23T02:07:48+00:00",
-            "date_published": "2026-03-10T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"

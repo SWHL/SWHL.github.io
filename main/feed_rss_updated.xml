@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 17 Apr 2026 00:13:05 -0000</pubDate>
-    <lastBuildDate>Fri, 17 Apr 2026 00:13:05 -0000</lastBuildDate>
+    <pubDate>Fri, 17 Apr 2026 02:23:11 -0000</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2026 02:23:11 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>常用的 macOS 软件推荐</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;推荐自己在 macOS 上常用的小软件&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/blog/best-macos-apps/</link>
+      <pubDate>Fri, 17 Apr 2026 02:22:36 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/best-macos-apps/</guid>
+      
+    </item>
     
     <item>
       <title>使用 Raycast Snippets 指南</title>
@@ -218,25 +237,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/about-open-source/</guid>
-      
-    </item>
-    
-    <item>
-      <title>常用的 macOS 软件推荐</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;推荐自己在 macOS 上常用的小软件&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/best-macos-apps/</link>
-      <pubDate>Mon, 23 Mar 2026 02:07:48 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/best-macos-apps/</guid>
       
     </item>
     
