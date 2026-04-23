@@ -21,7 +21,6 @@ hide:
 - [RapidAISkill](https://github.com/RapidAI/RapidAISkill): RapidAI 下常用 Skill 合集。
 - [RapidOrientation](https://github.com/RapidAI/RapidOrientation): 文档方向分类工具。
 - [RapidRAG](https://github.com/RapidAI/RapidRAG): 基于本地知识和大语言模型的问答系统。
-- [RapidLatex](https://github.com/RapidAI/RapidLatex): Latex 翻译工具。
 - [TableStructureRec](https://github.com/RapidAI/TableStructureRec): 整理开源最优表格识别模型，完善前后处理并转换为 ONNX 格式。
 - [PaddleOCRModelConvert](https://github.com/RapidAI/PaddleOCRModelConvert): 将 PaddleOCR 中的模型转换为 ONNX 格式。
 - [PunctuationAcademy](https://github.com/SWHL/PunctuationAcademy): 中文标点符号练习应用。
