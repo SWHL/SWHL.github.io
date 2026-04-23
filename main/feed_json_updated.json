@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/my-obsidian-plugins/",
+            "url": "https://swhl.github.io/main/blog/my-obsidian-plugins/",
+            "title": "Obsidian\u81ea\u7528\u63d2\u4ef6\u6c47\u603b",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-04-23T13:28:41+00:00",
+            "date_published": "2026-03-03T08:21:45+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/best-macos-apps/",
             "url": "https://swhl.github.io/main/blog/best-macos-apps/",
             "title": "\u5e38\u7528\u7684 macOS \u8f6f\u4ef6\u63a8\u8350",
@@ -170,21 +185,6 @@
             "image": null,
             "date_modified": "2026-03-23T02:07:48+00:00",
             "date_published": "2026-03-04T02:41:37+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/my-obsidian-plugins/",
-            "url": "https://swhl.github.io/main/blog/my-obsidian-plugins/",
-            "title": "Obsidian\u81ea\u7528\u63d2\u4ef6\u6c47\u603b",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-03-23T02:07:48+00:00",
-            "date_published": "2026-03-03T08:21:45+00:00",
             "authors": [
                 {
                     "name": "SWHL"

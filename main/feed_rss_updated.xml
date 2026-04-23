@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Mon, 20 Apr 2026 14:18:46 -0000</pubDate>
-    <lastBuildDate>Mon, 20 Apr 2026 14:18:46 -0000</lastBuildDate>
+    <pubDate>Thu, 23 Apr 2026 13:29:30 -0000</pubDate>
+    <lastBuildDate>Thu, 23 Apr 2026 13:29:30 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>Obsidian自用插件汇总</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/my-obsidian-plugins/</link>
+      <pubDate>Thu, 23 Apr 2026 13:28:41 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/my-obsidian-plugins/</guid>
+      
+    </item>
     
     <item>
       <title>常用的 macOS 软件推荐</title>
@@ -237,25 +256,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/about-open-source/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Obsidian自用插件汇总</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/my-obsidian-plugins/</link>
-      <pubDate>Mon, 23 Mar 2026 02:07:48 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/my-obsidian-plugins/</guid>
       
     </item>
     
