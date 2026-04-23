@@ -24,7 +24,7 @@ hide:
 - [RapidLatex](https://github.com/RapidAI/RapidLatex): Latex 翻译工具。
 - [TableStructureRec](https://github.com/RapidAI/TableStructureRec): 整理开源最优表格识别模型，完善前后处理并转换为 ONNX 格式。
 - [PaddleOCRModelConvert](https://github.com/RapidAI/PaddleOCRModelConvert): 将 PaddleOCR 中的模型转换为 ONNX 格式。
-- [PunctuationAcademy](https://github.com/SWHL/PunctuationAcademy): 中文标点符号练习应用：从内置规范文章或自定义 TXT/ 粘贴范文中随机选句，挖空标点后由用户在空位处填写，提交后给出答案对比与错误高亮。
+- [PunctuationAcademy](https://github.com/SWHL/PunctuationAcademy): 中文标点符号练习应用。
 - [markdown-auto-space](https://github.com/SWHL/markdown-auto-space): 在保存或格式化时，自动为 Markdown 中的中英文之间添加空格。
 - [RapidVideOCR](https://github.com/SWHL/RapidVideOCR): 🎦 提取视频硬字幕并自动生成对应的 SRT 字幕文件。
 - [AI-Competition-Collections](https://github.com/SWHL/AI-Competition-Collections): 收集整理各类人工智能竞赛（NLP, CV、语音、推荐系统等）的经验帖与技巧。
