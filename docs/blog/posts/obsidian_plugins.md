@@ -37,3 +37,11 @@ hide:
 |------|------|------|
 |Next TOC|悬浮目录|因为平时都是直接搜索关键词使用笔记的，看目录情况很少。|
 |Format with Prettier|自动格式化笔记|功能较为有限，已用 Linter 替代|
+
+### 推荐主题
+
+- Atom
+- Blue Topaz
+- Border
+- Simply Colorful
+- Velocity

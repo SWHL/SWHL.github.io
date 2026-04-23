@@ -9,6 +9,21 @@ hide:
 
 ### 🧑🏻‍💻 开源项目 ([more](https://github.com/SWHL?tab=repositories))
 
+- [RapidTable](https://github.com/RapidAI/RapidTable): 基于序列表格识别算法推理库，集成 PP-Structure 和 modelscope 等表格识别算法。
+- [RapidOCRDocs](https://github.com/RapidAI/RapidOCRDocs): RapidOCR 官方文档。
+- [RapidDoc](https://github.com/RapidAI/RapidDoc): 一站式开源高性能 PDF 数据提取工具，将复杂 PDF 文档转换为 Markdown 和 JSON 格式，使用 onnx 模型。
+- [RapidVLM-OCR](https://github.com/RapidAI/RapidVLM-OCR): 基于 vLLM 加速的端到端 VLM-OCR 统一推理框架，多模型兼容、一套接口、开箱即用。
+- [RapidOCR](https://github.com/RapidAI/RapidOCR): 基于 ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT 和 PyTorch 的多语言 OCR 工具包。
+- [RapidLayout](https://github.com/RapidAI/RapidLayout): 中英文版面分析工具。
+- [RapidOCRPDF](https://github.com/RapidAI/RapidOCRPDF): 基于 RapidOCR 提取 PDF 内容。
+- [RapidOCRWeb](https://github.com/RapidAI/RapidOCRWeb): RapidOCR 的网页版本。
+- [RapidOCRAPI](https://github.com/RapidAI/RapidOCRAPI): 基于 RapidOCR 的跨平台 OCR API 库。
+- [RapidAISkill](https://github.com/RapidAI/RapidAISkill): RapidAI 下常用 Skill 合集。
+- [RapidOrientation](https://github.com/RapidAI/RapidOrientation): 文档方向分类工具。
+- [RapidRAG](https://github.com/RapidAI/RapidRAG): 基于本地知识和大语言模型的问答系统。
+- [RapidLatex](https://github.com/RapidAI/RapidLatex): Latex 翻译工具。
+- [TableStructureRec](https://github.com/RapidAI/TableStructureRec): 整理开源最优表格识别模型，完善前后处理并转换为 ONNX 格式。
+- [PaddleOCRModelConvert](https://github.com/RapidAI/PaddleOCRModelConvert): 将 PaddleOCR 中的模型转换为 ONNX 格式。
 - [PunctuationAcademy](https://github.com/SWHL/PunctuationAcademy): 中文标点符号练习应用：从内置规范文章或自定义 TXT/ 粘贴范文中随机选句，挖空标点后由用户在空位处填写，提交后给出答案对比与错误高亮。
 - [markdown-auto-space](https://github.com/SWHL/markdown-auto-space): 在保存或格式化时，自动为 Markdown 中的中英文之间添加空格。
 - [RapidVideOCR](https://github.com/SWHL/RapidVideOCR): 🎦 提取视频硬字幕并自动生成对应的 SRT 字幕文件。
