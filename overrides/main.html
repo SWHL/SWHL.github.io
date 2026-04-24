@@ -1,7 +1,13 @@
 {% extends "base.html" %}
 
 {% block announce %}
-    <p class="banner"> 🎉 20260411-20260418 周刊发布 → <a href="https://swhl.github.io/main/weekly/20260411-20260418-weekly/" target="_blank">link</a></p>
+    {% set announce = config.extra.latest_announcement %}
+    {% if announce %}
+    <p class="banner">
+        🎉 最新{{ announce.overall.label }}：
+        <a href="{{ announce.overall.url }}" target="_blank" rel="noopener">{{ announce.overall.title }}</a>
+    </p>
+    {% endif %}
 {% endblock %}
 
 {% block outdated %}
