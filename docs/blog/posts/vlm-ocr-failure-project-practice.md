@@ -1,5 +1,5 @@
 ---
-title: 一次关于VLM-OCR失败的项目实践
+title: 一次关于 VLM-OCR 失败的项目实践
 date:
   created: 2026-04-24
 authors:
