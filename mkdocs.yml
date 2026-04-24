@@ -117,6 +117,7 @@ plugins:
 
 
 hooks:
+  - hooks/announce.py
   - hooks/expiry.py
   - hooks/change_copyright.py
 
