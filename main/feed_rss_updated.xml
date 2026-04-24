@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 24 Apr 2026 09:24:00 -0000</pubDate>
-    <lastBuildDate>Fri, 24 Apr 2026 09:24:00 -0000</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 09:26:11 -0000</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 09:26:11 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -32,7 +32,7 @@
     
     
     <item>
-      <title>一次关于VLM-OCR失败的项目实践</title>
+      <title>一次关于 VLM-OCR 失败的项目实践</title>
       
       
         
@@ -43,7 +43,7 @@
       
       <description></description>
       <link>https://swhl.github.io/main/blog/vlm-ocr-failure-project-practice/</link>
-      <pubDate>Fri, 24 Apr 2026 09:23:20 +0000</pubDate>
+      <pubDate>Fri, 24 Apr 2026 09:25:29 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/vlm-ocr-failure-project-practice/</guid>
