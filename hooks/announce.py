@@ -84,7 +84,7 @@ def on_config(config, **kwargs):
             continue
 
         latest_post = latest_post.copy()
-        latest_post["url"] = f"/{section}/{latest_post['slug']}/"
+        latest_post["url"] = f"/latest/{section}/{latest_post['slug']}/"
         latest_post["label"] = SECTION_LABELS[section]
         latest_post["created_display"] = latest_post["created"].strftime("%Y-%m-%d")
         latest_post["created"] = latest_post["created"].isoformat()
@@ -92,7 +92,7 @@ def on_config(config, **kwargs):
 
     overall_latest = max(posts, key=lambda item: item["created"]).copy()
     overall_latest["label"] = SECTION_LABELS[overall_latest["section"]]
-    overall_latest["url"] = f"/{overall_latest['section']}/{overall_latest['slug']}/"
+    overall_latest["url"] = f"/latest/{overall_latest['section']}/{overall_latest['slug']}/"
     overall_latest["created_display"] = overall_latest["created"].strftime("%Y-%m-%d")
     overall_latest["created"] = overall_latest["created"].isoformat()
 
