@@ -113,7 +113,8 @@ plugins:
       type: iso_datetime
   - redirects:
       redirect_maps:
-        "blog/posts/20260323-20260328-weekly.md": "weekly/posts/20260316-20260321.md"
+        "blog/20260316-20260321-weekly.md": "weekly/posts/20260316-20260321.md"
+        "blog/20260323-20260328-weekly.md": "weekly/posts/20260323-20260328.md"
 
 
 hooks:
