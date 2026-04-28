@@ -83,7 +83,8 @@ plugins:
       blog_dir: blog
       archive: true
       archive_name: Archive
-      archive_date_format: yyyy/MM
+      archive_date_format: "Y '年第' ww '周'"
+      archive_url_date_format: "Y/'W'ww"
       archive_url_format: "archive/{date}"
       post_date_format: short
       blog_toc: true
@@ -95,7 +96,8 @@ plugins:
       blog_dir: weekly
       archive: true
       archive_name: Archive
-      archive_date_format: yyyy/MM
+      archive_date_format: "Y '年第' ww '周'"
+      archive_url_date_format: "Y/'W'ww"
       archive_url_format: "archive/{date}"
       post_date_format: short
       blog_toc: true
