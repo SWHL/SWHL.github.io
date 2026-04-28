@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 28 Apr 2026 03:20:34 -0000</pubDate>
-    <lastBuildDate>Tue, 28 Apr 2026 03:20:34 -0000</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 03:47:40 -0000</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 03:47:40 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -32,6 +32,25 @@
     
     
     <item>
+      <title>人们也许并不喜欢自动化</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/people-do-not-yearn-for-autimation/</link>
+      <pubDate>Tue, 28 Apr 2026 03:47:02 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/people-do-not-yearn-for-autimation/</guid>
+      
+    </item>
+    
+    <item>
       <title>一次失败的 VLM-OCR 项目实践</title>
       
       
@@ -43,7 +62,7 @@
       
       <description></description>
       <link>https://swhl.github.io/main/blog/vlm-ocr-failure-project-practice/</link>
-      <pubDate>Mon, 27 Apr 2026 00:04:41 +0000</pubDate>
+      <pubDate>Tue, 28 Apr 2026 03:47:02 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/vlm-ocr-failure-project-practice/</guid>

@@ -13,12 +13,27 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/people-do-not-yearn-for-autimation/",
+            "url": "https://swhl.github.io/main/blog/people-do-not-yearn-for-autimation/",
+            "title": "\u4eba\u4eec\u4e5f\u8bb8\u5e76\u4e0d\u559c\u6b22\u81ea\u52a8\u5316",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-04-28T03:47:02+00:00",
+            "date_published": "2026-04-28T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/vlm-ocr-failure-project-practice/",
             "url": "https://swhl.github.io/main/blog/vlm-ocr-failure-project-practice/",
             "title": "\u4e00\u6b21\u5931\u8d25\u7684 VLM-OCR \u9879\u76ee\u5b9e\u8df5",
             "content_html": "",
             "image": null,
-            "date_modified": "2026-04-27T00:04:41+00:00",
+            "date_modified": "2026-04-28T03:47:02+00:00",
             "date_published": "2026-04-24T00:00:00+00:00",
             "authors": [
                 {
