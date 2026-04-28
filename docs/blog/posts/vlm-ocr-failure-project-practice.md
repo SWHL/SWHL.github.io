@@ -8,7 +8,7 @@ comments: true
 slug: vlm-ocr-failure-project-practice
 categories:
   - 推理引擎
-  - 心得体会
+  - 思考
 hide:
   - toc
 ---
