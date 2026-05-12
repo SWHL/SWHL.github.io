@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Mon, 11 May 2026 06:11:26 -0000</pubDate>
-    <lastBuildDate>Mon, 11 May 2026 06:11:26 -0000</lastBuildDate>
+    <pubDate>Tue, 12 May 2026 07:28:54 -0000</pubDate>
+    <lastBuildDate>Tue, 12 May 2026 07:28:54 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>常用的 macOS 软件推荐</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;推荐自己在 macOS 上常用的小软件&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/blog/best-macos-apps/</link>
+      <pubDate>Tue, 12 May 2026 07:28:07 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/best-macos-apps/</guid>
+      
+    </item>
     
     <item>
       <title>如何给 MkDocs Material 博客文章添加分享按钮？</title>
@@ -50,25 +69,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/add-share-buttons-to-mkdocs-material-blog/</guid>
-      
-    </item>
-    
-    <item>
-      <title>常用的 macOS 软件推荐</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;推荐自己在 macOS 上常用的小软件&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/best-macos-apps/</link>
-      <pubDate>Wed, 06 May 2026 01:40:53 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/best-macos-apps/</guid>
       
     </item>
     
