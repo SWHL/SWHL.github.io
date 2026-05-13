@@ -12,13 +12,11 @@
         <meta name="author" content="SWHL">
       
       
-        <link rel="canonical" href="https://swhl.github.io/main/blog/best-windows-apps/">
+        <link rel="canonical" href="https://swhl.github.io/main/blog/building-an-ios-url-scheme-index/">
       
       
-        <link rel="prev" href="../raycast-with-obsidian/">
+        <link rel="prev" href="../add-share-buttons-to-mkdocs-material-blog/">
       
-      
-        <link rel="next" href="../my-rss-tools/">
       
       
         <link rel="alternate" type="application/rss+xml" title="RSS 订阅" href="../../feed_rss_created.xml">
@@ -29,7 +27,7 @@
     
     
       
-        <title>常用的 Windows 软件推荐 - SWHL</title>
+        <title>找 iOS URL Scheme 太麻烦，所以我做了个索引站 - SWHL</title>
       
     
     
@@ -200,7 +198,7 @@ You're not viewing the latest version.
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              常用的 Windows 软件推荐
+              找 iOS URL Scheme 太麻烦，所以我做了个索引站
             
           </span>
         </div>
@@ -2171,7 +2169,70 @@ You're not viewing the latest version.
         <li class="md-nav__item">
   <a href="#_1" class="md-nav__link">
     <span class="md-ellipsis">
-      小技巧
+      我想解决的其实不是“列出来”
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      为什么做成静态站
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      首页主要围绕查找和验证
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bundle-id" class="md-nav__link">
+    <span class="md-ellipsis">
+      顺手加了一个 Bundle ID 查询
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      贡献流程尽量自动化，但不完全自动
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      数据校验是这个项目里比较重要的一块
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      现在还不完美
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      小结
     </span>
   </a>
   
@@ -2233,7 +2294,7 @@ You're not viewing the latest version.
                     <li class="md-nav__item">
                       <div class="md-nav__link">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H5V8h14m-3-7v2H8V1H6v2H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1V1m-1 11h-5v5h5z"/></svg>
-                        <time datetime="2026-03-20 00:00:00+00:00" class="md-ellipsis">2026/3/20</time>
+                        <time datetime="2026-05-13 00:00:00+00:00" class="md-ellipsis">2026/5/13</time>
                       </div>
                     </li>
                     
@@ -2255,7 +2316,7 @@ You're not viewing the latest version.
                           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 20a8 8 0 0 0 8-8 8 8 0 0 0-8-8 8 8 0 0 0-8 8 8 8 0 0 0 8 8m0-18a10 10 0 0 1 10 10 10 10 0 0 1-10 10C6.47 22 2 17.5 2 12A10 10 0 0 1 12 2m.5 5v5.25l4.5 2.67-.75 1.23L11 13V7z"/></svg>
                           <span class="md-ellipsis">
                             
-                              需要 1 分钟阅读时间
+                              需要 2 分钟阅读时间
                             
                           </span>
                         </div>
@@ -2265,43 +2326,6 @@ You're not viewing the latest version.
                 </nav>
               </li>
             </ul>
-            
-              <ul class="md-post__meta md-nav__list">
-                <li class="md-nav__item md-nav__item--section">
-                  <div class="md-post__title">
-                    <span class="md-ellipsis">
-                      相关链接
-                    </span>
-                  </div>
-                  <nav class="md-nav">
-                    <ul class="md-nav__list">
-                      
-                        
-                        
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../best-macos-apps/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    常用的 macOS 软件推荐
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-                      
-                    </ul>
-                  </nav>
-                </li>
-              </ul>
             
           </nav>
           
@@ -2319,14 +2343,14 @@ You're not viewing the latest version.
       
       
       
-        <a href="../../tags/#tag:windows" class="md-tag">Windows</a>
+        <a href="../../tags/#tag:ios" class="md-tag">iOS</a>
       
     
   </nav>
 
         
   
-    <a href="https://github.com/SWHL/SWHL.github.io/edit/main/docs/blog/posts/windows_software.md" title="编辑此页" class="md-content__button md-icon" rel="edit">
+    <a href="https://github.com/SWHL/SWHL.github.io/edit/main/docs/blog/posts/building-an-ios-url-scheme-index.md" title="编辑此页" class="md-content__button md-icon" rel="edit">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75z"/></svg>
     </a>
@@ -2335,59 +2359,101 @@ You're not viewing the latest version.
     
       
     
-    <a href="https://github.com/SWHL/SWHL.github.io/raw/main/docs/blog/posts/windows_software.md" title="查看本页的源代码" class="md-content__button md-icon">
+    <a href="https://github.com/SWHL/SWHL.github.io/raw/main/docs/blog/posts/building-an-ios-url-scheme-index.md" title="查看本页的源代码" class="md-content__button md-icon">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0 8a5 5 0 0 1-5-5 5 5 0 0 1 5-5 5 5 0 0 1 5 5 5 5 0 0 1-5 5m0-12.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5"/></svg>
     </a>
   
 
         
-          <h1>常用的 Windows 软件推荐</h1>
+          <h1>找 iOS URL Scheme 太麻烦，所以我做了个索引站</h1>
         
-        <p>推荐自己在 Windows 上常用的小软件</p>
-<!-- more -->
+        <!-- more -->
 
-<p>以下这些软件，是我经过长期使用和多方比对后筛选出的平替优选，每一款都堪称同类中的佼佼者。更重要的是——它们全部免费！</p>
-<table>
-<thead>
-<tr>
-<th>软件名称</th>
-<th>功能简介</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>坚果云</td>
-<td>国内知名的云同步网盘，支持文件自动同步、备份与跨设备共享。</td>
-</tr>
-<tr>
-<td>Pixpin</td>
-<td>截图与录屏工具，支持滚动截图、标注、OCR 识别及 GIF 录制等功能。</td>
-</tr>
-<tr>
-<td>Geek</td>
-<td>应用卸载工具，可彻底删除应用程序及其关联的配置、缓存等残留文件。</td>
-</tr>
-<tr>
-<td>PDFgear</td>
-<td>免费 PDF 工具套件，支持阅读、编辑、注释、转换、OCR 等功能。</td>
-</tr>
-<tr>
-<td>Everything</td>
-<td>快速搜索文件</td>
-</tr>
-<tr>
-<td>7-Zip</td>
-<td>小巧免费简洁干净的解压软件</td>
-</tr>
-<tr>
-<td>Potplayer</td>
-<td>无广，支持几乎所有常见的音视频格式，包括高清和 4K 视频，界面简洁清爽，运行流畅。</td>
-</tr>
-</tbody>
-</table>
-<h2 id="_1">小技巧<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
-<p>开启自带剪贴板功能：Win + V 即可。</p>
+<p>前段时间我想找几个常用 App 的 iOS URL Scheme。</p>
+<p>一开始以为这事很简单：搜一下 App 名，加上 <code>URL Scheme</code>，应该就能找到。结果真正找起来才发现，资料很散。有的在很老的博客里，有的在 GitHub issue 里，有的只出现在别人整理的片段里，还有一些要从 App 的 <code>Info.plist</code> 或历史记录里翻。</p>
+<p>更麻烦的是，找到不代表能用。</p>
+<p>有些 Scheme 只是能打开 App，不能跳到具体页面；有些在旧版本里有效，新版本已经失效；有些入口只在国内区 App 里存在；还有些链接看起来像 Scheme，但其实更接近 Universal Link 或 WebView 跳转。</p>
+<p>所以我干脆做了一个小站：<code>awesome-ios-url-schemes</code>。</p>
+<p>项目地址：<a href="https://github.com/SWHL/awesome-ios-url-schemes">https://github.com/SWHL/awesome-ios-url-schemes</a></p>
+<p>在线地址：<a href="https://swhl.github.io/awesome-ios-url-schemes/">https://swhl.github.io/awesome-ios-url-schemes/</a></p>
+<p>它现在不是特别复杂，本质上就是一个静态站点，加一份结构化 JSON 数据。目前收了 173 个 App, 1441 条 Scheme。数量不算夸张，但已经比散落在浏览器收藏夹和搜索结果里好维护得多。</p>
+<h2 id="_1">我想解决的其实不是“列出来”<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
+<p>网上并不缺 URL Scheme 列表。</p>
+<p>但很多列表的问题是：它们通常只是一个 Markdown 表格，时间久了之后很难判断哪些还能用，哪些只是历史记录。你看到一条 <code>xxx://scan</code>，但不知道它来自哪里，不知道有没有人验证过，也不知道它属于扫码、搜索、付款码，还是只是打开 App。</p>
+<p>我想要的是稍微多一点结构。</p>
+<p>所以项目里每条 Scheme 不只是一个字符串，还会记录这些东西：</p>
+<ul>
+<li>它属于哪个 App</li>
+<li>App 的 Bundle ID 是什么</li>
+<li>这个 Scheme 大概是做什么的</li>
+<li>它属于哪类能力，比如扫码、搜索、内容详情、导航、设置</li>
+<li>已知地区是哪里</li>
+<li>有没有参数</li>
+<li>是普通 Scheme, Universal Link，还是 WebView</li>
+<li>当前状态是已验证、部分可用、可能失效，还是未知</li>
+<li>资料来源或验证方式是什么</li>
+</ul>
+<p>这些字段看起来有点啰嗦，但后面会省很多事。</p>
+<p>比如我想找“所有能打开扫码页的 Scheme”，就不需要全文搜索“扫码”“扫一扫”“scan”各种关键词，只要按能力筛选。想找某个 App 的全部入口，也可以按 App 聚合。想让别人反馈失效，也能精确到某一条记录，而不是对着一整篇列表留言。</p>
+<h2 id="_2">为什么做成静态站<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
+<p>这个项目用 Astro 写，部署在 GitHub Pages 上。</p>
+<p>其实这里没有什么复杂架构。URL Scheme 这种数据读多写少，用静态站点就够了。静态页面访问快，不用管服务器，也不需要数据库。数据就放在仓库里，Git 本身就是版本记录。</p>
+<p>我也不想为了一个索引站搞一套后台。</p>
+<p>现在的流程是：数据放在 <code>src/data/schemes.json</code>，分类、能力标签和来源分别放在几个独立 JSON 文件里。Astro 负责把这些数据渲染成页面，同时也暴露出 JSON 和 Markdown 形式的数据出口。</p>
+<p>本地跑起来也很直接：</p>
+<div class="language-bash highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"><a href="#__codelineno-0-1">1</a></span>
+<span class="normal"><a href="#__codelineno-0-2">2</a></span>
+<span class="normal"><a href="#__codelineno-0-3">3</a></span></pre></div></td><td class="code"><div><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1"></a>pnpm<span class="w"> </span>install
+</span><span id="__span-0-2"><a id="__codelineno-0-2" name="__codelineno-0-2"></a>pnpm<span class="w"> </span>run<span class="w"> </span>validate:data
+</span><span id="__span-0-3"><a id="__codelineno-0-3" name="__codelineno-0-3"></a>pnpm<span class="w"> </span>run<span class="w"> </span>dev
+</span></code></pre></div></td></tr></table></div>
+<p>如果只是改数据，重点反而不是前端构建，而是先跑校验。因为这类项目最容易坏的地方不是页面样式，而是 JSON 里某个字段拼错、某个 URL 重复、某个分类 ID 不存在。</p>
+<h2 id="_3">首页主要围绕查找和验证<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
+<p>首页没有做成很重的产品页。</p>
+<p>我更希望它打开后就能直接查，所以核心就是搜索、筛选和复制。</p>
+<p>现在支持按 App 名、Bundle ID, URL、用途、分类等内容搜索，也可以按分类、能力、状态、证据类型筛选。结果有三种看法：按 App、按能力、全部列表。</p>
+<p>这个“按能力”对我自己挺有用。因为很多时候我不是为了找某个 App，而是想知道“有哪些 App 支持扫码入口”“哪个地图类 App 可以直接导航”“哪些 App 有搜索 Scheme”。如果数据只有字符串列表，这种问题就很难回答。</p>
+<p>每条 Scheme 旁边有复制按钮，也有“可用”和“失效”的反馈入口。点反馈会打开一个预填好的 GitHub Issue，把 App, Scheme、用途和反馈类型带进去。</p>
+<p>这个设计有点朴素，但够用。</p>
+<p>我不想让用户为了反馈一条失效记录，还要自己组织一堆格式。能少填一点就少填一点，维护者看到的信息也更统一。</p>
+<h2 id="bundle-id">顺手加了一个 Bundle ID 查询<a class="headerlink" href="#bundle-id" title="Permanent link">&para;</a></h2>
+<p>做这个站的时候，我发现另一个常见小麻烦是 Bundle ID。</p>
+<p>很多时候手上只有 App Store 分享链接，但要写规则、做跳转、排查问题时，又需要 Bundle ID。于是我在首页加了一个 Bundle ID 查询框。</p>
+<p>它的实现也没用后端。页面从 App Store URL 里解析出 App ID，然后在浏览器端调用 Apple Lookup API，拿到 App 名和 Bundle ID。</p>
+<p>这不是一个多高级的功能，但实际用起来很顺手。尤其是整理数据时，可以少开几个网页。</p>
+<p>因为它跑在 GitHub Pages 上，有时可能会被网络环境或浏览器插件影响，所以页面里也留了一个 fallback 链接，必要时可以直接打开 Apple Lookup API 看原始结果。</p>
+<h2 id="_4">贡献流程尽量自动化，但不完全自动<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
+<p>数据类项目最怕两件事：没人愿意提交，或者提交了之后维护成本太高。</p>
+<p>所以我做了一个 Issue 到 PR 的流程。</p>
+<p>用户可以通过 Issue 提交新的 Scheme，也可以反馈已有 Scheme 可用或失效。GitHub Actions 会读取 Issue 内容，调用脚本更新 <code>src/data/schemes.json</code>，然后跑一遍数据校验。如果没问题，就自动开一个 PR。</p>
+<p>维护者要做的是审一下这次数据变更，而不是从 Issue 里手工复制字段。</p>
+<p>这里我没有让机器人直接合并，因为 URL Scheme 这种东西很容易出现误报。比如某个链接在提交者手机上能打开，但在另一个地区、另一个 App 版本里可能不行。自动生成 PR 已经能省掉机械劳动，最后一步还是留给人判断更稳妥。</p>
+<h2 id="_5">数据校验是这个项目里比较重要的一块<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h2>
+<p>现在项目里有一个 Python 脚本：<code>scripts/validate_data.py</code>。</p>
+<p>它会检查 JSON 格式、slug 是否重复、分类和能力标签是否存在、Scheme URL 是否重复、状态和类型是否合法、日期格式是不是 <code>YYYY-MM-DD</code> 等。</p>
+<p>这些检查看起来普通，但对这个项目很关键。</p>
+<p>因为数据会不断增加，而且未来可能来自不同人的提交。如果没有校验，很容易慢慢积累出一堆小问题：同一个 URL 出现两次、某条记录引用了不存在的分类、某个状态写成了 <code>verifyed</code>，页面还能构建，但筛选就会开始出现奇怪结果。</p>
+<p>现在部署流程里也会先跑数据校验，再构建站点。也就是说，数据结构不对时，不会直接发布到线上。</p>
+<h2 id="_6">现在还不完美<a class="headerlink" href="#_6" title="Permanent link">&para;</a></h2>
+<p>这份索引还远不是“权威资料”。</p>
+<p>很多 Scheme 目前只能标成 <code>unknown</code>，因为我还没有逐条在真机上验证。部分来源也只是社区资料或历史整理，准确性要继续靠后续反馈来提高。</p>
+<p>另外，URL Scheme 本身就不是一个特别稳定的接口。App 更新后入口可能改掉，系统策略也可能变化。有些 App 甚至不会公开这些能力，只能靠观察和测试。</p>
+<p>所以我更倾向于把它看成一个“可验证的数据集”，而不是一份一次写完就结束的清单。</p>
+<p>后面比较想继续补的方向有几个：</p>
+<ul>
+<li>给更多记录补充真机验证结果</li>
+<li>增加 App 版本、iOS 版本、测试设备等信息</li>
+<li>补充海外 App 和开发者工具类 App</li>
+<li>对 Universal Link 单独记录 fallback 行为</li>
+<li>提供更适合脚本读取的数据导出</li>
+</ul>
+<p>这些都不难，但需要时间慢慢补。</p>
+<h2 id="_7">小结<a class="headerlink" href="#_7" title="Permanent link">&para;</a></h2>
+<p><code>awesome-ios-url-schemes</code> 是我为了解决自己查 iOS URL Scheme 麻烦而做的小项目。</p>
+<p>它没有复杂后端，也没有很重的交互。核心就是把散落的 Scheme 整理成结构化数据，再用一个静态站点把搜索、筛选、复制、反馈这些基本动作做好。</p>
+<p>如果你只是偶尔查一个 App 的 Scheme，可以直接用网页。如果你在做 iOS 调试、快捷指令、自动化脚本，也可以直接读项目里的 JSON 数据。</p>
+<p>后续如果你发现某条 Scheme 可用、失效，或者知道新的入口，也欢迎在 GitHub 上提交 Issue。这个项目的价值，很大程度上会来自持续验证。</p>
         
 
 
@@ -2410,7 +2476,7 @@ You're not viewing the latest version.
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_datetime" title="2026年3月23日 10:07:48 CST">2026-03-23 10:07:48</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_datetime" title="2026年5月13日 14:14:54 CST">2026-05-13 14:14:54</span>
   </span>
 
     
@@ -2420,7 +2486,7 @@ You're not viewing the latest version.
     <span class="md-icon" title="创建日期">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_datetime" title="2026年3月20日 10:12:48 CST">2026-03-20 10:12:48</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_datetime" title="2026年5月13日 14:14:54 CST">2026-05-13 14:14:54</span>
   </span>
 
     
@@ -2617,9 +2683,9 @@ You're not viewing the latest version.
         
           
           <a
-            href="../raycast-with-obsidian/"
+            href="../add-share-buttons-to-mkdocs-material-blog/"
             class="md-footer__link md-footer__link--prev"
-            aria-label="上一页: 使用 Raycast 快速在 Obsidian 笔记中搜索笔记"
+            aria-label="上一页: 如何给 MkDocs Material 博客文章添加分享按钮？"
           >
             <div class="md-footer__button md-icon">
               
@@ -2630,33 +2696,13 @@ You're not viewing the latest version.
                 上一页
               </span>
               <div class="md-ellipsis">
-                使用 Raycast 快速在 Obsidian 笔记中搜索笔记
+                如何给 MkDocs Material 博客文章添加分享按钮？
               </div>
             </div>
           </a>
         
 
         <!-- Link to next page -->
-        
-          
-          <a
-            href="../my-rss-tools/"
-            class="md-footer__link md-footer__link--next"
-            aria-label="下一页: 我使用的 RSS 工具链"
-          >
-            <div class="md-footer__title">
-              <span class="md-footer__direction">
-                下一页
-              </span>
-              <div class="md-ellipsis">
-                我使用的 RSS 工具链
-              </div>
-            </div>
-            <div class="md-footer__button md-icon">
-              
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M247.1 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L179.2 256 41.9 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg>
-            </div>
-          </a>
         
       </nav>
     

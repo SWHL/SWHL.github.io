@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/building-an-ios-url-scheme-index/",
+            "url": "https://swhl.github.io/main/blog/building-an-ios-url-scheme-index/",
+            "title": "\u627e iOS URL Scheme \u592a\u9ebb\u70e6\uff0c\u6240\u4ee5\u6211\u505a\u4e86\u4e2a\u7d22\u5f15\u7ad9",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-05-13T06:14:54+00:00",
+            "date_published": "2026-05-13T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/add-share-buttons-to-mkdocs-material-blog/",
             "url": "https://swhl.github.io/main/blog/add-share-buttons-to-mkdocs-material-blog/",
             "title": "\u5982\u4f55\u7ed9 MkDocs Material \u535a\u5ba2\u6587\u7ae0\u6dfb\u52a0\u5206\u4eab\u6309\u94ae\uff1f",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-03-20T03:54:09+00:00",
             "date_published": "2026-03-03T08:21:45+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/how-to-build-your-own-closed-loop-information-flow/",
-            "url": "https://swhl.github.io/main/blog/how-to-build-your-own-closed-loop-information-flow/",
-            "title": "\u5982\u4f55\u6784\u5efa\u81ea\u5df1\u7684\u4fe1\u606f\u6d41\u95ed\u73af\uff1f",
-            "content_html": "<p>\u8bb0\u5f55\u4e00\u4e0b\u81ea\u5df1\u662f\u5982\u4f55\u5904\u7406\u6bcf\u5929\u6d77\u91cf\u7684\u4fe1\u606f\u7684\u3002</p>",
-            "image": null,
-            "date_modified": "2026-04-07T02:59:56+00:00",
-            "date_published": "2026-03-03T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"

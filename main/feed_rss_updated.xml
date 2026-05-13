@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 12 May 2026 07:28:54 -0000</pubDate>
-    <lastBuildDate>Tue, 12 May 2026 07:28:54 -0000</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 06:15:34 -0000</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 06:15:34 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>找 iOS URL Scheme 太麻烦，所以我做了个索引站</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/building-an-ios-url-scheme-index/</link>
+      <pubDate>Wed, 13 May 2026 06:14:54 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/building-an-ios-url-scheme-index/</guid>
+      
+    </item>
     
     <item>
       <title>常用的 macOS 软件推荐</title>
@@ -392,25 +411,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/pathlib-easy-to-overlook-but-useful-methods/</guid>
-      
-    </item>
-    
-    <item>
-      <title>教，而非告知</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;本文讨论的是技术文档写作——更具体地说，是关于编程语言和库的文档编写。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/teach-dont-tell/</link>
-      <pubDate>Fri, 20 Mar 2026 03:54:09 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/teach-dont-tell/</guid>
       
     </item>
     
