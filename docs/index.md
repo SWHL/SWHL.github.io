@@ -9,6 +9,7 @@ hide:
 
 ### 🧑🏻‍💻 开源项目 ([more](https://github.com/SWHL?tab=repositories))
 
+- [RapidTTS](https://github.com/RapidAI/RapidTTS): 轻量级文本转语音工具，面向本地快速推理。
 - [RapidTable](https://github.com/RapidAI/RapidTable): 基于序列表格识别算法推理库，集成 PP-Structure 和 modelscope 等表格识别算法。
 - [RapidOCRDocs](https://github.com/RapidAI/RapidOCRDocs): RapidOCR 官方文档。
 - [RapidDoc](https://github.com/RapidAI/RapidDoc): 一站式开源高性能 PDF 数据提取工具，将复杂 PDF 文档转换为 Markdown 和 JSON 格式，使用 onnx 模型。
