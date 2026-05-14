@@ -35,3 +35,10 @@ jobs:
           ls -la site/
           mike deploy --push --update-aliases main latest
           mike set-default --push latest
+          git fetch origin gh-pages --depth=1
+          rm -rf /tmp/swhl-gh-pages
+          git worktree add --detach /tmp/swhl-gh-pages origin/gh-pages
+          cp site/robots.txt site/llms.txt site/llms-full.txt /tmp/swhl-gh-pages/
+          git -C /tmp/swhl-gh-pages add robots.txt llms.txt llms-full.txt
+          git -C /tmp/swhl-gh-pages diff --cached --quiet || git -C /tmp/swhl-gh-pages commit -m "Update root discovery files"
+          git -C /tmp/swhl-gh-pages push origin HEAD:gh-pages
