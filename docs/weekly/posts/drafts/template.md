@@ -15,7 +15,11 @@ slug: 20260406-20260412-weekly
   <figcaption></figcaption>
 </figure>
 
-## 本周信息看点
+## 摘录
+
+### 原文标题
+
+评论
 
 ## 值得关注的产品 / 工具
 
