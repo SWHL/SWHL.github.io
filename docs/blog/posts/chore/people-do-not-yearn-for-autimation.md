@@ -7,7 +7,7 @@ authors:
 comments: true
 slug: people-do-not-yearn-for-autimation
 categories:
-  - 思考
+  - General
 hide:
   - toc
 ---
