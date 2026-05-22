@@ -4,14 +4,11 @@ date: 2026-03-17
 authors:
   - SWHL
 slug: raycast-with-obsidian
-comments: true
 categories:
   - 工具
 tags:
   - Raycast
   - Obsidian
-hide:
-  - toc
 links:
   - 从 Alfred 转到 Raycast: blog/posts/alfred_to_raycast.md
 ---

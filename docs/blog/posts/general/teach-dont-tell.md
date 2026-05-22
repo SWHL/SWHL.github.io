@@ -4,10 +4,9 @@ date: 2026-03-17
 authors:
   - SWHL
 slug: teach-dont-tell
-comments: true
-hide:
-  - toc
 categories:
+  - General
+tags:
   - 翻译
 ---
 

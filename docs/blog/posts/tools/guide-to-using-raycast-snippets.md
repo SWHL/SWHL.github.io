@@ -4,14 +4,11 @@ date:
   created: 2026-04-14
 authors:
   - SWHL
-comments: true
 slug: guide-to-using-raycast-snippets
 categories:
   - 工具
 tags:
   - Raycast
-hide:
-  - toc
 ---
 
 <!-- more -->

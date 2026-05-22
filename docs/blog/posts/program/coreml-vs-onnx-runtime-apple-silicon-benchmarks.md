@@ -4,7 +4,6 @@ date: 2026-03-01
 authors:
   - SWHL
 slug: accelerate-onnx-models-with-coreml-on-macos
-comments: true
 categories:
   - 推理引擎
 tags:

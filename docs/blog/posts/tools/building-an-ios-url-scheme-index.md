@@ -4,14 +4,11 @@ date:
   created: 2026-05-13
 authors:
   - SWHL
-comments: true
 slug: building-an-ios-url-scheme-index
 categories:
   - 工具
 tags:
   - iOS
-hide:
-  - toc
 ---
 
 <!-- more -->

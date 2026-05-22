@@ -5,13 +5,10 @@ date:
 authors:
   - SWHL
 slug: best-windows-apps
-comments: true
 categories:
   - 工具
 tags:
   - Windows
-hide:
-  - toc
 links:
   - 常用的 macOS 软件推荐: blog/posts/macos_software.md
 ---

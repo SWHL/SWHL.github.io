@@ -5,9 +5,6 @@ date:
 authors:
   - SWHL
 slug: how-to-setup-github-image-host
-comments: true
-hide:
-  - toc
 ---
 
 <!-- more -->

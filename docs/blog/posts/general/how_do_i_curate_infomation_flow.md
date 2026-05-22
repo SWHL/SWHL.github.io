@@ -5,12 +5,9 @@ date:
   updated: 2026-03-23
 authors:
   - SWHL
-comments: true
 slug: how-to-build-your-own-closed-loop-information-flow
 categories:
   - General
-hide:
-  - toc
 ---
 
 记录一下自己是如何处理每天海量的信息的。

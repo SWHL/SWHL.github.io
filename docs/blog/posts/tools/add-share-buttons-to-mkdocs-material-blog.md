@@ -9,8 +9,6 @@ categories:
   - 工具
 tags:
   - mkdocs-material
-hide:
-  - toc
 ---
 
 最近给博客文章页加了一组分享按钮，最终效果是放在文章元数据下方、评论区上方：

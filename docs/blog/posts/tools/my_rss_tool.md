@@ -5,11 +5,10 @@ date:
 authors:
   - SWHL
 slug: my-rss-tools
-hide:
-  - toc
 categories:
+  - 工具
+tags:
   - RSS
-comments: true
 ---
 
 记录我所使用的 RSS 工具链

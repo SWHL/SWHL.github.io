@@ -4,13 +4,10 @@ date: 2026-03-03
 authors:
   - SWHL
 slug: my-obsidian-plugins
-comments: true
 categories:
   - 工具
 tags:
  - Obsidian
-hide:
-  - toc
 ---
 
 <!-- more -->

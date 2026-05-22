@@ -4,12 +4,9 @@ date:
   created: 2026-04-28
 authors:
   - SWHL
-comments: true
 slug: people-do-not-yearn-for-autimation
 categories:
   - General
-hide:
-  - toc
 ---
 
 <!-- more -->

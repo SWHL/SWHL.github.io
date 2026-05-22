@@ -4,13 +4,10 @@ date: 2026-03-01
 authors:
   - SWHL
 slug: pathlib-easy-to-overlook-but-useful-methods
-hide:
-  - toc
 categories:
   - 编程
 tags:
   - python
-comments: true
 ---
 
 <!-- more -->

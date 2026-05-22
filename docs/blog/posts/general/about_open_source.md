@@ -8,9 +8,6 @@ categories:
   - General
 tags:
   - Open Source
-hide:
-  - toc
-comments: true
 ---
 
 开源随想

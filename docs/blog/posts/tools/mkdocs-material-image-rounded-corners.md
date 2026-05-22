@@ -9,8 +9,6 @@ categories:
   - 工具
 tags:
   - mkdocs-material
-hide:
-  - toc
 ---
 
 <!-- more -->

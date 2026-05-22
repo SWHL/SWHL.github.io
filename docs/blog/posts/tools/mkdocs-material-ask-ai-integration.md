@@ -5,13 +5,10 @@ date:
 authors:
   - SWHL
 slug: mkdocs-material-ask-ai-integration
-comments: true
 categories:
   - 工具
 tags:
   - mkdocs-material
-hide:
-  - toc
 ---
 
 <!-- more -->

@@ -4,14 +4,11 @@ date: 2026-03-13
 authors:
   - SWHL
 slug: from-alfred-to-raycast
-comments: true
 categories:
   - 工具
 tags:
   - Alfred
   - Raycast
-hide:
-  - toc
 ---
 
 记录从 Alfred 转到 Raycast 的过程。

@@ -4,14 +4,11 @@ date: 2026-03-03
 authors:
   - SWHL
 slug: my-first-vscode-extension
-comments: true
 categories:
   - 工具
 tags:
   - VS Code
   - markdown
-hide:
-  - toc
 ---
 
 记录借助 Cursor 工具开发第一个 VSCode 插件的过程

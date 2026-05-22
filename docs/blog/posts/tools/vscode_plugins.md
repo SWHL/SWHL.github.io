@@ -4,13 +4,10 @@ date: 2026-03-17
 authors:
   - SWHL
 slug: my-vscode-plugins
-comments: true
 categories:
   - 工具
 tags:
  - VS Code
-hide:
-  - toc
 ---
 
 记录日常使用到的 VSCode 插件

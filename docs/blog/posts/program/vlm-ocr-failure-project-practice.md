@@ -4,13 +4,10 @@ date:
   created: 2026-04-24
 authors:
   - SWHL
-comments: true
 slug: vlm-ocr-failure-project-practice
 categories:
   - 推理引擎
   - General
-hide:
-  - toc
 ---
 
 <!-- more -->
