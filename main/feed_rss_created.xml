@@ -3,7 +3,7 @@
   <channel>
     
     <title>SWHL</title>
-    <description>用工程师思维过日子：代码、书、食物与知识网络</description>
+    <description>用工程师思维过日子：代码、书、食物与知识网络 feedId:258695382233062400+userId:258565743841975296</description>
     <link>https://swhl.github.io/main/</link>
     <atom:link href="https://swhl.github.io/main/feed_rss_created.xml" rel="self" type="application/rss+xml" />
 
@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 22 May 2026 03:46:10 -0000</pubDate>
-    <lastBuildDate>Fri, 22 May 2026 03:46:10 -0000</lastBuildDate>
+    <pubDate>Fri, 22 May 2026 04:31:24 -0000</pubDate>
+    <lastBuildDate>Fri, 22 May 2026 04:31:24 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -23,7 +23,7 @@
     
     
     <image>
-      <url>None</url>
+      <url>https://swhl.github.io/main/images/blog-solid-full.svg</url>
       <title>SWHL</title>
       <link>https://swhl.github.io/main/</link>
     </image>
