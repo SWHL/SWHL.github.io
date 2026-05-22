@@ -13,27 +13,12 @@
     "language": "zh",
     "items": [
         {
-            "id": "https://swhl.github.io/main/blog/vlm-ocr-failure-project-practice/",
-            "url": "https://swhl.github.io/main/blog/vlm-ocr-failure-project-practice/",
-            "title": "\u4e00\u6b21\u5931\u8d25\u7684 VLM-OCR \u9879\u76ee\u5b9e\u8df5",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-05-22T01:37:44+00:00",
-            "date_published": "2026-04-24T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
             "id": "https://swhl.github.io/main/blog/about-open-source/",
             "url": "https://swhl.github.io/main/blog/about-open-source/",
             "title": "\u5173\u4e8e\u5f00\u6e90",
             "content_html": "<p>\u5f00\u6e90\u968f\u60f3</p>",
             "image": null,
-            "date_modified": "2026-05-22T01:36:57+00:00",
+            "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-05-22T01:36:57+00:00",
             "authors": [
                 {
@@ -48,23 +33,8 @@
             "title": "\u5982\u4f55\u6784\u5efa\u81ea\u5df1\u7684\u4fe1\u606f\u6d41\u95ed\u73af\uff1f",
             "content_html": "<p>\u8bb0\u5f55\u4e00\u4e0b\u81ea\u5df1\u662f\u5982\u4f55\u5904\u7406\u6bcf\u5929\u6d77\u91cf\u7684\u4fe1\u606f\u7684\u3002</p>",
             "image": null,
-            "date_modified": "2026-05-22T01:36:57+00:00",
+            "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-03-03T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/how-to-read-better-books/",
-            "url": "https://swhl.github.io/main/blog/how-to-read-better-books/",
-            "title": "\u5982\u4f55\u9605\u8bfb\u66f4\u597d\u7684\u4e66\u7c4d\uff1f",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-05-22T01:36:57+00:00",
-            "date_published": "2026-05-22T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"
@@ -78,8 +48,23 @@
             "title": "\u4eba\u4eec\u4e5f\u8bb8\u5e76\u4e0d\u559c\u6b22\u81ea\u52a8\u5316",
             "content_html": "",
             "image": null,
-            "date_modified": "2026-05-22T01:36:57+00:00",
+            "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-04-28T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://swhl.github.io/main/blog/teach-dont-tell/",
+            "url": "https://swhl.github.io/main/blog/teach-dont-tell/",
+            "title": "\u6559\uff0c\u800c\u975e\u544a\u77e5",
+            "content_html": "<p>\u672c\u6587\u8ba8\u8bba\u7684\u662f\u6280\u672f\u6587\u6863\u5199\u4f5c\u2014\u2014\u66f4\u5177\u4f53\u5730\u8bf4\uff0c\u662f\u5173\u4e8e\u7f16\u7a0b\u8bed\u8a00\u548c\u5e93\u7684\u6587\u6863\u7f16\u5199\u3002</p>",
+            "image": null,
+            "date_modified": "2026-05-22T01:47:54+00:00",
+            "date_published": "2026-05-22T01:47:54+00:00",
             "authors": [
                 {
                     "name": "SWHL"
@@ -93,7 +78,7 @@
             "title": "\u5728 macOS \u4e0a\u4f7f\u7528 CoreML \u52a0\u901f ONNX \u6a21\u578b\u63a8\u7406\uff1a\u5b8c\u5168\u6307\u5357",
             "content_html": "<p>\u4f5c\u4e3a\u6df1\u5ea6\u5b66\u4e60\u5de5\u7a0b\u5e08\uff0c\u6211\u4eec\u7ecf\u5e38\u9762\u4e34\u4e00\u4e2a\u95ee\u9898\uff1a\u5982\u4f55\u5728 Apple \u8bbe\u5907\u4e0a\u9ad8\u6548\u5730\u90e8\u7f72\u5df2\u6709\u7684 ONNX \u6a21\u578b\uff1f\u672c\u6587\u5c06\u6df1\u5165\u63a2\u8ba8\u4e24\u79cd\u4e3b\u8981\u65b9\u6848\uff0c\u5e76\u901a\u8fc7\u5b9e\u9645\u6d4b\u8bd5\u7ed9\u51fa\u8be6\u7ec6\u7684\u6027\u80fd\u548c\u7cbe\u5ea6\u5bf9\u6bd4\u3002</p>",
             "image": null,
-            "date_modified": "2026-05-22T01:35:00+00:00",
+            "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-05-22T01:35:00+00:00",
             "authors": [
                 {
@@ -108,8 +93,23 @@
             "title": "pathlib\u5e93\u4e2d\u90a3\u4e9b\u5bb9\u6613\u88ab\u5ffd\u7565\u7684\u597d\u7528\u65b9\u6cd5",
             "content_html": "",
             "image": null,
-            "date_modified": "2026-05-22T01:35:00+00:00",
+            "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-05-22T01:35:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://swhl.github.io/main/blog/vlm-ocr-failure-project-practice/",
+            "url": "https://swhl.github.io/main/blog/vlm-ocr-failure-project-practice/",
+            "title": "\u4e00\u6b21\u5931\u8d25\u7684 VLM-OCR \u9879\u76ee\u5b9e\u8df5",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-05-22T01:47:54+00:00",
+            "date_published": "2026-04-24T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"
@@ -123,7 +123,7 @@
             "title": "\u5982\u4f55\u7ed9 MkDocs Material \u535a\u5ba2\u6587\u7ae0\u6dfb\u52a0\u5206\u4eab\u6309\u94ae\uff1f",
             "content_html": "<p>\u6700\u8fd1\u7ed9\u535a\u5ba2\u6587\u7ae0\u9875\u52a0\u4e86\u4e00\u7ec4\u5206\u4eab\u6309\u94ae\uff0c\u6700\u7ec8\u6548\u679c\u662f\u653e\u5728\u6587\u7ae0\u5143\u6570\u636e\u4e0b\u65b9\u3001\u8bc4\u8bba\u533a\u4e0a\u65b9\uff1a</p>\n<p><code>text\n\u5206\u4eab\uff1a \u5fae\u4fe1 \u5fae\u535a X</code></p>\n<p>\u8fd9\u7bc7\u6587\u7ae0\u8bb0\u5f55\u4e00\u4e0b\u5b9e\u73b0\u8fc7\u7a0b\u3002\u6838\u5fc3\u601d\u8def\u662f\uff1a\u8986\u76d6 MkDocs Material \u7684\u535a\u5ba2\u6587\u7ae0\u6a21\u677f\uff0c\u5728\u5408\u9002\u7684\u4f4d\u7f6e\u63d2\u5165\u4e00\u4e2a\u5206\u4eab\u7ec4\u4ef6\uff0c\u518d\u7528\u5c11\u91cf JavaScript \u52a8\u6001\u751f\u6210\u5206\u4eab\u94fe\u63a5\u3002</p>",
             "image": null,
-            "date_modified": "2026-05-22T01:35:00+00:00",
+            "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-05-07T00:00:00+00:00",
             "authors": [
                 {
@@ -138,7 +138,7 @@
             "title": "\u4ece Alfred \u8f6c\u5230 Raycast",
             "content_html": "<p>\u8bb0\u5f55\u4ece Alfred \u8f6c\u5230 Raycast \u7684\u8fc7\u7a0b\u3002</p>",
             "image": null,
-            "date_modified": "2026-05-22T01:35:00+00:00",
+            "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-05-22T01:35:00+00:00",
             "authors": [
                 {
@@ -153,7 +153,7 @@
             "title": "\u627e iOS URL Scheme \u592a\u9ebb\u70e6\uff0c\u6240\u4ee5\u6211\u505a\u4e86\u4e2a\u7d22\u5f15\u7ad9",
             "content_html": "",
             "image": null,
-            "date_modified": "2026-05-22T01:35:00+00:00",
+            "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-05-13T00:00:00+00:00",
             "authors": [
                 {
@@ -168,7 +168,7 @@
             "title": "\u4f7f\u7528 Raycast Snippets \u6307\u5357",
             "content_html": "",
             "image": null,
-            "date_modified": "2026-05-22T01:35:00+00:00",
+            "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-04-14T00:00:00+00:00",
             "authors": [
                 {
@@ -183,7 +183,7 @@
             "title": "\u5982\u4f55\u4f7f\u7528Github\u4f5c\u4e3a\u535a\u5ba2\u56fe\u5e8a\uff1f",
             "content_html": "",
             "image": null,
-            "date_modified": "2026-05-22T01:35:00+00:00",
+            "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-04-05T00:00:00+00:00",
             "authors": [
                 {
@@ -198,7 +198,7 @@
             "title": "\u5e38\u7528\u7684 macOS \u8f6f\u4ef6\u63a8\u8350",
             "content_html": "<p>\u63a8\u8350\u81ea\u5df1\u5728 macOS \u4e0a\u5e38\u7528\u7684\u5c0f\u8f6f\u4ef6</p>",
             "image": null,
-            "date_modified": "2026-05-22T01:35:00+00:00",
+            "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-03-10T00:00:00+00:00",
             "authors": [
                 {
@@ -213,7 +213,7 @@
             "title": "MkDocs Material \u96c6\u6210 Ask AI \u6559\u7a0b",
             "content_html": "",
             "image": null,
-            "date_modified": "2026-05-22T01:35:00+00:00",
+            "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-04-10T00:00:00+00:00",
             "authors": [
                 {
@@ -228,7 +228,7 @@
             "title": "\u5982\u4f55\u5728 mkdocs-material \u4e2d\u8bbe\u7f6e\u56fe\u50cf\u5706\u89d2\u663e\u793a\uff1f",
             "content_html": "",
             "image": null,
-            "date_modified": "2026-05-22T01:35:00+00:00",
+            "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-04-08T00:00:00+00:00",
             "authors": [
                 {
@@ -243,7 +243,7 @@
             "title": "\u6211\u5f00\u53d1\u7684\u7b2c\u4e00\u4e2a VSCode \u63d2\u4ef6",
             "content_html": "<p>\u8bb0\u5f55\u501f\u52a9 Cursor \u5de5\u5177\u5f00\u53d1\u7b2c\u4e00\u4e2a VSCode \u63d2\u4ef6\u7684\u8fc7\u7a0b</p>",
             "image": null,
-            "date_modified": "2026-05-22T01:35:00+00:00",
+            "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-05-22T01:35:00+00:00",
             "authors": [
                 {
@@ -258,7 +258,7 @@
             "title": "\u6211\u4f7f\u7528\u7684 RSS \u5de5\u5177\u94fe",
             "content_html": "<p>\u8bb0\u5f55\u6211\u6240\u4f7f\u7528\u7684 RSS \u5de5\u5177\u94fe</p>",
             "image": null,
-            "date_modified": "2026-05-22T01:35:00+00:00",
+            "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-03-23T00:00:00+00:00",
             "authors": [
                 {
@@ -273,7 +273,7 @@
             "title": "Obsidian\u81ea\u7528\u63d2\u4ef6\u6c47\u603b",
             "content_html": "",
             "image": null,
-            "date_modified": "2026-05-22T01:35:00+00:00",
+            "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-05-22T01:35:00+00:00",
             "authors": [
                 {
@@ -288,7 +288,7 @@
             "title": "\u4f7f\u7528 Raycast \u5feb\u901f\u5728 Obsidian \u7b14\u8bb0\u4e2d\u641c\u7d22\u7b14\u8bb0",
             "content_html": "<p>\u8bb0\u5f55\u5982\u4f55\u914d\u7f6e Raycast \u6765\u5feb\u901f\u5176\u7a97\u53e3\u4e2d\u641c\u7d22 Obsidian \u4e2d\u7684\u7b14\u8bb0\u3002</p>",
             "image": null,
-            "date_modified": "2026-05-22T01:35:00+00:00",
+            "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-05-22T01:35:00+00:00",
             "authors": [
                 {
@@ -303,7 +303,7 @@
             "title": "VS Code \u81ea\u7528\u63d2\u4ef6\u6c47\u603b",
             "content_html": "<p>\u8bb0\u5f55\u65e5\u5e38\u4f7f\u7528\u5230\u7684 VSCode \u63d2\u4ef6</p>",
             "image": null,
-            "date_modified": "2026-05-22T01:35:00+00:00",
+            "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-05-22T01:35:00+00:00",
             "authors": [
                 {

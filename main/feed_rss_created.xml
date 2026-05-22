@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 22 May 2026 01:38:29 -0000</pubDate>
-    <lastBuildDate>Fri, 22 May 2026 01:38:29 -0000</lastBuildDate>
+    <pubDate>Fri, 22 May 2026 01:48:35 -0000</pubDate>
+    <lastBuildDate>Fri, 22 May 2026 01:48:35 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>教，而非告知</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;本文讨论的是技术文档写作——更具体地说，是关于编程语言和库的文档编写。&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/blog/teach-dont-tell/</link>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/teach-dont-tell/</guid>
+      
+    </item>
     
     <item>
       <title>关于开源</title>
@@ -392,25 +411,6 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/best-windows-apps/</guid>
-      
-    </item>
-    
-    <item>
-      <title>教，而非告知</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;本文讨论的是技术文档写作——更具体地说，是关于编程语言和库的文档编写。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/teach-dont-tell/</link>
-      <pubDate>Tue, 17 Mar 2026 11:28:19 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/teach-dont-tell/</guid>
       
     </item>
     

@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 22 May 2026 01:38:29 -0000</pubDate>
-    <lastBuildDate>Fri, 22 May 2026 01:38:29 -0000</lastBuildDate>
+    <pubDate>Fri, 22 May 2026 01:48:35 -0000</pubDate>
+    <lastBuildDate>Fri, 22 May 2026 01:48:35 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -32,25 +32,6 @@
     
     
     <item>
-      <title>一次失败的 VLM-OCR 项目实践</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/vlm-ocr-failure-project-practice/</link>
-      <pubDate>Fri, 22 May 2026 01:37:44 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/vlm-ocr-failure-project-practice/</guid>
-      
-    </item>
-    
-    <item>
       <title>关于开源</title>
       
       
@@ -62,7 +43,7 @@
       
       <description>&lt;p&gt;开源随想&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/blog/about-open-source/</link>
-      <pubDate>Fri, 22 May 2026 01:36:57 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/about-open-source/</guid>
@@ -81,29 +62,10 @@
       
       <description>&lt;p&gt;记录一下自己是如何处理每天海量的信息的。&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/blog/how-to-build-your-own-closed-loop-information-flow/</link>
-      <pubDate>Fri, 22 May 2026 01:36:57 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/how-to-build-your-own-closed-loop-information-flow/</guid>
-      
-    </item>
-    
-    <item>
-      <title>如何阅读更好的书籍？</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/how-to-read-better-books/</link>
-      <pubDate>Fri, 22 May 2026 01:36:57 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/how-to-read-better-books/</guid>
       
     </item>
     
@@ -119,10 +81,29 @@
       
       <description></description>
       <link>https://swhl.github.io/main/blog/people-do-not-yearn-for-autimation/</link>
-      <pubDate>Fri, 22 May 2026 01:36:57 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/people-do-not-yearn-for-autimation/</guid>
+      
+    </item>
+    
+    <item>
+      <title>教，而非告知</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;本文讨论的是技术文档写作——更具体地说，是关于编程语言和库的文档编写。&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/blog/teach-dont-tell/</link>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/teach-dont-tell/</guid>
       
     </item>
     
@@ -138,7 +119,7 @@
       
       <description>&lt;p&gt;作为深度学习工程师，我们经常面临一个问题：如何在 Apple 设备上高效地部署已有的 ONNX 模型？本文将深入探讨两种主要方案，并通过实际测试给出详细的性能和精度对比。&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/blog/accelerate-onnx-models-with-coreml-on-macos/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/accelerate-onnx-models-with-coreml-on-macos/</guid>
@@ -157,10 +138,29 @@
       
       <description></description>
       <link>https://swhl.github.io/main/blog/pathlib-easy-to-overlook-but-useful-methods/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/pathlib-easy-to-overlook-but-useful-methods/</guid>
+      
+    </item>
+    
+    <item>
+      <title>一次失败的 VLM-OCR 项目实践</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/vlm-ocr-failure-project-practice/</link>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/vlm-ocr-failure-project-practice/</guid>
       
     </item>
     
@@ -179,7 +179,7 @@
 分享： 微信 微博 X&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;这篇文章记录一下实现过程。核心思路是：覆盖 MkDocs Material 的博客文章模板，在合适的位置插入一个分享组件，再用少量 JavaScript 动态生成分享链接。&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/blog/add-share-buttons-to-mkdocs-material-blog/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/add-share-buttons-to-mkdocs-material-blog/</guid>
@@ -198,7 +198,7 @@
       
       <description>&lt;p&gt;记录从 Alfred 转到 Raycast 的过程。&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/blog/from-alfred-to-raycast/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/from-alfred-to-raycast/</guid>
@@ -217,7 +217,7 @@
       
       <description></description>
       <link>https://swhl.github.io/main/blog/building-an-ios-url-scheme-index/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/building-an-ios-url-scheme-index/</guid>
@@ -236,7 +236,7 @@
       
       <description></description>
       <link>https://swhl.github.io/main/blog/guide-to-using-raycast-snippets/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/guide-to-using-raycast-snippets/</guid>
@@ -255,7 +255,7 @@
       
       <description></description>
       <link>https://swhl.github.io/main/blog/how-to-setup-github-image-host/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/how-to-setup-github-image-host/</guid>
@@ -274,7 +274,7 @@
       
       <description>&lt;p&gt;推荐自己在 macOS 上常用的小软件&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/blog/best-macos-apps/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/best-macos-apps/</guid>
@@ -293,7 +293,7 @@
       
       <description></description>
       <link>https://swhl.github.io/main/blog/mkdocs-material-ask-ai-integration/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/mkdocs-material-ask-ai-integration/</guid>
@@ -312,7 +312,7 @@
       
       <description></description>
       <link>https://swhl.github.io/main/blog/mkdocs-material-image-rounded-corners/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/mkdocs-material-image-rounded-corners/</guid>
@@ -331,7 +331,7 @@
       
       <description>&lt;p&gt;记录借助 Cursor 工具开发第一个 VSCode 插件的过程&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/blog/my-first-vscode-extension/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/my-first-vscode-extension/</guid>
@@ -350,7 +350,7 @@
       
       <description>&lt;p&gt;记录我所使用的 RSS 工具链&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/blog/my-rss-tools/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/my-rss-tools/</guid>
@@ -369,7 +369,7 @@
       
       <description></description>
       <link>https://swhl.github.io/main/blog/my-obsidian-plugins/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/my-obsidian-plugins/</guid>
@@ -388,7 +388,7 @@
       
       <description>&lt;p&gt;记录如何配置 Raycast 来快速其窗口中搜索 Obsidian 中的笔记。&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/blog/raycast-with-obsidian/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/raycast-with-obsidian/</guid>
@@ -407,7 +407,7 @@
       
       <description>&lt;p&gt;记录日常使用到的 VSCode 插件&lt;/p&gt;</description>
       <link>https://swhl.github.io/main/blog/my-vscode-plugins/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
+      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/my-vscode-plugins/</guid>
