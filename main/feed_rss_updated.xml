@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 22 May 2026 04:31:24 -0000</pubDate>
-    <lastBuildDate>Fri, 22 May 2026 04:31:24 -0000</lastBuildDate>
+    <pubDate>Fri, 22 May 2026 04:35:40 -0000</pubDate>
+    <lastBuildDate>Fri, 22 May 2026 04:35:40 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>如何阅读更好的书籍？</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/how-to-read-better-books/</link>
+      <pubDate>Fri, 22 May 2026 04:35:02 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/how-to-read-better-books/</guid>
+      
+    </item>
     
     <item>
       <title>关于开源</title>
@@ -392,25 +411,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/raycast-with-obsidian/</guid>
-      
-    </item>
-    
-    <item>
-      <title>VS Code 自用插件汇总</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;记录日常使用到的 VSCode 插件&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/my-vscode-plugins/</link>
-      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/my-vscode-plugins/</guid>
       
     </item>
     
