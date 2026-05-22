@@ -70,12 +70,14 @@ theme:
 
 plugins:
   - rss:
-      match_path: "blog/posts/.*"
-      date_from_meta:
-        as_creation: date.created
-        as_update: "git"
-      length: 20
-      pretty_print: true
+        feed_description: "用工程师思维过日子：代码、书、食物与知识网络 feedId:258695382233062400+userId:258565743841975296"
+        image: https://swhl.github.io/main/images/blog-solid-full.svg
+        match_path: "blog/posts/.*"
+        date_from_meta:
+          as_creation: date.created
+          as_update: "git"
+        length: 20
+        pretty_print: true
   - tags
   - meta:
       meta_file: .meta.yml
