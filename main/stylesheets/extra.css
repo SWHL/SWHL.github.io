@@ -89,6 +89,26 @@
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
+/* 正文图片默认居中显示 */
+.md-typeset p>img:not(.twemoji),
+.md-typeset p>a>img:not(.twemoji),
+.md-typeset figure img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* 博客正文图片按相同宽度等比例缩放，避免不同原图尺寸导致页面忽大忽小 */
+.md-content--post .md-typeset p>img,
+.md-content--post .md-typeset p>a>img,
+.md-content--post .md-typeset figure img {
+  display: block;
+  width: min(100%, 36rem);
+  height: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
 /* 鼠标悬停效果：图片微微放大 */
 .md-typeset img:hover {
   transform: scale(1.02);
