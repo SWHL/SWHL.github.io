@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sun, 07 Jun 2026 03:49:51 -0000</pubDate>
-    <lastBuildDate>Sun, 07 Jun 2026 03:49:51 -0000</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2026 02:23:00 -0000</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2026 02:23:00 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>⁣⁠­‌⁣­⁠‌­​⁠⁣⁠­⁣‌­‍​‍​⁣​​​‌‌‍‍­‍‌​‌⁠⁣那些我看过作品的科幻作家</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/sci-fi-authors-in-my-view/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/sci-fi-authors-in-my-view/</guid>
+      
+    </item>
     
     <item>
       <title>教，而非告知</title>
@@ -392,25 +411,6 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/my-rss-tools/</guid>
-      
-    </item>
-    
-    <item>
-      <title>常用的 Windows 软件推荐</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;推荐自己在 Windows 上常用的小软件&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/best-windows-apps/</link>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/best-windows-apps/</guid>
       
     </item>
     
