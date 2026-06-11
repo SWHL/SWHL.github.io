@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/raycast-for-mac-v2-usage-experience/",
+            "url": "https://swhl.github.io/main/blog/raycast-for-mac-v2-usage-experience/",
+            "title": "\u5173\u4e8e Raycast for Mac v2 \u7684\u4f7f\u7528\u4f53\u9a8c",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-06-11T09:30:34+00:00",
+            "date_published": "2026-06-11T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/sci-fi-authors-in-my-view/",
             "url": "https://swhl.github.io/main/blog/sci-fi-authors-in-my-view/",
             "title": "\u2063\u2060\u00ad\u200c\u2063\u00ad\u2060\u200c\u00ad\u200b\u2060\u2063\u2060\u00ad\u2063\u200c\u00ad\u200d\u200b\u200d\u200b\u2063\u200b\u200b\u200b\u200c\u200c\u200d\u200d\u00ad\u200d\u200c\u200b\u200c\u2060\u2063\u90a3\u4e9b\u6211\u770b\u8fc7\u4f5c\u54c1\u7684\u79d1\u5e7b\u4f5c\u5bb6",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-04-05T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/my-rss-tools/",
-            "url": "https://swhl.github.io/main/blog/my-rss-tools/",
-            "title": "\u6211\u4f7f\u7528\u7684 RSS \u5de5\u5177\u94fe",
-            "content_html": "<p>\u8bb0\u5f55\u6211\u6240\u4f7f\u7528\u7684 RSS \u5de5\u5177\u94fe</p>",
-            "image": null,
-            "date_modified": "2026-05-22T01:47:54+00:00",
-            "date_published": "2026-03-23T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"
