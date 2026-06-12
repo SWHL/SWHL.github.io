@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/wechat-input-voice-recognition/",
+            "url": "https://swhl.github.io/main/blog/wechat-input-voice-recognition/",
+            "title": "\u5fae\u4fe1\u8f93\u5165\u6cd5\u6b63\u5728\u8bed\u97f3\u8bc6\u522b\u529f\u80fd\u4e0a\u72c2\u5954",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-06-12T01:54:14+00:00",
+            "date_published": "2026-06-12T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/raycast-for-mac-v2-usage-experience/",
             "url": "https://swhl.github.io/main/blog/raycast-for-mac-v2-usage-experience/",
             "title": "\u5173\u4e8e Raycast for Mac v2 \u7684\u4f7f\u7528\u4f53\u9a8c",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-04-08T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/how-to-setup-github-image-host/",
-            "url": "https://swhl.github.io/main/blog/how-to-setup-github-image-host/",
-            "title": "\u5982\u4f55\u4f7f\u7528Github\u4f5c\u4e3a\u535a\u5ba2\u56fe\u5e8a\uff1f",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-05-22T01:47:54+00:00",
-            "date_published": "2026-04-05T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"

@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/wechat-input-voice-recognition/",
+            "url": "https://swhl.github.io/main/blog/wechat-input-voice-recognition/",
+            "title": "\u5fae\u4fe1\u8f93\u5165\u6cd5\u6b63\u5728\u8bed\u97f3\u8bc6\u522b\u529f\u80fd\u4e0a\u72c2\u5954",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-06-12T01:54:14+00:00",
+            "date_published": "2026-06-12T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/raycast-for-mac-v2-usage-experience/",
             "url": "https://swhl.github.io/main/blog/raycast-for-mac-v2-usage-experience/",
             "title": "\u5173\u4e8e Raycast for Mac v2 \u7684\u4f7f\u7528\u4f53\u9a8c",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-05-22T01:35:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/my-rss-tools/",
-            "url": "https://swhl.github.io/main/blog/my-rss-tools/",
-            "title": "\u6211\u4f7f\u7528\u7684 RSS \u5de5\u5177\u94fe",
-            "content_html": "<p>\u8bb0\u5f55\u6211\u6240\u4f7f\u7528\u7684 RSS \u5de5\u5177\u94fe</p>",
-            "image": null,
-            "date_modified": "2026-05-22T01:47:54+00:00",
-            "date_published": "2026-03-23T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"
