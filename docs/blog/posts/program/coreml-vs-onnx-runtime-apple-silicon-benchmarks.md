@@ -5,7 +5,7 @@ authors:
   - SWHL
 slug: accelerate-onnx-models-with-coreml-on-macos
 categories:
-  - 推理引擎
+  - 编程
 tags:
   - ONNXRuntime
   - CoreML

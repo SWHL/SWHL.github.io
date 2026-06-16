@@ -7,8 +7,6 @@ authors:
 slug: migrate-setup-py-to-pyproject-toml-packaging
 categories:
   - 编程
-tags:
-  - python
 ---
 
 <!-- more -->
