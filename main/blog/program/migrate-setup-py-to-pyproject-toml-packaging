@@ -1,0 +1,144 @@
+---
+title: RapidOCR： 从 setup.py 迁移到 pyproject.toml 打包实践
+date:
+  created: 2026-06-12
+authors:
+  - SWHL
+slug: migrate-setup-py-to-pyproject-toml-packaging
+categories:
+  - 编程
+tags:
+  - python
+---
+
+<!-- more -->
+
+## 当前现状
+
+自 RapidOCR 有 whl 包以来，一直就使用 setuptools 来打包。在我看来，打包程序需要满足一个硬性条件：自动化版本号。根据 tag 来自动生成版本号。
+
+为了实现自动化版本号功能，我写了一个库：[GetPyPiLatestVersion](https://github.com/SWHL/GetPyPiLatestVersion)。这个库可以获得指定库的最新版本。
+
+后来我发现 Github Actions 中可以指定在打 tag 时，获取 tag 号来传到 setuptools 中，从而自动化版本号。部分代码如下：
+
+```yaml linenums="1"
+name: Push rapidocr to pypi
+
+on:
+  push:
+    tags:
+      - v*
+
+jobs:
+  TestAndPublish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Build wheel package
+        run: |
+          cd python
+          python setup.py bdist_wheel ${{ github.ref_name }}
+          mv dist ../
+```
+
+我按照上面的逻辑用了很久，也逐渐习惯了这种模式。直到前几天 [@vshawrh](https://github.com/vshawrh) 提的两个问题：[#667](https://github.com/RapidAI/RapidOCR/discussions/667) [#685](https://github.com/RapidAI/RapidOCR/issues/685)，暴漏了当前模式的缺陷。
+
+当前模式并未考虑下游伙伴们自行构建 whl 包。下游小伙伴如果要自己构建，就需要参考 CI 中复杂的流程，一步步执行查看结果。同时 setup.py 中也耦合了许多其他逻辑，让打包这一步变得异常复杂。
+
+## 基于 pyproject.toml 打包
+
+在小伙伴的建议下，我调研了基于 pyproject.toml 配置文件来打包现有程序。我发现通过 `setuptools-scm` 库可以完美解决自动化版本号问题。同时，通过配置文件形式，可以将下载打包必须的模型这一步分离出去。
+
+还解决了之前需要将 `rapidocr` 目录包裹一层才能正确导入的问题。现在整个打包程序异常简洁。源码：[link](https://github.com/RapidAI/RapidOCR/blob/73ef3f623a9f1bbf4ba8d26044dc3ac54196d8aa/python/pyproject.toml)
+
+```toml linenums="1"
+[build-system]
+requires = [
+    "setuptools>=77",
+    "wheel",
+    "setuptools-scm>=8",
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rapidocr"
+dynamic = ["version", "dependencies"]
+description = "Awesome OCR Library"
+readme = { file = "README.md", content-type = "text/markdown" }
+requires-python = ">=3.8,<4"
+license = "Apache-2.0"
+authors = [
+    { name = "SWHL", email = "liekkaskono@163.com" },
+]
+keywords = [
+    "ocr",
+    "text_detection",
+    "text_recognition",
+    "db",
+    "onnxruntime",
+    "paddleocr",
+    "openvino",
+    "rapidocr",
+]
+classifiers = [
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+]
+
+[project.urls]
+Documentation = "https://rapidai.github.io/RapidOCRDocs"
+Changelog = "https://github.com/RapidAI/RapidOCR/releases"
+
+[project.scripts]
+rapidocr = "rapidocr.main:main"
+
+[tool.setuptools]
+include-package-data = true
+platforms = ["Any"]
+
+[tool.setuptools.dynamic]
+dependencies = { file = ["requirements.txt"] }
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["rapidocr*"]
+exclude = ["tests*"]
+namespaces = false
+
+[tool.setuptools.package-data]
+rapidocr = [
+    "**/*.yaml",
+]
+
+[tool.setuptools_scm]
+root = ".."
+tag_regex = "^v?(?P<version>[0-9]+(?:\\.[0-9]+)*.*)$"
+version_file = "rapidocr/_version.py"
+local_scheme = "no-local-version"
+```
+
+## 自定义打包
+
+这一块，我写了相关文档：[如何自行构建指定版本的 rapidocr whl 包](https://rapidai.github.io/RapidOCRDocs/latest/install_usage/rapidocr/package/build-custom-version-rapidocr-whl/#6-wheel)
+
+总结下来就以下几步：
+
+```bash linenums="1"
+git clone https://github.com/RapidAI/RapidOCR.git
+cd RapidOCR/python
+
+
+python -m pip install --upgrade pip
+python -m pip install build setuptools wheel setuptools-scm PyYAML
+python tools/prepare_wheel_assets.py
+
+
+SETUPTOOLS_SCM_PRETEND_VERSION_FOR_RAPIDOCR=3.1.0 python -m build --wheel
+```
+
+## 写在最后
+
+每个问题的出现都是让我们变得更好的契机。所以不妨换个更加积极一些的角度看问题。
