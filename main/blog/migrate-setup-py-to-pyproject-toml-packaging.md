@@ -1,15 +1,14 @@
 ---
-title: 从 setup.py 迁移到 pyproject.toml 打包实践
-date:
-  created: 2026-06-12
-authors:
-  - SWHL
-slug: migrate-setup-py-to-pyproject-toml-packaging
-categories:
-  - 编程
-tags:
-  - python
+title: "RapidOCR: 从 setup.py 迁移到 pyproject.toml 打包实践"
+canonical_url: "https://swhl.github.io/main/blog/migrate-setup-py-to-pyproject-toml-packaging/"
+markdown_url: "https://swhl.github.io/main/blog/migrate-setup-py-to-pyproject-toml-packaging.md"
+description: "自 RapidOCR 有 whl 包以来，一直就使用 setuptools 来打包。在我看来，打包程序需要满足一个硬性条件：自动化版本号。根据 tag 来自动生成版本号。"
 ---
+
+# RapidOCR: 从 setup.py 迁移到 pyproject.toml 打包实践
+
+> Canonical URL: https://swhl.github.io/main/blog/migrate-setup-py-to-pyproject-toml-packaging/
+> Markdown URL: https://swhl.github.io/main/blog/migrate-setup-py-to-pyproject-toml-packaging.md
 
 <!-- more -->
 
@@ -142,3 +141,4 @@ SETUPTOOLS_SCM_PRETEND_VERSION_FOR_RAPIDOCR=3.1.0 python -m build --wheel
 ## 写在最后
 
 每个问题的出现都是让我们变得更好的契机。所以不妨换个更加积极一些的角度看问题。
+
