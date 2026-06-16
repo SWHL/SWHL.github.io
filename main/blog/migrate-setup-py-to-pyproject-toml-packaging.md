@@ -45,7 +45,7 @@ jobs:
 
 ## 基于 pyproject.toml 打包
 
-在小伙伴的建议下，我调研了基于 pyproject.toml 配置文件来打包现有程序。我发现通过 `setuptools-scm` 库可以完美解决自动化版本号问题。同时，通过配置文件形式，可以将下载打包必须的模型这一步分离出去。
+在小伙伴的建议下，我调研了基于 pyproject.toml 配置文件来打包现有程序。我发现通过 `setuptools-scm` 库可以完美解决自动化版本号问题。同时，通过配置文件形式，可以将下载打包必需的模型这一步分离出去。
 
 还解决了之前需要将 `rapidocr` 目录包裹一层才能正确导入的问题。现在整个打包程序异常简洁。源码：[link](https://github.com/RapidAI/RapidOCR/blob/73ef3f623a9f1bbf4ba8d26044dc3ac54196d8aa/python/pyproject.toml)
 
