@@ -29,7 +29,7 @@ description: "记录日常使用到的 VSCode 插件"
 | Pylance                | 提供高性能的 Python 智能感知、类型检查和代码导航功能                 |
 | Python                 | 官方 Python 扩展，提供基础语言支持（如运行、调试、环境管理等）       |
 | Python Debugger        | 基于 debugpy 的调试器，支持断点、变量监视等 Python 调试功能          |
-| Ruff                   | 快速的 Python 代码 lint 与格式化工具，替代传统 linter 并提升性能     |
+| Ruff                   | 快速的 Python 代码 lint 与格式化工具，替代传统 linter 并提升性能，替代 Pylint 插件    |
 | Material Icon Theme    | 为 VSCode 提供基于 Material Design 的图标主题，提升文件和文件夹的视觉识别度 |
 | Pride Themes           | 基于 LGBTQ+ 骄傲旗帜设计的 VSCode 主题，支持多种颜色风格的界面配色 |
 

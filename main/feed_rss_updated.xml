@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sat, 20 Jun 2026 22:00:45 -0000</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2026 22:00:45 -0000</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2026 06:27:21 -0000</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 06:27:21 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>VS Code 自用插件汇总</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;记录日常使用到的 VSCode 插件&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/blog/my-vscode-plugins/</link>
+      <pubDate>Tue, 23 Jun 2026 06:26:45 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/my-vscode-plugins/</guid>
+      
+    </item>
     
     <item>
       <title>在 macOS 上使用 CoreML 加速 ONNX 模型推理：完全指南</title>
@@ -392,25 +411,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/mkdocs-material-ask-ai-integration/</guid>
-      
-    </item>
-    
-    <item>
-      <title>如何在 mkdocs-material 中设置图像圆角显示？</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/mkdocs-material-image-rounded-corners/</link>
-      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/mkdocs-material-image-rounded-corners/</guid>
       
     </item>
     
