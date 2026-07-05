@@ -15,6 +15,8 @@ slug: 20260531-20260607-weekly
   <figcaption></figcaption>
 </figure>
 
+## 本周动态
+
 ## 摘录
 
 ### 原文标题
