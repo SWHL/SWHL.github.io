@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Wed, 15 Jul 2026 06:27:37 -0000</pubDate>
-    <lastBuildDate>Wed, 15 Jul 2026 06:27:37 -0000</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 13:26:16 -0000</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 13:26:16 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>如何使用Github作为博客图床？</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/how-to-setup-github-image-host/</link>
+      <pubDate>Wed, 15 Jul 2026 13:19:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/how-to-setup-github-image-host/</guid>
+      
+    </item>
     
     <item>
       <title>VS Code 自用插件汇总</title>
@@ -354,25 +373,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/guide-to-using-raycast-snippets/</guid>
-      
-    </item>
-    
-    <item>
-      <title>如何使用Github作为博客图床？</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/how-to-setup-github-image-host/</link>
-      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/how-to-setup-github-image-host/</guid>
       
     </item>
     
