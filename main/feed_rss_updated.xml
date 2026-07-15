@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Wed, 15 Jul 2026 13:52:37 -0000</pubDate>
-    <lastBuildDate>Wed, 15 Jul 2026 13:52:37 -0000</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 13:54:22 -0000</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 13:54:22 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -32,7 +32,7 @@
     
     
     <item>
-      <title>mkdocs-material-format-convert:用于把 Material for MkDocs 扩展 Markdown 语法降级为更通用的 Markdown</title>
+      <title>mkdocs-material-format-convert:用于把 Material for MkDocs 扩展 Markdown 语法降级为更通用的 Markdown的小工具</title>
       
       
         
@@ -43,7 +43,7 @@
       
       <description></description>
       <link>https://swhl.github.io/main/blog/mkdocs-material-format-convert/</link>
-      <pubDate>Wed, 15 Jul 2026 13:51:52 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 13:53:34 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/mkdocs-material-format-convert/</guid>

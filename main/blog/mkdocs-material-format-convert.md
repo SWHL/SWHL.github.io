@@ -1,11 +1,11 @@
 ---
-title: "mkdocs-material-format-convert:用于把 Material for MkDocs 扩展 Markdown 语法降级为更通用的 Markdown"
+title: "mkdocs-material-format-convert:用于把 Material for MkDocs 扩展 Markdown 语法降级为更通用的 Markdown的小工具"
 canonical_url: "https://swhl.github.io/main/blog/mkdocs-material-format-convert/"
 markdown_url: "https://swhl.github.io/main/blog/mkdocs-material-format-convert.md"
 description: "我经手的所有开源项目的文档站点基本都使用了 mkdocs-material 文档主题搭建，包括 RapidOCR, PaddleOCR, LabelConvert 和当前的博客站点等等。"
 ---
 
-# mkdocs-material-format-convert:用于把 Material for MkDocs 扩展 Markdown 语法降级为更通用的 Markdown
+# mkdocs-material-format-convert:用于把 Material for MkDocs 扩展 Markdown 语法降级为更通用的 Markdown的小工具
 
 > Canonical URL: https://swhl.github.io/main/blog/mkdocs-material-format-convert/
 > Markdown URL: https://swhl.github.io/main/blog/mkdocs-material-format-convert.md
