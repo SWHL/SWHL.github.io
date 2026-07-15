@@ -9,6 +9,8 @@ hide:
 
 ### 🧑🏻‍💻 开源项目 ([more](https://github.com/SWHL?tab=repositories))
 
+- [mkdocs-material-format-convert](https://github.com/SWHL/mkdocs-material-format-convert): 一个可部署到 GitHub Pages 的纯前端小工具，用于把 Material for MkDocs 扩展 Markdown 语法降级为更通用的 Markdown。转换在浏览器本地完成，不上传文档内容。
+- [awesome-ios-url-schemes](https://github.com/SWHL/awesome-ios-url-schemes): 全网整理 iOS 内置应用、主流第三方 App 完整 URL Scheme 合集，涵盖系统设置、原生应用、社交 / 工具 / 影音类常用跳转协议。
 - [RapidTTS](https://github.com/RapidAI/RapidTTS): 轻量级文本转语音工具，面向本地快速推理。
 - [RapidTable](https://github.com/RapidAI/RapidTable): 基于序列表格识别算法推理库，集成 PP-Structure 和 modelscope 等表格识别算法。
 - [RapidOCRDocs](https://github.com/RapidAI/RapidOCRDocs): RapidOCR 官方文档。
