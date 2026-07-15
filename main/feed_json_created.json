@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/mkdocs-material-format-convert/",
+            "url": "https://swhl.github.io/main/blog/mkdocs-material-format-convert/",
+            "title": "mkdocs-material-format-convert:\u7528\u4e8e\u628a Material for MkDocs \u6269\u5c55 Markdown \u8bed\u6cd5\u964d\u7ea7\u4e3a\u66f4\u901a\u7528\u7684 Markdown",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-07-15T13:51:52+00:00",
+            "date_published": "2026-07-15T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/migrate-setup-py-to-pyproject-toml-packaging/",
             "url": "https://swhl.github.io/main/blog/migrate-setup-py-to-pyproject-toml-packaging/",
             "title": "RapidOCR: \u4ece setup.py \u8fc1\u79fb\u5230 pyproject.toml \u6253\u5305\u5b9e\u8df5",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-04-14T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/mkdocs-material-ask-ai-integration/",
-            "url": "https://swhl.github.io/main/blog/mkdocs-material-ask-ai-integration/",
-            "title": "MkDocs Material \u96c6\u6210 Ask AI \u6559\u7a0b",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-05-22T01:47:54+00:00",
-            "date_published": "2026-04-10T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"

@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/mkdocs-material-format-convert/",
+            "url": "https://swhl.github.io/main/blog/mkdocs-material-format-convert/",
+            "title": "mkdocs-material-format-convert:\u7528\u4e8e\u628a Material for MkDocs \u6269\u5c55 Markdown \u8bed\u6cd5\u964d\u7ea7\u4e3a\u66f4\u901a\u7528\u7684 Markdown",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-07-15T13:51:52+00:00",
+            "date_published": "2026-07-15T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/how-to-setup-github-image-host/",
             "url": "https://swhl.github.io/main/blog/how-to-setup-github-image-host/",
             "title": "\u5982\u4f55\u4f7f\u7528Github\u4f5c\u4e3a\u535a\u5ba2\u56fe\u5e8a\uff1f",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-03-10T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/mkdocs-material-ask-ai-integration/",
-            "url": "https://swhl.github.io/main/blog/mkdocs-material-ask-ai-integration/",
-            "title": "MkDocs Material \u96c6\u6210 Ask AI \u6559\u7a0b",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-05-22T01:47:54+00:00",
-            "date_published": "2026-04-10T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"

@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Wed, 15 Jul 2026 13:26:16 -0000</pubDate>
-    <lastBuildDate>Wed, 15 Jul 2026 13:26:16 -0000</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 13:52:37 -0000</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 13:52:37 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>mkdocs-material-format-convert:用于把 Material for MkDocs 扩展 Markdown 语法降级为更通用的 Markdown</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/mkdocs-material-format-convert/</link>
+      <pubDate>Wed, 15 Jul 2026 13:51:52 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/mkdocs-material-format-convert/</guid>
+      
+    </item>
     
     <item>
       <title>如何使用Github作为博客图床？</title>
@@ -392,25 +411,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/best-macos-apps/</guid>
-      
-    </item>
-    
-    <item>
-      <title>MkDocs Material 集成 Ask AI 教程</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/mkdocs-material-ask-ai-integration/</link>
-      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/mkdocs-material-ask-ai-integration/</guid>
       
     </item>
     
