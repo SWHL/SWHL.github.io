@@ -1,5 +1,5 @@
 ---
-title: mkdocs-material-format-convert:用于把 Material for MkDocs 扩展 Markdown 语法降级为更通用的 Markdown
+title: mkdocs-material-format-convert:用于把 Material for MkDocs 扩展 Markdown 语法降级为更通用的 Markdown的小工具
 date:
   created: 2026-07-15
 authors:
