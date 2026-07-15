@@ -45,7 +45,7 @@ description: "我经手的所有开源项目的文档站点基本都使用了 mk
 - 功能本身并不复杂，最简单的实现最容易维护
 - 想要部署到 Github Pages 上，Github Pages 上仅支持静态页面
 
-目前可以手动将写好的 mkdocs-material 格式的文档源码粘贴到输入框中，右侧就是格式化后的通用 markdown 源码。
+目前可以手动将写好的 mkdocs-material 格式的文档源码粘贴到输入框中，右侧就是格式化后的通用 markdown 源码。这样就可以快速分发了。
 
 欢迎大家使用。
 
