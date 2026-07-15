@@ -7,7 +7,7 @@ site_description:
 repo_name: SWHL/SWHL.github.io
 repo_url: https://github.com/SWHL/SWHL.github.io
 
-copyright: Copyright &copy; 2026 Maintained by SWHL.
+copyright: Copyright &copy; 2025 Maintained by SWHL.
 
 edit_uri: edit/main/docs
 
@@ -126,7 +126,6 @@ hooks:
   - hooks/announce.py
   - hooks/geo.py
   - hooks/expiry.py
-  - hooks/change_copyright.py
 
 extra_css:
   - stylesheets/extra.css
