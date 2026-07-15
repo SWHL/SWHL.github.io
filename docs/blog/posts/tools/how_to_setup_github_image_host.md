@@ -53,5 +53,3 @@ settings.json 中写法：
 Step 3：自动上传并返回对应图像 markdown url
 
 我是使用 PixPin 工具截图并将图像复制到剪贴板，之后按快捷键：`Cmd + Alt + U`，就会自动上传图像到指定仓库，并返回对应的 markdown url。
-
-
