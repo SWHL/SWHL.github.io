@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/20260716_note/",
+            "url": "https://swhl.github.io/main/blog/20260716_note/",
+            "title": "\u968f\u7b14",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-07-16T00:24:45+00:00",
+            "date_published": "2026-07-16T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/mkdocs-material-format-convert/",
             "url": "https://swhl.github.io/main/blog/mkdocs-material-format-convert/",
             "title": "mkdocs-material-format-convert:\u7528\u4e8e\u628a Material for MkDocs \u6269\u5c55 Markdown \u8bed\u6cd5\u964d\u7ea7\u4e3a\u66f4\u901a\u7528\u7684 Markdown\u7684\u5c0f\u5de5\u5177",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-06-16T02:07:26+00:00",
             "date_published": "2026-04-24T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/guide-to-using-raycast-snippets/",
-            "url": "https://swhl.github.io/main/blog/guide-to-using-raycast-snippets/",
-            "title": "\u4f7f\u7528 Raycast Snippets \u6307\u5357",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-05-22T01:47:54+00:00",
-            "date_published": "2026-04-14T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"
