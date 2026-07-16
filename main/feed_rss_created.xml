@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Thu, 16 Jul 2026 00:32:51 -0000</pubDate>
-    <lastBuildDate>Thu, 16 Jul 2026 00:32:51 -0000</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 13:23:09 -0000</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 13:23:09 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,25 +30,6 @@
     
 
     
-    
-    <item>
-      <title>随笔</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/20260716_note/</link>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/20260716_note/</guid>
-      
-    </item>
     
     <item>
       <title>mkdocs-material-format-convert:用于把 Material for MkDocs 扩展 Markdown 语法降级为更通用的 Markdown的小工具</title>
@@ -411,6 +392,25 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/vlm-ocr-failure-project-practice/</guid>
+      
+    </item>
+    
+    <item>
+      <title>使用 Raycast Snippets 指南</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/guide-to-using-raycast-snippets/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/guide-to-using-raycast-snippets/</guid>
       
     </item>
     
