@@ -2,7 +2,7 @@
 title: "SWHL"
 canonical_url: "https://swhl.github.io/main/"
 markdown_url: "https://swhl.github.io/main/index.md"
-description: "用工程师思维过日子：代码、书、食物与知识网络"
+description: "我喜欢开源，喜欢 AI 技术，因为我认为开源和 AI 会为有需要的人带来方便和帮助，也会让这个世界变得更好。"
 ---
 
 # SWHL
@@ -11,6 +11,15 @@ description: "用工程师思维过日子：代码、书、食物与知识网络
 > Markdown URL: https://swhl.github.io/main/index.md
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there!+I'm+SWHL.){.no-radius}
+
+我喜欢开源，喜欢 AI 技术，因为我认为开源和 AI 会为有需要的人带来方便和帮助，也会让这个世界变得更好。
+
+### 📝 相关信息
+
+- 个人站点：https://swhl.github.io/
+- 博客：[CSDN](https://blog.csdn.net/shiwanghualuo) / [知乎](https://www.zhihu.com/people/shiwanghualuo)
+- 微信公众号：SWHL / RapidAI
+- 邮箱：liekkaskono@163.com
 
 ### 🧑🏻‍💻 开源项目 ([more](https://github.com/SWHL?tab=repositories))
 
