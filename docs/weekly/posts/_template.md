@@ -5,6 +5,7 @@ date:
 authors:
   - SWHL
 slug: 20260531-20260607-weekly
+draft: true
 ---
 
 <!-- more -->
