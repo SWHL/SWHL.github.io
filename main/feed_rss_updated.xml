@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Mon, 27 Jul 2026 02:08:41 -0000</pubDate>
-    <lastBuildDate>Mon, 27 Jul 2026 02:08:41 -0000</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2026 03:54:17 -0000</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2026 03:54:17 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>论文速读：MonkeyOCRv2</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/monkeyocrv2/</link>
+      <pubDate>Mon, 27 Jul 2026 03:53:38 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/monkeyocrv2/</guid>
+      
+    </item>
     
     <item>
       <title>mkdocs-material-format-convert:用于把 Material for MkDocs 扩展 Markdown 语法降级为更通用的 Markdown的小工具</title>
@@ -392,25 +411,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/guide-to-using-raycast-snippets/</guid>
-      
-    </item>
-    
-    <item>
-      <title>常用的 macOS 软件推荐</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;推荐自己在 macOS 上常用的小软件&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/best-macos-apps/</link>
-      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/best-macos-apps/</guid>
       
     </item>
     
