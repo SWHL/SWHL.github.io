@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 28 Jul 2026 11:22:24 -0000</pubDate>
-    <lastBuildDate>Tue, 28 Jul 2026 11:22:24 -0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 14:59:24 -0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 14:59:24 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>常用的 macOS 软件推荐</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description>&lt;p&gt;推荐自己在 macOS 上常用的小软件&lt;/p&gt;</description>
+      <link>https://swhl.github.io/main/blog/best-macos-apps/</link>
+      <pubDate>Tue, 28 Jul 2026 14:58:29 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/best-macos-apps/</guid>
+      
+    </item>
     
     <item>
       <title>论文速读：OvisOCR2</title>
@@ -392,25 +411,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/add-share-buttons-to-mkdocs-material-blog/</guid>
-      
-    </item>
-    
-    <item>
-      <title>从 Alfred 转到 Raycast</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;记录从 Alfred 转到 Raycast 的过程。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/from-alfred-to-raycast/</link>
-      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/from-alfred-to-raycast/</guid>
       
     </item>
     

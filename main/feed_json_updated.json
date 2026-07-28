@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/best-macos-apps/",
+            "url": "https://swhl.github.io/main/blog/best-macos-apps/",
+            "title": "\u5e38\u7528\u7684 macOS \u8f6f\u4ef6\u63a8\u8350",
+            "content_html": "<p>\u63a8\u8350\u81ea\u5df1\u5728 macOS \u4e0a\u5e38\u7528\u7684\u5c0f\u8f6f\u4ef6</p>",
+            "image": null,
+            "date_modified": "2026-07-28T14:58:29+00:00",
+            "date_published": "2026-03-10T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/ovisocr2/",
             "url": "https://swhl.github.io/main/blog/ovisocr2/",
             "title": "\u8bba\u6587\u901f\u8bfb\uff1aOvisOCR2",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-05-07T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/from-alfred-to-raycast/",
-            "url": "https://swhl.github.io/main/blog/from-alfred-to-raycast/",
-            "title": "\u4ece Alfred \u8f6c\u5230 Raycast",
-            "content_html": "<p>\u8bb0\u5f55\u4ece Alfred \u8f6c\u5230 Raycast \u7684\u8fc7\u7a0b\u3002</p>",
-            "image": null,
-            "date_modified": "2026-05-22T01:47:54+00:00",
-            "date_published": "2026-05-22T01:35:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"
