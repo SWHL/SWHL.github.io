@@ -1,6 +1,6 @@
 ---
 title: GitPaste——vs-picgo的轻量平替
-date: 2026-03-03
+date: 2026-07-28
 authors:
   - SWHL
 slug: gitpaste-light-alternative-to-vs-picgo
