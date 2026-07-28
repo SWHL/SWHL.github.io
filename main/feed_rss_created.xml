@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 28 Jul 2026 09:06:48 -0000</pubDate>
-    <lastBuildDate>Tue, 28 Jul 2026 09:06:48 -0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 11:22:24 -0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 11:22:24 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -47,6 +47,25 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/gitpaste-light-alternative-to-vs-picgo/</guid>
+      
+    </item>
+    
+    <item>
+      <title>论文速读：OvisOCR2</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/ovisocr2/</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/ovisocr2/</guid>
       
     </item>
     
@@ -392,25 +411,6 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/add-share-buttons-to-mkdocs-material-blog/</guid>
-      
-    </item>
-    
-    <item>
-      <title>人们也许并不喜欢自动化</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/people-do-not-yearn-for-autimation/</link>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/people-do-not-yearn-for-autimation/</guid>
       
     </item>
     

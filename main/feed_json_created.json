@@ -28,6 +28,21 @@
             "tags": null
         },
         {
+            "id": "https://swhl.github.io/main/blog/ovisocr2/",
+            "url": "https://swhl.github.io/main/blog/ovisocr2/",
+            "title": "\u8bba\u6587\u901f\u8bfb\uff1aOvisOCR2",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-07-28T11:21:46+00:00",
+            "date_published": "2026-07-28T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/monkeyocrv2/",
             "url": "https://swhl.github.io/main/blog/monkeyocrv2/",
             "title": "\u8bba\u6587\u901f\u8bfb\uff1aMonkeyOCRv2",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-05-07T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/people-do-not-yearn-for-autimation/",
-            "url": "https://swhl.github.io/main/blog/people-do-not-yearn-for-autimation/",
-            "title": "\u4eba\u4eec\u4e5f\u8bb8\u5e76\u4e0d\u559c\u6b22\u81ea\u52a8\u5316",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-05-22T01:47:54+00:00",
-            "date_published": "2026-04-28T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"

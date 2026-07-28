@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 28 Jul 2026 09:06:48 -0000</pubDate>
-    <lastBuildDate>Tue, 28 Jul 2026 09:06:48 -0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 11:22:24 -0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 11:22:24 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>论文速读：OvisOCR2</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/ovisocr2/</link>
+      <pubDate>Tue, 28 Jul 2026 11:21:46 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/ovisocr2/</guid>
+      
+    </item>
     
     <item>
       <title>GitPaste：vs-picgo 的轻量平替</title>
@@ -392,25 +411,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/from-alfred-to-raycast/</guid>
-      
-    </item>
-    
-    <item>
-      <title>找 iOS URL Scheme 太麻烦，所以我做了个索引站</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/building-an-ios-url-scheme-index/</link>
-      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/building-an-ios-url-scheme-index/</guid>
       
     </item>
     
