@@ -1,11 +1,11 @@
 ---
-title: "GitPaste：vs-picgo的轻量平替"
+title: "GitPaste——vs-picgo的轻量平替"
 canonical_url: "https://swhl.github.io/main/blog/gitpaste-light-alternative-to-vs-picgo/"
 markdown_url: "https://swhl.github.io/main/blog/gitpaste-light-alternative-to-vs-picgo.md"
 description: "自己一直在使用 vs-picgo vscode 插件用于插入日常写文章所用的一些图。这个插件在本地上运行没啥问题。"
 ---
 
-# GitPaste：vs-picgo的轻量平替
+# GitPaste——vs-picgo的轻量平替
 
 > Canonical URL: https://swhl.github.io/main/blog/gitpaste-light-alternative-to-vs-picgo/
 > Markdown URL: https://swhl.github.io/main/blog/gitpaste-light-alternative-to-vs-picgo.md
