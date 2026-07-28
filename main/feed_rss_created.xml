@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 28 Jul 2026 06:44:30 -0000</pubDate>
-    <lastBuildDate>Tue, 28 Jul 2026 06:44:30 -0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 08:54:19 -0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 08:54:19 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>GitPaste：vs-picgo的轻量平替</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/gitpaste-light-alternative-to-vs-picgo/</link>
+      <pubDate>Tue, 28 Jul 2026 08:53:35 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/gitpaste-light-alternative-to-vs-picgo/</guid>
+      
+    </item>
     
     <item>
       <title>论文速读：MonkeyOCRv2</title>
@@ -392,25 +411,6 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/people-do-not-yearn-for-autimation/</guid>
-      
-    </item>
-    
-    <item>
-      <title>一次失败的 VLM-OCR 项目实践</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/vlm-ocr-failure-project-practice/</link>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/vlm-ocr-failure-project-practice/</guid>
       
     </item>
     
