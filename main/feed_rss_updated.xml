@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Wed, 29 Jul 2026 11:39:37 -0000</pubDate>
-    <lastBuildDate>Wed, 29 Jul 2026 11:39:37 -0000</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 13:20:57 -0000</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 13:20:57 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>苹果与 NFC 贴纸</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/iphone-with-nfc-tag/</link>
+      <pubDate>Wed, 29 Jul 2026 13:20:09 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/iphone-with-nfc-tag/</guid>
+      
+    </item>
     
     <item>
       <title>常用的 macOS 软件推荐</title>
@@ -389,28 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/pathlib-easy-to-overlook-but-useful-methods/</guid>
-      
-    </item>
-    
-    <item>
-      <title>如何给 MkDocs Material 博客文章添加分享按钮？</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;最近给博客文章页加了一组分享按钮，最终效果是放在文章元数据下方、评论区上方：&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;text
-分享： 微信 微博 X&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;这篇文章记录一下实现过程。核心思路是：覆盖 MkDocs Material 的博客文章模板，在合适的位置插入一个分享组件，再用少量 JavaScript 动态生成分享链接。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/add-share-buttons-to-mkdocs-material-blog/</link>
-      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/add-share-buttons-to-mkdocs-material-blog/</guid>
       
     </item>
     

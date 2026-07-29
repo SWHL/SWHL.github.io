@@ -1,0 +1,67 @@
+---
+title: "苹果与 NFC 贴纸"
+canonical_url: "https://swhl.github.io/main/blog/iphone-with-nfc-tag/"
+markdown_url: "https://swhl.github.io/main/blog/iphone-with-nfc-tag.md"
+description: "无意中发现了 NFC 贴纸这个东西，感觉世界又变得有趣起来。自己平时在用手机 NFC 坐地铁和公交，用手环 NFC 开门，感觉 NFC 也就干这些了，因为终端都是固定的位置。"
+---
+
+# 苹果与 NFC 贴纸
+
+> Canonical URL: https://swhl.github.io/main/blog/iphone-with-nfc-tag/
+> Markdown URL: https://swhl.github.io/main/blog/iphone-with-nfc-tag.md
+
+<!-- more -->
+
+## 引言
+
+无意中发现了 NFC 贴纸这个东西，感觉世界又变得有趣起来。自己平时在用手机 NFC 坐地铁和公交，用手环 NFC 开门，感觉 NFC 也就干这些了，因为终端都是固定的位置。
+
+但是 NFC 贴纸的出现就解决了这个问题。我们可以借助这个贴纸，来自定义命令做一系列复杂的事情。
+
+![](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-07-29_10-39-52-c00c0d07.png)
+
+## 使用
+
+以下为苹果手机设置教程。
+
+1. 开启功能：在手机“设置”中打开 NFC 开关。
+2. 安装 APP: NFC Tools。
+3. 读取标签：打开 NFC Tools 客户端，点击“读取”标签，将空白或已有 NFC 标签靠近手机背面（通常在摄像头附近），即可查看标签容量和内部数据。
+4. 写入数据：选择“写入”功能，点击“添加记录”，输入文字、网址、联系方式或电话号码等，再点击写入并将标签贴近手机即可完成。
+
+## 有趣用法
+
+### 碰一下连接无线 (仅限安卓手机碰)
+
+准备好空白卡和 NFC Tools 后，我们就能将 Wi-Fi 密码直接写入到空白卡里：
+
+1. 在 NFC Tools 主界面选择「写」
+2. 点击「添加记录」，找到「Wi-Fi 网络」
+3. 点击「身份验证」右侧的「编辑」，按你的路由器实际配置选择对应的加密协议
+4. 将你的 Wi-Fi 名字（SSID）和密码填入，点击右上角的 OK
+5. NFC Tools 此时将会自动返回，在返回后的界面点击上方第三个「写」按钮，再将空白卡对准手机背面，直到手机提示「写入完成」
+
+![](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-07-29_21-11-53-7e4f235a.jpg)
+
+目前仅能开着 NFC 功能的安卓手机碰一下，可以连接，苹果手机可以制作，但是不能通过碰一下，连接 wifi。
+
+### 碰一下打开网易云音乐每日推荐（仅限苹果手机碰）
+
+以这个为例，大家可以在苹果快捷方式 APP → 自动化中按照自己需求设置想要的功能。
+
+打开每日推荐这个功能是网易云音乐官方提供的。通过快捷指令打开 APP，会自动跳过开屏广告，快速打开 APP。这个似乎绕过了 APP 的一系列广告。
+
+![](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-07-29_11-54-25-d2672f90.jpg)
+
+### 碰一下自动发送短信给指定联系人（仅限苹果手机碰）
+
+![](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-07-29_21-17-05-65de28e7.jpg)
+
+## 写在最后
+
+苹果手机有着封闭的操作系统，却又有着开放的快捷方式。我对它真是又爱又恨呢！安卓系统看似开放，却难以形成合力，各自都在拉锯。
+
+上面的只是我看到的一些有趣用法，肯定还有更多的。最直接的就是看看自己日常生活中有哪些总是重复做的事情，是不是可以用自动化搞起来。
+
+这样我们就有更多的时间去陪伴家人了。
+
