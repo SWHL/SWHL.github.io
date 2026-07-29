@@ -52,3 +52,7 @@ draft: true
 ![](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-07-29_11-54-25-d2672f90.jpg)
 
 ### 碰一下自动发送短信给指定联系人
+
+## 写在最后
+
+苹果手机有着封闭的操作系统，却又有着开放的快捷方式。我对它真是又爱又恨呢！安卓系统看似开放，却难以形成合力，各自都在拉锯。
