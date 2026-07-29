@@ -1,11 +1,11 @@
 ---
-title: "苹果与 NFC 贴纸"
+title: "苹果手机与 NFC 贴纸"
 canonical_url: "https://swhl.github.io/main/blog/iphone-with-nfc-tag/"
 markdown_url: "https://swhl.github.io/main/blog/iphone-with-nfc-tag.md"
 description: "无意中发现了 NFC 贴纸这个东西，感觉世界又变得有趣起来。自己平时在用手机 NFC 坐地铁和公交，用手环 NFC 开门，感觉 NFC 也就干这些了，因为终端都是固定的位置。"
 ---
 
-# 苹果与 NFC 贴纸
+# 苹果手机与 NFC 贴纸
 
 > Canonical URL: https://swhl.github.io/main/blog/iphone-with-nfc-tag/
 > Markdown URL: https://swhl.github.io/main/blog/iphone-with-nfc-tag.md
