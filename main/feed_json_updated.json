@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/ovisocr2/",
+            "url": "https://swhl.github.io/main/blog/ovisocr2/",
+            "title": "\u8bba\u6587\u901f\u8bfb\uff1aOvisOCR2",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-07-31T01:19:15+00:00",
+            "date_published": "2026-07-28T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/iphone-with-nfc-tag/",
             "url": "https://swhl.github.io/main/blog/iphone-with-nfc-tag/",
             "title": "\u82f9\u679c\u624b\u673a\u4e0e NFC \u8d34\u7eb8",
@@ -35,21 +50,6 @@
             "image": null,
             "date_modified": "2026-07-28T14:58:29+00:00",
             "date_published": "2026-03-10T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/ovisocr2/",
-            "url": "https://swhl.github.io/main/blog/ovisocr2/",
-            "title": "\u8bba\u6587\u901f\u8bfb\uff1aOvisOCR2",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-07-28T11:21:46+00:00",
-            "date_published": "2026-07-28T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"
