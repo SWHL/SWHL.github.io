@@ -2,6 +2,7 @@
 title: 论文速读：OvisOCR2
 date:
   created: 2026-07-28
+  updated: 2026-07-31
 authors:
   - SWHL
 slug: ovisocr2
@@ -56,3 +57,13 @@ Model Fusion: 融合多个不同数据配比和训练配置的模型
 优势：整体指标表现强势，部署容易，目前 SOTA。如果手头有正在用端到端的模型的，可以切换为 OvisOCR2 试试。
 
 局限：这个工作更像一系列工程组合得到的结果，并无太大创新点，但是仍然具有借鉴意义。
+
+## 进一步工作
+
+Flame-OCR：https://github.com/anyforge/flame-ocr
+
+Flame-OCR 基于 OvisOCR2(Qwen3.5-0.8B) 模型，通过高质数据进行后训练，特别是扩充与增强训练，提升在发票，医疗，体检，金融文档，表格，公式，手写，古文的效果。该模型在保持较小体积并保持原有效果的同时，实现了强大的文档解析性能。
+
+![](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-07-31_09-17-39-a7428444.png)
+
+从指标上来看，并没有什么优势，作者也没有公布具体训练所用数据，仅给出了模型。有些狗尾续貂了。
