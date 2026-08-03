@@ -13,12 +13,12 @@
     "language": "zh",
     "items": [
         {
-            "id": "https://swhl.github.io/main/blog/TODO/",
-            "url": "https://swhl.github.io/main/blog/TODO/",
+            "id": "https://swhl.github.io/main/blog/codex-with-remote-ssh/",
+            "url": "https://swhl.github.io/main/blog/codex-with-remote-ssh/",
             "title": "Codex\uff08ChatGPT \u684c\u9762\u7248\uff09\u652f\u6301SSH\u8fde\u63a5\u8fdc\u7a0b\u670d\u52a1\u5668",
             "content_html": "",
             "image": null,
-            "date_modified": "2026-08-03T01:37:15+00:00",
+            "date_modified": "2026-08-03T01:39:35+00:00",
             "date_published": "2026-08-03T00:00:00+00:00",
             "authors": [
                 {

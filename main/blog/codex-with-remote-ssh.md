@@ -1,14 +1,14 @@
 ---
 title: "Codex（ChatGPT 桌面版）支持SSH连接远程服务器"
-canonical_url: "https://swhl.github.io/main/blog/TODO/"
-markdown_url: "https://swhl.github.io/main/blog/TODO.md"
+canonical_url: "https://swhl.github.io/main/blog/codex-with-remote-ssh/"
+markdown_url: "https://swhl.github.io/main/blog/codex-with-remote-ssh.md"
 description: "一直以来，我用 Codex 一般都只是服务器端用 Codex cli 版，mac 端用桌面版。这样有个问题：服务器端我要一直决定是否同意其某项改动，换句话说就是需要一直审批，一直按回车。效率完全卡在是否及时按回车同意了。"
 ---
 
 # Codex（ChatGPT 桌面版）支持SSH连接远程服务器
 
-> Canonical URL: https://swhl.github.io/main/blog/TODO/
-> Markdown URL: https://swhl.github.io/main/blog/TODO.md
+> Canonical URL: https://swhl.github.io/main/blog/codex-with-remote-ssh/
+> Markdown URL: https://swhl.github.io/main/blog/codex-with-remote-ssh.md
 
 <!-- more -->
 
