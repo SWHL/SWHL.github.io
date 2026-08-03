@@ -4,7 +4,7 @@ date:
   created: 2026-08-03
 authors:
   - SWHL
-slug: TODO
+slug: codex-with-remote-ssh
 categories:
   - 工具
 tags:
