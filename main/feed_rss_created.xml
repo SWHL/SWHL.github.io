@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sun, 02 Aug 2026 09:05:45 -0000</pubDate>
-    <lastBuildDate>Sun, 02 Aug 2026 09:05:45 -0000</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 01:37:54 -0000</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 01:37:54 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>Codex（ChatGPT 桌面版）支持SSH连接远程服务器</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/TODO/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/TODO/</guid>
+      
+    </item>
     
     <item>
       <title>苹果手机与 NFC 贴纸</title>
@@ -389,25 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/how-to-read-better-books/</guid>
-      
-    </item>
-    
-    <item>
-      <title>找 iOS URL Scheme 太麻烦，所以我做了个索引站</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/building-an-ios-url-scheme-index/</link>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/building-an-ios-url-scheme-index/</guid>
       
     </item>
     

@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sun, 02 Aug 2026 09:05:45 -0000</pubDate>
-    <lastBuildDate>Sun, 02 Aug 2026 09:05:45 -0000</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 01:37:54 -0000</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 01:37:54 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>Codex（ChatGPT 桌面版）支持SSH连接远程服务器</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/TODO/</link>
+      <pubDate>Mon, 03 Aug 2026 01:37:15 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/TODO/</guid>
+      
+    </item>
     
     <item>
       <title>论文速读：OvisOCR2</title>
@@ -389,25 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/teach-dont-tell/</guid>
-      
-    </item>
-    
-    <item>
-      <title>pathlib库中那些容易被忽略的好用方法</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/pathlib-easy-to-overlook-but-useful-methods/</link>
-      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/pathlib-easy-to-overlook-but-useful-methods/</guid>
       
     </item>
     
