@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 04 Aug 2026 01:59:26 -0000</pubDate>
-    <lastBuildDate>Tue, 04 Aug 2026 01:59:26 -0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 02:39:33 -0000</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 02:39:33 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -32,6 +32,25 @@
     
     
     <item>
+      <title>Github Start History 趋势图工具推荐</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/github-star-history-tools-recommendation/</link>
+      <pubDate>Tue, 04 Aug 2026 02:38:54 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/github-star-history-tools-recommendation/</guid>
+      
+    </item>
+    
+    <item>
       <title>让Github  Star、Fork 和 Watching 显示完整数字的油猴脚本</title>
       
       
@@ -47,25 +66,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/github-full-number-tampermonkey-script/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Github Start History 趋势图工具推荐</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/github-star-history-tools-recommendation/</link>
-      <pubDate>Tue, 04 Aug 2026 01:58:41 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/github-star-history-tools-recommendation/</guid>
       
     </item>
     
