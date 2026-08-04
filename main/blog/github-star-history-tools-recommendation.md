@@ -1,11 +1,11 @@
 ---
-title: "Github Start History 趋势图工具推荐"
+title: "Github Star History 趋势图工具推荐"
 canonical_url: "https://swhl.github.io/main/blog/github-star-history-tools-recommendation/"
 markdown_url: "https://swhl.github.io/main/blog/github-star-history-tools-recommendation.md"
-description: "一直以来，在 RapidOCR 仓库中，用来显示 Github Start History 的都是 star-history 网站提供的趋势图。"
+description: "一直以来，在 RapidOCR 仓库中，用来显示 Github Star History 的都是 star-history 网站提供的趋势图。"
 ---
 
-# Github Start History 趋势图工具推荐
+# Github Star History 趋势图工具推荐
 
 > Canonical URL: https://swhl.github.io/main/blog/github-star-history-tools-recommendation/
 > Markdown URL: https://swhl.github.io/main/blog/github-star-history-tools-recommendation.md
@@ -14,7 +14,7 @@ description: "一直以来，在 RapidOCR 仓库中，用来显示 Github Start 
 
 ## 引言
 
-一直以来，在 RapidOCR 仓库中，用来显示 Github Start History 的都是 [star-history](https://www.star-history.com/) 网站提供的趋势图。
+一直以来，在 RapidOCR 仓库中，用来显示 Github Star History 的都是 [star-history](https://www.star-history.com/) 网站提供的趋势图。
 
 但是前些时间，发现仓库 README 中 Star History 不显示了。自己追查了一下原因，看到 Star History 网站的公告：[GitHub Has Restricted Access to Star Data](https://www.star-history.com/blog/github-stargazer-api-restriction)
 
@@ -29,7 +29,7 @@ Star History 网站给出了解决方案：提供一个令牌给它们，它们�
 
 它是一个 GitHub Action，可定期跟踪你所有仓库的星标数量，生成包含图表和徽章的可视化报告，并在检测到更改时发送通知的项目。
 
-使用这个项目产生的 Start History 趋势图：
+使用这个项目产生的 Star History 趋势图：
 
 ![](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-08-04_09-27-30-3e2e3fd2.jpg)
 
@@ -64,7 +64,7 @@ jobs:
 
 ## 写在最后
 
-从原理上来看，和 Start History 网站说的一样，也是生成了一个令牌，这样才能正常获取到 Star 数。但是这个工具有着更为详细的记录和统计信息。这使得我们可以更加全面窥见仓库 Star 变化趋势。
+从原理上来看，和 Star History 网站说的一样，也是生成了一个令牌，这样才能正常获取到 Star 数。但是这个工具有着更为详细的记录和统计信息。这使得我们可以更加全面窥见仓库 Star 变化趋势。
 
 有着同样困扰的小伙伴，推荐使用这个项目来生成 Star 趋势图，再也不用担心哪天这个图不显示了。
 
