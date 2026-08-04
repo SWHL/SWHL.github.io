@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 04 Aug 2026 00:14:08 -0000</pubDate>
-    <lastBuildDate>Tue, 04 Aug 2026 00:14:08 -0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 01:59:26 -0000</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 01:59:26 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,44 @@
     
 
     
+    
+    <item>
+      <title>让Github  Star、Fork 和 Watching 显示完整数字的油猴脚本</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/github-full-number-tampermonkey-script/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/github-full-number-tampermonkey-script/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Github Start History 趋势图工具推荐</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/github-star-history-tools-recommendation/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/github-star-history-tools-recommendation/</guid>
+      
+    </item>
     
     <item>
       <title>Codex（ChatGPT 桌面版）支持SSH连接远程服务器</title>
@@ -370,44 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/raycast-with-obsidian/</guid>
-      
-    </item>
-    
-    <item>
-      <title>VS Code 自用插件汇总</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;记录日常使用到的 VSCode 插件&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/my-vscode-plugins/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/my-vscode-plugins/</guid>
-      
-    </item>
-    
-    <item>
-      <title>如何阅读更好的书籍？</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/how-to-read-better-books/</link>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/how-to-read-better-books/</guid>
       
     </item>
     

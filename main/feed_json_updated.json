@@ -13,6 +13,36 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/github-full-number-tampermonkey-script/",
+            "url": "https://swhl.github.io/main/blog/github-full-number-tampermonkey-script/",
+            "title": "\u8ba9Github  Star\u3001Fork \u548c Watching \u663e\u793a\u5b8c\u6574\u6570\u5b57\u7684\u6cb9\u7334\u811a\u672c",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-08-04T01:58:41+00:00",
+            "date_published": "2026-08-04T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://swhl.github.io/main/blog/github-star-history-tools-recommendation/",
+            "url": "https://swhl.github.io/main/blog/github-star-history-tools-recommendation/",
+            "title": "Github Start History \u8d8b\u52bf\u56fe\u5de5\u5177\u63a8\u8350",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-08-04T01:58:41+00:00",
+            "date_published": "2026-08-04T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/codex-with-remote-ssh/",
             "url": "https://swhl.github.io/main/blog/codex-with-remote-ssh/",
             "title": "Codex\uff08ChatGPT \u684c\u9762\u7248\uff09\u652f\u6301SSH\u8fde\u63a5\u8fdc\u7a0b\u670d\u52a1\u5668",
@@ -275,36 +305,6 @@
             "image": null,
             "date_modified": "2026-05-22T01:47:54+00:00",
             "date_published": "2026-03-03T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/people-do-not-yearn-for-autimation/",
-            "url": "https://swhl.github.io/main/blog/people-do-not-yearn-for-autimation/",
-            "title": "\u4eba\u4eec\u4e5f\u8bb8\u5e76\u4e0d\u559c\u6b22\u81ea\u52a8\u5316",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-05-22T01:47:54+00:00",
-            "date_published": "2026-04-28T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/teach-dont-tell/",
-            "url": "https://swhl.github.io/main/blog/teach-dont-tell/",
-            "title": "\u6559\uff0c\u800c\u975e\u544a\u77e5",
-            "content_html": "<p>\u672c\u6587\u8ba8\u8bba\u7684\u662f\u6280\u672f\u6587\u6863\u5199\u4f5c\u2014\u2014\u66f4\u5177\u4f53\u5730\u8bf4\uff0c\u662f\u5173\u4e8e\u7f16\u7a0b\u8bed\u8a00\u548c\u5e93\u7684\u6587\u6863\u7f16\u5199\u3002</p>",
-            "image": null,
-            "date_modified": "2026-05-22T01:47:54+00:00",
-            "date_published": "2026-05-22T01:47:54+00:00",
             "authors": [
                 {
                     "name": "SWHL"
