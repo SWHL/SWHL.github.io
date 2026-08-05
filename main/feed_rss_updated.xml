@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 04 Aug 2026 06:01:07 -0000</pubDate>
-    <lastBuildDate>Tue, 04 Aug 2026 06:01:07 -0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 02:15:41 -0000</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 02:15:41 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>Codex（ChatGPT 桌面版）支持SSH连接远程服务器</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/codex-with-remote-ssh/</link>
+      <pubDate>Wed, 05 Aug 2026 02:14:53 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/codex-with-remote-ssh/</guid>
+      
+    </item>
     
     <item>
       <title>Github Star History 趋势图工具推荐</title>
@@ -66,25 +85,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/github-full-number-tampermonkey-script/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Codex（ChatGPT 桌面版）支持SSH连接远程服务器</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/codex-with-remote-ssh/</link>
-      <pubDate>Mon, 03 Aug 2026 01:39:35 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/codex-with-remote-ssh/</guid>
       
     </item>
     
