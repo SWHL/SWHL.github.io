@@ -2,6 +2,7 @@
 title: Codex（ChatGPT 桌面版）支持SSH连接远程服务器
 date:
   created: 2026-08-03
+  updated: 2026-08-05
 authors:
   - SWHL
 slug: codex-with-remote-ssh
@@ -27,3 +28,8 @@ codex --sandbox workspace-write --ask-for-approval never
 
 ![](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-08-03_09-36-05-8991a13d.jpg)
 
+最终解决方案：
+
+先在服务器上用 `codex --sandbox workspace-write --ask-for-approval never` 启动一个对话，
+
+然后在回到桌面版这里，继续这个对话，选择替我审批，就可以了。
