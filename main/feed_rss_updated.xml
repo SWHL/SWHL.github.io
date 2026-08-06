@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Wed, 05 Aug 2026 02:15:41 -0000</pubDate>
-    <lastBuildDate>Wed, 05 Aug 2026 02:15:41 -0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 01:51:29 -0000</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 01:51:29 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,44 @@
     
 
     
+    
+    <item>
+      <title>Code Fence Completer: markdown 代码块补全工具</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/obsidian-code-fence-completer/</link>
+      <pubDate>Thu, 06 Aug 2026 01:48:50 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/obsidian-code-fence-completer/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Obsidian自用插件汇总</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/my-obsidian-plugins/</link>
+      <pubDate>Thu, 06 Aug 2026 01:48:50 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/my-obsidian-plugins/</guid>
+      
+    </item>
     
     <item>
       <title>Codex（ChatGPT 桌面版）支持SSH连接远程服务器</title>
@@ -370,44 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/how-to-read-better-books/</guid>
-      
-    </item>
-    
-    <item>
-      <title>关于开源</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;开源随想&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/about-open-source/</link>
-      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/about-open-source/</guid>
-      
-    </item>
-    
-    <item>
-      <title>如何构建自己的信息流闭环？</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;记录一下自己是如何处理每天海量的信息的。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/how-to-build-your-own-closed-loop-information-flow/</link>
-      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/how-to-build-your-own-closed-loop-information-flow/</guid>
       
     </item>
     

@@ -23,7 +23,9 @@ description: "我喜欢开源，喜欢 AI 技术，因为我认为开源和 AI �
 
 ### 🧑🏻‍💻 开源项目 ([more](https://github.com/SWHL?tab=repositories))
 
-- [GitPaste](https://github.com/SWHL/GitPaste): 把图片上传到 GitHub，并将公开链接插入当前编辑器。它采用 VS Code Web Extension 架构，同一个扩展可以运行于桌面 VS Code, GitHub Codespaces, vscode.dev 和 github.dev。
+- [[Obsidian 插件] obsidian-code-fence-completer](https://github.com/SWHL/obsidian-code-fence-completer)：一款 Obsidian 插件，可提供可靠的语言建议并自动补全 Markdown 代码围栏。它支持别名、模糊搜索、最近使用的语言，并兼容桌面端和移动端。
+- [[VSCode 插件] GitPaste](https://github.com/SWHL/GitPaste): 把图片上传到 GitHub，并将公开链接插入当前编辑器。它采用 VS Code Web Extension 架构，同一个扩展可以运行于桌面 VS Code, GitHub Codespaces, vscode.dev 和 github.dev。
+- [[VSCode 插件] markdown-auto-space](https://github.com/SWHL/markdown-auto-space): 自动为中英文混排 Markdown 添加空格的 TypeScript 工具。
 - [mkdocs-material-format-convert](https://github.com/SWHL/mkdocs-material-format-convert): 一个可部署到 GitHub Pages 的纯前端小工具，用于把 Material for MkDocs 扩展 Markdown 语法降级为更通用的 Markdown。转换在浏览器本地完成，不上传文档内容。
 - [awesome-ios-url-schemes](https://github.com/SWHL/awesome-ios-url-schemes): 全网整理 iOS 内置应用、主流第三方 App 完整 URL Scheme 合集，涵盖系统设置、原生应用、社交 / 工具 / 影音类常用跳转协议。
 - [RapidTTS](https://github.com/RapidAI/RapidTTS): 轻量级文本转语音工具，面向本地快速推理。
@@ -70,7 +72,6 @@ description: "我喜欢开源，喜欢 AI 技术，因为我认为开源和 AI �
 - [pytorch-unet](https://github.com/SWHL/pytorch-unet): PyTorch 实现的 U-Net 分割网络。
 - [SWHL.github.io](https://github.com/SWHL/SWHL.github.io): 个人主页或文档站点源码。
 - [pyecharts-showDynamicTrajectory](https://github.com/SWHL/pyecharts-showDynamicTrajectory): 使用 pyecharts 绘制动态轨迹图的示例。
-- [markdown-auto-space](https://github.com/SWHL/markdown-auto-space): 自动为中英文混排 Markdown 添加空格的 TypeScript 工具。
 
 ### 🏆 获奖经历
 

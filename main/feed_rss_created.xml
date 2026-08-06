@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Wed, 05 Aug 2026 02:15:41 -0000</pubDate>
-    <lastBuildDate>Wed, 05 Aug 2026 02:15:41 -0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 01:51:29 -0000</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 01:51:29 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>Code Fence Completer: markdown 代码块补全工具</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/obsidian-code-fence-completer/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/obsidian-code-fence-completer/</guid>
+      
+    </item>
     
     <item>
       <title>让Github  Star、Fork 和 Watching 显示完整数字的油猴脚本</title>
@@ -389,25 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/my-obsidian-plugins/</guid>
-      
-    </item>
-    
-    <item>
-      <title>使用 Raycast 快速在 Obsidian 笔记中搜索笔记</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;记录如何配置 Raycast 来快速其窗口中搜索 Obsidian 中的笔记。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/raycast-with-obsidian/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/raycast-with-obsidian/</guid>
       
     </item>
     
