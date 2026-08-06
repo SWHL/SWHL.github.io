@@ -1,11 +1,11 @@
 ---
-title: "Code Fence Completer: markdown 代码块补全工具"
+title: "Code Fence Completer: Obsidian 代码块补全插件"
 canonical_url: "https://swhl.github.io/main/blog/obsidian-code-fence-completer/"
 markdown_url: "https://swhl.github.io/main/blog/obsidian-code-fence-completer.md"
 description: "在使用 Obsidian 软件做日常笔记的时候，总是要写一些代码片段到笔记中。为了方便查看，代码块都是要用 **python linenums=\"1\""
 ---
 
-# Code Fence Completer: markdown 代码块补全工具
+# Code Fence Completer: Obsidian 代码块补全插件
 
 > Canonical URL: https://swhl.github.io/main/blog/obsidian-code-fence-completer/
 > Markdown URL: https://swhl.github.io/main/blog/obsidian-code-fence-completer.md
