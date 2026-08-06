@@ -1,5 +1,5 @@
 ---
-title: "Code Fence Completer: markdown 代码块补全工具"
+title: "Code Fence Completer: Obsidian 代码块补全插件"
 date:
   created: 2026-08-05
 authors:
