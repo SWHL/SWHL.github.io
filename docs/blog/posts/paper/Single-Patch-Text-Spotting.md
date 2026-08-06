@@ -1,5 +1,5 @@
 ---
-title: 论文速度：One Patch Is Enough: Reinforcement-Optimized Visual Token  Grounding for MLLM-Based Scene Text Spotting
+title: "论文速度：One Patch Is Enough: Reinforcement-Optimized Visual Token  Grounding for MLLM-Based Scene Text Spotting"
 date:
   created: 2026-08-05
 authors:
