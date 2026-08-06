@@ -15,9 +15,9 @@ tags:
 
 ## 引言
 
-在使用 Obsidian 软件做日常笔记时候，总是要写一些代码片段到笔记中。为了方便查看，代码块都是要用 **```** （上引号，键盘左上角数字 1 左边那个按键按 3 次） 来包括起来的。
+在使用 Obsidian 软件做日常笔记的时候，总是要写一些代码片段到笔记中。为了方便查看，代码块都是要用 **```** （反引号，键盘左上角数字 1 左边那个按键按 3 次） 来包裹起来的。
 
-包括后的代码，在显示的时候，就会有语法高亮和行号了。这样就很方便看了。举个例子：
+被包裹后的代码，在显示的时候，就会有语法高亮和行号了。这样就很方便看了。举个例子：
 
 ```python linenums="1"
 def main():
@@ -30,17 +30,17 @@ main()
 
 ## Code Fence Completer
 
-Obsidian 软件本身对自动补全代码块围栏支持不是很好，我之前使用的一款插件是：[obsidian-code-language-completer](https://github.com/stanley-910/obsidian-code-language-completer)，工作过程就像下图：
+Obsidian 本身对代码块围栏的自动补全支持不算理想，我之前使用的一款插件是：[obsidian-code-language-completer](https://github.com/stanley-910/obsidian-code-language-completer)，工作过程就像下图：
 
 ![](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-08-06_08-23-23-fb73ed22.gif)
 
-但是我在使用过程中，发现选择语言后，按回车，时常不会自动补全尾部 ```，且不会将光标插入到下方新的一行。
+但是我在使用过程中，发现选择语言后，按回车，时常不会自动补全尾部 ```，也不会将光标定位到下方新行。
 
-在大约 2 年前，我通过修改这个插件的源码，勉强实现在插入 ``` 后，光标自动在新一行的功能，一直用到现在。
+在大约 2 年前，我通过修改这个插件的源码，勉强实现在插入 ``` 后，光标自动跳到新一行的功能，一直用到现在。
 
 但是随着 Obsidian 软件的更新，我发现这个插件失灵的频率越来越高了，高到我难以忽视的地步。于是，我就想着用 GPT-5.6 Sol 来修复一下。
 
-最终，就有了：[obsidian-code-fence-completer](https://github.com/SWHL/obsidian-code-fence-completer) 插件。为什么要新起一个名字呢？这是因为原有插件作者已经 2 年不维护了，我替 PR，作者大概率不会很快审核。
+最终，就有了：[obsidian-code-fence-completer](https://github.com/SWHL/obsidian-code-fence-completer) 插件。为什么要新起一个名字呢？这是因为原有插件作者已经 2 年不维护了，我提交 PR，作者大概率不会很快审核。
 
 ![](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-08-06_09-33-02-371fa24e.gif)
 
@@ -91,6 +91,8 @@ Obsidian 软件本身对自动补全代码块围栏支持不是很好，我之�
 
 ## 写在最后
 
-这个小插件同样是自己遇到的一些痛点，然后通过大模型来解决的。
+这个小插件，也是源于我日常使用遇到的痛点，借助大模型完成开发。
 
-自己逐渐发现想要做一些好的产品或者工具，不妨从手边看看。大模型非常适合做这种小插件，因为小插件代码量少，功能容易验证，也容易积攒经验。
+我逐渐意识到，想要做好用的产品和工具，不妨从自身遇到的痛点出发。
+
+我也发现大模型非常适合做这种小插件，因为小插件代码量少，功能容易验证。我们也更能形成正向循环，积攒经验。
