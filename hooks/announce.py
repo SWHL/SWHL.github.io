@@ -52,6 +52,9 @@ def _iter_posts():
                 continue
 
             meta = _load_front_matter(path)
+            if meta.get("draft", False):
+                continue
+
             date_meta = meta.get("date")
             if isinstance(date_meta, dict):
                 created = _normalize_created(date_meta.get("created"))
