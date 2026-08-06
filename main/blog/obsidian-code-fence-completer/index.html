@@ -100,7 +100,7 @@
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="SWHL">
   <meta property="og:title" content="Code Fence Completer: markdown 代码块补全工具 - SWHL">
-  <meta property="og:description" content="在使用 Obsidian 软件做日常笔记时候，总是要写一些代码片段到笔记中。为了方便查看，代码块都是要用 **python linenums="1"">
+  <meta property="og:description" content="在使用 Obsidian 软件做日常笔记的时候，总是要写一些代码片段到笔记中。为了方便查看，代码块都是要用 **python linenums="1"">
   <meta property="og:url" content="https://swhl.github.io/main/blog/obsidian-code-fence-completer/">
   
     <meta property="og:image" content="https://github.com/SWHL.png">
@@ -110,7 +110,7 @@
       <meta property="article:published_time" content="2026-08-05T00:00:00+00:00">
     
     
-      <meta property="article:modified_time" content="2026-08-06T10:08:05">
+      <meta property="article:modified_time" content="2026-08-06T10:22:14">
     
     <meta property="article:author" content="SWHL">
   
@@ -120,13 +120,13 @@
     <meta name="twitter:creator" content="@_SWHL">
   
   <meta name="twitter:title" content="Code Fence Completer: markdown 代码块补全工具 - SWHL">
-  <meta name="twitter:description" content="在使用 Obsidian 软件做日常笔记时候，总是要写一些代码片段到笔记中。为了方便查看，代码块都是要用 **python linenums="1"">
+  <meta name="twitter:description" content="在使用 Obsidian 软件做日常笔记的时候，总是要写一些代码片段到笔记中。为了方便查看，代码块都是要用 **python linenums="1"">
   <meta name="twitter:url" content="https://swhl.github.io/main/blog/obsidian-code-fence-completer/">
   
     <meta name="twitter:image" content="https://github.com/SWHL.png">
   
   <script type="application/ld+json">
-    {"@context": "https://schema.org", "@type": "BlogPosting", "headline": "Code Fence Completer: markdown 代码块补全工具", "name": "Code Fence Completer: markdown 代码块补全工具", "description": "在使用 Obsidian 软件做日常笔记时候，总是要写一些代码片段到笔记中。为了方便查看，代码块都是要用 **python linenums=\"1\"", "url": "https://swhl.github.io/main/blog/obsidian-code-fence-completer/", "inLanguage": "zh-CN", "author": {"@type": "Person", "name": "SWHL", "url": "https://github.com/SWHL", "sameAs": ["https://github.com/SWHL", "https://x.com/_SWHL", "https://space.bilibili.com/129456386", "https://www.youtube.com/@SWHL-W", "https://pypi.org/user/SWHL/"]}, "publisher": {"@type": "Organization", "name": "SWHL", "url": "https://swhl.github.io/main"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://swhl.github.io/main/blog/obsidian-code-fence-completer/"}, "image": "https://github.com/SWHL.png", "datePublished": "2026-08-05T00:00:00+00:00", "dateModified": "2026-08-06T10:08:05", "keywords": "Obsidian, 工具", "articleSection": "工具"}
+    {"@context": "https://schema.org", "@type": "BlogPosting", "headline": "Code Fence Completer: markdown 代码块补全工具", "name": "Code Fence Completer: markdown 代码块补全工具", "description": "在使用 Obsidian 软件做日常笔记的时候，总是要写一些代码片段到笔记中。为了方便查看，代码块都是要用 **python linenums=\"1\"", "url": "https://swhl.github.io/main/blog/obsidian-code-fence-completer/", "inLanguage": "zh-CN", "author": {"@type": "Person", "name": "SWHL", "url": "https://github.com/SWHL", "sameAs": ["https://github.com/SWHL", "https://x.com/_SWHL", "https://space.bilibili.com/129456386", "https://www.youtube.com/@SWHL-W", "https://pypi.org/user/SWHL/"]}, "publisher": {"@type": "Organization", "name": "SWHL", "url": "https://swhl.github.io/main"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://swhl.github.io/main/blog/obsidian-code-fence-completer/"}, "image": "https://github.com/SWHL.png", "datePublished": "2026-08-05T00:00:00+00:00", "dateModified": "2026-08-06T10:22:14", "keywords": "Obsidian, 工具", "articleSection": "工具"}
   </script>
 
 <meta name="msvalidate.01" content="1794CFABF8AC58786D5B6A57B8A8AF41">
@@ -2731,8 +2731,8 @@ You're not viewing the latest version.
         <!-- more -->
 
 <h2 id="_1">引言<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
-<p>在使用 Obsidian 软件做日常笔记时候，总是要写一些代码片段到笔记中。为了方便查看，代码块都是要用 <strong>```</strong> （上引号，键盘左上角数字 1 左边那个按键按 3 次） 来包括起来的。</p>
-<p>包括后的代码，在显示的时候，就会有语法高亮和行号了。这样就很方便看了。举个例子：</p>
+<p>在使用 Obsidian 软件做日常笔记的时候，总是要写一些代码片段到笔记中。为了方便查看，代码块都是要用 <strong>```</strong> （反引号，键盘左上角数字 1 左边那个按键按 3 次） 来包裹起来的。</p>
+<p>被包裹后的代码，在显示的时候，就会有语法高亮和行号了。这样就很方便看了。举个例子：</p>
 <div class="language-python highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"><a href="#__codelineno-0-1">1</a></span>
 <span class="normal"><a href="#__codelineno-0-2">2</a></span>
 <span class="normal"><a href="#__codelineno-0-3">3</a></span>
@@ -2743,12 +2743,12 @@ You're not viewing the latest version.
 </span></code></pre></div></td></tr></table></div>
 <p>上面就是最简单的代码块。<strong>```</strong> 后面可以选择相应的编程语言，这样可以高亮不同编程语言的不同关键字。</p>
 <h2 id="code-fence-completer">Code Fence Completer<a class="headerlink" href="#code-fence-completer" title="Permanent link">&para;</a></h2>
-<p>Obsidian 软件本身对自动补全代码块围栏支持不是很好，我之前使用的一款插件是：<a href="https://github.com/stanley-910/obsidian-code-language-completer">obsidian-code-language-completer</a>，工作过程就像下图：</p>
+<p>Obsidian 本身对代码块围栏的自动补全支持不算理想，我之前使用的一款插件是：<a href="https://github.com/stanley-910/obsidian-code-language-completer">obsidian-code-language-completer</a>，工作过程就像下图：</p>
 <p><img alt="" src="https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-08-06_08-23-23-fb73ed22.gif" /></p>
-<p>但是我在使用过程中，发现选择语言后，按回车，时常不会自动补全尾部 ```，且不会将光标插入到下方新的一行。</p>
-<p>在大约 2 年前，我通过修改这个插件的源码，勉强实现在插入 ``` 后，光标自动在新一行的功能，一直用到现在。</p>
+<p>但是我在使用过程中，发现选择语言后，按回车，时常不会自动补全尾部 ```，也不会将光标定位到下方新行。</p>
+<p>在大约 2 年前，我通过修改这个插件的源码，勉强实现在插入 ``` 后，光标自动跳到新一行的功能，一直用到现在。</p>
 <p>但是随着 Obsidian 软件的更新，我发现这个插件失灵的频率越来越高了，高到我难以忽视的地步。于是，我就想着用 GPT-5.6 Sol 来修复一下。</p>
-<p>最终，就有了：<a href="https://github.com/SWHL/obsidian-code-fence-completer">obsidian-code-fence-completer</a> 插件。为什么要新起一个名字呢？这是因为原有插件作者已经 2 年不维护了，我替 PR，作者大概率不会很快审核。</p>
+<p>最终，就有了：<a href="https://github.com/SWHL/obsidian-code-fence-completer">obsidian-code-fence-completer</a> 插件。为什么要新起一个名字呢？这是因为原有插件作者已经 2 年不维护了，我提交 PR，作者大概率不会很快审核。</p>
 <p><img alt="" src="https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-08-06_09-33-02-371fa24e.gif" /></p>
 <h2 id="code-fence-completer-code-language-completer">Code Fence Completer 插件相比于 Code Language Completer 有哪些异同呢？<a class="headerlink" href="#code-fence-completer-code-language-completer" title="Permanent link">&para;</a></h2>
 <table>
@@ -2871,8 +2871,9 @@ You're not viewing the latest version.
 <p>或者</p>
 <p><img alt="" src="https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-08-06_09-35-36-9c822e5a.jpg" /></p>
 <h2 id="_3">写在最后<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
-<p>这个小插件同样是自己遇到的一些痛点，然后通过大模型来解决的。</p>
-<p>自己逐渐发现想要做一些好的产品或者工具，不妨从手边看看。大模型非常适合做这种小插件，因为小插件代码量少，功能容易验证，也容易积攒经验。</p>
+<p>这个小插件，也是源于我日常使用遇到的痛点，借助大模型完成开发。</p>
+<p>我逐渐意识到，想要做好用的产品和工具，不妨从自身遇到的痛点出发。</p>
+<p>我也发现大模型非常适合做这种小插件，因为小插件代码量少，功能容易验证。我们也更能形成正向循环，积攒经验。</p>
         
 
 
@@ -2895,7 +2896,7 @@ You're not viewing the latest version.
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_datetime" title="2026年8月6日 10:08:05 CST">2026-08-06 10:08:05</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_datetime" title="2026年8月6日 10:22:14 CST">2026-08-06 10:22:14</span>
   </span>
 
     
