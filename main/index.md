@@ -23,8 +23,8 @@ description: "我喜欢开源，喜欢 AI 技术，因为我认为开源和 AI �
 
 ### 🧑🏻‍💻 开源项目 ([more](https://github.com/SWHL?tab=repositories))
 
-- [[油猴脚本]GitHub 显示完整 Star 数字](https://greasyfork.org/zh-CN/scripts/589799-github-%E6%98%BE%E7%A4%BA%E5%AE%8C%E6%95%B4-star-%E6%95%B0%E5%AD%97)：显示 GitHub 仓库的 Star, Fork 和 Watching 完整数字
-- [[油猴脚本]](https://greasyfork.org/zh-CN/scripts/590655-clean-replies-for-x-userscript)：一款面向 X（Twitter）的本地回复清理脚本。它会分析帖子详情页中已经加载的回复，自动折叠复读、泛泛赞同、推广引流、重复模板及明显离题等低价值内容，让评论区更易阅读。
+- [[油猴脚本] GitHub 显示完整 Star 数字](https://greasyfork.org/zh-CN/scripts/589799-github-%E6%98%BE%E7%A4%BA%E5%AE%8C%E6%95%B4-star-%E6%95%B0%E5%AD%97)：显示 GitHub 仓库的 Star, Fork 和 Watching 完整数字
+- [[油猴脚本] Clean Replies for X](https://greasyfork.org/zh-CN/scripts/590655-clean-replies-for-x-userscript)：一款面向 X（Twitter）的本地回复清理脚本。它会分析帖子详情页中已经加载的回复，自动折叠复读、泛泛赞同、推广引流、重复模板及明显离题等低价值内容，让评论区更易阅读。
 - [[Obsidian 插件] obsidian-code-fence-completer](https://github.com/SWHL/obsidian-code-fence-completer)：一款 Obsidian 插件，可提供可靠的语言建议并自动补全 Markdown 代码围栏。它支持别名、模糊搜索、最近使用的语言，并兼容桌面端和移动端。
 - [[VSCode 插件] GitPaste](https://github.com/SWHL/GitPaste): 把图片上传到 GitHub，并将公开链接插入当前编辑器。它采用 VS Code Web Extension 架构，同一个扩展可以运行于桌面 VS Code, GitHub Codespaces, vscode.dev 和 github.dev。
 - [[VSCode 插件] markdown-auto-space](https://github.com/SWHL/markdown-auto-space): 自动为中英文混排 Markdown 添加空格的 TypeScript 工具。
