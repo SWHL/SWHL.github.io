@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/chrome-browser-plugin/",
+            "url": "https://swhl.github.io/main/blog/chrome-browser-plugin/",
+            "title": "\u8c37\u6b4c\u6d4f\u89c8\u5668\u63d2\u4ef6\u63a8\u8350",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-08-12T01:24:02+00:00",
+            "date_published": "2026-08-12T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/obsidian-code-fence-completer/",
             "url": "https://swhl.github.io/main/blog/obsidian-code-fence-completer/",
             "title": "Code Fence Completer: Obsidian \u4ee3\u7801\u5757\u8865\u5168\u63d2\u4ef6",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-06-10T02:24:58+00:00",
             "date_published": "2026-06-10T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/how-to-read-better-books/",
-            "url": "https://swhl.github.io/main/blog/how-to-read-better-books/",
-            "title": "\u5982\u4f55\u9605\u8bfb\u66f4\u597d\u7684\u4e66\u7c4d\uff1f",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-05-22T04:35:02+00:00",
-            "date_published": "2026-05-22T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"
