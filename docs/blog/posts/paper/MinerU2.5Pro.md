@@ -1,5 +1,5 @@
 ---
-title: 论文速读：MinerU2.5-Pro: Pushing the Limits of Data-Centric  Document Parsing at Scale
+title: "论文速读：MinerU2.5-Pro: Pushing the Limits of Data-Centric  Document Parsing at Scale"
 date:
   created: 2026-08-10
 authors:
