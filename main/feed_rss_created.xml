@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Wed, 19 Aug 2026 01:23:31 -0000</pubDate>
-    <lastBuildDate>Wed, 19 Aug 2026 01:23:31 -0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 09:12:53 -0000</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 09:12:53 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>aicommits 工具接入 Codex CLI 使用</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/aicommits-codex-cli/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/aicommits-codex-cli/</guid>
+      
+    </item>
     
     <item>
       <title>谷歌浏览器插件推荐</title>
@@ -389,25 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/from-alfred-to-raycast/</guid>
-      
-    </item>
-    
-    <item>
-      <title>我开发的第一个 VSCode 插件</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;记录借助 Cursor 工具开发第一个 VSCode 插件的过程&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/my-first-vscode-extension/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/my-first-vscode-extension/</guid>
       
     </item>
     
