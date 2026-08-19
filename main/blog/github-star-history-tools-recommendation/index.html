@@ -2803,7 +2803,7 @@ You're not viewing the latest version.
 <p>这个工具会生成一个名为 <a href="https://github.com/RapidAI/RapidOCR/tree/star-tracker-data"><strong>star-tracker-data</strong></a> 的分支，用于详细记录 Star 的变化，整体使用起来还是比较友好的。</p>
 <p><img alt="" src="https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-08-04_09-29-06-3f80ca1f.jpg" /></p>
 <p>我用的 <code>star-tracker.yml</code> 如下：</p>
-<div class="language-text highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"><a href="#__codelineno-0-1"> 1</a></span>
+<div class="language-yml highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"><a href="#__codelineno-0-1"> 1</a></span>
 <span class="normal"><a href="#__codelineno-0-2"> 2</a></span>
 <span class="normal"><a href="#__codelineno-0-3"> 3</a></span>
 <span class="normal"><a href="#__codelineno-0-4"> 4</a></span>
@@ -2822,26 +2822,26 @@ You're not viewing the latest version.
 <span class="normal"><a href="#__codelineno-0-17">17</a></span>
 <span class="normal"><a href="#__codelineno-0-18">18</a></span>
 <span class="normal"><a href="#__codelineno-0-19">19</a></span>
-<span class="normal"><a href="#__codelineno-0-20">20</a></span></pre></div></td><td class="code"><div><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1"></a>name: Track Stars
+<span class="normal"><a href="#__codelineno-0-20">20</a></span></pre></div></td><td class="code"><div><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1"></a><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Track Stars</span>
 </span><span id="__span-0-2"><a id="__codelineno-0-2" name="__codelineno-0-2"></a>
-</span><span id="__span-0-3"><a id="__codelineno-0-3" name="__codelineno-0-3"></a>on:
-</span><span id="__span-0-4"><a id="__codelineno-0-4" name="__codelineno-0-4"></a>  schedule:
-</span><span id="__span-0-5"><a id="__codelineno-0-5" name="__codelineno-0-5"></a>    - cron: &#39;0 0 * * *&#39; # Daily at midnight
-</span><span id="__span-0-6"><a id="__codelineno-0-6" name="__codelineno-0-6"></a>  workflow_dispatch:
+</span><span id="__span-0-3"><a id="__codelineno-0-3" name="__codelineno-0-3"></a><span class="nt">on</span><span class="p">:</span>
+</span><span id="__span-0-4"><a id="__codelineno-0-4" name="__codelineno-0-4"></a><span class="w">  </span><span class="nt">schedule</span><span class="p">:</span>
+</span><span id="__span-0-5"><a id="__codelineno-0-5" name="__codelineno-0-5"></a><span class="w">    </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">cron</span><span class="p">:</span><span class="w"> </span><span class="s">'0</span><span class="nv"> </span><span class="s">0</span><span class="nv"> </span><span class="s">*</span><span class="nv"> </span><span class="s">*</span><span class="nv"> </span><span class="s">*'</span><span class="w"> </span><span class="c1"># Daily at midnight</span>
+</span><span id="__span-0-6"><a id="__codelineno-0-6" name="__codelineno-0-6"></a><span class="w">  </span><span class="nt">workflow_dispatch</span><span class="p">:</span>
 </span><span id="__span-0-7"><a id="__codelineno-0-7" name="__codelineno-0-7"></a>
-</span><span id="__span-0-8"><a id="__codelineno-0-8" name="__codelineno-0-8"></a>permissions:
-</span><span id="__span-0-9"><a id="__codelineno-0-9" name="__codelineno-0-9"></a>  contents: write
+</span><span id="__span-0-8"><a id="__codelineno-0-8" name="__codelineno-0-8"></a><span class="nt">permissions</span><span class="p">:</span>
+</span><span id="__span-0-9"><a id="__codelineno-0-9" name="__codelineno-0-9"></a><span class="w">  </span><span class="nt">contents</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">write</span>
 </span><span id="__span-0-10"><a id="__codelineno-0-10" name="__codelineno-0-10"></a>
-</span><span id="__span-0-11"><a id="__codelineno-0-11" name="__codelineno-0-11"></a>jobs:
-</span><span id="__span-0-12"><a id="__codelineno-0-12" name="__codelineno-0-12"></a>  track:
-</span><span id="__span-0-13"><a id="__codelineno-0-13" name="__codelineno-0-13"></a>    runs-on: ubuntu-latest
-</span><span id="__span-0-14"><a id="__codelineno-0-14" name="__codelineno-0-14"></a>    steps:
-</span><span id="__span-0-15"><a id="__codelineno-0-15" name="__codelineno-0-15"></a>      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
-</span><span id="__span-0-16"><a id="__codelineno-0-16" name="__codelineno-0-16"></a>      - uses: fbuireu/github-star-tracker@v1
-</span><span id="__span-0-17"><a id="__codelineno-0-17" name="__codelineno-0-17"></a>        with:
-</span><span id="__span-0-18"><a id="__codelineno-0-18" name="__codelineno-0-18"></a>          github-token: ${{ secrets.STAR_TRACKER_TOKEN }}
-</span><span id="__span-0-19"><a id="__codelineno-0-19" name="__codelineno-0-19"></a>          visibility: &#39;public&#39; # public | private | all | owned
-</span><span id="__span-0-20"><a id="__codelineno-0-20" name="__codelineno-0-20"></a>          only-repos: &#39;RapidOCR&#39;
+</span><span id="__span-0-11"><a id="__codelineno-0-11" name="__codelineno-0-11"></a><span class="nt">jobs</span><span class="p">:</span>
+</span><span id="__span-0-12"><a id="__codelineno-0-12" name="__codelineno-0-12"></a><span class="w">  </span><span class="nt">track</span><span class="p">:</span>
+</span><span id="__span-0-13"><a id="__codelineno-0-13" name="__codelineno-0-13"></a><span class="w">    </span><span class="nt">runs-on</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">ubuntu-latest</span>
+</span><span id="__span-0-14"><a id="__codelineno-0-14" name="__codelineno-0-14"></a><span class="w">    </span><span class="nt">steps</span><span class="p">:</span>
+</span><span id="__span-0-15"><a id="__codelineno-0-15" name="__codelineno-0-15"></a><span class="w">      </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">uses</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10</span><span class="w"> </span><span class="c1"># v6.0.3</span>
+</span><span id="__span-0-16"><a id="__codelineno-0-16" name="__codelineno-0-16"></a><span class="w">      </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">uses</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">fbuireu/github-star-tracker@v1</span>
+</span><span id="__span-0-17"><a id="__codelineno-0-17" name="__codelineno-0-17"></a><span class="w">        </span><span class="nt">with</span><span class="p">:</span>
+</span><span id="__span-0-18"><a id="__codelineno-0-18" name="__codelineno-0-18"></a><span class="w">          </span><span class="nt">github-token</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">${{ secrets.STAR_TRACKER_TOKEN }}</span>
+</span><span id="__span-0-19"><a id="__codelineno-0-19" name="__codelineno-0-19"></a><span class="w">          </span><span class="nt">visibility</span><span class="p">:</span><span class="w"> </span><span class="s">'public'</span><span class="w"> </span><span class="c1"># public | private | all | owned</span>
+</span><span id="__span-0-20"><a id="__codelineno-0-20" name="__codelineno-0-20"></a><span class="w">          </span><span class="nt">only-repos</span><span class="p">:</span><span class="w"> </span><span class="s">'RapidOCR'</span>
 </span></code></pre></div></td></tr></table></div>
 <h2 id="_2">写在最后<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
 <p>从原理上来看，和 Star History 网站说的一样，也是生成了一个令牌，这样才能正常获取到 Star 数。但是这个工具有着更为详细的记录和统计信息。这使得我们可以更加全面窥见仓库 Star 变化趋势。</p>
