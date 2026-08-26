@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Mon, 24 Aug 2026 09:31:50 -0000</pubDate>
-    <lastBuildDate>Mon, 24 Aug 2026 09:31:50 -0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 02:33:31 -0000</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 02:33:31 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>VSCode Remote SSH插件不要安装v0.126.0</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/TODO/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/TODO/</guid>
+      
+    </item>
     
     <item>
       <title>aicommits 工具接入 Codex CLI 使用</title>
@@ -389,25 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/pathlib-easy-to-overlook-but-useful-methods/</guid>
-      
-    </item>
-    
-    <item>
-      <title>从 Alfred 转到 Raycast</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;记录从 Alfred 转到 Raycast 的过程。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/from-alfred-to-raycast/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/from-alfred-to-raycast/</guid>
       
     </item>
     
