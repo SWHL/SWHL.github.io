@@ -1,14 +1,14 @@
 ---
 title: "VSCode Remote SSH插件不要安装v0.126.0"
-canonical_url: "https://swhl.github.io/main/blog/TODO/"
-markdown_url: "https://swhl.github.io/main/blog/TODO.md"
+canonical_url: "https://swhl.github.io/main/blog/vscode-remote-ssh-problem/"
+markdown_url: "https://swhl.github.io/main/blog/vscode-remote-ssh-problem.md"
 description: "VSCode 的远程连接插件 Remote-SSH 在升级到 v0.126.0 时，会遇到以下不能连接问题："
 ---
 
 # VSCode Remote SSH插件不要安装v0.126.0
 
-> Canonical URL: https://swhl.github.io/main/blog/TODO/
-> Markdown URL: https://swhl.github.io/main/blog/TODO.md
+> Canonical URL: https://swhl.github.io/main/blog/vscode-remote-ssh-problem/
+> Markdown URL: https://swhl.github.io/main/blog/vscode-remote-ssh-problem.md
 
 <!-- more -->
 
