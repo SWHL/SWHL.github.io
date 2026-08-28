@@ -4,7 +4,7 @@ date:
   created: 2026-08-26
 authors:
   - SWHL
-slug: TODO
+slug: vscode-remote-ssh-problem
 categories:
   - 工具
 tags:
