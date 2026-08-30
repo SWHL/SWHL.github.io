@@ -15,7 +15,7 @@ description: "记录如何配置 Raycast 来快速其窗口中搜索 Obsidian �
 <!-- more -->
 
 <figure markdown="span">
-  ![alt text](../../images/raycast_with_obsidian_image.png)
+  ![](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-08-30_14-53-36-0541bca4.png)
   <figcaption> 配图来自 Google Gemini</figcaption>
 </figure>
 
@@ -27,15 +27,15 @@ description: "记录如何配置 Raycast 来快速其窗口中搜索 Obsidian �
 
 Step 1：Raycast 安装 Obsidian 插件：[Obsidian](https://www.raycast.com/marcjulian/obsidian)。
 
-![alt text](../../images/raycast_with_obsidian_2026-03-17_11-40-15.png)
+![](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-08-30_14-54-29-f10d6beb.png)
 
 Step 2: 按照下图来配置 Obsidian 插件。
 
-![alt text](../../images/raycast_with_obsidian_2026-03-17_11-41-12.png)
+![](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-08-30_14-54-46-43235e7f.png)
 
 Step 3: 开始使用。
 
-![alt text](../../images/raycast_with_obsidian_2026-03-17_11-47-36.png)
+![](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-08-30_14-55-01-1880a0a4.png)
 
 ## 不足之处
 

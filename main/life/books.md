@@ -14,5 +14,5 @@ description: "在书中邂逅另外一个世界。"
 
     在书中邂逅另外一个世界。
 
-![cover](../../images/books.jpg)
+![](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-08-30_16-24-32-aacf73c7.jpg)
 

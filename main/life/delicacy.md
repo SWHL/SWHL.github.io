@@ -14,5 +14,5 @@ description: "唯美食与爱不可辜负。"
 
     唯美食与爱不可辜负。
 
-![foot](../../images/food.jpg)
+![](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-08-30_16-24-55-4fec7310.jpg)
 
