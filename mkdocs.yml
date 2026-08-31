@@ -14,6 +14,7 @@ edit_uri: edit/main/docs
 theme:
   name: material
   favicon: https://github.com/SWHL.png
+  logo: https://github.com/SWHL.png
   language: zh
   custom_dir: overrides
   features:
@@ -57,7 +58,6 @@ theme:
         name: 暗黑主题
 
   icon:
-    logo: fontawesome/solid/blog
     previous: fontawesome/solid/angle-left
     next: fontawesome/solid/angle-right
     repo: fontawesome/brands/github
@@ -71,7 +71,7 @@ theme:
 plugins:
   - rss:
         feed_description: "折腾 AI、OCR 与开源项目，记录工具、阅读和生活"
-        image: https://swhl.github.io/main/images/blog-solid-full.svg
+        image: https://github.com/SWHL.png
         match_path: "(blog|weekly)/posts/.*"
         date_from_meta:
           as_creation: date.created
