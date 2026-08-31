@@ -3,7 +3,7 @@
   <channel>
     
     <title>SWHL</title>
-    <description>用工程师思维过日子：代码、书、食物与知识网络 feedId:258695382233062400+userId:258565743841975296</description>
+    <description>折腾 AI、OCR 与开源项目，记录工具、阅读和生活</description>
     <link>https://swhl.github.io/main/</link>
     <atom:link href="https://swhl.github.io/main/feed_rss_created.xml" rel="self" type="application/rss+xml" />
 
@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Mon, 31 Aug 2026 07:31:49 -0000</pubDate>
-    <lastBuildDate>Mon, 31 Aug 2026 07:31:49 -0000</lastBuildDate>
+    <pubDate>Mon, 31 Aug 2026 07:49:28 -0000</pubDate>
+    <lastBuildDate>Mon, 31 Aug 2026 07:49:28 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -32,6 +32,25 @@
     
     
     <item>
+      <title>20260821-20260828 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20260821-20260828-weekly/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260821-20260828-weekly/</guid>
+      
+    </item>
+    
+    <item>
       <title>VSCode Remote SSH插件不要安装v0.126.0</title>
       
       
@@ -47,6 +66,25 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/vscode-remote-ssh-problem/</guid>
+      
+    </item>
+    
+    <item>
+      <title>20260814-20260821 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20260814-20260821-weekly/</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260814-20260821-weekly/</guid>
       
     </item>
     
@@ -70,6 +108,25 @@
     </item>
     
     <item>
+      <title>20260806-20260813 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20260806-20260813-weekly/</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260806-20260813-weekly/</guid>
+      
+    </item>
+    
+    <item>
       <title>谷歌浏览器插件推荐</title>
       
       
@@ -85,6 +142,25 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/chrome-browser-plugin/</guid>
+      
+    </item>
+    
+    <item>
+      <title>20260730-20260806 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20260730-20260806-weekly/</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260730-20260806-weekly/</guid>
       
     </item>
     
@@ -165,6 +241,25 @@
     </item>
     
     <item>
+      <title>20260723-20260731 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20260723-20260731-weekly/</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260723-20260731-weekly/</guid>
+      
+    </item>
+    
+    <item>
       <title>苹果手机与 NFC 贴纸</title>
       
       
@@ -241,6 +336,44 @@
     </item>
     
     <item>
+      <title>20260716-20260723 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20260716-20260723-weekly/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260716-20260723-weekly/</guid>
+      
+    </item>
+    
+    <item>
+      <title>20260709-20260716 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20260709-20260716-weekly/</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260709-20260716-weekly/</guid>
+      
+    </item>
+    
+    <item>
       <title>mkdocs-material-format-convert:用于把 Material for MkDocs 扩展 Markdown 语法降级为更通用的 Markdown的小工具</title>
       
       
@@ -260,7 +393,7 @@
     </item>
     
     <item>
-      <title>RapidOCR: 从 setup.py 迁移到 pyproject.toml 打包实践</title>
+      <title>20260706-20260712 周刊</title>
       
       
         
@@ -270,144 +403,11 @@
       
       
       <description></description>
-      <link>https://swhl.github.io/main/blog/migrate-setup-py-to-pyproject-toml-packaging/</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <link>https://swhl.github.io/main/weekly/20260706-20260712-weekly/</link>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/migrate-setup-py-to-pyproject-toml-packaging/</guid>
-      
-    </item>
-    
-    <item>
-      <title>微信输入法正在语音识别功能上狂奔</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/wechat-input-voice-recognition/</link>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/wechat-input-voice-recognition/</guid>
-      
-    </item>
-    
-    <item>
-      <title>关于 Raycast for Mac v2 的使用体验</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/raycast-for-mac-v2-usage-experience/</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/raycast-for-mac-v2-usage-experience/</guid>
-      
-    </item>
-    
-    <item>
-      <title>⁣⁠­‌⁣­⁠‌­​⁠⁣⁠­⁣‌­‍​‍​⁣​​​‌‌‍‍­‍‌​‌⁠⁣那些我看过作品的科幻作家</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/sci-fi-authors-in-my-view/</link>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/sci-fi-authors-in-my-view/</guid>
-      
-    </item>
-    
-    <item>
-      <title>教，而非告知</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;本文讨论的是技术文档写作——更具体地说，是关于编程语言和库的文档编写。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/teach-dont-tell/</link>
-      <pubDate>Fri, 22 May 2026 01:47:54 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/teach-dont-tell/</guid>
-      
-    </item>
-    
-    <item>
-      <title>关于开源</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;开源随想&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/about-open-source/</link>
-      <pubDate>Fri, 22 May 2026 01:36:57 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/about-open-source/</guid>
-      
-    </item>
-    
-    <item>
-      <title>在 macOS 上使用 CoreML 加速 ONNX 模型推理：完全指南</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;作为深度学习工程师，我们经常面临一个问题：如何在 Apple 设备上高效地部署已有的 ONNX 模型？本文将深入探讨两种主要方案，并通过实际测试给出详细的性能和精度对比。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/accelerate-onnx-models-with-coreml-on-macos/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/accelerate-onnx-models-with-coreml-on-macos/</guid>
-      
-    </item>
-    
-    <item>
-      <title>pathlib库中那些容易被忽略的好用方法</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/pathlib-easy-to-overlook-but-useful-methods/</link>
-      <pubDate>Fri, 22 May 2026 01:35:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/pathlib-easy-to-overlook-but-useful-methods/</guid>
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260706-20260712-weekly/</guid>
       
     </item>
     

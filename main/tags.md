@@ -2,7 +2,7 @@
 title: "Tag"
 canonical_url: "https://swhl.github.io/main/tags/"
 markdown_url: "https://swhl.github.io/main/tags.md"
-description: "用工程师思维过日子：代码、书、食物与知识网络"
+description: "折腾 AI、OCR 与开源项目，记录工具、阅读和生活"
 ---
 
 # Tag

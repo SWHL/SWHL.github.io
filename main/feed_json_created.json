@@ -3,7 +3,7 @@
     "title": "SWHL",
     "home_page_url": "https://swhl.github.io/main/",
     "feed_url": "https://swhl.github.io/main/feed_json_created.json",
-    "description": "\u7528\u5de5\u7a0b\u5e08\u601d\u7ef4\u8fc7\u65e5\u5b50\uff1a\u4ee3\u7801\u3001\u4e66\u3001\u98df\u7269\u4e0e\u77e5\u8bc6\u7f51\u7edc feedId:258695382233062400+userId:258565743841975296",
+    "description": "\u6298\u817e AI\u3001OCR \u4e0e\u5f00\u6e90\u9879\u76ee\uff0c\u8bb0\u5f55\u5de5\u5177\u3001\u9605\u8bfb\u548c\u751f\u6d3b",
     "icon": "https://swhl.github.io/main/images/blog-solid-full.svg",
     "authors": [
         {
@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/weekly/20260821-20260828-weekly/",
+            "url": "https://swhl.github.io/main/weekly/20260821-20260828-weekly/",
+            "title": "20260821-20260828 \u5468\u520a",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-08-28T02:16:27+00:00",
+            "date_published": "2026-08-28T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/vscode-remote-ssh-problem/",
             "url": "https://swhl.github.io/main/blog/vscode-remote-ssh-problem/",
             "title": "VSCode Remote SSH\u63d2\u4ef6\u4e0d\u8981\u5b89\u88c5v0.126.0",
@@ -20,6 +35,21 @@
             "image": null,
             "date_modified": "2026-08-28T00:16:12+00:00",
             "date_published": "2026-08-26T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://swhl.github.io/main/weekly/20260814-20260821-weekly/",
+            "url": "https://swhl.github.io/main/weekly/20260814-20260821-weekly/",
+            "title": "20260814-20260821 \u5468\u520a",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-08-21T01:29:42+00:00",
+            "date_published": "2026-08-21T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"
@@ -43,6 +73,21 @@
             "tags": null
         },
         {
+            "id": "https://swhl.github.io/main/weekly/20260806-20260813-weekly/",
+            "url": "https://swhl.github.io/main/weekly/20260806-20260813-weekly/",
+            "title": "20260806-20260813 \u5468\u520a",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-08-13T11:05:45+00:00",
+            "date_published": "2026-08-13T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/chrome-browser-plugin/",
             "url": "https://swhl.github.io/main/blog/chrome-browser-plugin/",
             "title": "\u8c37\u6b4c\u6d4f\u89c8\u5668\u63d2\u4ef6\u63a8\u8350",
@@ -50,6 +95,21 @@
             "image": null,
             "date_modified": "2026-08-12T01:24:02+00:00",
             "date_published": "2026-08-12T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://swhl.github.io/main/weekly/20260730-20260806-weekly/",
+            "url": "https://swhl.github.io/main/weekly/20260730-20260806-weekly/",
+            "title": "20260730-20260806 \u5468\u520a",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-08-06T13:59:54+00:00",
+            "date_published": "2026-08-06T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"
@@ -118,6 +178,21 @@
             "tags": null
         },
         {
+            "id": "https://swhl.github.io/main/weekly/20260723-20260731-weekly/",
+            "url": "https://swhl.github.io/main/weekly/20260723-20260731-weekly/",
+            "title": "20260723-20260731 \u5468\u520a",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-07-30T14:04:41+00:00",
+            "date_published": "2026-07-31T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/iphone-with-nfc-tag/",
             "url": "https://swhl.github.io/main/blog/iphone-with-nfc-tag/",
             "title": "\u82f9\u679c\u624b\u673a\u4e0e NFC \u8d34\u7eb8",
@@ -178,6 +253,36 @@
             "tags": null
         },
         {
+            "id": "https://swhl.github.io/main/weekly/20260716-20260723-weekly/",
+            "url": "https://swhl.github.io/main/weekly/20260716-20260723-weekly/",
+            "title": "20260716-20260723 \u5468\u520a",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-07-23T13:22:24+00:00",
+            "date_published": "2026-07-23T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://swhl.github.io/main/weekly/20260709-20260716-weekly/",
+            "url": "https://swhl.github.io/main/weekly/20260709-20260716-weekly/",
+            "title": "20260709-20260716 \u5468\u520a",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-07-16T13:22:21+00:00",
+            "date_published": "2026-07-16T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/mkdocs-material-format-convert/",
             "url": "https://swhl.github.io/main/blog/mkdocs-material-format-convert/",
             "title": "mkdocs-material-format-convert:\u7528\u4e8e\u628a Material for MkDocs \u6269\u5c55 Markdown \u8bed\u6cd5\u964d\u7ea7\u4e3a\u66f4\u901a\u7528\u7684 Markdown\u7684\u5c0f\u5de5\u5177",
@@ -193,118 +298,13 @@
             "tags": null
         },
         {
-            "id": "https://swhl.github.io/main/blog/migrate-setup-py-to-pyproject-toml-packaging/",
-            "url": "https://swhl.github.io/main/blog/migrate-setup-py-to-pyproject-toml-packaging/",
-            "title": "RapidOCR: \u4ece setup.py \u8fc1\u79fb\u5230 pyproject.toml \u6253\u5305\u5b9e\u8df5",
+            "id": "https://swhl.github.io/main/weekly/20260706-20260712-weekly/",
+            "url": "https://swhl.github.io/main/weekly/20260706-20260712-weekly/",
+            "title": "20260706-20260712 \u5468\u520a",
             "content_html": "",
             "image": null,
-            "date_modified": "2026-06-16T02:07:26+00:00",
-            "date_published": "2026-06-12T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/wechat-input-voice-recognition/",
-            "url": "https://swhl.github.io/main/blog/wechat-input-voice-recognition/",
-            "title": "\u5fae\u4fe1\u8f93\u5165\u6cd5\u6b63\u5728\u8bed\u97f3\u8bc6\u522b\u529f\u80fd\u4e0a\u72c2\u5954",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-06-12T01:54:14+00:00",
-            "date_published": "2026-06-12T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/raycast-for-mac-v2-usage-experience/",
-            "url": "https://swhl.github.io/main/blog/raycast-for-mac-v2-usage-experience/",
-            "title": "\u5173\u4e8e Raycast for Mac v2 \u7684\u4f7f\u7528\u4f53\u9a8c",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-06-11T09:31:32+00:00",
-            "date_published": "2026-06-11T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/sci-fi-authors-in-my-view/",
-            "url": "https://swhl.github.io/main/blog/sci-fi-authors-in-my-view/",
-            "title": "\u2063\u2060\u00ad\u200c\u2063\u00ad\u2060\u200c\u00ad\u200b\u2060\u2063\u2060\u00ad\u2063\u200c\u00ad\u200d\u200b\u200d\u200b\u2063\u200b\u200b\u200b\u200c\u200c\u200d\u200d\u00ad\u200d\u200c\u200b\u200c\u2060\u2063\u90a3\u4e9b\u6211\u770b\u8fc7\u4f5c\u54c1\u7684\u79d1\u5e7b\u4f5c\u5bb6",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-06-10T02:24:58+00:00",
-            "date_published": "2026-06-10T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/teach-dont-tell/",
-            "url": "https://swhl.github.io/main/blog/teach-dont-tell/",
-            "title": "\u6559\uff0c\u800c\u975e\u544a\u77e5",
-            "content_html": "<p>\u672c\u6587\u8ba8\u8bba\u7684\u662f\u6280\u672f\u6587\u6863\u5199\u4f5c\u2014\u2014\u66f4\u5177\u4f53\u5730\u8bf4\uff0c\u662f\u5173\u4e8e\u7f16\u7a0b\u8bed\u8a00\u548c\u5e93\u7684\u6587\u6863\u7f16\u5199\u3002</p>",
-            "image": null,
-            "date_modified": "2026-05-22T01:47:54+00:00",
-            "date_published": "2026-05-22T01:47:54+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/about-open-source/",
-            "url": "https://swhl.github.io/main/blog/about-open-source/",
-            "title": "\u5173\u4e8e\u5f00\u6e90",
-            "content_html": "<p>\u5f00\u6e90\u968f\u60f3</p>",
-            "image": null,
-            "date_modified": "2026-05-22T01:47:54+00:00",
-            "date_published": "2026-05-22T01:36:57+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/accelerate-onnx-models-with-coreml-on-macos/",
-            "url": "https://swhl.github.io/main/blog/accelerate-onnx-models-with-coreml-on-macos/",
-            "title": "\u5728 macOS \u4e0a\u4f7f\u7528 CoreML \u52a0\u901f ONNX \u6a21\u578b\u63a8\u7406\uff1a\u5b8c\u5168\u6307\u5357",
-            "content_html": "<p>\u4f5c\u4e3a\u6df1\u5ea6\u5b66\u4e60\u5de5\u7a0b\u5e08\uff0c\u6211\u4eec\u7ecf\u5e38\u9762\u4e34\u4e00\u4e2a\u95ee\u9898\uff1a\u5982\u4f55\u5728 Apple \u8bbe\u5907\u4e0a\u9ad8\u6548\u5730\u90e8\u7f72\u5df2\u6709\u7684 ONNX \u6a21\u578b\uff1f\u672c\u6587\u5c06\u6df1\u5165\u63a2\u8ba8\u4e24\u79cd\u4e3b\u8981\u65b9\u6848\uff0c\u5e76\u901a\u8fc7\u5b9e\u9645\u6d4b\u8bd5\u7ed9\u51fa\u8be6\u7ec6\u7684\u6027\u80fd\u548c\u7cbe\u5ea6\u5bf9\u6bd4\u3002</p>",
-            "image": null,
-            "date_modified": "2026-06-16T02:07:26+00:00",
-            "date_published": "2026-05-22T01:35:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/pathlib-easy-to-overlook-but-useful-methods/",
-            "url": "https://swhl.github.io/main/blog/pathlib-easy-to-overlook-but-useful-methods/",
-            "title": "pathlib\u5e93\u4e2d\u90a3\u4e9b\u5bb9\u6613\u88ab\u5ffd\u7565\u7684\u597d\u7528\u65b9\u6cd5",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-05-22T01:47:54+00:00",
-            "date_published": "2026-05-22T01:35:00+00:00",
+            "date_modified": "2026-07-13T00:23:19+00:00",
+            "date_published": "2026-07-12T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"

@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="用工程师思维过日子：代码、书、食物与知识网络">
+        <meta name="description" content="折腾 AI、OCR 与开源项目，记录工具、阅读和生活">
       
       
         <meta name="author" content="SWHL">
@@ -2909,9 +2909,9 @@ You're not viewing the latest version.
 <blockquote>
 <p>系列说明：本文为快速阅览笔记，侧重梳理方案骨架与技术演进关系，不深入实现细节；后续若开展相关方向研究，再补充精读分析。</p>
 </blockquote>
-<p>论文地址：https://arxiv.org/abs/2607.13639v1</p>
-<p>模型地址：https://huggingface.co/ATH-MaaS/OvisOCR2</p>
-<p>在线 demo: https://huggingface.co/spaces/ATH-MaaS/OvisOCR2</p>
+<p>论文地址：<a href="https://arxiv.org/abs/2607.13639v1">https://arxiv.org/abs/2607.13639v1</a></p>
+<p>模型地址：<a href="https://huggingface.co/ATH-MaaS/OvisOCR2">https://huggingface.co/ATH-MaaS/OvisOCR2</a></p>
+<p>在线 demo: <a href="https://huggingface.co/spaces/ATH-MaaS/OvisOCR2">https://huggingface.co/spaces/ATH-MaaS/OvisOCR2</a></p>
 <h2 id="_1">现存痛点<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
 <p>流水线方案准但是部署复杂，且有级联误差，端到端方案优雅但是精度有限，部署要求高。</p>
 <h2 id="_2">核心思路<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
@@ -2932,7 +2932,7 @@ You're not viewing the latest version.
 <p>优势：整体指标表现强势，部署容易，目前 SOTA。如果手头有正在用端到端的模型的，可以切换为 OvisOCR2 试试。</p>
 <p>局限：这个工作更像一系列工程组合得到的结果，并无太大创新点，但是仍然具有借鉴意义。</p>
 <h2 id="_5">进一步工作<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h2>
-<p>Flame-OCR：https://github.com/anyforge/flame-ocr</p>
+<p>Flame-OCR：<a href="https://github.com/anyforge/flame-ocr">https://github.com/anyforge/flame-ocr</a></p>
 <p>Flame-OCR 基于 OvisOCR2(Qwen3.5-0.8B) 模型，通过高质数据进行后训练，特别是扩充与增强训练，提升在发票，医疗，体检，金融文档，表格，公式，手写，古文的效果。该模型在保持较小体积并保持原有效果的同时，实现了强大的文档解析性能。</p>
 <p><img alt="" src="https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-07-31_09-17-39-a7428444.png" /></p>
 <p>从指标上来看，并没有什么优势，作者也没有公布具体训练所用数据，仅给出了模型。有些狗尾续貂了。</p>
@@ -3319,7 +3319,7 @@ You're not viewing the latest version.
       
       
     
-    <a href="https://swhl.github.io/main/feed_rss_created.xml" target="_blank" rel="noopener" title="swhl.github.io" class="md-social__link">
+    <a href="https://swhl.github.io/main/feed_rss_updated.xml" target="_blank" rel="noopener" title="swhl.github.io" class="md-social__link">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M0 64c0-17.7 14.3-32 32-32 229.8 0 416 186.2 416 416 0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96 14.3 96 0 81.7 0 64m0 352a64 64 0 1 1 128 0 64 64 0 1 1-128 0m32-256c159.1 0 288 128.9 288 288 0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224-17.7 0-32-14.3-32-32s14.3-32 32-32"/></svg>
     </a>
   

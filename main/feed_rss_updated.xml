@@ -3,7 +3,7 @@
   <channel>
     
     <title>SWHL</title>
-    <description>用工程师思维过日子：代码、书、食物与知识网络 feedId:258695382233062400+userId:258565743841975296</description>
+    <description>折腾 AI、OCR 与开源项目，记录工具、阅读和生活</description>
     <link>https://swhl.github.io/main/</link>
     <atom:link href="https://swhl.github.io/main/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
 
@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Mon, 31 Aug 2026 07:31:49 -0000</pubDate>
-    <lastBuildDate>Mon, 31 Aug 2026 07:31:49 -0000</lastBuildDate>
+    <pubDate>Mon, 31 Aug 2026 07:49:28 -0000</pubDate>
+    <lastBuildDate>Mon, 31 Aug 2026 07:49:28 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -89,6 +89,25 @@
     </item>
     
     <item>
+      <title>20260821-20260828 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20260821-20260828-weekly/</link>
+      <pubDate>Fri, 28 Aug 2026 02:16:27 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260821-20260828-weekly/</guid>
+      
+    </item>
+    
+    <item>
       <title>VSCode Remote SSH插件不要安装v0.126.0</title>
       
       
@@ -104,6 +123,25 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/vscode-remote-ssh-problem/</guid>
+      
+    </item>
+    
+    <item>
+      <title>20260814-20260821 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20260814-20260821-weekly/</link>
+      <pubDate>Fri, 21 Aug 2026 01:29:42 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260814-20260821-weekly/</guid>
       
     </item>
     
@@ -127,6 +165,25 @@
     </item>
     
     <item>
+      <title>20260806-20260813 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20260806-20260813-weekly/</link>
+      <pubDate>Thu, 13 Aug 2026 11:05:45 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260806-20260813-weekly/</guid>
+      
+    </item>
+    
+    <item>
       <title>谷歌浏览器插件推荐</title>
       
       
@@ -142,6 +199,25 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/chrome-browser-plugin/</guid>
+      
+    </item>
+    
+    <item>
+      <title>20260730-20260806 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20260730-20260806-weekly/</link>
+      <pubDate>Thu, 06 Aug 2026 13:59:54 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260730-20260806-weekly/</guid>
       
     </item>
     
@@ -260,6 +336,25 @@
     </item>
     
     <item>
+      <title>20260723-20260731 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20260723-20260731-weekly/</link>
+      <pubDate>Thu, 30 Jul 2026 14:04:41 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260723-20260731-weekly/</guid>
+      
+    </item>
+    
+    <item>
       <title>苹果手机与 NFC 贴纸</title>
       
       
@@ -313,101 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/gitpaste-light-alternative-to-vs-picgo/</guid>
-      
-    </item>
-    
-    <item>
-      <title>论文速读：MonkeyOCRv2</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/monkeyocrv2/</link>
-      <pubDate>Mon, 27 Jul 2026 03:53:38 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/monkeyocrv2/</guid>
-      
-    </item>
-    
-    <item>
-      <title>mkdocs-material-format-convert:用于把 Material for MkDocs 扩展 Markdown 语法降级为更通用的 Markdown的小工具</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/mkdocs-material-format-convert/</link>
-      <pubDate>Wed, 15 Jul 2026 13:54:15 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/mkdocs-material-format-convert/</guid>
-      
-    </item>
-    
-    <item>
-      <title>如何使用Github作为博客图床？</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/how-to-setup-github-image-host/</link>
-      <pubDate>Wed, 15 Jul 2026 13:19:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/how-to-setup-github-image-host/</guid>
-      
-    </item>
-    
-    <item>
-      <title>VS Code 自用插件汇总</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;记录日常使用到的 VSCode 插件&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/my-vscode-plugins/</link>
-      <pubDate>Tue, 23 Jun 2026 06:26:45 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/my-vscode-plugins/</guid>
-      
-    </item>
-    
-    <item>
-      <title>在 macOS 上使用 CoreML 加速 ONNX 模型推理：完全指南</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description>&lt;p&gt;作为深度学习工程师，我们经常面临一个问题：如何在 Apple 设备上高效地部署已有的 ONNX 模型？本文将深入探讨两种主要方案，并通过实际测试给出详细的性能和精度对比。&lt;/p&gt;</description>
-      <link>https://swhl.github.io/main/blog/accelerate-onnx-models-with-coreml-on-macos/</link>
-      <pubDate>Tue, 16 Jun 2026 02:07:26 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/accelerate-onnx-models-with-coreml-on-macos/</guid>
       
     </item>
     
