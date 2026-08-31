@@ -23,6 +23,10 @@ description: "记录如何配置 Raycast 来快速其窗口中搜索 Obsidian �
 
 经过一系列实践，先说结论：**部分功能支持，尚不完善，值得期待**。
 
+2026-08-31 update: 我已经提了 [[Obsidian] Add Exact Content Match Navigation](https://github.com/raycast/extensions/pull/30150)，在 Raycast > 2.1.2.0 版本应该集中了。
+
+![](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-08-31_09-28-20-69f7c2b1.gif)
+
 ## 配置和使用
 
 Step 1：Raycast 安装 Obsidian 插件：[Obsidian](https://www.raycast.com/marcjulian/obsidian)。
