@@ -13,7 +13,7 @@ edit_uri: edit/main/docs
 
 theme:
   name: material
-  favicon: ./images/blog-solid-full.svg
+  favicon: https://github.com/SWHL.png
   language: zh
   custom_dir: overrides
   features:
