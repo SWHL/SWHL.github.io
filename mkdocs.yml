@@ -129,10 +129,14 @@ hooks:
 
 extra_css:
   - stylesheets/extra.css
+  - https://unpkg.com/katex@0/dist/katex.min.css
   - https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-web/style.css
 
 extra_javascript:
   - javascripts/extra.js
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
 
 extra:
   seo:
@@ -200,6 +204,8 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - admonition
+  - pymdownx.arithmatex:
+      generic: true
 
 # Explicitly confirm there is awareness of files not in nav
 not_in_nav: |
