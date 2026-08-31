@@ -41,6 +41,12 @@
   box-shadow: var(--card-hover-shadow);
 }
 
+/* 裸 URL 由 MagicLink 转为链接后，悬停时显示下划线 */
+.md-content .md-typeset a:not(.headerlink):hover {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
 /* 页脚社交图标高度 */
 .md-social__link svg {
   max-height: 1rem;

@@ -2,7 +2,7 @@ site_name: SWHL
 site_url: https://swhl.github.io/
 site_author: SWHL
 site_description:
-  用工程师思维过日子：代码、书、食物与知识网络
+  折腾 AI、OCR 与开源项目，记录工具、阅读和生活
 
 repo_name: SWHL/SWHL.github.io
 repo_url: https://github.com/SWHL/SWHL.github.io
@@ -70,9 +70,9 @@ theme:
 
 plugins:
   - rss:
-        feed_description: "用工程师思维过日子：代码、书、食物与知识网络 feedId:258695382233062400+userId:258565743841975296"
+        feed_description: "折腾 AI、OCR 与开源项目，记录工具、阅读和生活"
         image: https://swhl.github.io/main/images/blog-solid-full.svg
-        match_path: "blog/posts/.*"
+        match_path: "(blog|weekly)/posts/.*"
         date_from_meta:
           as_creation: date.created
           as_update: "git"
@@ -163,7 +163,7 @@ extra:
     - icon: fontawesome/brands/python
       link: https://pypi.org/user/SWHL/
     - icon: fontawesome/solid/rss
-      link: https://swhl.github.io/main/feed_rss_created.xml
+      link: https://swhl.github.io/main/feed_rss_updated.xml
   version:
     provider: mike
   expiry_days: 180
@@ -172,6 +172,7 @@ markdown_extensions:
   - abbr
   - attr_list
   - pymdownx.snippets
+  - pymdownx.magiclink
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
