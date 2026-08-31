@@ -84,6 +84,8 @@
     
       <link rel="stylesheet" href="../../stylesheets/extra.css">
     
+      <link rel="stylesheet" href="https://unpkg.com/katex@0/dist/katex.min.css">
+    
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-web/style.css">
     
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
@@ -3039,7 +3041,7 @@ You're not viewing the latest version.
 <p>TeX 通常指的是 TeX 排版系统，是由斯坦福大学计算机教授高德纳（Donald Knuth）在 1978 年发布的。TeX 将数学公式视为由“盒子（Boxes）”和“胶水（Glue）”组成，通过精确的数学算法来决定每一个符号、上标、下标和积分号的间距，从而让数字排版达到了手工铅字印刷的巅峰。</p>
 <p>LaTeX 是美国计算机科学家莱斯利·兰伯特（Leslie Lamport）在 TeX 的基础上，开发了一套更高级的宏包，极大地简化了排版流程，用户不再关心复杂的底层排版逻辑，只需使用诸如 <code>\alpha</code>、<code>\frac{}{}</code> 这类直观的文本描述命令，系统就会自动渲染出完美的数学公式。</p>
 <p>举个例子，下面这个复杂的公式，结合了矩阵、微积分、无穷级数和连分数，如果想要在 Word 中写出来，恐怕要费些功夫。</p>
-<p>$$ \mathcal{L}<em -_infty="-\infty">{\text{LaTeX}} = \int</em> \, dt $$}^{+\infty} \begin{pmatrix} \frac{\partial^2 \Psi}{\partial x^2} &amp; \sqrt{1 + \eta^2} \ \sum_{n=1}^{\infty} \frac{1}{n^s} &amp; \frac{1}{1 + \frac{1}{2 + \frac{1}{3 + \dots}}} \end{pmatrix} e^{-i \omega t</p>
+<div class="arithmatex">\[ \mathcal{L}_{\text{LaTeX}} = \int_{-\infty}^{+\infty} \begin{pmatrix} \frac{\partial^2 \Psi}{\partial x^2} &amp; \sqrt{1 + \eta^2} \\ \sum_{n=1}^{\infty} \frac{1}{n^s} &amp; \frac{1}{1 + \frac{1}{2 + \frac{1}{3 + \dots}}} \end{pmatrix} e^{-i \omega t} \, dt \]</div>
 <p>但是用 LaTeX 就简单很多了，直接输入下面这段代码就能渲染出来：</p>
 <div class="language-latex highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="sb">$$</span><span class="nb"> </span><span class="nv">\mathcal</span><span class="nb">{L}_{</span><span class="nv">\text</span><span class="nb">{LaTeX}} </span><span class="o">=</span><span class="nb"> </span><span class="nv">\int</span><span class="nb">_{</span><span class="o">-</span><span class="nv">\infty</span><span class="nb">}^{</span><span class="o">+</span><span class="nv">\infty</span><span class="nb">} </span><span class="nv">\begin</span><span class="nb">{pmatrix} </span><span class="nv">\frac</span><span class="nb">{</span><span class="nv">\partial</span><span class="nb">^</span><span class="m">2</span><span class="nb"> </span><span class="nv">\Psi</span><span class="nb">}{</span><span class="nv">\partial</span><span class="nb"> x^</span><span class="m">2</span><span class="nb">} &amp; </span><span class="nv">\sqrt</span><span class="nb">{</span><span class="m">1</span><span class="nb"> </span><span class="o">+</span><span class="nb"> </span><span class="nv">\eta</span><span class="nb">^</span><span class="m">2</span><span class="nb">} </span><span class="nv">\\</span><span class="nb"> </span><span class="nv">\sum</span><span class="nb">_{n</span><span class="o">=</span><span class="m">1</span><span class="nb">}^{</span><span class="nv">\infty</span><span class="nb">} </span><span class="nv">\frac</span><span class="nb">{</span><span class="m">1</span><span class="nb">}{n^s} &amp; </span><span class="nv">\frac</span><span class="nb">{</span><span class="m">1</span><span class="nb">}{</span><span class="m">1</span><span class="nb"> </span><span class="o">+</span><span class="nb"> </span><span class="nv">\frac</span><span class="nb">{</span><span class="m">1</span><span class="nb">}{</span><span class="m">2</span><span class="nb"> </span><span class="o">+</span><span class="nb"> </span><span class="nv">\frac</span><span class="nb">{</span><span class="m">1</span><span class="nb">}{</span><span class="m">3</span><span class="nb"> </span><span class="o">+</span><span class="nb"> </span><span class="nv">\dots</span><span class="nb">}}} </span><span class="nv">\end</span><span class="nb">{pmatrix} e^{</span><span class="o">-</span><span class="nb">i </span><span class="nv">\omega</span><span class="nb"> t} </span><span class="nv">\,</span><span class="nb"> dt </span><span class="s">$$</span>
 </span></code></pre></div>
@@ -3048,7 +3050,7 @@ You're not viewing the latest version.
 <ul>
 <li>按下快捷键 Alt + = 打开 Word 的公式框。</li>
 <li>在公式框内直接输入你的 LaTeX 代码。</li>
-<li>可以输入 <code>\alpha</code> 试试，应该显示 $\alpha$</li>
+<li>可以输入 <code>\alpha</code> 试试，应该显示 <span class="arithmatex">\(\alpha\)</span></li>
 </ul>
 <h2 id="_4">值得关注的产品 / 工具<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
 <h3 id="cybersecurity-projects">Cybersecurity-Projects<a class="headerlink" href="#cybersecurity-projects" title="Permanent link">&para;</a></h3>
@@ -3471,6 +3473,12 @@ You're not viewing the latest version.
       <script src="../../assets/javascripts/bundle.f55a23d4.min.js"></script>
       
         <script src="../../javascripts/extra.js"></script>
+      
+        <script src="../../javascripts/katex.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/katex.min.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/contrib/auto-render.min.js"></script>
       
     
   </body>
