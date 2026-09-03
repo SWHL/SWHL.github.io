@@ -112,7 +112,7 @@
       <meta property="article:published_time" content="2026-09-04T00:00:00+00:00">
     
     
-      <meta property="article:modified_time" content="2026-09-03T22:51:54">
+      <meta property="article:modified_time" content="2026-09-03T22:59:18">
     
     <meta property="article:author" content="SWHL">
   
@@ -128,7 +128,7 @@
     <meta name="twitter:image" content="https://github.com/SWHL.png">
   
   <script type="application/ld+json">
-    {"@context": "https://schema.org", "@type": "BlogPosting", "headline": "20260827-20260904 周刊", "name": "20260827-20260904 周刊", "description": "作者引用《这样读书就够了》一书中，赵周提出了读书的三个步骤：", "url": "https://swhl.github.io/main/weekly/20260827-20260904-weekly/", "inLanguage": "zh-CN", "author": {"@type": "Person", "name": "SWHL", "url": "https://github.com/SWHL", "sameAs": ["https://github.com/SWHL", "https://x.com/_SWHL", "https://space.bilibili.com/129456386", "https://www.youtube.com/@SWHL-W", "https://pypi.org/user/SWHL/"]}, "publisher": {"@type": "Organization", "name": "SWHL", "url": "https://swhl.github.io/main"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://swhl.github.io/main/weekly/20260827-20260904-weekly/"}, "image": "https://github.com/SWHL.png", "datePublished": "2026-09-04T00:00:00+00:00", "dateModified": "2026-09-03T22:51:54"}
+    {"@context": "https://schema.org", "@type": "BlogPosting", "headline": "20260827-20260904 周刊", "name": "20260827-20260904 周刊", "description": "作者引用《这样读书就够了》一书中，赵周提出了读书的三个步骤：", "url": "https://swhl.github.io/main/weekly/20260827-20260904-weekly/", "inLanguage": "zh-CN", "author": {"@type": "Person", "name": "SWHL", "url": "https://github.com/SWHL", "sameAs": ["https://github.com/SWHL", "https://x.com/_SWHL", "https://space.bilibili.com/129456386", "https://www.youtube.com/@SWHL-W", "https://pypi.org/user/SWHL/"]}, "publisher": {"@type": "Organization", "name": "SWHL", "url": "https://swhl.github.io/main"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://swhl.github.io/main/weekly/20260827-20260904-weekly/"}, "image": "https://github.com/SWHL.png", "datePublished": "2026-09-04T00:00:00+00:00", "dateModified": "2026-09-03T22:59:18"}
   </script>
 
 <meta name="msvalidate.01" content="1794CFABF8AC58786D5B6A57B8A8AF41">
@@ -3047,7 +3047,7 @@ You're not viewing the latest version.
 </figure>
 <h2 id="_2">本周动态<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
 <ul>
-<li>支持 giscus 在 mkdocs-material 中自动切换明暗主题、字体与站点一致和自动切换中英主题。详细设置可参见源码：<a href="https://github.com/SWHL/SWHL.github.io/commit/5b4cb698b7fcccb01ddda29fa3fc17a349d33388">source</a></li>
+<li>支持 giscus 在 mkdocs‑material 实现：跟随站点自动切换明暗主题、同步站点字体，以及自动切换中英语言。详细设置可参见源码：<a href="https://github.com/SWHL/SWHL.github.io/commit/5b4cb698b7fcccb01ddda29fa3fc17a349d33388">source</a></li>
 <li>在着手优化 RapidOCR 中 <code>lang_type</code> 混乱问题。（issue <a href="https://github.com/RapidAI/RapidOCR/issues/729">#729</a>）</li>
 </ul>
 <h2 id="_3">摘录<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
@@ -3061,26 +3061,26 @@ You're not viewing the latest version.
 <p>这也是深度学习的三个层次。每天我们总是面对海量的信息，内心总是害怕错过什么，可去看却又不知道去看什么。上述就回答了这两个问题。</p>
 <p>我们只需要找到触动我们的点就行了。哪怕一本书中只有一句话让你有触动也是可以的。</p>
 <h3 id="ai-70"><a href="https://mp.weixin.qq.com/s/AaGUtq4b9AbmM_HJeE9-xA?scene=334">让 AI 替人写代码这件事，人类已经尝试了 70 年</a><a class="headerlink" href="#ai-70" title="Permanent link">&para;</a></h3>
-<p>之前实现 AI 替人写代码的思路，称为“程序员学徒“：拥有一个明确的知识库（计划库）和一个形式化的推理系统（计划演算）。它的目标是像人类专家一样，通过识别和操纵已知的模式来推理程序。然而，它最终因组合爆炸问题而失败，这正是许多大规模 GOFAI 项目普遍遭遇的脆弱性和可扩展性问题的典型案例。</p>
-<p>“程序员学徒“思路试图从第一性原理和手工知识库中演绎出程序的语义；而现代 AI 工具则从海量代码数据中统计推断出语义。</p>
+<p>之前实现 AI 替人写代码的思路，称为“程序员学徒”：拥有一个明确的知识库（计划库）和一个形式化的推理系统（计划演算）。它的目标是像人类专家一样，通过识别和操纵已知的模式来推理程序。然而，它最终因组合爆炸问题而失败，这正是许多大规模 GOFAI 项目普遍遭遇的脆弱性和可扩展性问题的典型案例。</p>
+<p>“程序员学徒”思路试图从第一性原理和手工知识库中演绎出程序的语义；而现代 AI 工具则从海量代码数据中统计推断出语义。</p>
 <p>“程序员学徒”项目正确地指出了目的地，但科学家和工程师最终走了一条截然不同的路（统计机器学习）才到达那里。</p>
 <h3 id="x-daxinu1">来自 X 网友 @daxinu1<a class="headerlink" href="#x-daxinu1" title="Permanent link">&para;</a></h3>
 <p>你若是学习学不尽力，玩又玩不尽兴，没有扎实基础却渴望出类拔萃。</p>
 <p>看见别人勤奋就焦虑不安，自己行动时却总是“明天再说”。</p>
-<p>你不甘堕落却又不思进取，既痛恨自己的拖延，又沉迷眼前的安逸，</p>
+<p>你不甘堕落却又不思进取，既痛恨自己的拖延，又沉迷眼前的安逸。</p>
 <p>那最后的结果一定是你什么都得不到。</p>
 <h3 id="12306">12306 候补车票订单越早提交，成功概率越大<a class="headerlink" href="#12306" title="Permanent link">&para;</a></h3>
 <p>铁路 12306 按照购票人提交的候补订单生效的时间顺序，由系统自动排队为其兑现。</p>
 <p>当有退票、改签或增加运力、票额裂解等产生新票额，并与候补订单的日期、车次、区间、席别、购票数量相匹配时，系统会按候补订单排队顺序自动兑现车票，<strong>按照“先到先得”原则将新增的票额优先满足已提交候补订单的购票人。</strong></p>
 <p>旅客越早提交候补订单，提交的“车次 + 日期”组合越多，相当于在多个车次队列中排队，同时在提交候补订单时选择“接受新增列车”，在售票起始阶段、动态调整阶段、敞开发售等各阶段，兑现与候补订单需求相匹配车票的成功率就越高，兑现等待时间也越短。</p>
-<p>💡小技巧：如果想要保留自己所有的车票记录，12306 官方是仅保留 30 天内的购票记录，我们可以给所有的车票开电子发票，这样就会都有记录了。等年终总结时，我们就可以很方便看到一年去了哪些地方了。</p>
+<p>💡小技巧：如果想要保留自己所有的车票记录，12306 官方仅保留 30 天内的购票记录，我们可以给所有的车票开电子发票，这样就会都有记录了。等年终总结时，我们就可以很方便看到一年去了哪些地方了。</p>
 <p>具体操作：</p>
 <p><img alt="" src="https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-09-03_22-20-45-b8b98034.jpg" /></p>
 <h3 id="_5">书籍《活出乐观的自己》<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h3>
 <p>艾利斯认为，所谓的精神冲突其实只是不合理的信念，他让患者不要再去想自己哪里做错了和哪里不好，而是去想哪里好。</p>
 <p>让我想到在电影《三傻大闹宝莱坞》中的经典台词：All is well。下面是当时的台词：</p>
 <blockquote>
-<p>我们村以前有个守夜老人 夜巡的时候 他会大喊“All is Well 一切顺利” 我们就睡得很香 后来还是发生了被盗情况 原来那守夜人晚上什么都看不见 不过他总是在喊“All is Well 一切顺利” 我们就感到安全了</p>
+<p>我们村以前有个守夜老人夜巡的时候 他会大喊“All is Well 一切顺利” 我们就睡得很香，后来还是发生了被盗情况。原来那守夜人晚上什么都看不见，不过他总是在喊“All is Well 一切顺利”，我们就感到安全了。</p>
 <p>那天我懂了 心很脆弱 你得学会哄它 不管碰到多大困难 告诉你的心 “All is Well 一切顺利”</p>
 <p>那能解决问题么？</p>
 <p>不能啊 但你得到了面对问题的勇气 学着点 兄弟 在这里我们将非常需要它</p>
@@ -3121,7 +3121,7 @@ You're not viewing the latest version.
 <p>项目地址: <a href="https://github.com/LoredCast/filewizard">https://github.com/LoredCast/filewizard</a></p>
 <p><img alt="" src="https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-09-03_22-47-14-5d39ba74.png" /></p>
 <h3 id="_10">谷歌浏览器书签清理器<a class="headerlink" href="#_10" title="Permanent link">&para;</a></h3>
-<p>简介：不是一个很常规的书签拓展，会把新标签页变成书签整理队列。每次打开新标签页时，它会显示一个保存超过 30 天的旧书签，你可以选择打开、保留或删除，适合慢慢清理长期积累的书签。</p>
+<p>简介：不是一个很常规的书签扩展，会把新标签页变成书签整理队列。每次打开新标签页时，它会显示一个保存超过 30 天的旧书签，你可以选择打开、保留或删除，适合慢慢清理长期积累的书签。</p>
 <p>项目地址: <a href="https://github.com/wuxiangcoding/del-or-keep">https://github.com/wuxiangcoding/del-or-keep</a></p>
 <p><img alt="" src="https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-09-03_22-50-10-e4b90ada.png" /></p>
         
@@ -3146,7 +3146,7 @@ You're not viewing the latest version.
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_datetime" title="2026年9月3日 22:51:54 CST">2026-09-03 22:51:54</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_datetime" title="2026年9月3日 22:59:18 CST">2026-09-03 22:59:18</span>
   </span>
 
     
