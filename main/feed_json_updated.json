@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/weekly/20260827-20260904-weekly/",
+            "url": "https://swhl.github.io/main/weekly/20260827-20260904-weekly/",
+            "title": "20260827-20260904 \u5468\u520a",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-09-03T14:51:54+00:00",
+            "date_published": "2026-09-04T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/best-macos-apps/",
             "url": "https://swhl.github.io/main/blog/best-macos-apps/",
             "title": "\u5e38\u7528\u7684 macOS \u8f6f\u4ef6\u63a8\u8350",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-07-29T13:27:05+00:00",
             "date_published": "2026-07-29T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/gitpaste-light-alternative-to-vs-picgo/",
-            "url": "https://swhl.github.io/main/blog/gitpaste-light-alternative-to-vs-picgo/",
-            "title": "GitPaste\uff1avs-picgo \u7684\u8f7b\u91cf\u5e73\u66ff",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-07-28T09:06:01+00:00",
-            "date_published": "2026-07-28T08:53:35+00:00",
             "authors": [
                 {
                     "name": "SWHL"
