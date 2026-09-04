@@ -76,7 +76,7 @@ cd "$BUILD_DIR/aicommits"
 
 npm install
 npm run build
-npm install -g . --ignore-scripts
+npm install -g . --ignore-scripts --install-links
 ```
 
 确认 Codex CLI 可用：

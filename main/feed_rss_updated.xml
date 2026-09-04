@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Thu, 03 Sep 2026 15:00:05 -0000</pubDate>
-    <lastBuildDate>Thu, 03 Sep 2026 15:00:05 -0000</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2026 02:35:32 -0000</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2026 02:35:32 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>aicommits 工具接入 Codex CLI 使用</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/aicommits-codex-cli/</link>
+      <pubDate>Fri, 04 Sep 2026 02:34:45 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/aicommits-codex-cli/</guid>
+      
+    </item>
     
     <item>
       <title>20260827-20260904 周刊</title>
@@ -180,25 +199,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260814-20260821-weekly/</guid>
-      
-    </item>
-    
-    <item>
-      <title>aicommits 工具接入 Codex CLI 使用</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/aicommits-codex-cli/</link>
-      <pubDate>Wed, 19 Aug 2026 09:11:49 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/aicommits-codex-cli/</guid>
       
     </item>
     
