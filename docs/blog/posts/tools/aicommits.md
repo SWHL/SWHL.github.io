@@ -2,6 +2,7 @@
 title: aicommits 工具接入 Codex CLI 使用
 date:
   created: 2026-08-19
+  updated: 2026-09-04
 authors:
   - SWHL
 slug: aicommits-codex-cli
@@ -79,7 +80,7 @@ cd "$BUILD_DIR/aicommits"
 
 npm install
 npm run build
-npm install -g . --ignore-scripts
+npm install -g . --ignore-scripts --install-links
 ```
 
 确认 Codex CLI 可用：
