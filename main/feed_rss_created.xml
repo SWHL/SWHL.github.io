@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Thu, 10 Sep 2026 09:22:27 -0000</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 09:22:27 -0000</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2026 10:34:37 -0000</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:34:37 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>20260905-20260911 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20260905-20260911-weekly/</link>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260905-20260911-weekly/</guid>
+      
+    </item>
     
     <item>
       <title>20260827-20260904 周刊</title>
@@ -389,25 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260709-20260716-weekly/</guid>
-      
-    </item>
-    
-    <item>
-      <title>mkdocs-material-format-convert:用于把 Material for MkDocs 扩展 Markdown 语法降级为更通用的 Markdown的小工具</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/mkdocs-material-format-convert/</link>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/mkdocs-material-format-convert/</guid>
       
     </item>
     

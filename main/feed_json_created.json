@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/weekly/20260905-20260911-weekly/",
+            "url": "https://swhl.github.io/main/weekly/20260905-20260911-weekly/",
+            "title": "20260905-20260911 \u5468\u520a",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-09-10T10:33:58+00:00",
+            "date_published": "2026-09-11T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/weekly/20260827-20260904-weekly/",
             "url": "https://swhl.github.io/main/weekly/20260827-20260904-weekly/",
             "title": "20260827-20260904 \u5468\u520a",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-07-16T13:22:21+00:00",
             "date_published": "2026-07-16T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/mkdocs-material-format-convert/",
-            "url": "https://swhl.github.io/main/blog/mkdocs-material-format-convert/",
-            "title": "mkdocs-material-format-convert:\u7528\u4e8e\u628a Material for MkDocs \u6269\u5c55 Markdown \u8bed\u6cd5\u964d\u7ea7\u4e3a\u66f4\u901a\u7528\u7684 Markdown\u7684\u5c0f\u5de5\u5177",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-07-15T13:54:15+00:00",
-            "date_published": "2026-07-15T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"

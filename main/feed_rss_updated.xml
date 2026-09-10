@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Thu, 10 Sep 2026 09:22:27 -0000</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 09:22:27 -0000</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2026 10:34:37 -0000</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:34:37 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>20260905-20260911 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20260905-20260911-weekly/</link>
+      <pubDate>Thu, 10 Sep 2026 10:33:58 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260905-20260911-weekly/</guid>
+      
+    </item>
     
     <item>
       <title>使用 Raycast 快速在 Obsidian 笔记中搜索笔记</title>
@@ -389,25 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260723-20260731-weekly/</guid>
-      
-    </item>
-    
-    <item>
-      <title>苹果手机与 NFC 贴纸</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/iphone-with-nfc-tag/</link>
-      <pubDate>Wed, 29 Jul 2026 13:27:05 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/iphone-with-nfc-tag/</guid>
       
     </item>
     
