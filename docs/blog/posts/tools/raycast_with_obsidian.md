@@ -2,7 +2,7 @@
 title: 使用 Raycast 快速在 Obsidian 笔记中搜索笔记
 date:
   created: 2026-03-17
-  updated: 2026-08-31
+  updated: 2026-09-10
 authors:
   - SWHL
 slug: raycast-with-obsidian
@@ -28,7 +28,7 @@ links:
 
 经过一系列实践，先说结论：**部分功能支持，尚不完善，值得期待**。
 
-2026-08-31 update: 我已经提了 [[Obsidian] Add Exact Content Match Navigation](https://github.com/raycast/extensions/pull/30150)，在 Raycast > 2.1.2.0 版本应该集中了。
+2026-08-31 update: 我已经提了 [[Obsidian] Add Exact Content Match Navigation](https://github.com/raycast/extensions/pull/30150)，在 Raycast > 2.1.2.0 版本中已经集成了。
 
 ![](https://raw.githubusercontent.com/SWHL/SWHL.github.io-Assets/main/images/2026/2026-08-31_09-28-20-69f7c2b1.gif)
 
