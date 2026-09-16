@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/best-macos-apps/",
+            "url": "https://swhl.github.io/main/blog/best-macos-apps/",
+            "title": "\u5e38\u7528\u7684 macOS \u8f6f\u4ef6\u63a8\u8350",
+            "content_html": "<p>\u63a8\u8350\u81ea\u5df1\u5728 macOS \u4e0a\u5e38\u7528\u7684\u5c0f\u8f6f\u4ef6</p>",
+            "image": null,
+            "date_modified": "2026-09-16T13:56:33+00:00",
+            "date_published": "2026-03-10T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/weekly/20260905-20260911-weekly/",
             "url": "https://swhl.github.io/main/weekly/20260905-20260911-weekly/",
             "title": "20260905-20260911 \u5468\u520a",
@@ -65,21 +80,6 @@
             "image": null,
             "date_modified": "2026-09-03T14:59:18+00:00",
             "date_published": "2026-09-04T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/best-macos-apps/",
-            "url": "https://swhl.github.io/main/blog/best-macos-apps/",
-            "title": "\u5e38\u7528\u7684 macOS \u8f6f\u4ef6\u63a8\u8350",
-            "content_html": "<p>\u63a8\u8350\u81ea\u5df1\u5728 macOS \u4e0a\u5e38\u7528\u7684\u5c0f\u8f6f\u4ef6</p>",
-            "image": null,
-            "date_modified": "2026-09-03T12:34:51+00:00",
-            "date_published": "2026-03-10T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"
