@@ -34,7 +34,7 @@ cur_date_str = cur_date.strftime('%Y%m%d')
 pre_date_str = pre_date.strftime('%Y%m%d')
 
 tmp_data[1] = tmp_data[1].replace('$1', cur_date_str).replace('$2', pre_date_str)
-tmp_data[3] = tmp_data[3].replace('$3', cur_date.strftime('%Y-%m-%d'))
+tmp_data[3] = tmp_data[3].replace('2026-01-01', cur_date.strftime('%Y-%m-%d'))
 tmp_data[6] = tmp_data[6].replace('$1', cur_date_str).replace('$2', pre_date_str)
 
 save_path = root_dir / f'{pre_date_str}-{cur_date_str}.md'

@@ -1,7 +1,7 @@
 ---
 title: $1-$2 周刊
 date:
-  created: $3
+  created: 2026-01-01
 authors:
   - SWHL
 slug: $1-$2-weekly
