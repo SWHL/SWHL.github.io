@@ -28,6 +28,21 @@
             "tags": null
         },
         {
+            "id": "https://swhl.github.io/main/weekly/20260919-20260912-weekly/",
+            "url": "https://swhl.github.io/main/weekly/20260919-20260912-weekly/",
+            "title": "20260919-20260912 \u5468\u520a",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-09-19T13:19:15+00:00",
+            "date_published": "2026-09-19T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/weekly/20260905-20260911-weekly/",
             "url": "https://swhl.github.io/main/weekly/20260905-20260911-weekly/",
             "title": "20260905-20260911 \u5468\u520a",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-07-27T03:53:38+00:00",
             "date_published": "2026-07-27T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/weekly/20260716-20260723-weekly/",
-            "url": "https://swhl.github.io/main/weekly/20260716-20260723-weekly/",
-            "title": "20260716-20260723 \u5468\u520a",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-07-23T13:22:24+00:00",
-            "date_published": "2026-07-23T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"

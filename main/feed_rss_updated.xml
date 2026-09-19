@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sat, 19 Sep 2026 12:34:31 -0000</pubDate>
-    <lastBuildDate>Sat, 19 Sep 2026 12:34:31 -0000</lastBuildDate>
+    <pubDate>Sat, 19 Sep 2026 13:20:11 -0000</pubDate>
+    <lastBuildDate>Sat, 19 Sep 2026 13:20:11 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>20260919-20260912 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20260919-20260912-weekly/</link>
+      <pubDate>Sat, 19 Sep 2026 13:19:15 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260919-20260912-weekly/</guid>
+      
+    </item>
     
     <item>
       <title>macOS 27 安装 VMware Fusion 和 Win11 经验</title>
@@ -389,25 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/github-full-number-tampermonkey-script/</guid>
-      
-    </item>
-    
-    <item>
-      <title>论文速读：OvisOCR2</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/ovisocr2/</link>
-      <pubDate>Fri, 31 Jul 2026 01:19:15 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/ovisocr2/</guid>
       
     </item>
     
