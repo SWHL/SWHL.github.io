@@ -1,5 +1,5 @@
 ---
-title: macOS 27 安装 VMware Fusion 和 Win11
+title: macOS 27 安装 VMware Fusion 和 Win11 经验
 date:
   created: 2026-09-19
 authors:
