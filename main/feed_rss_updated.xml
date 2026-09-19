@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sat, 19 Sep 2026 09:54:21 -0000</pubDate>
-    <lastBuildDate>Sat, 19 Sep 2026 09:54:21 -0000</lastBuildDate>
+    <pubDate>Sat, 19 Sep 2026 12:34:31 -0000</pubDate>
+    <lastBuildDate>Sat, 19 Sep 2026 12:34:31 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>macOS 27 安装 VMware Fusion 和 Win11 经验</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/macos-27-install-vmware-fusion-win11/</link>
+      <pubDate>Sat, 19 Sep 2026 12:30:30 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/macos-27-install-vmware-fusion-win11/</guid>
+      
+    </item>
     
     <item>
       <title>常用的 macOS 软件推荐</title>
@@ -389,25 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/ovisocr2/</guid>
-      
-    </item>
-    
-    <item>
-      <title>20260723-20260731 周刊</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/weekly/20260723-20260731-weekly/</link>
-      <pubDate>Thu, 30 Jul 2026 14:04:41 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260723-20260731-weekly/</guid>
       
     </item>
     
