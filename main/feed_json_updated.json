@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/weekly/20260918-20260925-weekly/",
+            "url": "https://swhl.github.io/main/weekly/20260918-20260925-weekly/",
+            "title": "20260918-20260925 \u5468\u520a",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-09-26T14:59:19+00:00",
+            "date_published": "2026-09-25T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/weekly/20260912-20260919-weekly/",
             "url": "https://swhl.github.io/main/weekly/20260912-20260919-weekly/",
             "title": "20260912-20260919 \u5468\u520a",
@@ -289,21 +304,6 @@
             "content_html": "",
             "image": null,
             "date_modified": "2026-08-04T06:00:27+00:00",
-            "date_published": "2026-08-04T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/github-full-number-tampermonkey-script/",
-            "url": "https://swhl.github.io/main/blog/github-full-number-tampermonkey-script/",
-            "title": "\u8ba9Github  Star\u3001Fork \u548c Watching \u663e\u793a\u5b8c\u6574\u6570\u5b57\u7684\u6cb9\u7334\u811a\u672c",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-08-04T01:58:41+00:00",
             "date_published": "2026-08-04T00:00:00+00:00",
             "authors": [
                 {

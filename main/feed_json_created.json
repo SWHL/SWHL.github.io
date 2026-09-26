@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/weekly/20260918-20260925-weekly/",
+            "url": "https://swhl.github.io/main/weekly/20260918-20260925-weekly/",
+            "title": "20260918-20260925 \u5468\u520a",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-09-26T14:59:19+00:00",
+            "date_published": "2026-09-25T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/macos-27-install-vmware-fusion-win11/",
             "url": "https://swhl.github.io/main/blog/macos-27-install-vmware-fusion-win11/",
             "title": "macOS 27 \u5b89\u88c5 VMware Fusion \u548c Win11 \u7ecf\u9a8c",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-07-31T01:19:15+00:00",
             "date_published": "2026-07-28T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/monkeyocrv2/",
-            "url": "https://swhl.github.io/main/blog/monkeyocrv2/",
-            "title": "\u8bba\u6587\u901f\u8bfb\uff1aMonkeyOCRv2",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-07-27T03:53:38+00:00",
-            "date_published": "2026-07-27T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"

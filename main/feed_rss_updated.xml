@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sat, 19 Sep 2026 13:33:24 -0000</pubDate>
-    <lastBuildDate>Sat, 19 Sep 2026 13:33:24 -0000</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2026 15:00:30 -0000</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2026 15:00:30 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>20260918-20260925 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20260918-20260925-weekly/</link>
+      <pubDate>Sat, 26 Sep 2026 14:59:19 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260918-20260925-weekly/</guid>
+      
+    </item>
     
     <item>
       <title>20260912-20260919 周刊</title>
@@ -389,25 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/github-star-history-tools-recommendation/</guid>
-      
-    </item>
-    
-    <item>
-      <title>让Github  Star、Fork 和 Watching 显示完整数字的油猴脚本</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/github-full-number-tampermonkey-script/</link>
-      <pubDate>Tue, 04 Aug 2026 01:58:41 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/github-full-number-tampermonkey-script/</guid>
       
     </item>
     
