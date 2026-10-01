@@ -14,6 +14,8 @@ description: "我喜欢开源，喜欢 AI 技术，因为我认为开源和 AI �
 
 我喜欢开源，喜欢 AI 技术，因为我认为开源和 AI 会为有需要的人带来方便和帮助，也会让这个世界变得更好。
 
+I like open source and AI technology because I think open source and AI will bring convenience and help to people in need, and will also make the world a better place.
+
 ### 📝 相关信息
 
 - 个人站点：https://swhl.github.io/
@@ -86,4 +88,20 @@ description: "我喜欢开源，喜欢 AI 技术，因为我认为开源和 AI �
 - 2022.08: 科大讯飞- 医疗发票要素识别挑战赛第三名 | [官网](https://challenge.xfyun.cn/topic/info?type=medical-invoice&option=phb)
 - 2021.04: AIWIN- 保险文本视觉认知问答竞赛第三名 | [官网](http://ailab.aiwin.org.cn/competitions/49)
 - 2020.11: 山东省第二届数据应用创新创业大赛优秀奖
+
+### 💰 Sponsor
+
+#### 支付宝或微信打赏 (Alipay reward or WeChat reward)
+
+通过支付宝或者微信给作者打赏，请写好备注。(Give me a reward through Alipay or WeChat.)
+
+<div align="left">
+    <img src="https://raw.githubusercontent.com/RapidAI/.github/ce6c21bf30935ad441376a29886c63d62392b354/assets/Sponsor.png" width="30%">
+</div>
+
+#### Buy me a Coffee
+
+If you are not in mainland China, you can also support me through:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E4Y227ZR1P)
 
