@@ -103,5 +103,7 @@ I like open source and AI technology because I think open source and AI will bri
 
 If you are not in mainland China, you can also support me through:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E4Y227ZR1P)
+<div align="left">
+  <a href='https://ko-fi.com/E4Y227ZR1P' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
