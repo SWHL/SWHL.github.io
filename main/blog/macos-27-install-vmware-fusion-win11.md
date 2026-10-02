@@ -2,7 +2,7 @@
 title: "macOS 27 安装 VMware Fusion 和 Win11 经验"
 canonical_url: "https://swhl.github.io/main/blog/macos-27-install-vmware-fusion-win11/"
 markdown_url: "https://swhl.github.io/main/blog/macos-27-install-vmware-fusion-win11.md"
-description: "9 月 15 号，苹果发布了 macOS 27 系统。我在自己本上升级到这个版本。当使用 Parallel Desktop 时，发现打不开了。查阅资料才发现，Parallel Desktop 27 版本才能在 macOS 27 上运行。"
+description: "如果 Ubuntu 可以满足第二操作系统的需要，优先推荐安装 Ubuntu 系统。原因主要是轻量、快和灵活。Win11 系统里面有内置太多软件，我们删除不了。于我而言，我就需要 VSCode 和 Chrome 浏览器就能解决问题，Ubuntu 是最好的选择了。"
 ---
 
 # macOS 27 安装 VMware Fusion 和 Win11 经验
@@ -11,6 +11,10 @@ description: "9 月 15 号，苹果发布了 macOS 27 系统。我在自己本�
 > Markdown URL: https://swhl.github.io/main/blog/macos-27-install-vmware-fusion-win11.md
 
 <!-- more -->
+
+### 更新
+
+如果 Ubuntu 可以满足第二操作系统的需要，优先推荐安装 Ubuntu 系统。原因主要是轻量、快和灵活。Win11 系统里面有内置太多软件，我们删除不了。于我而言，我就需要 VSCode 和 Chrome 浏览器就能解决问题，Ubuntu 是最好的选择了。
 
 ### 引言
 

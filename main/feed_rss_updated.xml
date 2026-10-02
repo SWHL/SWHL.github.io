@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 02 Oct 2026 03:26:58 -0000</pubDate>
-    <lastBuildDate>Fri, 02 Oct 2026 03:26:58 -0000</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 22:34:19 -0000</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2026 22:34:19 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>macOS 27 安装 VMware Fusion 和 Win11 经验</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/macos-27-install-vmware-fusion-win11/</link>
+      <pubDate>Fri, 02 Oct 2026 22:33:32 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/macos-27-install-vmware-fusion-win11/</guid>
+      
+    </item>
     
     <item>
       <title>20260925-20261002 周刊</title>
@@ -85,25 +104,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260912-20260919-weekly/</guid>
-      
-    </item>
-    
-    <item>
-      <title>macOS 27 安装 VMware Fusion 和 Win11 经验</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/macos-27-install-vmware-fusion-win11/</link>
-      <pubDate>Sat, 19 Sep 2026 12:30:30 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/macos-27-install-vmware-fusion-win11/</guid>
       
     </item>
     
