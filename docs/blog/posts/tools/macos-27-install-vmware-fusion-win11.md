@@ -2,6 +2,7 @@
 title: macOS 27 安装 VMware Fusion 和 Win11 经验
 date:
   created: 2026-09-19
+  updated: 2026-10-03
 authors:
   - SWHL
 slug: macos-27-install-vmware-fusion-win11
@@ -12,6 +13,10 @@ tags:
 ---
 
 <!-- more -->
+
+### 更新
+
+如果 Ubuntu 可以满足第二操作系统的需要，优先推荐安装 Ubuntu 系统。原因主要是轻量、快和灵活。Win11 系统里面有内置太多软件，我们删除不了。于我而言，我就需要 VSCode 和 Chrome 浏览器就能解决问题，Ubuntu 是最好的选择了。
 
 ### 引言
 
