@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/weekly/20260925-20261002-weekly/",
+            "url": "https://swhl.github.io/main/weekly/20260925-20261002-weekly/",
+            "title": "20260925-20261002 \u5468\u520a",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-10-02T03:26:01+00:00",
+            "date_published": "2026-10-02T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/weekly/20260918-20260925-weekly/",
             "url": "https://swhl.github.io/main/weekly/20260918-20260925-weekly/",
             "title": "20260918-20260925 \u5468\u520a",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-08-05T02:14:53+00:00",
             "date_published": "2026-08-03T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/github-star-history-tools-recommendation/",
-            "url": "https://swhl.github.io/main/blog/github-star-history-tools-recommendation/",
-            "title": "Github Star History \u8d8b\u52bf\u56fe\u5de5\u5177\u63a8\u8350",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-08-04T06:00:27+00:00",
-            "date_published": "2026-08-04T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"

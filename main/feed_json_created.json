@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/weekly/20260925-20261002-weekly/",
+            "url": "https://swhl.github.io/main/weekly/20260925-20261002-weekly/",
+            "title": "20260925-20261002 \u5468\u520a",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-10-02T03:26:01+00:00",
+            "date_published": "2026-10-02T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/weekly/20260918-20260925-weekly/",
             "url": "https://swhl.github.io/main/weekly/20260918-20260925-weekly/",
             "title": "20260918-20260925 \u5468\u520a",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-07-28T09:06:01+00:00",
             "date_published": "2026-07-28T08:53:35+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/ovisocr2/",
-            "url": "https://swhl.github.io/main/blog/ovisocr2/",
-            "title": "\u8bba\u6587\u901f\u8bfb\uff1aOvisOCR2",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-07-31T01:19:15+00:00",
-            "date_published": "2026-07-28T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"
