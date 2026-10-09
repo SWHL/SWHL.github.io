@@ -126,6 +126,7 @@ hooks:
   - hooks/announce.py
   - hooks/geo.py
   - hooks/expiry.py
+  - hooks/change_copyright.py
 
 extra_css:
   - stylesheets/extra.css
