@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 09 Oct 2026 14:40:49 -0000</pubDate>
-    <lastBuildDate>Fri, 09 Oct 2026 14:40:49 -0000</lastBuildDate>
+    <pubDate>Sun, 11 Oct 2026 02:23:38 -0000</pubDate>
+    <lastBuildDate>Sun, 11 Oct 2026 02:23:38 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>20261004-20261011 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20261004-20261011-weekly/</link>
+      <pubDate>Sun, 11 Oct 2026 02:22:46 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20261004-20261011-weekly/</guid>
+      
+    </item>
     
     <item>
       <title>macOS 27 安装 VMware Fusion 和 Win11 经验</title>
@@ -389,25 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/my-obsidian-plugins/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Codex（ChatGPT 桌面版）支持SSH连接远程服务器</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/codex-with-remote-ssh/</link>
-      <pubDate>Wed, 05 Aug 2026 02:14:53 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/codex-with-remote-ssh/</guid>
       
     </item>
     

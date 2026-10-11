@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/weekly/20261004-20261011-weekly/",
+            "url": "https://swhl.github.io/main/weekly/20261004-20261011-weekly/",
+            "title": "20261004-20261011 \u5468\u520a",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-10-11T02:22:46+00:00",
+            "date_published": "2026-10-11T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/macos-27-install-vmware-fusion-win11/",
             "url": "https://swhl.github.io/main/blog/macos-27-install-vmware-fusion-win11/",
             "title": "macOS 27 \u5b89\u88c5 VMware Fusion \u548c Win11 \u7ecf\u9a8c",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-08-06T01:48:50+00:00",
             "date_published": "2026-05-22T01:35:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/codex-with-remote-ssh/",
-            "url": "https://swhl.github.io/main/blog/codex-with-remote-ssh/",
-            "title": "Codex\uff08ChatGPT \u684c\u9762\u7248\uff09\u652f\u6301SSH\u8fde\u63a5\u8fdc\u7a0b\u670d\u52a1\u5668",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-08-05T02:14:53+00:00",
-            "date_published": "2026-08-03T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"

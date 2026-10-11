@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 09 Oct 2026 14:40:49 -0000</pubDate>
-    <lastBuildDate>Fri, 09 Oct 2026 14:40:49 -0000</lastBuildDate>
+    <pubDate>Sun, 11 Oct 2026 02:23:38 -0000</pubDate>
+    <lastBuildDate>Sun, 11 Oct 2026 02:23:38 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>20261004-20261011 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20261004-20261011-weekly/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20261004-20261011-weekly/</guid>
+      
+    </item>
     
     <item>
       <title>20260925-20261002 周刊</title>
@@ -389,25 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/iphone-with-nfc-tag/</guid>
-      
-    </item>
-    
-    <item>
-      <title>GitPaste：vs-picgo 的轻量平替</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/gitpaste-light-alternative-to-vs-picgo/</link>
-      <pubDate>Tue, 28 Jul 2026 08:53:35 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/gitpaste-light-alternative-to-vs-picgo/</guid>
       
     </item>
     
