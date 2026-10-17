@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/weekly/20261010-20261017-weekly/",
+            "url": "https://swhl.github.io/main/weekly/20261010-20261017-weekly/",
+            "title": "20261010-20261017 \u5468\u520a",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-10-17T14:05:11+00:00",
+            "date_published": "2026-10-17T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/weekly/20261004-20261011-weekly/",
             "url": "https://swhl.github.io/main/weekly/20261004-20261011-weekly/",
             "title": "20261004-20261011 \u5468\u520a",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-08-06T02:26:40+00:00",
             "date_published": "2026-08-05T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/my-obsidian-plugins/",
-            "url": "https://swhl.github.io/main/blog/my-obsidian-plugins/",
-            "title": "Obsidian\u81ea\u7528\u63d2\u4ef6\u6c47\u603b",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-08-06T01:48:50+00:00",
-            "date_published": "2026-05-22T01:35:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"

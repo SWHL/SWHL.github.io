@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Thu, 15 Oct 2026 14:26:04 -0000</pubDate>
-    <lastBuildDate>Thu, 15 Oct 2026 14:26:04 -0000</lastBuildDate>
+    <pubDate>Sat, 17 Oct 2026 14:06:02 -0000</pubDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:06:02 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>20261010-20261017 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20261010-20261017-weekly/</link>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20261010-20261017-weekly/</guid>
+      
+    </item>
     
     <item>
       <title>20261004-20261011 周刊</title>
@@ -389,25 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260723-20260731-weekly/</guid>
-      
-    </item>
-    
-    <item>
-      <title>苹果手机与 NFC 贴纸</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/iphone-with-nfc-tag/</link>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/iphone-with-nfc-tag/</guid>
       
     </item>
     
