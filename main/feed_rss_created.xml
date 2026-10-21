@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sat, 17 Oct 2026 14:13:11 -0000</pubDate>
-    <lastBuildDate>Sat, 17 Oct 2026 14:13:11 -0000</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 15:15:14 -0000</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 15:15:14 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>WorkBuddy 初探</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/blog/workbuddy-use/</link>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/blog/workbuddy-use/</guid>
+      
+    </item>
     
     <item>
       <title>20261010-20261017 周刊</title>
@@ -389,25 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/codex-with-remote-ssh/</guid>
-      
-    </item>
-    
-    <item>
-      <title>20260723-20260731 周刊</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/weekly/20260723-20260731-weekly/</link>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260723-20260731-weekly/</guid>
       
     </item>
     

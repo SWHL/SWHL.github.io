@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/blog/workbuddy-use/",
+            "url": "https://swhl.github.io/main/blog/workbuddy-use/",
+            "title": "WorkBuddy \u521d\u63a2",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-10-21T15:04:00+00:00",
+            "date_published": "2026-10-21T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/weekly/20261010-20261017-weekly/",
             "url": "https://swhl.github.io/main/weekly/20261010-20261017-weekly/",
             "title": "20261010-20261017 \u5468\u520a",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-08-06T13:59:54+00:00",
             "date_published": "2026-08-06T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/obsidian-code-fence-completer/",
-            "url": "https://swhl.github.io/main/blog/obsidian-code-fence-completer/",
-            "title": "Code Fence Completer: Obsidian \u4ee3\u7801\u5757\u8865\u5168\u63d2\u4ef6",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-08-06T02:26:40+00:00",
-            "date_published": "2026-08-05T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"
