@@ -13,6 +13,21 @@
     "language": "zh",
     "items": [
         {
+            "id": "https://swhl.github.io/main/weekly/20261017-20261024-weekly/",
+            "url": "https://swhl.github.io/main/weekly/20261017-20261024-weekly/",
+            "title": "20261017-20261024 \u5468\u520a",
+            "content_html": "",
+            "image": null,
+            "date_modified": "2026-10-24T14:01:56+00:00",
+            "date_published": "2026-10-24T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "SWHL"
+                }
+            ],
+            "tags": null
+        },
+        {
             "id": "https://swhl.github.io/main/blog/workbuddy-use/",
             "url": "https://swhl.github.io/main/blog/workbuddy-use/",
             "title": "WorkBuddy \u521d\u63a2",
@@ -290,21 +305,6 @@
             "image": null,
             "date_modified": "2026-08-04T06:00:27+00:00",
             "date_published": "2026-08-04T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "SWHL"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://swhl.github.io/main/blog/codex-with-remote-ssh/",
-            "url": "https://swhl.github.io/main/blog/codex-with-remote-ssh/",
-            "title": "Codex\uff08ChatGPT \u684c\u9762\u7248\uff09\u652f\u6301SSH\u8fde\u63a5\u8fdc\u7a0b\u670d\u52a1\u5668",
-            "content_html": "",
-            "image": null,
-            "date_modified": "2026-08-05T02:14:53+00:00",
-            "date_published": "2026-08-03T00:00:00+00:00",
             "authors": [
                 {
                     "name": "SWHL"
