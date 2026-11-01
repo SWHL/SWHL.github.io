@@ -80,6 +80,7 @@ I like open source and AI technology because I think open source and AI will bri
 
 ### 🏆 获奖经历
 
+- 2026.10: [RapidOCR](https://github.com/RapidAI/RapidOCR) 获得 2026 上海开源软件应用创新大赛开源 AI 工具赛道三等奖 | [官方通告](https://www.oschina.net/os2026/winners)
 - 2026.01: 接受“程序员客栈”采访 → [一个国产开源项目，PyPI 千万次下载，GitHub 上狂揽 5K+ Star！](https://mp.weixin.qq.com/s/haMjqBlItcz0f_pRNMXE7w)
 - 2025.12: [RapidOCR](https://github.com/RapidAI/RapidOCR) 获得 AtomGit 官方 G-Star 项目毕业认证 | [link](https://rapidai.github.io/RapidOCRDocs/main/blog/2026/01/15/2025-atomgit-g-star/)
 - 2024.12: [RapidOCR](https://github.com/RapidAI/RapidOCR) 加入 openKylin 社区，并获得 2024 年度技术新秀奖 | [官方通告](https://mp.weixin.qq.com/s/TwWVz19CX0egOlxgUv-OEQ)
