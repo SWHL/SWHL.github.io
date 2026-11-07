@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 03 Nov 2026 13:33:41 -0000</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2026 13:33:41 -0000</lastBuildDate>
+    <pubDate>Sat, 07 Nov 2026 07:01:19 -0000</pubDate>
+    <lastBuildDate>Sat, 07 Nov 2026 07:01:19 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>20261031-20261107 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20261031-20261107-weekly/</link>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20261031-20261107-weekly/</guid>
+      
+    </item>
     
     <item>
       <title>20261023-20261030 周刊</title>
@@ -389,25 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/blog/obsidian-code-fence-completer/</guid>
-      
-    </item>
-    
-    <item>
-      <title>让Github  Star、Fork 和 Watching 显示完整数字的油猴脚本</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/github-full-number-tampermonkey-script/</link>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/github-full-number-tampermonkey-script/</guid>
       
     </item>
     
