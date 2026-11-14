@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Wed, 11 Nov 2026 13:27:03 -0000</pubDate>
-    <lastBuildDate>Wed, 11 Nov 2026 13:27:03 -0000</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2026 00:16:41 -0000</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:16:41 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>20261107-20261114 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20261107-20261114-weekly/</link>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20261107-20261114-weekly/</guid>
+      
+    </item>
     
     <item>
       <title>20261031-20261107 周刊</title>
@@ -389,25 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260730-20260806-weekly/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Code Fence Completer: Obsidian 代码块补全插件</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/obsidian-code-fence-completer/</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_created.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/obsidian-code-fence-completer/</guid>
       
     </item>
     
