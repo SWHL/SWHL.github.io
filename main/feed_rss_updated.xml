@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sat, 14 Nov 2026 00:16:41 -0000</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2026 00:16:41 -0000</lastBuildDate>
+    <pubDate>Sun, 22 Nov 2026 00:01:30 -0000</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:01:30 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,25 @@
     
 
     
+    
+    <item>
+      <title>20261115-20261122 周刊</title>
+      
+      
+        
+      <author>SWHL</author>
+        
+      
+      
+      
+      <description></description>
+      <link>https://swhl.github.io/main/weekly/20261115-20261122-weekly/</link>
+      <pubDate>Sun, 22 Nov 2026 00:00:02 +0000</pubDate>
+      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
+      
+      <guid isPermaLink="true">https://swhl.github.io/main/weekly/20261115-20261122-weekly/</guid>
+      
+    </item>
     
     <item>
       <title>20261107-20261114 周刊</title>
@@ -389,25 +408,6 @@
       <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
       
       <guid isPermaLink="true">https://swhl.github.io/main/weekly/20260821-20260828-weekly/</guid>
-      
-    </item>
-    
-    <item>
-      <title>VSCode Remote SSH插件不要安装v0.126.0</title>
-      
-      
-        
-      <author>SWHL</author>
-        
-      
-      
-      
-      <description></description>
-      <link>https://swhl.github.io/main/blog/vscode-remote-ssh-problem/</link>
-      <pubDate>Fri, 28 Aug 2026 00:16:12 +0000</pubDate>
-      <source url="https://swhl.github.io/main/feed_rss_updated.xml">SWHL</source>
-      
-      <guid isPermaLink="true">https://swhl.github.io/main/blog/vscode-remote-ssh-problem/</guid>
       
     </item>
     
